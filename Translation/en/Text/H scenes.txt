@@ -1,0 +1,303 @@
+// H positions -----------------------------------------
+
+愛撫=Caress
+座り愛撫=Sitting Caress
+四つん這い愛撫=On all fours Caress
+立ち拘束愛撫=Standing Restrained Caress
+膝立ち拘束愛撫=Kneeling Restrained Caress
+正常位=Missionary
+バック=Doggy
+側位=Sideways
+騎乗位=Cowgirl
+駅弁=Lifting
+アナル=Anal
+拘束Ｈ=Restrained H
+女攻め=Women's attack
+フェラ=Blowjob
+パイズリ=Boobjob
+手コキ=Handjob
+足コキ=Footjob
+舐めフェラ=Licking blowjob
+壁穴姦=Wall Hole Rape
+失神姦=Fainted Rape
+スマタ=Sumata
+拘束スマタ=Restrained Sumata
+
+フェラ(麗子if)=Blowjob (Reiko If)
+側位(麗子if)=Sideways (Reiko If)
+バック(麗子if)=Back (Reiko If)
+手コキ(ココアif)=Handjob (Cocoa If)
+正常位(ココアif)=Normal (Cocoa If)
+騎乗位(ココアif)=Cowgirl (Cocoa If)
+
+// Controls -----------------------------------------
+
+はじめる=Start
+やり部屋=Yariya
+ゆっくり動く=Move slowly
+ゆっくり挿入=Slowly insert
+
+起こして\n続ける=Rest and keep going
+無理やり\n続ける=Force to keep going
+チンコを\n引き抜く=Pull out your dick
+体勢を\n立て直す=Regain your composure
+
+排出させる=Let the cum out
+もぐもぐさせる=Munch on it
+精飲させる=Drink it
+口を開けさせる=Open your mouth
+吐き出させる=Spit it out
+
+
+足裏こね=Knead your feet
+見せつけ開脚=Show me your feet
+
+チャプターセレクトへ戻りますか？=Return to chapter select?
+次のシナリオへ進みますか？=Move on to the next scenario?
+
+
+// Finish -----------------------------------------
+
+中=In
+外=Out
+女=Girl
+男=Man
+
+// Misc UI -----------------------------------------
+
+
+A:読み込みボイスを全てクリップボードへコピー=A: Copy all loaded voices to clipboard
+B:読み込みボイスを全てクリップボードへコピー=B: Copy all loaded voices to clipboard
+C:読み込みボイスを全てクリップボードへコピー=C: Copy all loaded voices to clipboard
+D:読み込みボイスを全てクリップボードへコピー=D: Copy all loaded voices to clipboard
+CH1ロード=CH1 Load
+CH2ロード=CH2 Load
+CH3ロード=CH3 Load
+CH4ロード=CH4 Load
+CHA-胸サイズ=CHA-chest size
+CHA-身長=CHA-Height
+CHB-胸サイズ=CHB-chest size
+CHB-身長=CHB-Height
+CHC-胸サイズ=CHC-chest size
+CHC-身長=CHC-Height
+CHD-胸サイズ=CHD-chest size
+CHD-身長=CHD-Height
+CH位置=CH position
+CH回転=CH rotation
+FHセレクト=FH Select
+PC1ロード=PC1 Load
+PC2ロード=PC2 Load
+PC3ロード=PC3 Load
+PC4ロード=PC4 Load
+PC>CH位置=PC>CH position
+Zモデル=Z-model
+シネマモーションCH01=Cinema Motion CH01
+シネマモーションCH02=Cinema Motion CH02
+シネマモーションCH03=Cinema Motion CH03
+シネマモーションCH04=Cinema Motion CH04
+
+
+着衣=Clothed
+
+
+// Right-side buttons / keypad -----------------------------------------
+
+開閉=Open/Close
+着脱=on/off
+スピード=Speed
+ページ=Page
+切替=Change
+
+// Clothes panel
+コスチューム表示=Clothes display controls
+手袋=Gloves
+カチュ=Extras
+靴下=Socks
+靴=Shoes
+眼鏡=Glasses
+ブラ=Bra
+パンツ=Panties
+パンスト=Pantyhose
+全裸/全着=All
+トップス=Top
+ボトムス=Bottom
+
+// Toys panel
+パーツ表示=Toys display controls
+破瓜=Virgin
+表示=Show
+ギャグボ=Gagball
+目隠し=Mask
+ｸﾘﾛｰﾀｰ=ClitToy
+乳首ﾛｰﾀｰ=NippleToy
+口周り陰毛=MouthPubes
+
+クリパーツ=Clit toys
+乳首パーツ=Nipple toys
+
+// Splatter panel
+精液表示=Semen display controls
+太もも=Thighs
+腕手=Arms
+背=Back
+尻=Butt
+脚足=Feet
+胸=Chest
+腹=Belly
+顔=Face
+口内=Mouth
+股間=Crotch
+一括切替=All
+
+
+// Left-side buttons -----------------------------------------
+
+男性器=Penis
+背景=Map
+PC服=Clothes
+
+断面=Xray
+断面ウィンドウ(現在使用できません)=Cross-section window (Currently unavailable)
+断面ウィンドウ=Cross-section window
+
+カメラ=Camera
+カメラエフェクト=Camera Effects
+カメラメニュー=Camera menu
+手振れ=Shake
+
+任意カメラ①-セーブ-=Camera preset 1 - Save
+任意カメラ②-セーブ-=Camera preset 2 - Save
+任意カメラ③-セーブ-=Camera preset 3 - Save
+任意カメラ①-ロード-=Camera preset 1 - Load
+任意カメラ②-ロード-=Camera preset 2 - Load
+任意カメラ③-ロード-=Camera preset 3 - Load
+
+メイン:フリーカメラ=Main camera: Free Camera
+メイン:フリーカメラ＋回転=Main camera: Free Camera + Rotate
+メイン:ランダムカメラ=Main camera: Random Camera
+メイン:手振れ(中)=Main camera: Shaking (medium)
+メイン:手振れ(弱)=Main camera: Shaking (weak)
+メイン:手振れ(強)=Main camera: Shaking (strong)
+メイン:手振れ(無し)=Main camera: Shaking (none)
+
+サブ:フリーカメラ=Sub camera: Free Camera
+サブ:フリーカメラ＋回転=Sub camera: Free Camera + Rotate
+サブ:ランダムカメラ=Sub camera: Random Camera
+サブ:手振れ(中)=Sub camera: Shaking (medium)
+サブ:手振れ(弱)=Sub camera: Shaking (weak)
+サブ:手振れ(強)=Sub camera: Shaking (strong)
+サブ:手振れ(無し)=Sub camera: Shaking (none)
+
+①任意=Preset①
+②任意=Preset②
+③任意=Preset③
+
+注視=Focus
+注視カメラ-股間-=Camera focused on: crotch
+注視カメラ-胸-=Camera focused on: chest
+注視カメラ-解除-=Camera focus turned off 
+注視カメラ-顔-=Camera focused on: face
+
+男目線-主人公=Male point of view: protagonist
+男目線=MalePOV
+
+ルック=Look
+ルックアット-目線+頭-サブカメラ=Look at SUB camera: Eyes + Head
+ルックアット-目線+頭-メインカメラ=Look at MAIN camera: Eyes + Head
+ルックアット-目線-=Look at camera: Eyes
+ルックアット-解除-=Look at camera: CANCEL
+
+男の服表示[下脱衣+靴]=Man's Clothes Display [Lower Clothes + Shoes]
+男の服表示[下脱衣]=Man's Clothes Display.
+男の服表示[全裸+靴]=Man's Clothes Display [Naked + Shoes]
+男の服表示[全裸]=Man's Clothes Display [Naked]
+男の服表示[着衣+靴]=Man's Clothes Display [Clothes + Shoes]
+男の服表示[着衣]=Man's Clothes Display
+男の表示=Man Display
+男性器の表示=Male Genitals
+
+// Top row hover texts and menus -----------------------------------------
+ショートカットキー一覧=List of shortcut keys
+オンラインマニュアル(ｲﾝﾀｰﾈｯﾄ環境必須)=Online manual (Internet connection required)
+基点を顔に合わせる=Align camera base point with face
+キャラクター位置変更=Change character position
+キャラ位置=Character position
+鏡の表示・位置変更=Mirror display/change position
+鏡の表示=Display Mirror
+サブカメラに表示=Display on sub-camera
+鏡はメインまたはサブカメラの\nどちらかのみの表示になります=The mirror will only be visible on\neither the main or sub camera.
+サブカメラで移動･回転･拡縮は\n出来ません=Cannot move, rotate, or scale\nwith the sub camera selected.
+ルームカラー変更=Change room color
+ルームカラー=Room color
+スクリーンショット=Screenshot
+ＵＩ表示・非表示=UI Display/Hide
+
+// Swimsuit H scene where 1 girl talks to 2nd taking shower
+★モーション解放段階　\n-1:Aゆっくりのみ\n0  :A\n1  :B\n2  :C\n\n\n\n\n\n\n\n★やりとり段階1～5　5は最終反応=★Motion release stage\n-1: A slowly only\n0: A\n1: B\n2: C\n\n\n\n\n\n\n\n★Interaction stages 1 to 5, 5 is the final reaction
+
+水着上=Upper\nSwimsuit
+水着下=Lower\nSwimsuit
+会話を続ける=Keep her talking
+小刻みに動く=Make rapid thrusts
+ﾗﾝﾀﾞﾑ会話=Random conversation
+様子を見る=Wait and see
+中断テスト=Intermission test
+現在の値：=Current value:
+イカせる=Make her cum
+普通に動く=Move normally
+激しく動く=Move violently
+ゆっくり=Slow
+小刻み=Rapid
+こきざみ=Rapid
+激しく=Violent
+体勢A=Position A
+体勢B=Position B
+体勢C=Position C
+絶頂シネマ=Climax Cinema
+女のみ=GirlOnly
+[!]未開放(会話を進める事で解放されます)=[!] Locked (Released by advancing the conversation)
+乙羽ちゃんの中も火照ってとても熱いよ。\r=Otoha-chan's insides are really hot, too.\r
+パワー=Power
+
+壁穴=Hole in the wall
+
+// Conversations -----------------------------------------
+
+①お母さんがすぐそばにいるのに\nおじさんとセックスしてるなんて…。\r=① Having sex with an uncle even though your mother is right next to you...
+①アナルセックスはどうだい？\r=① How is anal sex?
+①乙羽ちゃんの脱ぎたてのブルマ…\n本当に気持ちいいよ。\r=① Otsuha's freshly taken off bloomers... they really feel good.
+①初めておじさんのチンポ\r=① Your first time is with an uncle's dick
+①初めての騎乗位はどんな気分だい？\r=① How does your first time on top feel?
+①正常位って言うんだよ。\n知ってるかい？\r=① It's called missionary position. Did you know that?
+①莉乃ちゃんと私…どっちの\nセックスが気持ちいい？\r=① Rino-chan or me... who's sex feels better?
+②おちんちん…こんなに苦しそうに腫れてるのに…\r=② Your penis… it looks so painfully swollen
+②こんなに濡れててもおマンコが\nキツキツだね\r=② Even though you're so wet, your pussy is so tight
+②こんなに腰振りがうまいなんて…。\r=② You're so good at swinging your hips...
+②そ、そんなに突いたら、\nぅっ…ん…声が出ちゃうよ…。\r=② If you thrust that hard, I'll... make a noise...
+②ブルマが濡れてきたけど…も、もしかして…\r=② Your bloomers are getting wet... m-maybe...
+
+②広げるだけじゃなくて…オナニーしていたね？\r=② You weren't just spreading them... you were masturbating, right?
+②莉乃ちゃんとは…\n…どんなセックスしたの？\r=② What kind of sex did you have with Rino-chan?
+③すごく気持ちいいけど、乙羽ちゃんはどうだい？\r=③ It feels really good, doesn't it, Otoha-chan?
+③ケツ穴がイヤラシイ音を\n鳴らしてるよ…。\r=③ Your asshole is making dirty noises...
+③ドスケベピストン…\n止まらないのぉ…！\r=③ That filthy piston...\nit won't stop...!
+③今は…こ、こんなに危ない事\nしちゃ、ダメだよ…。\r=③ Right now...I-I can't do something this dangerous...
+
+③凄く上手だよ…。でも、そろそろ時間だし…\r=③ You're really good at it... But it's almost time...
+③手コキ、すごく気持ちいいよ\n本当にエッチな子だね。\r=③ Your handjob feels so good\nYou're really naughty.
+③生まれて初めてエッチ…\r=③ You're having sex for the first time in your life...
+④おじさん、どう？\n私にハメられて気持ちいい？\r=④ How's it going, uncle?\nDoes it feel good to have me fuck you?
+④おじさんのオチンポ苦しそうに\nビクビクして…。\r=④ Your dick is twitching in pain...
+④ずっとおじさんが……\r=④ Uncle has always been...
+④アナルはオマンコに比べてどうだい？\r=④ How does anal compare to vaginal sex?
+④イヤラシくて卑猥なことを言って\r=④ You're saying dirty, obscene things
+④後ろから突かれるのはどうだい？\r=④ How does it feel to be penetrated from behind?
+④私、ちゃんと出来てる？\r=④ Am I doing it right?
+⑤いやらしくて悪い子だ。\nおじさんは我慢できなったよ。\r=⑤ You're so naughty.\nUncle couldn't hold back.
+⑤う、うまく…出来てる…？\r=⑤ A-Am I... doing it right?
+⑤おじさんだってずっとハメるのを\n我慢してたんだ。\r=⑤ Even uncle had been holding back from having sex for a long time.
+⑤おじさんに何されてるか\n言ってごらん？\r=⑤ Why don't you tell this old man what you want him to do?
+⑤お口でじゅっぽし咥えてほしいけど…\r=⑤ I want you to take it in your mouth...
+⑤もしかしてパイズリで感じてるのかい？=⑤ Could it be that you're feeling good from the titjob?
+⑤イイ、亀頭が奥まで届いてる…。\r=⑤ Good, the glans is reaching deep inside...
+⑤乙羽ちゃんに攻められるなんて新鮮だよ。\r=⑤ It's so refreshing to be dominated by Otoha.

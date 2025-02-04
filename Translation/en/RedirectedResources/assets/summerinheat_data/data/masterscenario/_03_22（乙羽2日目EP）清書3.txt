@@ -1,0 +1,443 @@
+
+
+***SELoop_夕方のヒグラシ_ライセンス確認済み{30}
+
+
+***BGround_BG99_00
+
+------
+
+----
+
+小鳥遊 麗子(CH03_0036)
+『...Now then, it looks like it’s time. I have to 
+　go.』
+
+
+***SE_movement_snow_rr1_mono{150}[0](1)
+
+小鳥遊 麗子(CH03_0037)
+『Phew... In the end, I didn’t get a reply from 
+　that girl. I’ll have to harshly tell her later 
+　that I won’t contact her at all until this hour.』
+
+
+***SE_carpet_walking 1_7{100}[1](5)
+
+小鳥遊 麗子(CH03_0038)
+『Sigh, the meeting... I hope it doesn’t drag on 
+　too long. I still have other plans...』
+
+
+***SE_END
+
+
+***SE_引き戸_窓_sliding door close{100}
+
+---------
+
+
+***SE_ヒール足音footstep_concrete_highheels{100}
+
+---------
+
+***SE_END
+
+―――
+
+
+***SE_door_wood_bedroom_close_01_mono{100}
+
+
+―――
+
+-I'm sorry.
+
+***BGM_夕日の深呼吸{100}
+
+
+***SE_引き戸_窓_sliding door close{100}
+
+
+***BGround_BG13_00
+
+
+***ST_オトハ_B3_体操服ブルマ(全半)_目悲しい・テレ_口困り_赤み08汗08_アップ
+
+主人公
+『Phew... Finally.』
+
+***ST_オトハ_D2_体操服ブルマ(全半)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0900)
+『...F-Finally, Mom, you’ve gone...』
+
+
+Finally, Reiko-nee-san left. Not only did she go 
+into someone else's room without permission, she 
+even went to work.
+
+As usual, she was a busy, refined older sister 
+with a bad catchphrase. Whether it was the PTA or 
+whatever, it wasn’t a big deal.
+
+***SE_movement_snow_rr1_mono{100}[0](1)
+
+***ST_オトハ_A2_体操服ブルマ(着衣)_目悲しい・テレ＋涙_口困り_赤み07汗08_アップ
+
+小鳥遊 乙羽(CH01_0901)
+『Sigh...』
+
+
+I put my clothes back in order, and the moment I 
+stepped out of the small closet into the room―――
+
+主人公
+『Oops, Otoha-chan... are you okay?』
+
+Otoha-chan staggers. I hurriedly support her.
+
+***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレ_口困り_赤み07汗08_アップ
+
+小鳥遊 乙羽(CH01_0902)
+『Ah, I... I’m sorry. But I was wondering what 
+　would happen... When I was relieved, I lost my 
+　focus...』
+
+
+主人公
+『I didn’t know you were that nervous.』
+
+***ST_オトハ_C1_体操服ブルマ(着衣)_目睨み_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0903)
+『O-Oji-san, even though Mom’s here, I-I’ll... d-do 
+　it inside...!』
+
+
+***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレNL_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0904)
+『Besides... I was... so engrossed in dirty 
+　things... I forgot my promise... Ugh...』
+
+
+***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0905)
+『Mom, you’ve been busy for me ever since the 
+　divorce...』
+
+
+As Otoha-chan swayed between guilt and pleasure, I 
+felt a bit of mischievousness.
+
+主人公
+『Even so, you were climaxing as hard as you could, 
+　weren’t you?』
+
+***ST_オトハ_B1_体操服ブルマ(着衣)_目驚き_口焦り_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0906)
+『Th-That’s... hah...』
+
+
+***ST_オトハ_B1_体操服ブルマ(着衣)_目驚き_口無表情_赤み08汗08_アップ
+
+主人公
+『Your pussy’s gotten better than before, and 
+　you’ve been squeezing me so hard it hurts when I 
+　cum...』
+
+***ST_オトハ_A3_体操服ブルマ(着衣)_目悲しい・テレ_口困り_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0907)
+『Th-That’s.........don’t say...th-those things.』
+
+
+***ST_オトハ_A3_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+主人公
+『I wonder if Otoha-chan’s the type to get more 
+　turned on and debauched when she’s doing something 
+　naughty?』
+
+***ST_オトハ_C1_体操服ブルマ(着衣)_目睨み_口への字_赤み09汗08_アップ
+
+小鳥遊 乙羽(CH01_0908)
+『N-No!! That’s not it...!』
+
+
+主人公
+『You think so...? Maybe Otoha-chan just hasn’t 
+　noticed yet.』
+
+***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0909)
+『Uu... uuu... if you put it that way... I-I don’t 
+　know, but...』
+
+
+主人公
+『Did it feel better than last time?』
+
+小鳥遊 乙羽(CH01_0910)
+『......Y-Yeah.』
+
+
+小鳥遊 乙羽
+『......』
+
+***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレNL_口無表情_赤み08汗08_アップ
+
+Instantly, she fell silent.
+
+小鳥遊 乙羽(CH01_0911)
+『Um... O-Oji-san... I, my mom... was so close... 
+　but, um, it felt so good...』
+
+
+***ST_オトハ_C1_体操服ブルマ(着衣)_目悲しい・テレNL_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0912)
+『This really is... umm... I-It’s not normal, is 
+　it? Am I weird...?』
+
+
+***ST_オトハ_C1_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0913)
+『Could it be... that you forced yourself... to go 
+　along with my weird side...?』
+
+
+Looks like I went a little too far and made her 
+feel uneasy. It's a question unique to a girl who 
+was a virgin until recently...
+
+I'm partly to blame for what I've done. I'll try 
+to calm her down somehow.
+
+主人公
+『Hmm, it’s a little special. ...But everyone has 
+　at least one hobby like that.』
+
+主人公
+『Like I said, it’s not like Otoha-chan’s acting 
+　particularly weird or weird. Uncle got excited, 
+　too.』
+
+***ST_オトハ_A3_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み08汗08_アップ
+
+小鳥遊 乙羽(CH01_0914)
+『I-Is that how it works...?』
+
+
+Her eyes still look uneasy. I thought it would be 
+a bit of a pain, but I decided to make a request 
+like this.
+
+主人公
+『That’s right. Maybe I was being a little too 
+　mean. ...Let’s see. Speaking of Uncle’s 
+　hobbies...』
+
+If things went well, there might be another chance 
+for her to be lucky enough to listen to me like 
+today.
+
+主人公
+『Like this gym uniform, for example. And while I’m 
+　at it, I like the swimsuits I wear at school, or 
+　what’s commonly referred to as school swimwear.』
+
+***ST_オトハ_B3_体操服ブルマ(着衣)_目驚き_口困り_赤み07汗08_アップ
+
+小鳥遊 乙羽(CH01_0915)
+『R-Really...?』
+
+
+主人公
+『That’s right. That’s why, just because we don’t normally say 
+　it, everyone has a hobby of sticking to something dirty or 
+　something. ...Does this put you at least a little bit at ease?』
+
+***ST_オトハ_C1_体操服ブルマ(着衣)_目悲しい・テレ_口微笑_赤み07汗08_アップ
+
+小鳥遊 乙羽(CH01_0916)
+『...Yeah. ...Th-Thank you.』
+
+
+The one who looks relieved and a little happy is 
+the obedient Otoha-chan.
+
+Despite what she says, Otoha-chan's a pretty good 
+skit. I feel like I'm going to seethe again soon.
+
+
+***ST_オトハ_A1_体操服ブルマ(着衣)_目悲しい・テレNL_口微笑_赤み07汗08_アップ
+
+While I was thinking about that, she said, “Don’t 
+peek, okay?” and went back into the closet to 
+change into her uniform.
+
+***SE_movement_snow_rr1_mono{100}
+
+***ST_オトハ_A1_体操服ブルマ(着衣)_目悲しい・テレNL_口微笑_赤み07_画面外
+
+
+***FadeIn_InSide_Black
+
+------
+
+―――
+
+―――
+
+-I'm sorry.
+
+***FadeOut_InSide_Black
+
+
+***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05汗00_中央
+
+She seemed embarrassed to change in front of me 
+after being so disheveled and disgraceful.
+
+小鳥遊 乙羽(CH01_0917)
+『Ah, Uncle. I’ll be going soon. Mom’s going to 
+　scold me today...』
+
+
+主人公
+『Yeah, be careful on your way home. You were 
+　studying important ‘study,’ so don’t worry too 
+　much about getting scolded, okay?』
+
+***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口困り_赤み07汗00_中央
+
+小鳥遊 乙羽(CH01_0918)
+『...Gh, geez... Fine. Ah, thank you. See you 
+　later, then...』
+
+
+***SE_footsteps_leather_wood_hollow_walk_x8_loop_mono{100}
+
+***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口困り_赤み07汗00_画面外
+
+***BGM_FadeOut
+
+***SELoop_FadeOut
+
+
+***FadeIn_InSide_Black
+
+------
+
+―――
+
+―――
+
+
+***SELoop_夕方のヒグラシ_ライセンス確認済み{100}
+
+***BGM_優しい波打ち際(gentle_surf){100}
+
+***FadeOut_InSide_Black
+
+
+***BGround_BG04_00
+
+
+***ST_オトハ_B1_デフォ(着衣)_目デフォ_口無表情_赤み03_中央
+
+
+***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono{100}
+
+小鳥遊 乙羽(CH01_0919)
+『I have to hurry home...』
+
+
+***SE_0010{100}
+
+小鳥遊 乙羽(CH01_0920)
+『Mm...』
+
+
+***ST_オトハ_A3_デフォ(着衣)_目デフォ_口無表情_赤み03_中央
+
+***SE_END
+
+小鳥遊 乙羽(CH01_0921)
+『Yes, hello.』
+
+
+暁 莉乃(CH02_0282)
+『Hello, Otohaaa. Sorry for rushing you today. I 
+　wanted to apologize properly. ...It’s already 
+　home, isn’t it?』
+
+
+***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み03_中央
+
+小鳥遊 乙羽(CH01_0922)
+『I’m fine. Oh... No. It’s not my house. I’m still 
+　on my way home. I was in a hurry.』
+
+
+暁 莉乃(CH02_0283)
+『Huh, really? ...Where’d you go after that??』
+
+
+***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
+
+小鳥遊 乙羽(CH01_0923)
+『Ahhh... Um, Uncle asked you to give me something 
+　to give to Mom, didn’t he? Take that...』
+
+
+暁 莉乃(CH02_0284)
+『I-I see. Still, isn’t it a little too late? 
+　...Did something happen? Are you okay?』
+
+
+***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
+
+小鳥遊 乙羽(CH01_0924)
+『Y-Yeah. I’m fine. We were just... talking. Oh, 
+　that’s right. It’s more like a consultation...』
+
+
+暁 莉乃(CH02_0285)
+『Hm, what’s this?』
+
+
+***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
+
+小鳥遊 乙羽(CH01_0925)
+『An invitation, I guess... I wanted to play 
+　normally with Rino-chan... You told me before that 
+　the pool was open, didn’t you?』
+
+
+暁 莉乃(CH02_0286)
+『Yeah. I’ll put it in once I apply, just like I 
+　told you before.』
+
+
+***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み03_中央
+
+小鳥遊 乙羽(CH01_0926)
+『In that case, next time... why don't we play in 
+　the pool together?』
+
+
+***ST_オトハ_B3_デフォ(着衣)_目大笑い・テレ_口微笑_赤み03_画面外
+
+
+***BGM_FadeOut
+***SELoop_FadeOut
+***FadeIn_OutSide_Black
+
+

@@ -1,0 +1,362 @@
+
+
+
+***BGround_BG98_00
+
+
+***SELoop_se_COCicadasILS2R_48khz_24bit_購入済み{45}
+***BGround_BG21_01
+
+***BGM_夏の日差しに{100}
+
+
+***ST_リノ_B3_デフォ(着衣)_目デフォ_口無表情_赤み03汗00_右１
+***ST_ココア_A1_デフォ(着衣)_目デフォ_口微笑_赤み03汗00_左１
+
+暁 莉乃（独白）(CH02_1096)
+『Today’s club activities ended just past noon, and 
+　Cocoa and I are the only ones left.』
+
+
+***Face_ココア_目デフォ_口困り_赤み03汗00
+
+田中 心々愛(CH04_0076)
+『Senpai, are you waiting for your boyfriend 
+　again~?』
+
+
+***Face_リノ_目悲しい・テレ_口微笑_赤み05汗00
+
+***Face_ココア_目デフォ_口への字_赤み03汗00
+
+暁 莉乃(CH02_1097)
+『Y-Yeah...』
+
+
+***ST_ココア_B1_デフォ(着衣)_目困り_口微笑_赤み03汗00_左１
+
+田中 心々愛(CH04_0077)
+『Well, the same goes for me, lol, but Senpai’s 
+　boyfriend and my boyfriend right now are called, 
+　ah, Yoshiki, and they’re totally different types.』
+
+
+***Face_リノ_目大笑い_口微笑_赤み04汗00
+
+暁 莉乃(CH02_1098)
+『Really? Yoshiki... What kind of person is this?』
+
+***Face_リノ_目デフォ_口微笑_赤み03汗00
+
+***Face_ココア_目焦りCE_口微笑_赤み03汗00
+
+田中 心々愛(CH04_0078)
+『Whaaat? It’s not like I’m a man worth bragging 
+　about with Senpai.』
+
+
+***Face_ココア_目デフォ_口微笑_赤み03汗00
+
+田中 心々愛(CH04_0079)
+『Yoshiki is a kisser... and he's a little annoying when 
+　he wants to do it quickly... Wait, he doesn't care about 
+　me... How long have you been with your boyfriend, Senpai?』
+
+
+***Face_リノ_目驚き_口困り_赤み05汗00
+
+***Face_ココア_目デフォ_口困り_赤み03汗00
+
+暁 莉乃(CH02_1099)
+『H-How far...?』
+
+
+***Face_リノ_目悲しい・テレ_口微笑_赤み08汗00
+
+暁 莉乃
+『......』
+
+
+***ST_ココア_A1_デフォ(着衣)_目驚き_口困り_赤み03汗00_左１
+
+***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06汗00_右１
+
+暁 莉乃(CH02_1100)
+『A little... so... can you... listen to me... a 
+　little?』
+
+
+***ST_ココア_A3_デフォ(着衣)_目大笑い_口大笑い_赤み03汗00_左１
+
+田中 心々愛(CH04_0080)
+『Ahhh! It’s frustrating, but it’s really rare for 
+　you to say it, Senpai, and I’m happy, so I’ll 
+　listen to anything you have to say!』
+
+
+暁 莉乃(CH02_1101)
+『Th-Thanks. Um... We kissed, but... people were 
+　watching...』
+
+***ST_ココア_A1_デフォ(着衣)_目驚き_口焦り_赤み03汗00_左１
+
+田中 心々愛(CH04_0081)
+『Huh? Are you a club member or a teacher?』
+
+***Face_ココア_目驚き_口困り_赤み03汗00
+
+***Face_リノ_目悲しい・テレNL_口微笑_赤み06汗00
+
+暁 莉乃(CH02_1102)
+『No, it’s a boy I don’t know. It’s not like I’m 
+　asking for advice, but... umm, being watched... 
+　got me pretty excited...』
+***Face_ココア_目驚き_口焦り_赤み03汗00
+
+田中 心々愛(CH04_0082)
+『Huh?! Senpai did?!』
+
+***Face_ココア_目驚き_口無表情_赤み03汗00
+
+***Face_リノ_目困り_口つぐみ_赤み06汗00
+
+暁 莉乃(CH02_1103)
+『Y-Yeah... I knew it... That’s... weird, isn’t 
+　it...?』
+
+***ST_ココア_B1_デフォ(着衣)_目大笑い_口大笑い_赤み03汗00_左１
+
+田中 心々愛(CH04_0083)
+『Not at all!! ...Isn’t it nice to be seen?! I’m 
+　really excited and intense, lol.』
+
+***ST_リノ_C2_デフォ(着衣)_目困り・テレ_口微笑_赤み06汗00_右１
+
+暁 莉乃(CH02_1104)
+『...Yeah. I thought I absolutely didn’t want 
+　that... but now I know you’re staring at me so hard 
+　I’m going to make a hole... so I just... kept doing it...』
+
+田中 心々愛(CH04_0084)
+『I know, lol.』
+
+***Face_ココア_目微笑_口大笑い_赤み03汗00
+
+田中 心々愛(CH04_0085)
+『But you’re staring at me so much just from 
+　kissing me? He’s definitely a cracking virgin! 
+　lol.』
+
+***Face_リノ_目悲しい・テレNL_口大笑い_赤み06汗00
+
+暁 莉乃(CH02_1105)
+『You think so...? Hehe, ...maybe.』
+
+***Face_ココア_目デフォ_口微笑_赤み03汗00
+
+田中 心々愛(CH04_0086)
+『So, are you talking about how you got hooked on 
+　doing it while being watched, and how you wanted 
+　to play paco while being seen? lol』
+
+***Face_リノ_目困り_口大笑い_赤み06汗00
+
+暁 莉乃(CH02_1106)
+『Eh, th-that’s not it, but... how should I put 
+　it... Cocoa’s been through a lot, so I just wanted 
+　to talk to her a little...』
+
+***ST_ココア_B2_デフォ(着衣)_目微笑_口微笑_赤み03汗00_左１
+
+田中 心々愛(CH04_0087)
+『Then of course you’ve done it after that too, 
+　haven’t you?』
+
+***Face_リノ_目微笑_口微笑_赤み06汗00
+
+暁 莉乃(CH02_1107)
+『Mmm... Any more than this is a secret.』
+
+
+***Face_リノ_目デフォ_口微笑_赤み06汗00
+
+***Face_ココア_目困り_口微笑_赤み03汗00
+
+田中 心々愛(CH04_0088)
+『Whaaat...? You’re stingy, lol. As secretive as 
+　ever.』
+
+
+***Face_リノ_目焦りCE_口微笑_赤み05汗00
+
+暁 莉乃(CH02_1108)
+『That’s not true, the cocoa’s just too open.』
+
+田中 心々愛(CH04_0089)
+『Ahaha, lol But Senpai, you’ve changed a bit! Is 
+　that also a summer experience? lol』
+
+***ST_リノ_B3_デフォ(着衣)_目困りNL_口微笑_赤み06汗00_右１
+
+暁 莉乃(CH02_1109)
+『Geez, that’s not it. It’s probably... because my 
+　boyfriend’s changed more than me... I guess.』
+
+***Face_リノ_目デフォ_口微笑_赤み06汗00
+
+田中 心々愛(CH04_0090)
+『I’m jealous of that! If I’m not mistaken, your 
+　boyfriend is from the soccer club...』
+
+***SE_ui_menu_popup_01{100}[0](1)
+
+***ST_ココア_A2_デフォ(着衣)_目驚き_口無表情_赤み03汗00_左１
+
+田中 心々愛(CH04_0091)
+『Oh, it’s LIME from Yoshiki!』
+
+
+***Face_ココア_目デフォ_口無表情_赤み03汗00
+
+***ST_リノ_B1_デフォ(着衣)_目驚き_口困り_赤み06汗00_右１
+
+暁 莉乃(CH02_1110)
+『...Oh, then I still have to wait. Cocoa, hurry up 
+　and go see Yoshiki-kun, okay?』
+
+
+***ST_ココア_A3_デフォ(着衣)_目大笑い_口微笑_赤み03汗00_左１
+
+田中 心々愛(CH04_0092)
+『Okay! I’ll be going now. Next time, don’t hold 
+　back and tell me everything♪』
+
+
+***Face_リノ_目焦りCE_口微笑_赤み06汗00
+
+暁 莉乃(CH02_1111)
+『Geez... If I feel like it.』
+
+
+***ST_ココア_A3_デフォ(着衣)_目大笑い_口微笑_赤み03汗00_画面外
+
+
+***SE_走り去る足音_concrete normal_running_mix{100}[2](1)
+
+***SE_door_wood_bedroom_close_01_mono{100}[5](1)
+
+
+***Face_リノ_目困り_口微笑_赤み06汗00
+
+暁 莉乃
+『......』
+
+***ST_リノ_B2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05汗00_右１
+
+暁 莉乃(CH02_1112)
+『Phew...』
+
+
+暁 莉乃（独白）(CH02_1113)
+『It’s still summer break. Club activities are 
+　still going on. Talking to Cocoa is really fun...』
+
+
+***ST_リノ_B3_デフォ(着衣)_目悲しい・テレCE_口微笑_赤み06汗09_右１
+
+暁 莉乃（独白）(CH02_1114)
+『Secretism, huh...? But this really is something I 
+　want to keep a secret, so it can’t be helped... 
+　After all...』
+
+
+***BGM_FadeOut
+
+***ST_リノ_B3_デフォ(着衣)_目悲しい・テレCE_口微笑_赤み06汗00_画面外
+
+***SELoop_FadeOut
+
+
+***FadeIn_InSide_Black
+
+---------------
+
+------------
+
+------
+
+***FadeOut_InSide_Black
+
+
+***SELoop_夕方のヒグラシ_ライセンス確認済み{30}
+
+***BGM_青空と君と(blue_sky_and_you){100}
+
+***BGround_BG22_01
+
+***ST_リノ_A3_デフォ(着衣)_目デフォNL_口微笑_赤み04汗00_中央
+
+
+***SE_door_09_knock{100}[0](1)
+
+***Face_リノ_目驚き_口微笑_赤み04汗00
+
+―――
+
+***Face_リノ_目大笑い_口微笑_赤み04汗00
+
+暁 莉乃(CH02_1115)
+『Okay, go ahead.』
+
+
+***SE_door_wood_bedroom_close_01_mono{100}[0](1)
+
+***ST_リノ_A2_デフォ(着衣)_目大笑い_口微笑_赤み05汗00_中央
+
+―――
+
+***ST_リノ_C2_デフォ(着衣)_目デフォ_口微笑_赤み05汗00_中央
+
+暁 莉乃(CH02_1116)
+『I’ve been waiting for you, Uncle.』
+
+
+***BGround_BG98_01
+
+***ST_リノ_C2_デフォ(着衣)_目デフォ_口微笑_赤み05汗00_画面外
+
+***SELoop_FadeOut
+
+***BGM_END
+
+------
+
+―――
+
+***BGM_夕日の深呼吸{100}
+
+暁 莉乃（独白）(CH02_1117)
+『Ever since that day, I’ve had sticky kisses with 
+　my uncle in front of Taka-kun... No, we had a 
+　passionate sex...』
+
+
+暁 莉乃（独白）(CH02_1118)
+『...Taka-kun was excited too, but I got tired of 
+　it... and it didn't take long for us to part 
+　ways.』
+
+
+暁 莉乃（独白）(CH02_1119)
+『Right now, I’m dating my uncle as both a 
+　girlfriend and an onahole. I mean... it feels 
+　really good and we’re compatible.』
+
+
+暁 莉乃（独白）(CH02_1120)
+『My uncle, whom I love now...♡』
+
+
+End
+
+

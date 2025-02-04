@@ -1,0 +1,56 @@
+// Female character names
+
+小鳥遊=Takanashi
+乙羽=Otoha
+乙羽\n=Otoha\n
+小鳥遊 乙羽=Takanashi Otoha
+小鳥遊 乙羽（回想）=Takanashi Otoha (Recollection)
+小鳥遊 乙羽（独白）=Takanashi Otoha (Monologue)
+
+暁=Akatsuki
+莉乃=Rino
+暁 莉乃=Akatsuki Rino
+暁 莉乃（独白）=Akatsuki Rino (Monologue)
+
+麗子=Reiko
+小鳥遊 麗子=Takanashi Reiko
+小鳥遊 麗子（独白）=Takanashi Reiko (Monologue)
+
+田中=Tanaka
+心々愛=Cocoa
+ココア=Cocoa
+田中 心々愛=Tanaka Cocoa
+田中 心々愛（独白）=Tanaka Cocoa (Monologue)
+
+回想=Recollection
+独白=Monologue
+
+
+
+
+// Male character names
+
+主人公=Hero
+茂部=Mobu
+たかし=Takashi
+
+タカシ=Takashi
+
+// Misc story character names
+
+？？？=???
+教師=Teacher
+校長=Principal
+隣の男子生徒=Male student from next door
+女子部員Ａ=Female member A
+女子部員Ｂ=Female member B
+女子部員Ｃ=Female member C
+女子部員Ｄ=Female member D
+女子部員Ｅ=Female member E
+友人Ａ=Friend A
+友人Ｂ=Friend B
+
+
+
+小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Kotori Yuu Otoha Akira Rino Kotori Yuu Reiko Tanaka Kokoroa
+陽向葵ゅか\n\n水野七海\n\n秋山はるる\n\n山田じぇみ子=Aoi Hinata Nanami Mizuno Haruru Akiyama Junko Yamada

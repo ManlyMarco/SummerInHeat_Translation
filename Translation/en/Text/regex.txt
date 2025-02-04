@@ -1,0 +1,42 @@
+
+// Maker dialog boxes ----------------------------------------------------------
+
+sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、切り替えてよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and switch characters?
+sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、タイトルへ戻ってよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and return to title?
+sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、セレクトマップへ戻ってよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and return to the map?
+
+sr:"^現在の選択キャラクターは\[([^\]]+)\]です。$"=Currently selected character: [$1]
+
+
+// H scenes ----------------------------------------------------------
+
+r:^アニメーション スピード\[(.+)\]$=Animation Speed [$1]
+
+// Randomly spammed in H scenes, does not seem to be shown anywhere
+// not ideal, would be better to somehow blacklist whatever is using these strings
+// doesnt work r:^(CH_Prefub.*)$=$1
+
+
+// Various menus, mainly main menu ----------------------------------------------------------
+
+sr:"^\[([^\]]+)\]$"=[$1]
+sr:"^\[([^\]]+)\] *\[([^\]]+)\]$"=[$1] [$2]
+sr:"^\[([^\]]+)\] *\[([^\]]+)\] *\[([^\]]+)\]$"=[$1] [$2] [$3]
+sr:"^\[([^\]]+)\] *\[([^\]]+)\] *\[([^\]]+)\] *\[([^\]]+)\]$"=[$1] [$2] [$3] [$4]
+
+sr:"^※\[([^\]]+)\]\[([^\]]+)\]のどちらかは必ず選択してください。$"=*You have to choose at least one of [$1] and [$2]
+
+r:^進行度 (\d+)\/(\d+)$=Progress: $1/$2
+
+r:^～(\d+)日$=Day $1
+r:^(\d+)秒$=$1s
+
+r:^初期値：(\d+)日～$=Initial value: $1 days～
+
+sr:"^(.*)\（夕\）$"=$1 (Evening)
+sr:"^(.*)\（夜\）$"=$1 (Night)
+sr:"^(.*)\（昼\）$"=$1 (Noon)
+
+r:キャラクターセレクト([♡♥]+)=Character Select $1
+
+//sr:"^( *\d\d )(.*)$"=$1$2
