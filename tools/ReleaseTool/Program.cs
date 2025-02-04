@@ -183,7 +183,7 @@ internal static class ReleaseTool
             var detailsPath = Path.Combine(programDir, $"results_{languageCode}.txt");
             Console.SetOut(new StreamWriter(detailsPath));
             // Clean up the copied files
-            var result = CleanTranslations(copyDir, copyDir);
+            //var result = CleanTranslations(copyDir, copyDir);
             Console.Out.Flush();
             Console.SetOut(_originalOut);
 
@@ -266,7 +266,7 @@ internal static class ReleaseTool
             }
 
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Creating {languageCode} release done, {result.GetPercent() * 100:F3}% completed.");
+            Console.WriteLine($"Creating {languageCode} release done.");
             Console.ForegroundColor = ConsoleColor.Gray;
             Console.WriteLine("Detailed results were saved to " + detailsPath);
             Console.ForegroundColor = ConsoleColor.White;
