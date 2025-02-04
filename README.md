@@ -14,4 +14,10 @@ If there are any untranslated strings, e.g. because of a game update, you can en
 ## Contributing
 Just make a PR with your changes! All help is greatly appreciated.
 
-Release archives are generated with ReleaseTool from the tools folder.
+## Tools
+### ReleaseTool
+At tool that gemerates translation release archives.
+
+### TranslateRedirectedResources
+A tool for translating files in the RedirectedResources folder.
+Forked from https://github.com/SpockBauru/SpockPlugins_InsultOrder/tree/9b3bae7e7f20f39aa42d58a45838f714b39d40de/TranslateRedirectedResources
