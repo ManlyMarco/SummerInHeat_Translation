@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ReleaseTool": {
+      "commandName": "Project",
+      "commandLineArgs": "$(SolutionDir)\\..",
+      "workingDirectory": "$(SolutionDir)\\bin\\ReleaseTool"
+    }
+  }
+}
