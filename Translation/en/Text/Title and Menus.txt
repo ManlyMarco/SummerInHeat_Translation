@@ -1,6 +1,6 @@
 // First game start
 セーブデータをチェック中です...=Checking the save data...
-
+ゲームを終了しています…=The game is closing...
 
 // ADV
 
