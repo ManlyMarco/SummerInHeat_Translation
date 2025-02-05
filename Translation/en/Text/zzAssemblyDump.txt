@@ -47,7 +47,6 @@
 クリップボードにAudioClip配列の内容をコピーしました！=AudioClip array contents copied to clipboard!
 グラビア空間=Gravure Space
 ゲームデータ生成中...=Generating game data...
-ココアIFルートをクリアすることで解放されます=Unlocked by clearing the Cocoa IF route
 ココア制服=Cocoa uniform
 見せつけ=Show off
 コライダー名が指定されていないものがあります=Some collider names have not been specified
@@ -171,7 +170,6 @@
 前髪C=Bangs C
 前髪L=Bangs L
 前髪R=Bangs R
-精液を舐めさせる=Make her lick semen
 半脱げ=Half undressed
 取得したテキストは空です=The retrieved text is empty
 口トロ笑い=Mouth laughing
@@ -288,7 +286,6 @@
 絶頂再生開始=Climax playback begins
 腹凹み=Stomach concave
 莉乃-分岐確定=Rino - Branch confirmed
-莉乃ルートをクリアすることで解放されます=Unlocked by clearing Rino route
 親が見つかりませんでした:=Parents not found:
 解像度：=Resolution:
 評価：すごく快適=Rating: Very comfortable
@@ -328,7 +325,6 @@
 騎乗位IF=Cowgirl IF
 騎乗位専用=For cowgirl only
 骨のインスタンスＩＤ取得=Get bone instance ID
-麗子IFルートをクリアすることで解放されます=Released by clearing Reiko IF route
 ＋拘束=+Restraint
 ：がみつかりません。処理を停止します。=: Not found. Processing will stop.
 Ｆ２キーでショートカットキーの一覧を確認する事ができます=You can check the list of shortcut keys with the F2 key

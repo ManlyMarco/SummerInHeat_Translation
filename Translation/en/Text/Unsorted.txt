@@ -4,7 +4,6 @@
 
 
 (シーン開始時の表示設定)=(Setting the display at the start of the scene)
-(解放チャプターは保持されます)=(Unlocked chapters will be retained)
 - グラフィック・エフェクト設定 -=- Graphics effect settings.
 -　キャラクター選択　-=- Character Selection -
 ADV体験はここまでです。\n[乙羽エッチが解放されました]\nチャプターセレクトよりH体験をお楽しみください。=This is the end of the ADV experience. \n[Otsuha sex has been released]\nPlease enjoy the H experience from Chapter Select.
@@ -24,17 +23,14 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 『実際会うのはかなり久しぶりだから、確信がなくてね。\n　こっちに帰ってきてるのは聞いていたけど』\n\n=“It’s been quite a while since we actually met, so I wasn’t sure. I heard you were back here, though.”\n\n
 『ＯＮ』の場合ストーリーにあわせた服装で表示されます。\n『ＯＦＦ』の場合はカスタムのまま表示されます。\n(ストーリーと矛盾する場面が発生する場合があります)=When set to "ON", the character will be shown in the clothes that match the story. \nWhen set to "OFF", the character will be shown in the custom clothes. \n(If off, there may be contradictions in some story scenes)
 あああああああああ=Aaaaaaaaaaa
-おねだりさせる=Make her beg
-てらち\n\nしゅんころ\n\nら～ゆ\n\nアサ=Terachi Shunkoro Rayu Asa
+
 アット=At
 アナルモデル=Anal model
 ウィンドウを非表示にします=Hide the Text Window
 エフェクト=Effect
 オート会話=Auto-conversation
 オート再生します=Auto Play
-キャラクターの進行度をリセットします。\n\n対象キャラクターを選択してください。=This resets the character's progress. Select the target character.
-クリック進行停止=Click stop.
-ココア会話=Cocoa conversation
+クリック進行停止=Click stop
 サブ=Sub
 サブカメラウィンドウ=Sub-camera window
 サブカメラ操作中=Sub-camera operation.
@@ -51,18 +47,15 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 フリーモードセレクトへ戻りますか？=Return to Free Mode Select?
 メッセージをスキップします=Skip Text
 モザ種類=Mosaic type
-モデリング/モーション\n\nプログラム/WEB\n\nシナリオ\n\nSDキャラデザイン=Modeling/Motion Program/Web Scenario SD Character Design
 モブ=Mob
 モーションセレクト=Motion selection
 モーションメニュー=Motion menu
-ライセンス情報は同梱の"License.txt"に記載しています。=The license information is listed in the attached lynx.txt.
 ランダム=Random
 ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from "Change Position" in the "Side Menu".
 ランダム停止=Random stop
 ループ再生=Loop regeneration
 ルームカラー=Room color
 ロード=Load
-一気に挿入=Put it in all at once
 中心点=Center point
 中心点の表示=Central point display
 亀頭キス=A glans kiss.
@@ -70,22 +63,17 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 以下のキャラクター進行度を削除して物語を『はじめから』開始します。\n\n\n\nよろしいですか？=Progress the with following characters will be deleted \nand the story will start from the beginning.\n\n\n\nIs this okay?\n
 位置=Position
 共通OPクリア=Common opening cleared
-匂いを嗅がせる=Smell it.
 反映はリロードしてください=Please reload to see changes
 各CHAPTERの冒頭から続きを遊ぶことができます。=You start playing from the beginning of each chapter.
 吊るし縄=Hanging rope
 名前名前=Name, name
 回転=Rotate
-声の出演=Voice Actors
-声掛け=Call out
 奉仕=Service
-強制ビク=Forced twitch
-強制小刻み=Forced shredding
+強制ビク=Forced jerk
+強制小刻み=Forced wiggling
 拘束具=Binding
 拡縮=Scale
 本ベンチマークにはサウンドはありません。=There is no sound on this bench.
-次のシーンまでスキップしますか？=Do you want to skip to the next scene?
-次のシーン・選択肢・デモシーンにジャンプします=Jump to the next scene or choice
 
 涙=Tears
 現在未実装！\n親切機能だと思うが、こちらとしてはスカートなどはめり込むから\n半脱げにしたいなどある、相談=It's not implemented right now! I think it's a nice feature, but I'll be wearing skirts and the like, so I'd like to take them off half-heartedly.
@@ -93,8 +81,6 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 
 
 移動モード有効中=Movement mode activated.
-絶頂=Climax
-絶頂させる=Make her climax
 表示メニュー=Display Menu
 裏ボイス=Inner voice
 補修オナ01=Repair masturbation 01
@@ -116,9 +102,6 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 遮断物を半透明表示=It's semitransparent.
 遮断物を表示=Display Blocker.
 遮断物を非表示=Hide the blockade
-鏡=Mirror
-開　発=Development
 Ｆ２キーでショートカットキーの一覧を確認する事ができます。=You can view a list of shortcut keys by pressing F2.
-Ｈを終わる=Finish H
-ｷｬﾗが表示される前しか\n反映されません=It can only be reflected before the character is displayed.
-ｽﾄｰﾘｰ準拠服装=Story-compliance clothing
+ｷｬﾗが表示される前しか\n反映されません=It will only be reflected\nbefore the character is displayed.
+ｽﾄｰﾘｰ準拠服装=Story-compliant clothing

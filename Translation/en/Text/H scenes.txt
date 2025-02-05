@@ -32,10 +32,14 @@
 
 // Controls -----------------------------------------
 
+Ｈを終わる=Finish H
+声掛け=Call out
+
 はじめる=Start
 やり部屋=Yariya
 ゆっくり動く=Move slowly
 ゆっくり挿入=Slowly insert
+一気に挿入=Put it in all at once
 
 起こして\n続ける=Rest and keep going
 無理やり\n続ける=Force to keep going
@@ -48,13 +52,22 @@
 口を開けさせる=Open your mouth
 吐き出させる=Spit it out
 
+絶頂=Climax
+絶頂させる=Make her climax
+おねだりさせる=Make her beg
+コネコネさせる=Knead it in
 
 足裏こね=Knead your feet
 見せつけ開脚=Show me your feet
 
+匂いを嗅がせる=Smell it
+精液を舐めさせる=Lick it off
+
 チャプターセレクトへ戻りますか？=Return to chapter select?
 次のシナリオへ進みますか？=Move on to the next scenario?
 
+
+鏡=Mirror
 
 // Finish -----------------------------------------
 
@@ -230,7 +243,7 @@ PC服=Clothes
 ルームカラー変更=Change room color
 ルームカラー=Room color
 スクリーンショット=Screenshot
-ＵＩ表示・非表示=UI Display/Hide
+ＵＩ表示・非表示=Show/Hide the interface
 
 // Swimsuit H scene where 1 girl talks to 2nd taking shower
 ★モーション解放段階　\n-1:Aゆっくりのみ\n0  :A\n1  :B\n2  :C\n\n\n\n\n\n\n\n★やりとり段階1～5　5は最終反応=★Motion release stage\n-1: A slowly only\n0: A\n1: B\n2: C\n\n\n\n\n\n\n\n★Interaction stages 1 to 5, 5 is the final reaction

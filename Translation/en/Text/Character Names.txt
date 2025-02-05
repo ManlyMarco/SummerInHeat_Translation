@@ -50,7 +50,3 @@
 友人Ａ=Friend A
 友人Ｂ=Friend B
 
-
-
-小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Kotori Yuu Otoha Akira Rino Kotori Yuu Reiko Tanaka Kokoroa
-陽向葵ゅか\n\n水野七海\n\n秋山はるる\n\n山田じぇみ子=Aoi Hinata Nanami Mizuno Haruru Akiyama Junko Yamada

@@ -91,7 +91,6 @@ CT,CB,CF非表示=Hide CT,CB,CF
 グラビア①=Gravia 1
 グラビア②=Gravia 2
 グラマー=Glamour
-コネコネさせる=Knead it.
 コピー=Copy
 サブ画像=Sub photo
 スレンダー=Slender

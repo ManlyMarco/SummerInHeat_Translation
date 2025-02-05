@@ -1,6 +1,6 @@
 // First game start
 セーブデータをチェック中です...=Checking the save data...
-ゲームを終了しています…=The game is closing...
+
 
 // ADV
 
@@ -73,61 +73,51 @@ IFストーリー=If Story
 ゲームを終了します=Close the game
 
 
-// Messages
+// Random / map screen
+カスタム= Customize 
+ゲームの進行を\n保存しました=The game progress has been saved
+分岐ルートクリア済み=Branching route cleared
+タイトルへ=To the title
+次のシナリオへ=To the next scenario
 
+
+// Messages
 タイトル画面に戻りますか？=Return to the title screen?
 ゲームを終了しますか？=Quit The Game?
 
 キャラクターデータを\n初期化してよろしいですか？=Are you sure you want to reset all characters\nto their default appearances?
 キャラクターデータを初期化しています\nゲームを終了しないでください=Initializing character data. Please do not close the game.
 
+キャラクターの進行度をリセットします。\n\n対象キャラクターを選択してください。=Please select which character(s) progress you'd like to reset.
+(解放チャプターは保持されます)=(Completed chapters will remain unlocked in Chapter Select)
+
+次のシーンまでスキップしますか？=Do you want to skip to the next scene?
+次のシーン・選択肢・デモシーンにジャンプします=Jump to the next scene or choice
 
 // Unlock messages
-①こんなに乱れている\n乙羽ちゃんを見るのは初めてだよ。\r=1 This is the first time I've seen Otoha this disheveled.\r
-②バレるかもしれない状況に\n興奮しきってて…。ドＭのド変態だね。\r=He's so excited about a situation where he might be found out... He's a masochist pervert.\r
-③乙羽ちゃんも随分セックスに慣れてきたね…。\r=3 Otoha-chan's gotten pretty used to sex...\r
-④スクミズ…やっぱり本物は凄く興奮しちゃうな…。\r=4 Scribbles... The real thing really is exciting...\r
-⑤莉乃ちゃんもとてもいやらしい体だったなぁ…。\r=5 Rino-chan had a very lewd body, too...\r
+[乙羽フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Otoha has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
+[莉乃フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Rino has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
+[麗子フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Reiko has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
+[ココアフリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Cocoa has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
+[ココアIFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Cocoa's If Story has been unlocked]\nYou can begin the If story from the title screen.
+[麗子IFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Reiko's If Story has been unlocked]\nYou can begin the If story from the title screen.
 
 
-// Random / map screen
-
-カスタム= Customize 
-ゲームの進行を\n保存しました=The game progress has been saved
-分岐ルートクリア済み=Branching route cleared
-タイトルへ=To the title
-準拠の服装=clothes
-次のシナリオへ=To the next scenario
-
-
-// After unlocking everything with debug menu
+// Chapter select menu and parts of debug menu
 キャラクター別ストーリー=Character Stories
-イベント=Event
 おまけストーリー=Extra Story
 
-[ココアIFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Cocoa If Story has been unlocked] Please enjoy the story.
-[ココアフリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Cocoa Free Pervert has been released] Please enjoy yourself from free mode.
-[乙羽フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Otoha Free Pervert has been released] Please enjoy yourself from Free Mode.
-[莉乃フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Rino Free Pervert has been released] Please enjoy yourself from Free Mode.
-[麗子IFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Reiko If Story has been unlocked] Please enjoy the story.
-[麗子フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Reiko Free Pervert has been released] Please enjoy yourself from Free Mode.
-ココア if エッチ=Cocoa If Sex
-ココア if ストーリー=Cocoa If Story
-ココア if ＥＰ=Cocoa If Ending
-ココア if ＯＰ=Cocoa If Opening
-ココア-クリア=Cocoa clear
-ココア-チャプター解放度=Cocoa Chapter Release
-ココア-進行度=Cocoa Progress
-ココアIfルート=Cocoa If route
-ココアのifストーリーを楽しむことができます。=You can enjoy Cocoa's If story.
-シャワー室で莉乃と会話=Talk to Rino in\nthe shower room
+イベント=Event
+準拠の服装=clothes
+
 乙羽-クリア=Otoha Clear
-乙羽-チャプター解放度=Otoha Chapter Release
+乙羽クリア=Otoha Clear
+乙羽-チャプター解放度=Otoha Chapter Unlock
+乙羽-進行度=Otoha Progress
 乙羽-分岐①=Otoha 1
 乙羽-分岐②=Otoha 2
 乙羽-分岐③=Otoha 3
 乙羽-分岐④=Otoha 4
-乙羽-進行度=Otoha Progress
 乙羽ルート=Otoha Route
 乙羽ルート①中間=Event 1 Midway
 乙羽ルート①ＥＰ=Event 1 Ending
@@ -135,32 +125,37 @@ IFストーリー=If Story
 乙羽ルート②中間=Event 2 Midway
 乙羽ルート②ＥＰ=Event 2 Ending
 乙羽ルート②ＯＰ=Event 2 Opening
+シャワー室で莉乃と会話=Talk to Rino in\nthe shower room
 乙羽ルート③中間=Event 3 Midway
 乙羽ルート③ＥＰ=Event 3 Ending
 乙羽ルート③ＯＰ=Event 3 Opening
 乙羽ルート④中間=Event 4 Midway
 乙羽ルート④ＥＰ=Event 4 Ending
 乙羽ルート④ＯＰ=Event 4 Opening
+保健室で茂部と会話=Talk to Mobu in\nthe nurse's office
 乙羽ルート⑤中間=Event 5 Midway
 乙羽ルート⑤ＥＰ=Event 5 Ending
 乙羽ルート⑤ＯＰ=Event 5 Opening
+孕らませ正常位=Impregnation\nmissionary
 乙羽ルート⑥中間=Event 6 Midway
 乙羽ルート⑥ＥＰ=Event 6 Ending
 乙羽ルート⑥ＯＰ=Event 6 Opening
-乙羽ルートをクリアすることで解放されます=Complete the Otoha route to unlock it
 乙羽ルートＥＮＤ=Otoha Route END
+乙羽ルートをクリアすることで解放されます=Complete Otoha's route to unlock
+（乙羽ルートADVを最後まで見ると解放されます）=(Complete Otoha's route to unlock)
 乙羽本編ルートのつづきから開始します。=Continuation of the main Otoha route.
-保健室で茂部と会話=Talk to Mobu in\nthe nurse's office
-孕らませ正常位=Impregnation, normality.
-拘束=Restraint
-窓越しにたかしと会話=Talk to Takashi\nthrough the window
-莉乃-クリア=Rino: Clear
-莉乃-チャプター解放度=Rino Chapter Release
+乙羽 役=Role: Otoha
+乙羽2日目クリアフラグ=Otoha Day 2 Clear Flag
+乙羽１日目クリアフラグ=Otoha Day 1 Clear Flag
+
+莉乃-クリア=Rino Clear
+莉乃クリア=Rino Clear
+莉乃-チャプター解放度=Rino Chapter Unlock
+莉乃-進行度=Rino Progress
 莉乃-分岐①=Rino 1
 莉乃-分岐②=Rino 2
 莉乃-分岐③=Rino 3
 莉乃-分岐④=Rino 4
-莉乃-進行度=Rino Progress
 莉乃ルート=Rino Route
 莉乃ルート①中間=Event 1 Midway
 莉乃ルート①ＥＰ=Event 1 Ending
@@ -168,31 +163,59 @@ IFストーリー=If Story
 莉乃ルート②中間=Event 2 Midway
 莉乃ルート②ＥＰ=Event 2 Ending
 莉乃ルート②ＯＰ=Event 2 Opening
+窓越しにたかしと会話=Talk to Takashi\nthrough the window
 莉乃ルート③中間=Event 3 Midway
+拘束=Restraint
 莉乃ルート③ＥＰ=Event 3 Ending
 莉乃ルート③ＯＰ=Event 3 Opening
 莉乃ルート④中間=Event 4 Midway
 莉乃ルート④ＥＰ=Event 4 Ending
 莉乃ルート④ＯＰ=Event 4 Opening
+部室でココアと会話=Talk to Cocoa in\nthe clubroom
 莉乃ルート⑤中間=Event 5 Midway
 莉乃ルート⑤ＥＰ=Event 5 Ending
 莉乃ルート⑤ＯＰ=Event 5 Opening
 莉乃ルート⑥中間=Event 6 Midway
 莉乃ルート⑥ＥＰ=Event 6 Ending
 莉乃ルート⑥ＯＰ=Event 6 Opening
-莉乃ルートＥＮＤ=Event END
+莉乃ルートＥＮＤ=Rino Route END
+莉乃ルートをクリアすることで解放されます=Complete Rino's route to unlock
+（莉乃ルートをクリアすることで解放されます）=(Complete Rino's route to unlock)
 莉乃本編ルートのつづきから開始します。=Continuation of the main Rino route.
-部室でココアと会話=Talk to Cocoa in\nthe clubroom
+莉乃 役=Role: Rino
+莉乃１日目クリアフラグ=Rino Day 1 Clear Flag
+莉乃2日目クリアフラグ=Rino Day 2 Clear Flag
+
+麗子ルート=Reiko route
+麗子Ifルート=Reiko If route
+麗子-クリア=Reiko Clear
+麗子-チャプター解放度=Reiko Chapter Unlock
+麗子-進行度=Reiko Progress
 麗子 if エッチ=Reiko If Sex
 麗子 if ストーリー=Reiko If Story
 麗子 if ＥＰ=Reiko If Ending
 麗子 if ＯＰ=Reiko If Opening
-麗子-クリア=Reiko Clear
-麗子-チャプター解放度=Reiko Chapter Release
-麗子-進行度=Reiko Progress
-麗子Ifルート=Reiko If route
+麗子-if EP=Reiko If EP
+麗子-if OP=Reiko If OP
 麗子のifストーリーを楽しむことができます。=You can enjoy Reiko's If story.
-（莉乃ルートをクリアすることで解放されます）=(Complete Rino's route to unlock it.)
+麗子 役=Role: Reiko
+麗子IFルートをクリアすることで解放されます=Complete Reiko's If route to unlock
+
+ココアルート=Cocoa route
+ココアIfルート=Cocoa If route
+ココア-クリア=Cocoa Clear
+ココア-チャプター解放度=Cocoa Chapter Unlock
+ココア-進行度=Cocoa Progress
+ココア if エッチ=Cocoa If Sex
+ココア if ストーリー=Cocoa If Story
+ココア if ＥＰ=Cocoa If Ending
+ココア if ＯＰ=Cocoa If Opening
+ココア-if EP=Cocoa If EP
+ココア-if OP=Cocoa If OP
+ココアのifストーリーを楽しむことができます。=You can enjoy Cocoa's If story.
+ココア会話=Cocoa conversation
+ココア 役=Role: Cocoa
+ココアIFルートをクリアすることで解放されます=Complete Cocoa's If route to unlock
 
 
 // Debug menu
@@ -213,3 +236,15 @@ IFストーリー=If Story
 縄=Rope
 破れ=Broken
 [[ メモ ]]\n・ぼかしとグローを統一して\n画面のしぶき付着エフェクトONOFF=[[Notes]]\n・Unify blur and glow\nTurn on/off the splash effect on the screen
+
+
+// Credits
+開　発=Developers
+てらち\n\nしゅんころ\n\nら～ゆ\n\nアサ=Terachi\n(てらち)\nShunkoro\n(しゅんころ)\nRa~yu\n(ら～ゆ)\nAsa\n(アサ)
+モデリング/モーション\n\nプログラム/WEB\n\nシナリオ\n\nSDキャラデザイン=Modeling/Motion\n\nProgram/WEB\n\nScenario\n\nSD character design
+
+声の出演=Voice Actors
+小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Takanashi\nOtoha      \nAkatsuki  \nRino         \nTakanashi\nReiko       \nTanaka     \nCocoa      
+陽向葵ゅか\n\n水野七海\n\n秋山はるる\n\n山田じぇみ子=Hinata Yuka\n(陽向葵ゅか)\nMizuno Nanami\n(水野七海)\nAkiyama Haru\n(秋山はるる)\nYamadaGemiko\n(山田じぇみ子)
+
+ライセンス情報は同梱の"License.txt"に記載しています。=License information is provided in the included "License.txt" file.
