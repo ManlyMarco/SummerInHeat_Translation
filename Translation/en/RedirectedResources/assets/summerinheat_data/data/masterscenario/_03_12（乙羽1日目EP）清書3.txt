@@ -219,7 +219,7 @@ room.
 
 ***FadeIn_InSide_Black
 
------------
+―――――――――
 
 ―――
 
@@ -262,14 +262,14 @@ room.
 
 小鳥遊 乙羽（独白）(CH01_0770)
 『I can’t... tell my friend Rino-chan, either... I 
-　shouldn’t tell her... Not to mention my mom...』
+shouldn’t tell her... Not to mention my mom...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレNL_口微笑_赤み08_中央
 
 小鳥遊 乙羽（独白）(CH01_0771)
 『...But... I can’t tell anyone, but I... had 
-　sex... with the person I love...』
+sex... with the person I love...』
 
 
 小鳥遊 乙羽
@@ -280,7 +280,7 @@ room.
 
 小鳥遊 乙羽（独白）(CH01_0772)
 『I’m happy... but I’m also happy... When I think 
-　about what I’ve done wrong... my heart tightens.』
+about what I’ve done wrong... my heart tightens.』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み08_中央
@@ -299,43 +299,43 @@ room.
 
 小鳥遊 乙羽（独白）(CH01_0774)
 『That’s the last time. I really have to make sure 
-　this doesn’t happen...』
+this doesn’t happen...』
 
 
 小鳥遊 乙羽（独白）(CH01_0775)
 『It’s lonely... but it’ll cause trouble for you, 
-　Uncle...』
+Uncle...』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口つぐみ_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0776)
 『Besides, I just transferred here, so I have to go 
-　to class, and I need to get used to my new life.』
+to class, and I need to get used to my new life.』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0777)
 『My mom got divorced because of me, and she ended 
-　up coming here, but she left studying aside and 
-　only cared about herself...』
+up coming here, but she left studying aside and 
+only cared about herself...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0778)
 『If you grow up, if you can go out with your 
-　uncle... and if the people around you accept 
-　that...』
+uncle... and if the people around you accept 
+that...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0779)
 『I-I’m sure I’ll be able to do a lot of things 
-　like this after that... I have to hold back until 
-　then...』
+like this after that... I have to hold back until 
+then...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み07_画面外

@@ -9,13 +9,13 @@
 
 小鳥遊 乙羽（独白）(CH01_0577)
 『A cute, loose-looking lamune candy with a 
-　yogurt-flavored cream in a small container.』
+yogurt-flavored cream in a small container.』
 
 
 小鳥遊 乙羽（独白）(CH01_0578)
 『Fugashi made from a variety of flavors that I 
-　often bought. And... ice candy made from tubes 
-　that can be folded in two.』
+often bought. And... ice candy made from tubes 
+that can be folded in two.』
 
 
 小鳥遊 乙羽(CH01_0579)
@@ -25,12 +25,12 @@
 
 小鳥遊 乙羽（独白）(CH01_0580)
 『When I think about meeting my uncle with the 
-　candy we ate together a lot in the past...』
+candy we ate together a lot in the past...』
 
 
 小鳥遊 乙羽（独白）(CH01_0581)
 『I feel like I can remember the past like it was 
-　just a little while ago, and honestly relax.』
+just a little while ago, and honestly relax.』
 
 
 小鳥遊 乙羽（独白）(CH01_0582)
@@ -44,7 +44,7 @@
 
 小鳥遊 乙羽（独白）(CH01_0584)
 『Yeah, okay, I’m fine! Let’s go! ...Uncle said 
-　he’d be in his room at this hour.』
+he’d be in his room at this hour.』
 
 
 ***SE_door_09_knock{80}
@@ -62,7 +62,7 @@ properly. My throat tightens.
 
 ***FadeIn_InSide_Black
 
-----
+――――
 
 ***BGM_FadeOut
 
@@ -81,8 +81,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0586)
 『Ever since then... I’ve been talking to my uncle 
-　so much that it’s like my nervousness just now was 
-　a lie.』
+so much that it’s like my nervousness just now was 
+a lie.』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03
@@ -137,7 +137,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0593)
 『It’s... familiar, but... ...Unlike in the past, 
-　my heart beats faster.』
+my heart beats faster.』
 
 
 小鳥遊 乙羽
@@ -149,7 +149,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0594)
 『Oji-san’s staring at me... My heart’s beating so 
-　fast just from being called...』
+fast just from being called...』
 
 
 主人公
@@ -161,15 +161,15 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0595)
 『It’s true, that’s how it used to be... In the 
-　past, we’d sit and talk casually and happily...』
+past, we’d sit and talk casually and happily...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口困り_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0596)
 『But now... I’m so conscious of it. ...If I sit 
-　there, my heart’s beating so fast, my 
-　body’s...c-clinging to it...!』
+there, my heart’s beating so fast, my 
+body’s...c-clinging to it...!』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み07_中央
@@ -180,7 +180,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0598)
 『I want to... touch you, Uncle, but... that just 
-　happened...』
+happened...』
 
 
 主人公
@@ -195,7 +195,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0599)
 『Sit down... If by any chance... my uncle... hits 
-　me again... what should I do?』
+me again... what should I do?』
 
 
 主人公
@@ -205,7 +205,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0600)
 『Huh...? I feel like... maybe I’m the only one... 
-　thinking about this...?』
+thinking about this...?』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目驚き_口無表情_赤み08_中央
@@ -218,14 +218,14 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0602)
 『The reason I came here today... is because of our 
-　original relationship...』
+original relationship...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0603)
 『I came because I wanted to talk to you like I 
-　used to. ...Okay!!』
+used to. ...Okay!!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_中央
@@ -250,8 +250,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0606)
 『I-It’s on my uncle’s lap... I can feel his scent 
-　and body heat... I’m getting nervous after 
-　all...!』
+and body heat... I’m getting nervous after 
+all...!』
 
 
 主人公
@@ -267,7 +267,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0608)
 『No, my voice got a little high-pitched... What’s 
-　going on... all of a sudden?』
+going on... all of a sudden?』
 
 
 主人公
@@ -340,7 +340,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0617)
 『...Mm, my face is getting hot again, so these 
-　snacks might be just right for the cold...』
+snacks might be just right for the cold...』
 
 
 ***ST_オトハ_B1_デフォ(着衣)_目微笑_口困り_赤み05_アップ
@@ -395,8 +395,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0623)
 『...Stimulation...? It’s a normal orange flavor, 
-　but... I don’t think that’s what you meant by 
-　taste... I wonder what it is...?』
+but... I don’t think that’s what you meant by 
+taste... I wonder what it is...?』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目微笑_口困り_赤み06_アップ
@@ -423,8 +423,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0628)
 『I-I’m just imagining things...right? ...It’s not 
-　just my imagination...?? Wh-What should I do...? 
-　Right now...you’re hitting my butt...』
+just my imagination...?? Wh-What should I do...? 
+Right now...you’re hitting my butt...』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目驚き_口困り_赤み07_アップ
@@ -437,7 +437,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0630)
 『I knew it... Your... dick... is... hitting me... 
-　right...?!』
+right...?!』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み08_アップ
@@ -448,12 +448,12 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0632)
 『I wonder if I should stand up... What should I 
-　do...? I definitely can’t find out for sure...』
+do...? I definitely can’t find out for sure...』
 
 
 小鳥遊 乙羽（独白）(CH01_0633)
 『We were finally able to talk like we used to... 
-　...But it’s not your fault, Uncle...』
+...But it’s not your fault, Uncle...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み08_アップ
@@ -465,7 +465,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0634)
 『If I think about something else, I might stop 
-　worrying about it... ...Ah, that’s...』
+worrying about it... ...Ah, that’s...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み08_アップ
@@ -498,14 +498,14 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0638)
 『Phew... We’re finally separated. Maybe I’m 
-　mistaken, but... I can’t just sit there like 
-　that.』
+mistaken, but... I can’t just sit there like 
+that.』
 
 
 小鳥遊 乙羽（独白）(CH01_0639)
 『But even though we were finally able to be 
-　together... it’s a bit of a shame... that we’ll be 
-　separated.』
+together... it’s a bit of a shame... that we’ll be 
+separated.』
 
 
 小鳥遊 乙羽（独白）(CH01_0640)
@@ -522,28 +522,28 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0642)
 『...I wonder what I should do at times like 
-　that... Hmm, I don’t know.』
+that... Hmm, I don’t know.』
 
 
 小鳥遊 乙羽（独白）(CH01_0643)
 『Anyway, it’s good that we got separated. I’m 
-　really conscious of it too...』
+really conscious of it too...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_0644)
 『Sigh... Even though it was normal when we were 
-　smiling and talking... Wow, there’s a lot of stuff 
-　in there...』
+smiling and talking... Wow, there’s a lot of stuff 
+in there...』
 
 
 ***Face_オトハ_目デフォ_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0645)
 『...Pen, eraser... There’s a lot more than I 
-　thought. And there’s something bigger 
-　underneath...』
+thought. And there’s something bigger 
+underneath...』
 
 
 ***SE_Dry_Food_In_Box_Movement_7{100}[0](1)
@@ -559,23 +559,23 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0647)
 『What’s with this stick...? A relay baton for 
-　physical education?? ...But that’s not something 
-　an individual lost...』
+physical education?? ...But that’s not something 
+an individual lost...』
 
 
 ***Face_オトハ_目デフォ_口つぐみ_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0648)
 『The color’s weird... and the shape’s kinda... 
-　curved...? This is... what, where you put the 
-　batteries...?』
+curved...? This is... what, where you put the 
+batteries...?』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0649)
 『Hm...? I’ve seen this somewhere before... 
-　...Huh...? Wait, no way...』
+...Huh...? Wait, no way...』
 
 
 小鳥遊 乙羽(CH01_0650)
@@ -586,7 +586,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0651)
 『H-Huh...? This is... M-Maybe... something dirty?! 
-　...It appeared in... Uncle’s books and videos...』
+...It appeared in... Uncle’s books and videos...』
 
 
 ***Face_オトハ_目驚き_口つぐみ_赤み06
@@ -594,8 +594,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0652)
 『No, there’s no way something like that exists at 
-　school... But this really does look like what I 
-　saw back then...』
+school... But this really does look like what I 
+saw back then...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み07
@@ -645,7 +645,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0658)
 『Uncle, when did you get behind me...? You 
-　startled me... I... I have this...』
+startled me... I... I have this...』
 
 
 主人公
@@ -689,14 +689,14 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0661)
 『Ugh... I don’t know what to say... If they find 
-　out I’ve seen it before...』
+out I’ve seen it before...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0662)
 『I don’t want to say it... People will think I’m a 
-　vulgar girl...』
+vulgar girl...』
 
 
 小鳥遊 乙羽
@@ -710,7 +710,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0663)
 『...Geez, even if I say it’s a lie now, they’ll 
-　find out, won’t they...?』
+find out, won’t they...?』
 
 
 小鳥遊 乙羽(CH01_0664)
@@ -803,7 +803,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0672)
 『I-It’s the first time... I’ve seen... a man’s... 
-　penis... My beloved uncle...』
+penis... My beloved uncle...』
 
 
 小鳥遊 乙羽(CH01_0673)
@@ -812,16 +812,16 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0674)
 『It’s gotten really big... and it’s bending 
-　back... It’s bigger... than a lost toy... and 
-　amazing...』
+back... It’s bigger... than a lost toy... and 
+amazing...』
 
 
 ***Cinema_CI01-MS-0102_01
 
 小鳥遊 乙羽（独白）(CH01_0675)
 『Wait, no! Don’t look! ...It’s something I 
-　shouldn’t be looking at... but my eyes... can’t 
-　turn away.』
+shouldn’t be looking at... but my eyes... can’t 
+turn away.』
 
 
 ***Cinema_CI01-MS-0102_02
@@ -842,7 +842,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0678)
 『It’s embarrassing... The more I think about it, 
-　the more I’ll look at it...』
+the more I’ll look at it...』
 
 
 ***Cinema_CI01-MS-0102_03
@@ -878,8 +878,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0681)
 『Whoa... That’s...amazing... I’m...touching your 
-　penis, O-Oji-san... It’s so...throbbing...so 
-　hard...it feels like it’s going to burn me...Hot...』
+penis, O-Oji-san... It’s so...throbbing...so 
+hard...it feels like it’s going to burn me...Hot...』
 
 
 小鳥遊 乙羽(CH01_0682)
@@ -888,8 +888,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0683)
 『It’s all sticky...and a little...disgusting...and 
-　the smell...is amazing... But...this 
-　is...uncle’s...』
+the smell...is amazing... But...this 
+is...uncle’s...』
 
 
 ***Cinema_CI01-MS-0102_08
@@ -917,8 +917,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0686)
 『I-I have to calm down...! If they think I’m any 
-　more perverted than this... I-It’s 
-　embarrassing...!!』
+more perverted than this... I-It’s 
+embarrassing...!!』
 
 
 主人公
@@ -982,7 +982,7 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0692)
 『I didn’t think I’d excite you this much, Uncle... 
-　And... you’re excited about me.』
+And... you’re excited about me.』
 
 
 主人公
@@ -994,8 +994,8 @@ properly. My throat tightens.
 
 小鳥遊 乙羽（独白）(CH01_0694)
 『The truth is... we’re going to lick each other... 
-　right? ...Maybe it’s cheating... that I’m the only 
-　one who felt good...』
+right? ...Maybe it’s cheating... that I’m the only 
+one who felt good...』
 
 
 小鳥遊 乙羽（独白）(CH01_0695)
@@ -1022,7 +1022,7 @@ properly. My throat tightens.
 
 ―――
 
-―――
+―…
 
 
 ***FadeOut_InSide_Black

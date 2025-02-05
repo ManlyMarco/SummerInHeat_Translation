@@ -233,7 +233,7 @@ might be a good idea to tease her a little.
 
 ***FadeIn_InSide_Black
 
-----
+――――
 
 ―――
 
@@ -261,15 +261,15 @@ might be a good idea to tease her a little.
 
 小鳥遊 乙羽（独白）(CH01_1084)
 『I wonder what would’ve happened if...Rino-chan 
-　had found out about my sex with Uncle...?』
+had found out about my sex with Uncle...?』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1085)
 『...I’d forgotten because of what I’d done 
-　earlier, but I still can’t help but be curious 
-　about...Rino-chan’s attitude...』
+earlier, but I still can’t help but be curious 
+about...Rino-chan’s attitude...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み03汗00
@@ -284,27 +284,27 @@ might be a good idea to tease her a little.
 
 小鳥遊 乙羽（独白）(CH01_1087)
 『...Not just by the poolside, but until the 
-　shower... I’ll ask Rino-chan about her uncle...』
+shower... I’ll ask Rino-chan about her uncle...』
 
 
 小鳥遊 乙羽（独白）(CH01_1088)
 『...The reason you stood in front of me wasn’t 
-　because you were sexually harassing me... or to 
-　keep my uncle from seeing me...』
+because you were sexually harassing me... or to 
+keep my uncle from seeing me...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1089)
 『...Did you want to get your uncle’s eyes back 
-　from me...?』
+from me...?』
 
 
 ***Face_オトハ_目困りCE_口への字_赤み03汗00
 
 小鳥遊 乙羽（独白）(CH01_1090)
 『All the answers about Uncle are vague. I 
-　guess...Rino-chan really does like Uncle...?』
+guess...Rino-chan really does like Uncle...?』
 
 
 ***Face_オトハ_目焦り_口つぐみ_赤み03汗00
@@ -325,25 +325,25 @@ might be a good idea to tease her a little.
 
 小鳥遊 乙羽（独白）(CH01_1093)
 『I’m starting to feel really gloomy. But I want to 
-　be friends with you, Rino-chan. We’ve always been 
-　close...』
+be friends with you, Rino-chan. We’ve always been 
+close...』
 
 
 ***Face_オトハ_目困り_口無表情_赤み03汗00
 
 小鳥遊 乙羽（独白）(CH01_1094)
 『It’s definitely not good to have feelings like 
-　this on your mind. I’ll have to ask Rino-chan 
-　clearly next time...』
+this on your mind. I’ll have to ask Rino-chan 
+clearly next time...』
 
 
 ***BGM_FadeOut
 
 ***FadeIn_InSide_Black
 
----------
+―――――――
 
-----
+――――
 
 ―――
 

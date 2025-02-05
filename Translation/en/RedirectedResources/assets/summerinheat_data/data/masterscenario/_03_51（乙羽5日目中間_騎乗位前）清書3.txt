@@ -50,9 +50,9 @@
 
 ***SE_footsteps_Asphalt_Trainers_Walk_Slow_x8_loop_mono{100}[0](1)
 
----------
+――――――――
 
-------
+―――――
 
 
 ***SE_引き戸_窓_sliding door close{100}[0](1)
@@ -61,7 +61,7 @@
 
 ―――
 
--I'm sorry.
+―
 
 ***Face_オトハ_目トロ_口焦り_赤み09
 
@@ -241,7 +241,7 @@
 
 ***SE_ガサゴソfoley_cloth_light_fast_movement_01{100}[0](1)
 
-―――
+―…
 
 ***FadeOut_InSide_Black
 ***Cinema_CI01-MS-0502_04

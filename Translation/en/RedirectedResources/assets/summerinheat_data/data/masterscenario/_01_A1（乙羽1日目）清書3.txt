@@ -11,7 +11,7 @@
 
 小鳥遊 乙羽（回想）(CH01_0063)
 『For as long as I can remember, Mom and Dad made 
-　me study as hard as I could.』
+me study as hard as I could.』
 
 
 小鳥遊 乙羽（回想）(CH01_0064)
@@ -22,8 +22,8 @@
 
 小鳥遊 乙羽（回想）(CH01_0065)
 『But the one who kept getting along with me was 
-　the older Rino-chan. She treated me like a real 
-　big sister.』
+the older Rino-chan. She treated me like a real 
+big sister.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目微笑_口微笑_赤み02_中央
@@ -36,13 +36,13 @@
 
 小鳥遊 乙羽（回想）(CH01_0067)
 『My uncle would often play with me and talk to me 
-　without my mother’s notice.』
+without my mother’s notice.』
 
 
 小鳥遊 乙羽（回想）(CH01_0068)
 『Even when you’re crying after being scolded for 
-　trying harder to study, you say, ‘Otoha-chan’s 
-　working hard enough.’』
+trying harder to study, you say, ‘Otoha-chan’s 
+working hard enough.’』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目微笑_口微笑_赤み03_中央
@@ -53,7 +53,7 @@
 
 小鳥遊 乙羽（回想）(CH01_0070)
 『That made me very happy. You’re always on my 
-　side, and you’re so kind...』
+side, and you’re so kind...』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目大笑い_口微笑_赤み04_中央
@@ -66,51 +66,51 @@
 
 小鳥遊 乙羽（回想）(CH01_0072)
 『But one day, due to our family’s studying for 
-　exams and Dad’s work, we ended up moving far 
-　away.』
+exams and Dad’s work, we ended up moving far 
+away.』
 
 
 小鳥遊 乙羽（回想）(CH01_0073)
 『I was so sad, so lonely... No matter how much you 
-　tried to convince me, I didn’t want to move, so I 
-　burst into tears.』
+tried to convince me, I didn’t want to move, so I 
+burst into tears.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽（回想）(CH01_0074)
 『Because, just a little... I liked you as a man. 
-　...My little first love.』
+...My little first love.』
 
 
 小鳥遊 乙羽（回想）(CH01_0075)
 『The day I left town. I told her I’d definitely 
-　become her uncle’s wife. ...It’s a little 
-　embarrassing to think about now.』
+become her uncle’s wife. ...It’s a little 
+embarrassing to think about now.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目微笑_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0076)
 『There’s nothing particularly surprising about 
-　those words, Uncle... You’re right,” he said, 
-　patting my head with a smile and nodding.』
+those words, Uncle... You’re right,” he said, 
+patting my head with a smile and nodding.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0077)
 『But it’s like they’re treating me like a kid, and 
-　I’m so sad... I was so strong that I said, 
-　‘Promise me’.』
+I’m so sad... I was so strong that I said, 
+‘Promise me’.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0078)
 『I was really happy when you said you’d promise me 
-　that... Thanks to that, I was able to leave town 
-　without worry.』
+that... Thanks to that, I was able to leave town 
+without worry.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
@@ -123,7 +123,7 @@
 
 小鳥遊 乙羽（回想）(CH01_0080)
 『I came back to this town and was reunited with my 
-　uncle...』
+uncle...』
 
 
 ***BGM_FadeOut
@@ -599,7 +599,7 @@ and thoroughly rape her.
 ***FadeIn_InSide_Black
 
 
----------
+――――――――
 
 ―――
 
@@ -680,20 +680,20 @@ and thoroughly rape her.
 
 小鳥遊 乙羽（独白）(CH01_0122)
 『Your type of hair, your height, your breast 
-　size... Hmm, I don’t know what you like at all.』
+size... Hmm, I don’t know what you like at all.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（独白）(CH01_0123)
 『Like going on dates... Oh yeah, in this town, maybe 
-　it’s in front of the station...? Or maybe we’ll 
-　spend time together in the old man’s room or something.』
+it’s in front of the station...? Or maybe we’ll 
+spend time together in the old man’s room or something.』
 
 
 小鳥遊 乙羽（独白）(CH01_0124)
 『Going out with an old man as a man and going on a 
-　date, huh...』
+date, huh...』
 
 
 ***SELoop_Heart beating_Mix
@@ -702,7 +702,7 @@ and thoroughly rape her.
 
 小鳥遊 乙羽（独白）(CH01_0125)
 『My chest tightens... and yet, my heart is 
-　pounding.』
+pounding.』
 
 
 小鳥遊 乙羽（独白）(CH01_0126)
@@ -754,23 +754,23 @@ and thoroughly rape her.
 
 小鳥遊 乙羽（独白）(CH01_0133)
 『My face is hot. My heart’s pounding so hard it 
-　feels good. Something even further than the fact 
-　that you held my hand in the past...』
+feels good. Something even further than the fact 
+that you held my hand in the past...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽（独白）(CH01_0134)
 『That said, I don’t have any experience, so the 
-　only thing I can think of clearly is the warmth of 
-　your hand.』
+only thing I can think of clearly is the warmth of 
+your hand.』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_0135)
 『That’s all I know, so it’s only natural, but... 
-　...I feel kind of lonely.』
+...I feel kind of lonely.』
 
 
 小鳥遊 乙羽(CH01_0136)
@@ -811,7 +811,7 @@ and thoroughly rape her.
 
 小鳥遊 乙羽（独白）(CH01_0141)
 『What’s more, I just confirmed that promise... 
-　Marriage means you’re more than her...』
+Marriage means you’re more than her...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
@@ -848,14 +848,14 @@ and thoroughly rape her.
 
 小鳥遊 乙羽（独白）(CH01_0146)
 『Whoa, it’s already this late...! I’m really going 
-　to be late!』
+to be late!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0147)
 『If I say I ran a little, I can hide the fact that 
-　my face is red.』
+my face is red.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_画面外

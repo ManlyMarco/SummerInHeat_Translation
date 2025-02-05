@@ -15,7 +15,7 @@
 
 暁 莉乃（独白）(CH02_1096)
 『Today’s club activities ended just past noon, and 
-　Cocoa and I are the only ones left.』
+Cocoa and I are the only ones left.』
 
 
 ***Face_ココア_目デフォ_口困り_赤み03汗00
@@ -259,15 +259,15 @@
 
 暁 莉乃（独白）(CH02_1113)
 『It’s still summer break. Club activities are 
-　still going on. Talking to Cocoa is really fun...』
+still going on. Talking to Cocoa is really fun...』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレCE_口微笑_赤み06汗09_右１
 
 暁 莉乃（独白）(CH02_1114)
 『Secretism, huh...? But this really is something I 
-　want to keep a secret, so it can’t be helped... 
-　After all...』
+want to keep a secret, so it can’t be helped... 
+After all...』
 
 
 ***BGM_FadeOut
@@ -279,11 +279,11 @@
 
 ***FadeIn_InSide_Black
 
----------------
+―――――――――――――
 
-------------
+――――――――――
 
-------
+―――――
 
 ***FadeOut_InSide_Black
 
@@ -329,7 +329,7 @@
 
 ***BGM_END
 
-------
+―――――
 
 ―――
 
@@ -337,20 +337,20 @@
 
 暁 莉乃（独白）(CH02_1117)
 『Ever since that day, I’ve had sticky kisses with 
-　my uncle in front of Taka-kun... No, we had a 
-　passionate sex...』
+my uncle in front of Taka-kun... No, we had a 
+passionate sex...』
 
 
 暁 莉乃（独白）(CH02_1118)
 『...Taka-kun was excited too, but I got tired of 
-　it... and it didn't take long for us to part 
-　ways.』
+it... and it didn't take long for us to part 
+ways.』
 
 
 暁 莉乃（独白）(CH02_1119)
 『Right now, I’m dating my uncle as both a 
-　girlfriend and an onahole. I mean... it feels 
-　really good and we’re compatible.』
+girlfriend and an onahole. I mean... it feels 
+really good and we’re compatible.』
 
 
 暁 莉乃（独白）(CH02_1120)

@@ -55,19 +55,19 @@
 
 小鳥遊 乙羽（独白）(CH01_1364)
 『After that, I got a little selfish while hugging 
-　and rubbing up against him. He looked troubled, 
-　but it was a really happy time.』
+and rubbing up against him. He looked troubled, 
+but it was a really happy time.』
 
 
 ***BGM_FadeOut
 
 小鳥遊 乙羽（独白）(CH01_1365)
 『While I was doing that, the health teacher came 
-　back, so I glossed over why I was in the nurse’s 
-　office... and went outside like I was running away.』
+back, so I glossed over why I was in the nurse’s 
+office... and went outside like I was running away.』
 
 
--------
+――――――
 
 ―――
 
@@ -84,38 +84,38 @@
 
 小鳥遊 乙羽（独白）(CH01_1366)
 『I’m really happy to be with you today, and to 
-　have lots of sex...』
+have lots of sex...』
 
 
 ***Face_オトハ_目困り_口微笑_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1367)
 『Mobu-kun surprised me when I came to the nurse’s 
-　office, and it was a problem... but I managed to 
-　cover it up somehow...』
+office, and it was a problem... but I managed to 
+cover it up somehow...』
 
 
 ***Face_オトハ_目困りCE_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1368)
 『Mobu-kun’s pretty pushy, isn’t he...? He probably 
-　won’t change seats, and he’ll be sitting next to me 
-　the whole time during supplementary lessons. ...Ah!!』
+won’t change seats, and he’ll be sitting next to me 
+the whole time during supplementary lessons. ...Ah!!』
 
 
 ***Face_オトハ_目驚き_口焦り_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1369)
 『My textbooks and notebooks... I left my bag in 
-　the classroom in the first place! ...I have to go 
-　get it!!』
+the classroom in the first place! ...I have to go 
+get it!!』
 
 
 ***BGM_FadeOut
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み04_画面外
 ***FadeIn_InSide_Black
 
-------
+―――――
 
 ―――
 
@@ -135,7 +135,7 @@
 
 小鳥遊 乙羽（独白）(CH01_1371)
 『Huh... Is that... Uncle over there? 
-　...And......Rino, chan?』
+...And......Rino, chan?』
 
 
 ***BGM_不穏な空気{100}
@@ -149,7 +149,7 @@
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_画面外
 
 
-------
+―――――
 
 ―――
 
@@ -172,43 +172,43 @@
 
 小鳥遊 乙羽（独白）(CH01_1373)
 『...Uncle, did you make me go home early so you 
-　could talk to Rino-chan? ...What do you mean by 
-　misunderstanding...?』
+could talk to Rino-chan? ...What do you mean by 
+misunderstanding...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1374)
 『Rino-chan too... I wonder what she’s going to do 
-　by summoning her uncle to the classroom 
-　tomorrow...?』
+by summoning her uncle to the classroom 
+tomorrow...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1375)
 『It’s been bugging me this whole time... Is there 
-　really something going on between Rino and 
-　Uncle...?』
+really something going on between Rino and 
+Uncle...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1376)
 『Something you can’t tell me... while I’m not in 
-　this town...』
+this town...』
 
 
 小鳥遊 乙羽（独白）(CH01_1377)
 『Rino-chan was weird when we played in the pool, 
-　too. She tried to keep me and Uncle away from each 
-　other...』
+too. She tried to keep me and Uncle away from each 
+other...』
 
 
 小鳥遊 乙羽（独白）(CH01_1378)
 『You’re always dealing with me, Uncle, but when 
-　I’m closing in on so many dirty things... I wonder 
-　if you’re actually disillusioned?』
+I’m closing in on so many dirty things... I wonder 
+if you’re actually disillusioned?』
 
 
 小鳥遊 乙羽（独白）(CH01_1379)
 『If that’s the case... then it wouldn’t be strange 
-　for you to choose the wonderful Rino-chan, who’s 
-　much more reliable than me...』
+for you to choose the wonderful Rino-chan, who’s 
+much more reliable than me...』
 
 
 ***ST_リノ_A3_デフォ(着衣)_目睨み_口への字_赤み03_中央
@@ -231,13 +231,13 @@
 
 小鳥遊 乙羽（独白）(CH01_1380)
 『It kind of...looks like they’re having a lovers’ 
-　quarrel... There’s definitely something going on 
-　between Rino-chan and Uncle after all...』
+quarrel... There’s definitely something going on 
+between Rino-chan and Uncle after all...』
 
 
 小鳥遊 乙羽（独白）(CH01_1381)
 『...I can’t sit still anymore. I have to find 
-　out...』
+out...』
 
 
 ***FadeInBlack

@@ -162,9 +162,9 @@ hour. It's irritating...
 ***SELoop_FadeOut
 
 ***FadeIn_InSide_Black
-------------
+――――――――――
 
-----
+――――
 
 ―――
 
@@ -376,9 +376,9 @@ I can't do this!
 
 ***FadeIn_InSide_Black
 
------------
+―――――――――
 
--------
+――――――
 
 ***FadeOut_InSide_Black
 

@@ -42,8 +42,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0204)
 『The teacher is writing formulas on the blackboard 
-　to show us, and he’s holding a textbook and 
-　explaining everything carefully.』
+to show us, and he’s holding a textbook and 
+explaining everything carefully.』
 
 
 小鳥遊 乙羽（独白）(CH01_0205)
@@ -54,8 +54,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0206)
 『The rest are three boys in the same year. The 
-　teacher is a man, too. I feel like I’m floating, 
-　and I can’t calm down.』
+teacher is a man, too. I feel like I’m floating, 
+and I can’t calm down.』
 
 
 小鳥遊 乙羽（独白）(CH01_0207)
@@ -69,28 +69,28 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0208)
 『Sigh... I like this unit, and I’m good at it, so 
-　this class would normally be fun, but...』
+this class would normally be fun, but...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0209)
 『But... right now, my head is full of things that 
-　aren’t Sensei’s explanations or formulas.』
+aren’t Sensei’s explanations or formulas.』
 
 
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0210)
 『That’s... pushing aside important studies, and 
-　growing bigger by the day regardless of my 
-　will...』
+growing bigger by the day regardless of my 
+will...』
 
 
 小鳥遊 乙羽（独白）(CH01_0211)
 『From waking up to sleeping, no matter what you 
-　do, you won’t leave. If you’re even a little 
-　conscious, you’ll swell up all at once...』
+do, you won’t leave. If you’re even a little 
+conscious, you’ll swell up all at once...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口無表情_赤み05_中央
@@ -101,7 +101,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0213)
 『It probably started that day. I lost my footing 
-　on the stairs...』
+on the stairs...』
 
 
 小鳥遊 乙羽（独白）(CH01_0214)
@@ -118,7 +118,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0215)
 『It felt like... I’d pushed him down... and his 
-　big hand...』
+big hand...』
 
 
 ***SE_heart beating_mix{100}[0](1)
@@ -141,14 +141,14 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0218)
 『It’s like my uncle’s fingers are massaging my 
-　boobs... They’re squeezing... and moving...』
+boobs... They’re squeezing... and moving...』
 
 
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0219)
 『Uncle, too... O-Oji-san’s... penis... has 
-　gotten... c-hard...』
+gotten... c-hard...』
 
 
 ***SE_END
@@ -175,8 +175,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0222)
 『Ever since then...if I let my guard down, I’ll 
-　only remember that time, and I won’t be able to 
-　think of anything else...』
+only remember that time, and I won’t be able to 
+think of anything else...』
 
 
 ***SE_END
@@ -203,14 +203,14 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0225)
 『No... I’m feeling weird again. Lately, I’ve been 
-　feeling it all the time, itchy... It’s getting 
-　weird.』
+feeling it all the time, itchy... It’s getting 
+weird.』
 
 
 小鳥遊 乙羽（独白）(CH01_0226)
 『We’re in the middle of an important lesson for 
-　next semester’s studying. I... wonder what I’m 
-　thinking...』
+next semester’s studying. I... wonder what I’m 
+thinking...』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口困り_赤み07_中央
@@ -263,7 +263,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0230)
 『Ah... aaah... aah... You surprised me. You really 
-　surprised me...』
+surprised me...』
 
 
 ***SE_END
@@ -274,7 +274,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0231)
 『For a moment, I thought he’d figured out I was 
-　thinking something weird and called out to me...』
+thinking something weird and called out to me...』
 
 
 ***SE_heart beating_mix{100}[0](1)
@@ -283,7 +283,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0232)
 『It’s not just the teacher—there’s a boy who’s 
-　taking supplementary lessons with her, too...』
+taking supplementary lessons with her, too...』
 
 
 ***SE_END
@@ -297,8 +297,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0233)
 『But if I feel a little relieved, I’ll soon... 
-　remember again... and I won’t be able to stop 
-　itching...』
+remember again... and I won’t be able to stop 
+itching...』
 
 
 ***SE_END
@@ -321,7 +321,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0236)
 『I can’t calm down... I haven’t been able to get 
-　the teacher’s story into my head at all...』
+the teacher’s story into my head at all...』
 
 
 小鳥遊 乙羽
@@ -332,14 +332,14 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0237)
 『To avoid being noticed, I gently... glanced at 
-　everyone in the classroom...』
+everyone in the classroom...』
 
 
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0238)
 『...Sensei, we’re classmates. It’s all... men. 
-　Everyone’s... men, so... everyone’s over there...』
+Everyone’s... men, so... everyone’s over there...』
 
 
 ***SE_END
@@ -348,8 +348,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0239)
 『...I'm with you, Uncle... I... I'm stuck with 
-　your dick... ...No, no! What am I thinking...? I 
-　can't do this...』
+your dick... ...No, no! What am I thinking...? I 
+can't do this...』
 
 
 ***SE_END
@@ -358,8 +358,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0240)
 『And yet... ...When I think about it, my eyes just 
-　wander off on their own. There’s something wrong 
-　with this.』
+wander off on their own. There’s something wrong 
+with this.』
 
 
 ***SE_END
@@ -368,7 +368,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0241)
 『There really is something wrong with me... Even 
-　though I’m crazy.』
+though I’m crazy.』
 
 
 ***SE_END
@@ -382,7 +382,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0242)
 『Uncle got excited... from my boobs... and I-It's 
-　the same thing... as your big dick...』
+the same thing... as your big dick...』
 
 
 ***SE_END
@@ -391,7 +391,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0243)
 『Uncle... got excited... from my dirty parts... 
-　...and it hit...that hard...feel.』
+...and it hit...that hard...feel.』
 
 
 ***SE_END
@@ -408,7 +408,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0245)
 『My head’s full just thinking about that time 
-　again. No... I can’t...』
+again. No... I can’t...』
 
 
 ***SE_END
@@ -435,8 +435,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0249)
 『U-Um... It’s hard, and it’s about the size... 
-　When I thought something like that would go 
-　inside... inside that place...』
+When I thought something like that would go 
+inside... inside that place...』
 
 
 ***Cinema_CI01-OP-0301_01
@@ -444,7 +444,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0250)
 『It really, really itches. I don’t know why, 
-　but... I really... couldn’t... hold back...』
+but... I really... couldn’t... hold back...』
 
 
 小鳥遊 乙羽(CH01_0251)
@@ -457,14 +457,14 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0253)
 『I’d never...be able to stop myself if they found 
-　out about this... ...I can’t stop them. No matter 
-　how hard I try...I won’t be able to hold back anymore.』
+out about this... ...I can’t stop them. No matter 
+how hard I try...I won’t be able to hold back anymore.』
 
 
 小鳥遊 乙羽（独白）(CH01_0254)
 『It’s just the cloth rubbing against it... 
-　Amazing... Something’s oozing out... deep inside 
-　my head... It’s like I’ve got a fever.』
+Amazing... Something’s oozing out... deep inside 
+my head... It’s like I’ve got a fever.』
 
 
 小鳥遊 乙羽(CH01_0255)
@@ -478,23 +478,23 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0256)
 『I’m just doing this... Even though this is the 
-　only place I’m messing with, it’s spreading all 
-　over my body... It’s like it’ll echo...』
+only place I’m messing with, it’s spreading all 
+over my body... It’s like it’ll echo...』
 
 
 小鳥遊 乙羽（独白）(CH01_0257)
 『The more I fiddle with it... the more strange, 
-　numbing sensations keep spreading...』
+numbing sensations keep spreading...』
 
 
 小鳥遊 乙羽（独白）(CH01_0258)
 『That place is really... tingling and feels 
-　good...』
+good...』
 
 
 小鳥遊 乙羽（独白）(CH01_0259)
 『It feels good, but... it feels really weird. 
-　It’s... deeper... than my stomach...』
+It’s... deeper... than my stomach...』
 
 
 小鳥遊 乙羽(CH01_0260)
@@ -505,22 +505,22 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0261)
 『Inside here... in the back... right in the middle 
-　of my stomach... It’s kind of... fluffy...』
+of my stomach... It’s kind of... fluffy...』
 
 
 小鳥遊 乙羽（独白）(CH01_0262)
 『It’s so fluffy... It’s like the itch’s subsided a 
-　little... but it’s kind of... different...』
+little... but it’s kind of... different...』
 
 
 小鳥遊 乙羽（独白）(CH01_0263)
 『I don’t know what to do. I have to stop... Stop, 
-　hurry... I need to listen to class... Class...』
+hurry... I need to listen to class... Class...』
 
 
 小鳥遊 乙羽（独白）(CH01_0264)
 『How... can I... concentrate...? What should I 
-　do... in class...?』
+do... in class...?』
 
 
 小鳥遊 乙羽(CH01_0265)
@@ -532,8 +532,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0266)
 『I want to touch... deeper... inside... from 
-　above... just a little bit... Here...? Just a 
-　little...』
+above... just a little bit... Here...? Just a 
+little...』
 
 
 小鳥遊 乙羽（独白）(CH01_0267)
@@ -546,23 +546,23 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0269)
 『I wonder... if my uncle's gonna be able to... get 
-　in there... properly... and have sex...』
+in there... properly... and have sex...』
 
 
 小鳥遊 乙羽（独白）(CH01_0270)
 『It’s really embarrassing... All I can think about 
-　is this... I can’t stop. I want to stop, but... 
-　I’m unable to stop...』
+is this... I can’t stop. I want to stop, but... 
+I’m unable to stop...』
 
 
 小鳥遊 乙羽（独白）(CH01_0271)
 『Stop...someone... It’s frustrating... I want 
-　more, stronger stimulation... More...』
+more, stronger stimulation... More...』
 
 
 小鳥遊 乙羽（独白）(CH01_0272)
 『It’s not a pen... Gently...so that they’ll never 
-　find out...』
+find out...』
 
 
 ***Cinema_CI01-OP-0301_05
@@ -574,17 +574,17 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0274)
 『A-Amazing...! It’s such a bad thing... But... 
-　it’s completely different from before...』
+it’s completely different from before...』
 
 
 小鳥遊 乙羽（独白）(CH01_0275)
 『Even though it makes the itch stronger... It’s so 
-　fluffy, and at the same time, it’s really tight.』
+fluffy, and at the same time, it’s really tight.』
 
 
 小鳥遊 乙羽（独白）(CH01_0276)
 『I don’t know if this feeling is right or not, but 
-　it feels really good... maybe...』
+it feels really good... maybe...』
 
 
 ***Cinema_CI01-OP-0301_06
@@ -592,12 +592,12 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0277)
 『...Ah... It’s getting... slippery under my 
-　panties... Really... no good...』
+panties... Really... no good...』
 
 
 小鳥遊 乙羽（独白）(CH01_0278)
 『Uncle... I’m going crazy... It’s because you’re 
-　excited by my boobs...』
+excited by my boobs...』
 
 
 ***Cinema_CI01-OP-0301_07
@@ -605,17 +605,17 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0279)
 『It really does feel good. Maybe not... Doing 
-　this... feels really, really good...』
+this... feels really, really good...』
 
 
 小鳥遊 乙羽（独白）(CH01_0280)
 『I’m just rubbing it lightly through the cloth... 
-　but it’s getting slimier and slimier...』
+but it’s getting slimier and slimier...』
 
 
 小鳥遊 乙羽（独白）(CH01_0281)
 『It’s like my fingers are digging into it...and 
-　slipping...』
+slipping...』
 
 
 ***Cinema_CI01-OP-0301_08
@@ -631,7 +631,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0284)
 『I wonder if I managed to cover it up... I let 
-　out... a big voice... But...』
+out... a big voice... But...』
 
 
 ***Cinema_CI01-OP-0301_09
@@ -639,13 +639,13 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0285)
 『Wha... What’s this place... w-wow... it’s 
-　tingling... It’s not numb or anything... I feel 
-　like I’ve been electrocuted...』
+tingling... It’s not numb or anything... I feel 
+like I’ve been electrocuted...』
 
 
 小鳥遊 乙羽（独白）(CH01_0286)
 『For a moment, I thought all the sounds around me 
-　had disappeared. Amazing...』
+had disappeared. Amazing...』
 
 
 ***Cinema_CI01-OP-0301_10
@@ -653,27 +653,27 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0287)
 『I-I’ll do it one more time... I’ll make light of 
-　what happened earlier... S-Still... about what 
-　happened with Uncle...』
+what happened earlier... S-Still... about what 
+happened with Uncle...』
 
 
 ***Cinema_CI01-OP-0301_11
 
 小鳥遊 乙羽（独白）(CH01_0288)
 『No, I can’t... Ahh, now that I think about it, it 
-　feels... really good... It’s making me tingle 
-　again...』
+feels... really good... It’s making me tingle 
+again...』
 
 
 小鳥遊 乙羽（独白）(CH01_0289)
 『Geez, geez...gh... I want to stay like this 
-　forever...!』
+forever...!』
 
 
 小鳥遊 乙羽（独白）(CH01_0290)
 『I’ll always be like this... Touch me, more... 
-　More... Fluffy and tight. Until all the itching 
-　that’s going to hurt is gone...』
+More... Fluffy and tight. Until all the itching 
+that’s going to hurt is gone...』
 
 
 ***LoopCV_FadeOut
@@ -704,7 +704,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0292)
 『Gh... My mind’s blank... What should I do? They 
-　found out...? How? What? What...』
+found out...? How? What? What...』
 
 
 教師
@@ -751,7 +751,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0297)
 『I don’t know what’s going on anymore. I have to 
-　do something...!』
+do something...!』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口困り_赤み07_中央
@@ -762,15 +762,15 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0299)
 『What should I do? Let’s see... This is, four, 
-　minus... Um... umm...』
+minus... Um... umm...』
 
 
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0300)
 『I’ll split it, multiply it... Huh...? ...Nnh!! 
-　It’s still... throbbing where I was fiddling with 
-　it... No...』
+It’s still... throbbing where I was fiddling with 
+it... No...』
 
 
 ***Face_オトハ_目困り_口無表情_赤み07
@@ -785,8 +785,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0302)
 『What should I do...? I know how to solve it, 
-　but... It’s so fluffy... I’m so dazed, I can’t 
-　calculate at all...』
+but... It’s so fluffy... I’m so dazed, I can’t 
+calculate at all...』
 
 
 教師
@@ -824,8 +824,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0304)
 『...Ahh, geez... I was in the classroom... And I 
-　was so engrossed in touching that place during an 
-　important class...』
+was so engrossed in touching that place during an 
+important class...』
 
 
 ***Face_オトハ_目悲しい・テレ_口ヘの字_赤み06
@@ -842,7 +842,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0306)
 『It’s embarrassing... It’s like I’m not who I used 
-　to be.』
+to be.』
 
 
 小鳥遊 乙羽（独白）(CH01_0307)
@@ -851,8 +851,8 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0308)
 『At this rate, even teachers will think I’m a girl 
-　who can’t do it, and if my grades drop, I don’t 
-　know what my mom’ll say to me...』
+who can’t do it, and if my grades drop, I don’t 
+know what my mom’ll say to me...』
 
 
 ***SE_heart beating_mix{100}[0](1)
@@ -861,7 +861,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0309)
 『But it’s still... hot. I’m excited... Touching it 
-　feels really good.』
+feels really good.』
 
 
 ***SE_END
@@ -876,7 +876,7 @@ taking supplementary lessons.
 
 小鳥遊 乙羽（独白）(CH01_0311)
 『I wonder what I can do, what I should do...to 
-　free myself from this state. It’s painful...』
+free myself from this state. It’s painful...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口つぐみ_赤み08_中央

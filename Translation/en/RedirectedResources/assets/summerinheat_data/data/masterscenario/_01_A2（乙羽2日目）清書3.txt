@@ -484,7 +484,7 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0169)
 『I came running... I need to calm down a 
-　little...』
+little...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口無表情_赤み06_中央
@@ -517,11 +517,11 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0175)
 『I... want to touch it more... Hide... in this 
-　shadow...』
+shadow...』
 
 
 ***FadeIn_InSide_Black
--------
+――――――
 
 
 ***BGround_BG28_00
@@ -540,8 +540,8 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0177)
 『I’m... touching it myself... but it’s completely 
-　different from back then... And yet... now that I 
-　think about it, I’m really... excited...』
+different from back then... And yet... now that I 
+think about it, I’m really... excited...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み07
@@ -571,7 +571,7 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0182)
 『I can tell your nipples through your clothes. 
-　You're pushing up your bra... and rubbing it.』
+You're pushing up your bra... and rubbing it.』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み07
@@ -584,7 +584,7 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0184)
 『It hurts. It’s not the pain after running... What 
-　is this...?』
+is this...?』
 
 
 小鳥遊 乙羽(CH01_0185)
@@ -607,7 +607,7 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0188)
 『I-It's because... I want to have sex... or 
-　something, right...?』
+something, right...?』
 
 
 ***Face_オトハ_目悲しい・テレCE_口困り_赤み08
@@ -650,7 +650,7 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0194)
 『I can’t stop touching your chest. Doing this at 
-　school... I have to go to supplementary lessons.』
+school... I have to go to supplementary lessons.』
 
 
 小鳥遊 乙羽(CH01_0195)
@@ -659,14 +659,14 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0196)
 『I’m just touching your breasts, your boobs... but when I 
-　think you’re touching me, it’s completely different... A 
-　sensation I don’t know wells up from deep within my body.』
+think you’re touching me, it’s completely different... A 
+sensation I don’t know wells up from deep within my body.』
 
 
 小鳥遊 乙羽（独白）(CH01_0197)
 『It’s tingling, and I’m shivering, and my head... 
-　is wobbling. It’s like I can’t breathe, and the 
-　back of my nose is prickling...』
+is wobbling. It’s like I can’t breathe, and the 
+back of my nose is prickling...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み08
@@ -679,12 +679,12 @@ fact that we couldn't stay tangled up like that.
 
 小鳥遊 乙羽（独白）(CH01_0199)
 『If we find something like this... No, even if we 
-　don’t find it, we can’t.』
+don’t find it, we can’t.』
 
 
 小鳥遊 乙羽（独白）(CH01_0200)
 『Ever since I met you, Uncle, I’ve been acting a 
-　little weird...』
+little weird...』
 
 
 ***Face_オトハ_目微笑NL_口困り_赤み08

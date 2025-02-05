@@ -293,9 +293,9 @@ looking forward to it.
 
 ***FadeIn_InSide_Black
 
-------------
+――――――――――
 
-------
+―――――
 
 
 ***FadeOut_InSide_Black

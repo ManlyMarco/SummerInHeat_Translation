@@ -73,9 +73,9 @@
 ***BGM_FadeOut
 ***SELoop_FadeOut
 
----------------
+―――――――――――――
 
----------
+―――――――
 
 ―――
 
@@ -822,19 +822,19 @@ didn't want to see it, but I stared at it.
 ***FadeIn_InSide_Black
 
 
----------------
+―――――――――――――
 
 ***SE_ジッパーOpening Zipper{100}[1.5](1)
 
 
-------
+―――――
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
 
 ―――
 
--I'm sorry.
+―
 
 
 ***Cinema_CI02-MS-0601_00

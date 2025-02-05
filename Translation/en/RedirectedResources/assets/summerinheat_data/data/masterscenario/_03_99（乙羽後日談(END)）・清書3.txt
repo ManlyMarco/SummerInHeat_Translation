@@ -3,18 +3,18 @@
 
 ***BGround_BG99_00
 
-------
+―――――
 
 ―――
 
--I'm sorry.
+―
 
 小鳥遊 乙羽（独白）(CH01_1539)
 『Time passed in the blink of an eye after that...』
 
 小鳥遊 乙羽（独白）(CH01_1540)
 『Summer vacation’s over, and the new semester’s 
-　starting... I...』
+starting... I...』
 
 
 ***SELoop_夕方のヒグラシ_ライセンス確認済み{45}
@@ -45,8 +45,8 @@
 
 小鳥遊 乙羽（独白）(CH01_1542)
 『I was nervous at first... but now I’ve gotten 
-　used to the class and made some close friends, 
-　even when I’m withdrawn.』
+used to the class and made some close friends, 
+even when I’m withdrawn.』
 
 
 ***Face_オトハ_目大笑い_口微笑_赤み03
@@ -129,16 +129,16 @@
 
 小鳥遊 乙羽（独白）(CH01_1548)
 『It’s completely different from my previous school, 
-　and everyone’s so carefree... I’m living a life where 
-　I feel like it’s the first time I’ve had fun at school.』
+and everyone’s so carefree... I’m living a life where 
+I feel like it’s the first time I’ve had fun at school.』
 
 小鳥遊 乙羽（独白）(CH01_1549)
 『But that’s not the only reason I think it’s 
-　fun...』
+fun...』
 
 ***BGM_FadeOut
 
-------
+―――――
 
 ―――
 
@@ -163,34 +163,34 @@
 
 小鳥遊 乙羽（独白）(CH01_1551)
 『My uncle still lives and works at this school as 
-　a janitor even after the new term starts.』
+a janitor even after the new term starts.』
 
 
 小鳥遊 乙羽（独白）(CH01_1552)
 『That’s because the previous janitor is still sick 
-　and doesn’t seem to be doing well...』
+and doesn’t seem to be doing well...』
 
 
 小鳥遊 乙羽（独白）(CH01_1553)
 『I was told that he retired due to his age. That’s 
-　why the old man was hired as an official janitor.』
+why the old man was hired as an official janitor.』
 
 
 小鳥遊 乙羽（独白）(CH01_1554)
 『I thought it might only be during summer 
-　vacation... in the height of summer, but... my 
-　expectations were betrayed in a good way.』
+vacation... in the height of summer, but... my 
+expectations were betrayed in a good way.』
 
 
 小鳥遊 乙羽（独白）(CH01_1555)
 『Secretly... our relationship continues without 
-　anyone noticing. So...』
+anyone noticing. So...』
 
 
 小鳥遊 乙羽（独白）(CH01_1556)
 『I’m going to spend the next summer, and the 
-　next... and the whole time... with the man I 
-　love.』
+next... and the whole time... with the man I 
+love.』
 
 
 End

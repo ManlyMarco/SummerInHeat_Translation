@@ -164,11 +164,11 @@
 
 ***FadeIn_InSide_Black
 
-------
+―――――
 
 ―――
 
-―――
+―…
 
 A few days later...
 
@@ -264,11 +264,11 @@ A few days later...
 
 ***LoopCV_FadeOut
 ***FadeIn_InSide_Black
-------
+―――――
 
 ―――
 
-―――
+―…
 
 A few more days later...
 
@@ -383,11 +383,11 @@ A few more days later...
 ***Cinema_END
 
 
--------
+――――――
 
 ―――
 
--I'm sorry.
+―
 
 
 ***SELoop_se_summernightrec_48khz_24bit_購入済み{80}

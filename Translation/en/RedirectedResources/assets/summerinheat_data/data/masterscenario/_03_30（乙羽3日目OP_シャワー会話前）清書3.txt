@@ -88,9 +88,9 @@ trying to cover up her guilt.
 
 ***BGM_FadeOut
 
----------
+――――――――
 
-----
+――――
 
 ***SELoop_se_cocicadasils2r_48khz_24bit_購入済み{45}
 
@@ -426,9 +426,9 @@ she wanted.
 
 ***FadeIn_InSide_Black
 
----------
+―――――――
 
-----
+――――
 
 ―――
 
@@ -485,13 +485,13 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0951)
 『I followed after Rino-chan and got out of the 
-　pool.』
+pool.』
 
 
 小鳥遊 乙羽（独白）(CH01_0952)
 『Every time the supervisor comes to watch, I take 
-　breaks, but when I get out of the water, my body 
-　feels heavy all at once.』
+breaks, but when I get out of the water, my body 
+feels heavy all at once.』
 
 
 ***BGM_FadeOut
@@ -500,8 +500,8 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0953)
 『I didn’t see your uncle in the end, but I wonder 
-　if he was somewhere... Or maybe he wasn’t 
-　here...?』
+if he was somewhere... Or maybe he wasn’t 
+here...?』
 
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono{100}[0](1)
@@ -537,16 +537,16 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0956)
 『Unlike me, who’s happy now, Rino-chan immediately 
-　hides her body... She looks kind of 
-　embarrassed...』
+hides her body... She looks kind of 
+embarrassed...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み03汗10
 
 小鳥遊 乙羽（独白）(CH01_0957)
 『Huh...? You didn’t look like you were doing 
-　anything in front of the teacher who came to see 
-　you earlier... Why?』
+anything in front of the teacher who came to see 
+you earlier... Why?』
 
 
 主人公
@@ -575,8 +575,8 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0959)
 『I was looking for my uncle, but seeing him like 
-　this... It’s still embarrassing... But it makes me 
-　happy...』
+this... It’s still embarrassing... But it makes me 
+happy...』
 
 
 主人公
@@ -593,7 +593,7 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0960)
 『Rino-chan stood in front of me, blocking my 
-　uncle’s line of sight.』
+uncle’s line of sight.』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み03汗10
@@ -605,14 +605,14 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0961)
 『I can tell that Uncle Rino-chan’s body is staring 
-　at me while apologizing for standing in my way.』
+at me while apologizing for standing in my way.』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み05汗10
 
 小鳥遊 乙羽（独白）(CH01_0962)
 『It’s... embarrassing for me, but if it’s you... I 
-　don’t mind being seen...』
+don’t mind being seen...』
 
 
 ***Face_リノ_目怒り_口怒り_赤み06汗10
@@ -625,8 +625,8 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0963)
 『Rino-chan, your face is bright red... You’re fine 
-　wearing a leotard in the club, but you’re 
-　embarrassed when your uncle sees you...』
+wearing a leotard in the club, but you’re 
+embarrassed when your uncle sees you...』
 
 
 主人公
@@ -646,7 +646,7 @@ she wanted.
 
 小鳥遊 乙羽（独白）(CH01_0964)
 『The moment I wondered why, Rino grabbed my hand 
-　and started walking away from my uncle.』
+and started walking away from my uncle.』
 
 
 ***ST_オトハ_B3_旧スク(上下脱+パンスト脱)_目悲しい・テレ_口無表情_赤み03汗10_画面外
@@ -654,7 +654,7 @@ she wanted.
 
 ***FadeIn_InSide_Black
 
-----
+――――
 
 ―――
 
@@ -714,11 +714,11 @@ I put my hand on the door next to it.
 
 ***FadeIn_InSide_Black
 
----------
+―――――――
 
 ***SE_Builder_Game_Door_Open_Squeak_7{100}[0](1)
 
-------
+―――――
 
 ***SE_Antique Faucet Water Turn On_加工{100}[0](1)
 
@@ -768,7 +768,7 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0971)
 『...Why do you want to know more about Uncle? 
-　...I’ll try asking him myself.』
+...I’ll try asking him myself.』
 
 
 ***ST_オトハ_B3_旧スク(上下脱+パンスト脱)_目悲しい・テレ_口微笑_赤み03汗10_中央
@@ -796,15 +796,15 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0974)
 『I went out of my way to ask, but it’s not a clear 
-　answer...』
+answer...』
 
 
 ***Face_オトハ_目困り_口無表情_赤み03汗10
 
 小鳥遊 乙羽（独白）(CH01_0975)
 『...It’s the same with what happened earlier, but it looks 
-　like they’re trying to keep me and Uncle away from each 
-　other. And they’ll be embarrassed about their swimsuits...』
+like they’re trying to keep me and Uncle away from each 
+other. And they’ll be embarrassed about their swimsuits...』
 
 
 ***Face_オトハ_目困りCE_口つぐみ_赤み03汗10
@@ -830,8 +830,8 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0977)
 『Of course, it’s not like I should suddenly ask 
-　you about your uncle as a member of the opposite 
-　sex...』
+you about your uncle as a member of the opposite 
+sex...』
 
 
 ***SE_Builder_Game_Door_Open_Squeak_7{70}[0](1)
@@ -861,8 +861,8 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0981)
 『The moment you’re about to scream, you’ve got a 
-　soothing gesture and a finger to your mouth, 
-　telling you to be quiet with your other hand.』
+soothing gesture and a finger to your mouth, 
+telling you to be quiet with your other hand.』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み04汗10
@@ -875,7 +875,7 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0982)
 『『In a very quiet voice, as if glued to me, the old 
-　man is smiling as he walks inside.』』
+man is smiling as he walks inside.』』
 
 
 ***SE_heart beating_mix{100}[0](3)
@@ -889,8 +889,8 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0983)
 『My heart’s still pounding... It’s really 
-　embarrassing when you put it into words, Uncle, so 
-　I can’t come up with an excuse right away...』
+embarrassing when you put it into words, Uncle, so 
+I can’t come up with an excuse right away...』
 
 
 ***Face_オトハ_目困り_口無表情_赤み04汗10
@@ -920,8 +920,8 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_0986)
 『It’s so close... It’s embarrassing, but I’m also 
-　a little happy... ...My heart’s beating so fast... 
-　it’s still painful...』
+a little happy... ...My heart’s beating so fast... 
+it’s still painful...』
 
 
 主人公
@@ -1244,7 +1244,7 @@ I put my hand on the door next to it.
 
 小鳥遊 乙羽（独白）(CH01_1016)
 『I can tell you’re telling me to ‘disguise’ it 
-　with my eyes... They’ll notice...』
+with my eyes... They’ll notice...』
 
 
 ***Cinema_CI01-MS-0301_01

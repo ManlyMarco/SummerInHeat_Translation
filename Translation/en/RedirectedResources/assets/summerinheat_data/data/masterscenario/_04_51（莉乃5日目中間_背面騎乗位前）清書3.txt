@@ -46,12 +46,12 @@
 
 ***ST_ココア_B1_デフォ(着衣)_目デフォ_口無表情_赤み03_画面外
 
----------
+―――――――
 
 
 ***SE_footsteps_trainers_asphalt_run_x8_loop_mono{80}
 
-------
+―――――
 
 
 ***SE_door_wood_bedroom_close_01_mono{100}
@@ -60,7 +60,7 @@
 
 ―――
 
--I'm sorry.
+―
 
 
 ***SE_ドスン・ドサ音2{100}

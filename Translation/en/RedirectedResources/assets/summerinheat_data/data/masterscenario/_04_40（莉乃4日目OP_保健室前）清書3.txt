@@ -29,8 +29,8 @@
 
 暁 莉乃（独白）(CH02_0738)
 『...I’m going to get worked up with you... I knew 
-　it... My body is honest... I can’t help but feel 
-　it... from this person...』
+it... My body is honest... I can’t help but feel 
+it... from this person...』
 
 
 主人公
@@ -47,15 +47,15 @@
 
 暁 莉乃（独白）(CH02_0740)
 『Lately, every day... whenever it’s used like a 
-　tool, I’ve become more and more sensitive... I 
-　don’t feel like resisting... anymore...』
+tool, I’ve become more and more sensitive... I 
+don’t feel like resisting... anymore...』
 
 
 ***Face_リノ_目悲しい・テレCE_口困り_赤み08汗08
 
 暁 莉乃（独白）(CH02_0741)
 『I just want... to be swept away by pleasure like 
-　this...』
+this...』
 
 
 ***BGM_FadeOut
@@ -65,9 +65,9 @@
 
 ***FadeIn_InSide_Black
 
----------
+――――――――
 
-----
+――――
 
 ***FadeOut_InSide_Black
 
@@ -84,22 +84,22 @@
 
 暁 莉乃（独白）(CH02_0743)
 『This relationship has been dragging on for 
-　days... It’s become natural for us to have sex...』
+days... It’s become natural for us to have sex...』
 
 
 ***Face_リノ_目悲しい・テレCE_口無表情_赤み04汗00
 
 暁 莉乃（独白）(CH02_0744)
 『I’ll satisfy this person, change my clothes... 
-　and finally be able to return home peacefully.』
+and finally be able to return home peacefully.』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目デフォNL_口困り_赤み04汗00_中央
 
 暁 莉乃（独白）(CH02_0745)
 『Come to think of it, my phone... It’s been muted 
-　and shut inside my bag the whole time. Taka-kun 
-　might contact me soon.』
+and shut inside my bag the whole time. Taka-kun 
+might contact me soon.』
 
 
 ***Face_リノ_目デフォNL_口無表情_赤み04汗00
@@ -119,7 +119,7 @@
 
 暁 莉乃（独白）(CH02_0747)
 『There's been a few missed calls, and a few LIME 
-　messages... from Taka-kun...』
+messages... from Taka-kun...』
 
 
 ***Face_リノ_目デフォNL_口無表情_赤み03汗00
@@ -131,7 +131,7 @@
 
 暁 莉乃（独白）(CH02_0748)
 『She’s grinning as she peers over my shoulder. I 
-　immediately get annoyed and twist my body.』
+immediately get annoyed and twist my body.』
 
 
 暁 莉乃(CH02_0749)
@@ -144,7 +144,7 @@
 
 暁 莉乃（独白）(CH02_0750)
 『There’s so much... This hasn’t happened since the 
-　fight. Did something happen...?』
+fight. Did something happen...?』
 
 
 ***BGM_不穏な空気{100}
@@ -166,7 +166,7 @@
 
 暁 莉乃（独白）(CH02_0751)
 『My heart skips a beat... But... they shouldn’t 
-　have... found out.』
+have... found out.』
 
 
 たかし
@@ -212,8 +212,8 @@
 
 暁 莉乃（独白）(CH02_0755)
 『This time I got this call... I was having sex 
-　with my uncle... and I was so engrossed... I 
-　didn’t notice...』
+with my uncle... and I was so engrossed... I 
+didn’t notice...』
 
 
 暁 莉乃(CH02_0756)
@@ -233,15 +233,15 @@
 
 暁 莉乃（独白）(CH02_0758)
 『I was about to retort harshly, so I was at a loss 
-　for words... This person... Uncle... wasn’t 
-　forcing me to do it.』
+for words... This person... Uncle... wasn’t 
+forcing me to do it.』
 
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み03汗00
 
 暁 莉乃（独白）(CH02_0759)
 『I... had a lot of fun... with you... ...What the 
-　hell did I do...?』
+hell did I do...?』
 
 
 暁 莉乃(CH02_0760)
@@ -252,7 +252,7 @@
 
 暁 莉乃（独白）(CH02_0761)
 『...She should still be resting... I want to go 
-　see Taka-kun as soon as possible. I have to go...』
+see Taka-kun as soon as possible. I have to go...』
 
 
 ***BGM_FadeOut
@@ -265,9 +265,9 @@
 
 ***SE_走り去る足音_concrete normal_running_mix{100}[0](2)
 
----------
+――――――――
 
-----
+――――
 
 ―――
 
@@ -283,15 +283,15 @@
 
 暁 莉乃（独白）(CH02_0762)
 『When I arrived at the nurse’s office, the teacher 
-　wasn’t there... and Taka-kun was lying in one of 
-　the beds in the back.』
+wasn’t there... and Taka-kun was lying in one of 
+the beds in the back.』
 
 
 ***SE_走り去る足音_concrete normal_running_mix{100}[5](1)
 
 暁 莉乃（独白）(CH02_0763)
 『I’ll run over to you, still feeling guilty and 
-　uneasy.』
+uneasy.』
 
 
 ***BGM_君と穏やかな午後{100}
@@ -311,8 +311,8 @@
 
 暁 莉乃（独白）(CH02_0765)
 『I’m terribly sorry... I don’t have the right to 
-　touch you, but I’m so anxious I can’t stand it... 
-　I squeeze Taka-kun’s hand on the bed.』
+touch you, but I’m so anxious I can’t stand it... 
+I squeeze Taka-kun’s hand on the bed.』
 
 
 たかし
@@ -324,7 +324,7 @@
 
 暁 莉乃（独白）(CH02_0766)
 『When you contacted me saying you were injured... 
-　I...』
+I...』
 
 
 ***Face_リノ_目焦りCE_口怒り_赤み03汗00
@@ -373,8 +373,8 @@
 
 暁 莉乃（独白）(CH02_0771)
 『I knew it... Taka-kun is the only one I really love from 
-　the bottom of my heart... ...This me... makes me hate it 
-　the worst, but... I love it so much, I can’t help but love it.』
+the bottom of my heart... ...This me... makes me hate it 
+the worst, but... I love it so much, I can’t help but love it.』
 
 
 ***Face_リノ_目困り_口無表情_赤み03汗00
@@ -390,8 +390,8 @@
 
 暁 莉乃（独白）(CH02_0773)
 『『I wanted to touch you more no matter what... I put my 
-　head lightly on Taka-kun's chest, as if fawning over 
-　him, while being careful not to put my weight on him.』』
+head lightly on Taka-kun's chest, as if fawning over 
+him, while being careful not to put my weight on him.』』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
@@ -410,8 +410,8 @@
 
 暁 莉乃（独白）(CH02_0775)
 『Taka-kun’s chest... I touched his skin through 
-　his shirt, felt his heat...... I remember having 
-　sex with him earlier.』
+his shirt, felt his heat...... I remember having 
+sex with him earlier.』
 
 
 ***Face_リノ_目焦り_口無表情_赤み02汗00
@@ -424,8 +424,8 @@
 
 暁 莉乃（独白）(CH02_0777)
 『No. Why is this... going through my head...? 
-　There’s a limit to how stupid I can be... Even 
-　though I’m with Taka-kun right now...』
+There’s a limit to how stupid I can be... Even 
+though I’m with Taka-kun right now...』
 
 
 たかし
@@ -455,8 +455,8 @@
 
 暁 莉乃（独白）(CH02_0780)
 『I want to erase my stupid thoughts... and fix me 
-　somehow... I want to stop my relationship with 
-　that person... and only do it with Taka-kun...』
+somehow... I want to stop my relationship with 
+that person... and only do it with Taka-kun...』
 
 
 ***Face_リノ_目悲しい・テレCE_口怒り_赤み05汗00
@@ -509,8 +509,8 @@
 
 暁 莉乃（独白）(CH02_0786)
 『Even though I don't have the face to face with 
-　you after all that... I'm... starting to get 
-　excited about Taka-kun being erect...』
+you after all that... I'm... starting to get 
+excited about Taka-kun being erect...』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み05汗00
@@ -560,13 +560,13 @@
 
 暁 莉乃（独白）(CH02_0789)
 『『This is...Taka-kun's...cock... His breathing is 
-　rough...and it's really hot.』』
+rough...and it's really hot.』』
 
 
 暁 莉乃（独白）(CH02_0790)
 『I’m... going to have sex with the person I really 
-　love for the first time... ...It’s really... 
-　exciting, and I’m happy...』
+love for the first time... ...It’s really... 
+exciting, and I’m happy...』
 
 
 ***Face_リノ_目微笑_口微笑_赤み07汗00
@@ -580,8 +580,8 @@
 
 暁 莉乃（独白）(CH02_0792)
 『...Taka-kun’s excited like this, too... It’s okay 
-　if he thinks I’m dirty... I made him hold back, 
-　so... I’ll make him feel good a lot...』
+if he thinks I’m dirty... I made him hold back, 
+so... I’ll make him feel good a lot...』
 
 
 ***ST_リノ_D3_デフォ(着衣)_目微笑_口微笑_赤み07汗00_画面外
@@ -607,7 +607,7 @@
 
 暁 莉乃（独白）(CH02_0795)
 『Huh... Taka-kun’s... a little... small...? Is it 
-　still not big enough...?』
+still not big enough...?』
 
 
 ***Cinema_CI02-MS-0401_01
@@ -625,8 +625,8 @@
 
 暁 莉乃（独白）(CH02_0797)
 『No... It won’t get any bigger. No matter how much 
-　I stimulate it, it’s just twitching... And the 
-　precum’s really thin...』
+I stimulate it, it’s just twitching... And the 
+precum’s really thin...』
 
 
 たかし
@@ -637,7 +637,7 @@
 
 暁 莉乃（独白）(CH02_0798)
 『Wh-What is this feeling...? I really like you, 
-　Taka-kun, and I’m incredibly excited...』
+Taka-kun, and I’m incredibly excited...』
 
 
 暁 莉乃(CH02_0799)
@@ -647,7 +647,7 @@
 
 暁 莉乃（独白）(CH02_0800)
 『...When I had sex with Taka-kun... I wonder... if 
-　I’d be satisfied with this size...?』
+I’d be satisfied with this size...?』
 
 
 ***Cinema_CI02-MS-0401_03
@@ -658,7 +658,7 @@
 
 暁 莉乃（独白）(CH02_0801)
 『Gh, what are you thinking...?!! ...I’m with the 
-　person I love! It’ll definitely feel good...!』
+person I love! It’ll definitely feel good...!』
 
 
 暁 莉乃(CH02_0802)
@@ -668,7 +668,7 @@
 
 暁 莉乃（独白）(CH02_0803)
 『The size... shouldn’t have anything to do with 
-　it... Just doing this makes me happy right now...』
+it... Just doing this makes me happy right now...』
 
 
 たかし
@@ -678,7 +678,7 @@
 
 暁 莉乃（独白）(CH02_0804)
 『It’s different from having sex with someone who 
-　just enjoys raping you...』
+just enjoys raping you...』
 
 
 暁 莉乃(CH02_0805)
@@ -688,8 +688,8 @@
 
 暁 莉乃（独白）(CH02_0806)
 『Taka-kun and I love each other, after all... 
-　Having sex with each other... with love... would 
-　definitely feel even better...!』
+Having sex with each other... with love... would 
+definitely feel even better...!』
 
 
 ***Cinema_CI02-MS-0401_05
@@ -706,8 +706,8 @@
 
 暁 莉乃（独白）(CH02_0808)
 『Unlike that guy, he’ll take good care of me a 
-　lot...! So, make me feel better, more 
-　comfortable...』
+lot...! So, make me feel better, more 
+comfortable...』
 
 
 たかし
@@ -769,8 +769,8 @@
 
 暁 莉乃（独白）(CH02_0813)
 『Even though I'm finally getting wet... 
-　Taka-kun... you came already... It's really 
-　starting to ache...』
+Taka-kun... you came already... It's really 
+starting to ache...』
 
 
 たかし
@@ -788,8 +788,8 @@
 
 暁 莉乃（独白）(CH02_0815)
 『I want to make it erect again...and connect with 
-　you this time... I want to be with the person I 
-　love... I can’t stand it. It doesn’t have to be shameful.』
+you this time... I want to be with the person I 
+love... I can’t stand it. It doesn’t have to be shameful.』
 
 
 ***Face_リノ_目困り_口微笑_赤み07汗00
@@ -804,8 +804,8 @@
 
 暁 莉乃（独白）(CH02_0817)
 『It's right after my ejaculation, so... stroke it 
-　slowly, gently... If I do this... I should be 
-　erect again...』
+slowly, gently... If I do this... I should be 
+erect again...』
 
 
 たかし
@@ -827,8 +827,8 @@
 
 暁 莉乃（独白）(CH02_0819)
 『Huh... I’m stimulating it properly... but it 
-　doesn’t get hard at all... ...Could it be that 
-　it’s not getting hard anymore...?』
+doesn’t get hard at all... ...Could it be that 
+it’s not getting hard anymore...?』
 
 
 ***Face_リノ_目困り_口微笑_赤み06汗00
@@ -857,16 +857,16 @@
 
 暁 莉乃（独白）(CH02_0822)
 『I can’t... be disappointed... Being 
-　disappointed... At this rate, I’ll end up with 
-　him...』
+disappointed... At this rate, I’ll end up with 
+him...』
 
 
 ***Face_リノ_目困り_口無表情_赤み05汗00
 
 暁 莉乃（独白）(CH02_0823)
 『This is... what it means to cherish each other 
-　and have sex with each other because we love each 
-　other...』
+and have sex with each other because we love each 
+other...』
 
 
 ***Face_リノ_目焦りCE_口微笑_赤み05汗00
@@ -894,8 +894,8 @@
 
 暁 莉乃（独白）(CH02_0826)
 『I’ve only ever experienced extreme things... so I 
-　didn’t know how normal sex works... But comparing 
-　them... I’m completely out of my mind...』
+didn’t know how normal sex works... But comparing 
+them... I’m completely out of my mind...』
 
 
 ***Face_リノ_目困りNL_口微笑_赤み06汗00
@@ -905,7 +905,7 @@
 
 暁 莉乃（独白）(CH02_0827)
 『Taka-kun felt good like this... and being with 
-　him... makes me really happy...』
+him... makes me really happy...』
 
 暁 莉乃
 『......』

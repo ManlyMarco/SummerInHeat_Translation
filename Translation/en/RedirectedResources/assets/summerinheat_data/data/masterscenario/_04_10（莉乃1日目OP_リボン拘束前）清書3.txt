@@ -16,16 +16,16 @@
 
 暁 莉乃（独白）(CH02_0370)
 『Today, too, when I stayed behind and practiced 
-　until the end, all the club members left 
-　first...and I ended up being the last one.』
+until the end, all the club members left 
+first...and I ended up being the last one.』
 
 
 ***ST_リノ_A3_レオタード(着衣)_目悲しい・テレNL_口微笑_赤み03汗06_中央
 
 暁 莉乃（独白）(CH02_0371)
 『It’s the same as always... Besides, after what 
-　happened, it’s more distracting to practice so 
-　hard...』
+happened, it’s more distracting to practice so 
+hard...』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み03汗06
@@ -140,8 +140,8 @@
 
 暁 莉乃（独白）(CH02_0383)
 『The moment I heard that voice, I was dragged down 
-　from being engrossed to reality... far worse than 
-　that...』
+from being engrossed to reality... far worse than 
+that...』
 
 
 ***Face_リノ_目困りNL_口つぐみ_赤み01汗06
@@ -157,7 +157,7 @@
 
 暁 莉乃（独白）(CH02_0385)
 『Why... at a time like this...? When I’m with 
-　Taka-kun of all people...』
+Taka-kun of all people...』
 
 
 たかし
@@ -192,8 +192,8 @@
 
 暁 莉乃（独白）(CH02_0387)
 『Up until now, I would have been able to drive her 
-　away flatly even if I tried to hide it, but now I 
-　can’t say anything...』
+away flatly even if I tried to hide it, but now I 
+can’t say anything...』
 
 
 主人公
@@ -244,7 +244,7 @@
 ***BGM_FadeOut
 ***SELoop_FadeOut
 
-------
+―――――
 
 ―――
 
@@ -407,7 +407,7 @@ door.
 
 ***FadeIn_InSide_Black
 
-------
+―――――
 
 ―――
 
@@ -646,13 +646,13 @@ door.
 
 ***FadeIn_InSide_Black
 
-----
+――――
 
 ***SE_ドスン・ドサ音2{100}[0](1)
 
 ―――
 
--I'm sorry.
+―
 
 ***FadeOut_InSide_Black
 

@@ -1061,11 +1061,11 @@ little, and the heat will probably be better.
 ***SELoop_FadeOut
 
 
------------
+―――――――――
 
-----
+――――
 
-―――
+―…
 
 
 ***BGround_BG13_00

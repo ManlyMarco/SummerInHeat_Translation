@@ -10,14 +10,14 @@
 
 小鳥遊 乙羽（独白）(CH01_1270)
 『The supplementary lessons were all over, the 
-　teacher left, and everyone else finished cleaning 
-　up and left the classroom more and more.』
+teacher left, and everyone else finished cleaning 
+up and left the classroom more and more.』
 
 
 小鳥遊 乙羽（独白）(CH01_1271)
 『While I'm cleaning up, I pick up my phone, which 
-　is in manner mode, and immediately send Uncle a 
-　LIME message.』
+is in manner mode, and immediately send Uncle a 
+LIME message.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口無表情_赤み03汗00_画面外
@@ -28,7 +28,7 @@
 
 小鳥遊 乙羽（独白）(CH01_1272)
 『{Remedial classes are over. Can I go to your room 
-　now?}』
+now?}』
 
 
 ***SE_suck pop message2{100}[0](1)
@@ -72,7 +72,7 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1276)
 『Yay. Hurry up and go to the nurse’s office where 
-　your uncle is...』
+your uncle is...』
 
 
 ***BGround_BG10_00
@@ -95,8 +95,8 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1278)
 『You startled me. I was so absorbed in the 
-　exchange on my phone that I didn’t think Mobu-kun 
-　would be right there.』
+exchange on my phone that I didn’t think Mobu-kun 
+would be right there.』
 
 
 茂部
@@ -125,8 +125,8 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1281)
 『I kind of knew you were being nice to me, but I 
-　didn’t think you’d invite me... But I want to go 
-　see you, Uncle...』
+didn’t think you’d invite me... But I want to go 
+see you, Uncle...』
 
 
 ***Face_オトハ_目困り_口微笑_赤み03汗00
@@ -147,7 +147,7 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1284)
 『I thought I could’ve refused... What a 
-　problem...』
+problem...』
 
 
 茂部
@@ -202,8 +202,8 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1289)
 『I’m sorry for lying... I want you to leave me 
-　alone... Because I want to go to your uncle as 
-　soon as possible...』
+alone... Because I want to go to your uncle as 
+soon as possible...』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03汗00
@@ -239,7 +239,7 @@ The main character ( monologue) “{He asked me to
 ***FadeIn_InSide_Black
 
 
--------
+――――――
 
 ―――
 
@@ -252,28 +252,28 @@ The main character ( monologue) “{He asked me to
 
 小鳥遊 乙羽（独白）(CH01_1292)
 『Geez, Mobu-kun... Even though you’ve turned me 
-　down so much...』
+down so much...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1293)
 『Uncle, I wonder if I’ve kept you waiting... We 
-　have to hurry.』
+have to hurry.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み03汗00_画面外
 
 ***FadeIn_InSide_Black
 
----------
+―――――――
 
 ***SE_走り去る足音_concrete normal_running_mix{100}[0](1)
 
 
--------
+――――――
 
-----
+――――
 
 ***FadeOut_InSide_Black
 

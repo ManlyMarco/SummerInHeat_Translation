@@ -33,9 +33,9 @@ Maybe I should go somewhere I don't usually go...
 ***FadeIn_InSide_Black
 ***SE_END
 
----------
+―――――――
 
-------
+―――――
 
 ***SELoop_se_cocicadasils2r_48khz_24bit_購入済み{100}
 

@@ -5,9 +5,9 @@
 
 ***BGround_BG99_00
 
-------
+―――――
 
-----
+――――
 
 小鳥遊 麗子(CH03_0036)
 『...Now then, it looks like it’s time. I have to 
@@ -34,12 +34,12 @@
 
 ***SE_引き戸_窓_sliding door close{100}
 
----------
+――――――――
 
 
 ***SE_ヒール足音footstep_concrete_highheels{100}
 
----------
+――――――――
 
 ***SE_END
 
@@ -51,7 +51,7 @@
 
 ―――
 
--I'm sorry.
+―
 
 ***BGM_夕日の深呼吸{100}
 
@@ -289,13 +289,13 @@ change into her uniform.
 
 ***FadeIn_InSide_Black
 
-------
+―――――
 
 ―――
 
 ―――
 
--I'm sorry.
+―
 
 ***FadeOut_InSide_Black
 
@@ -333,7 +333,7 @@ after being so disheveled and disgraceful.
 
 ***FadeIn_InSide_Black
 
-------
+―――――
 
 ―――
 
