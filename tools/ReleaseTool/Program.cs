@@ -230,6 +230,9 @@ internal static class ReleaseTool
 
                     foreach (var file in Directory.GetFiles(assetDir, "*.txt", SearchOption.AllDirectories))
                     {
+                        if (file.Substring(assetDir.Length).Contains("OriginalDump", StringComparison.OrdinalIgnoreCase))
+                            continue;
+
                         var entryName = CleanPath(file.Substring(assetDir.Length));
                         //Console.WriteLine("Adding to redirected assets archive: " + entryName);
                         assZipFile.Add(file, entryName);
