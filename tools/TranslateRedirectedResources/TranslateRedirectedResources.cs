@@ -38,6 +38,7 @@ namespace TranslateRedirectedResources
             string rootFolder;
             try
             {
+                var a = Path.GetFullPath(args[0]);
                 rootFolder = args.FirstOrDefault(x => string.Equals(Path.GetFileName(x), "Translation", StringComparison.OrdinalIgnoreCase) && Directory.Exists(x));
                 if (rootFolder == null)
                 {
@@ -138,6 +139,7 @@ namespace TranslateRedirectedResources
                 int currentIndex = 0;
                 int nextIndex;
 
+                string lastUnusedLine = "";
                 string thisLine;
                 string nextLine;
                 string translatedLine;
@@ -213,8 +215,9 @@ namespace TranslateRedirectedResources
                                 if ((currentLenght + words[wordIndex].Length) > maxLenght && currentLine < 3)
                                 {
                                     translatedLine += "\n";
-                                    // Original scripts have IDSP(wide space) at start of new line if it's a part of quoted text
-                                    if (key.Contains("『")) 
+                                    // Original scripts have IDSP(wide space) at start of new line if it's a part of quoted text.
+                                    // Monologue and recollection lines have their quotes stripped by the game so no spaces there.
+                                    if (key.Contains("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）")) 
                                         translatedLine += "\u3000";
                                     currentLenght = 0;
                                     currentLine++;
@@ -248,6 +251,8 @@ namespace TranslateRedirectedResources
                         if (groupLenght <= 0 || !TranslationsDictionary.ContainsKey(key))
                         {
                             var line = dumpedFile[dumpPos];
+
+                            lastUnusedLine = line;
 
                             // Replace character names - disabled because it breaks Cocoa If route, possibly others
                             //if (!thisLineTrimmed.StartsWith("***") &&
