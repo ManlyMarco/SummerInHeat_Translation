@@ -42,3 +42,6 @@ sr:"^(.*)\（昼\）$"=$1 (Noon)
 r:キャラクターセレクト([♡♥]+)=Character Select $1
 
 //sr:"^( *\d\d )(.*)$"=$1$2
+
+// For some reason these will be sent for translation, this stops that.
+r:^(『…+』)$=$1
