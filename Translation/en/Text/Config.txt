@@ -87,26 +87,26 @@
 白塗り=Solid white
 黒塗り=Solid black
 
-主人公の表示=Hero's body display
-主人公の表示を変更します=Change how the main character is displayed. 
+主人公の表示=Hero’s body display
+主人公の表示を変更します=Change how the main character is displayed.
 通常表示=Display normally
 ゴースト\r=Ghost\r
 シルエット\r=Silhouette\r
 非表示=Hide
 
-主人公 男性器の表示=Hero's genitalia display
-主人公 男性器の表示を変更します=Change how the main character's penis is displayed. 
+主人公 男性器の表示=Hero’s genitalia display
+主人公 男性器の表示を変更します=Change how the main character’s penis is displayed.
 
-主人公の体型=Hero's Body
+主人公の体型=Hero’s Body
 主人公の体型を変更します=Change the body type of the Hero.
 細い=Slim
 太い=Fat
 
-その他 男の表示=Other men's body display
-その他 男の表示を変更します=Change how other male characters are displayed. 
+その他 男の表示=Other men’s body display
+その他 男の表示を変更します=Change how other male characters are displayed.
 
-その他 男性器の表示=Other men's genitalia display
-その他 男性器の表示を変更します=Change how other male characters's penises are displayed.
+その他 男性器の表示=Other men’s genitalia display
+その他 男性器の表示を変更します=Change how other male characters’s penises are displayed.
 
 オート絶頂=Auto-climax
 スパート中に指定の時間で絶頂します(OFF時はプレイヤー操作で絶頂します)=Climax at the specified time during the last spurt (when OFF, climax is controlled by the player)
@@ -115,17 +115,17 @@
 絶頂時の"尿"演出=Squirt at orgasm
 絶頂時に”おしっこ”を漏らす演出の有無を変更します=Toggle presence of squirting when a girl orgasms.
 
-"潮"演出="Tide" effect
-絶頂時に”潮”を吹く演出の有無を変更します=Changes whether or not to include the "Tide" effect during climax.
+"潮"演出=“Tide” effect
+絶頂時に”潮”を吹く演出の有無を変更します=Changes whether or not to include the “Tide” effect during climax.
 
-"しぶき"演出="Splash" effect
-突かれた時や絶頂時に出る”しぶき”演出の有無を変更します=Change whether or not to show the "Splash" effect that occurs on penetration or climax.
+"しぶき"演出=“Splash” effect
+突かれた時や絶頂時に出る”しぶき”演出の有無を変更します=Change whether or not to show the “Splash” effect that occurs on penetration or climax.
 
-"母乳"演出="Breast Milk" effect
-突かれた時や絶頂時に出る”母乳”演出の有無を変更します=Change whether or not to show the "Breast Milk" effect that occurs on penetration or climax.
+"母乳"演出=“Breast Milk” effect
+突かれた時や絶頂時に出る”母乳”演出の有無を変更します=Change whether or not to show the “Breast Milk” effect that occurs on penetration or climax.
 
 フェラ時の陰毛付着=Fellatio pubic hair
-フェラ系の絶頂時、女の子の口周りに陰毛が付着するかしないかの設定=After a blowjob climax, pubic hair sticks around the girl's mouth.
+フェラ系の絶頂時、女の子の口周りに陰毛が付着するかしないかの設定=After a blowjob climax, pubic hair sticks around the girl’s mouth.
 
 大量ぶっかけモード=Massive Bukkake Mode
 射精パーティクルが通常より増加され、ランダムで発射されます=Increased amount of ejaculation particles, firing at random.
@@ -156,22 +156,22 @@ FOV(視野角)主観ｻﾌﾞ=FOV (field of view)\nSubjective Sub
 リバース=Inverted
 
 カメラの上下回転=Up/down camera rotation
-カメラの上下回転方向（マウス・キーボード）を変更します=I change the direction of the camera's vertical rotation (mouse / keyboard).
+カメラの上下回転方向（マウス・キーボード）を変更します=I change the direction of the camera’s vertical rotation (mouse / keyboard).
 
 カメラの左右回転=Left/right camera rotation
-カメラの左右回転方向（マウス・キーボード）を変更します=I change the direction of the camera's left and right rotation (mouse / keyboard).
+カメラの左右回転方向（マウス・キーボード）を変更します=I change the direction of the camera’s left and right rotation (mouse / keyboard).
 
 カメラのズーム=Camera zoom
 カメラのズーム方向（マウスホイール・キーボード）を変更します=Change camera zoom (mouse wheel / keyboard)
 
 主観の上下操作=POV vertical rotation
-男性主観カメラの上下回転方向（マウス・キーボード）を変更します=Change the male's POV vertical rotation (mouse, keyboard).
+男性主観カメラの上下回転方向（マウス・キーボード）を変更します=Change the male’s POV vertical rotation (mouse, keyboard).
 
 主観の左右操作=POV horizontal rotation
-男性主観カメラの左右回転方向（マウス・キーボード）を変更します=Change the male's POV horizontal rotation (mouse, keyboard).
+男性主観カメラの左右回転方向（マウス・キーボード）を変更します=Change the male’s POV horizontal rotation (mouse, keyboard).
 
 主観のズーム操作=POV Zoom Direction
-男性主観カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the male's POV zoom direction (mouse wheel/keyboard)
+男性主観カメラのズーム方向（マウスホイール・キーボード）を変更します=Change the male’s POV zoom direction (mouse wheel/keyboard)
 
 カメラ基点の上下移動=Move camera base\nup/down
 カメラの基点上下移動方向（マウス・キーボード）を変更します=I change the direction of the up-and-down movement of the camera (mouse / keyboard)
@@ -239,9 +239,9 @@ FOV(視野角)主観ｻﾌﾞ=FOV (field of view)\nSubjective Sub
 
 
 乙羽の音量確認ボイスを再生します=Play Otoha’s volume check voice
-莉乃の音量確認ボイスを再生します=Play Rino’s volume check voice 
-麗子の音量確認ボイスを再生します=Play Reiko's volume check voice
-心々愛の音量確認ボイスを再生します=Play Cocoa's volume check voice
+莉乃の音量確認ボイスを再生します=Play Rino’s volume check voice
+麗子の音量確認ボイスを再生します=Play Reiko’s volume check voice
+心々愛の音量確認ボイスを再生します=Play Cocoa’s volume check voice
 乙羽のボイス音量を調整します=Adjust Otoha’s voice volume
 莉乃のボイス音量を調整します=Adjust Rino’s voice volume
 麗子のボイス音量を調整します=Adjust Reiko’s voice volume
