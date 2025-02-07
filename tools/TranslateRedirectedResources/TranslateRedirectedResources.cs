@@ -203,7 +203,7 @@ namespace TranslateRedirectedResources
                             int maxLenght = 50;
                             int currentLenght = 0;
                             int currentLine = 1;
-                            
+
                             //Miconisomi only allows up to 3 lines per screen
                             int translationLength = string.Join(" ", words).Length;
                             float lineNumber = (float)translationLength / (float)maxLenght;
@@ -221,7 +221,7 @@ namespace TranslateRedirectedResources
                                     translatedLine = translatedLine.TrimEnd(' ') + "\n";
                                     // Original scripts have IDSP(wide space) at start of new line if it's a part of quoted text.
                                     // Monologue and recollection lines have their quotes stripped by the game so no spaces there.
-                                    if (key.Contains("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）")) 
+                                    if (key.Contains("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）"))
                                         translatedLine += "\u3000";
                                     currentLenght = 0;
                                     currentLine++;
@@ -311,7 +311,7 @@ namespace TranslateRedirectedResources
             dump = dump.Replace("」", "』");
             translation = translation.TrimEnd(' ');
 
-            
+
             if (dump.Contains("『"))
             {
                 translation = translation.Trim(' ');
@@ -320,8 +320,10 @@ namespace TranslateRedirectedResources
                 // - “Exceptions” are a pain.
                 // - So I said, “You suck!”
                 // - “Hey you”, I yelled after them, “Come back here!”
-                var tmp = translation.Trim('"', '“', '”', ' ');
-                if (!new[] { '"', '“', '”' }.Any(tmp.Contains)) translation = tmp;
+                if (translation.Length >= 2 &&
+                    (translation.StartsWith("\"") || translation.StartsWith("“") || translation.StartsWith("”")) &&
+                    (translation.EndsWith("\"") || translation.EndsWith("“") || translation.EndsWith("”")))
+                    translation = translation.Substring(1, translation.Length - 2);
 
                 translation = "『" + translation + "』";
             }
