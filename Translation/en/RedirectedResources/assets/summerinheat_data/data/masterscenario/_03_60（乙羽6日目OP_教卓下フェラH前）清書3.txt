@@ -10,9 +10,9 @@ saying I’d prepare just in case.』
 
 
 小鳥遊 乙羽（独白）(CH01_1383)
-『...Preparations... That’s a lie, so we went to
-Uncle’s room as usual, had sex a few times... and
-then changed...』
+『…Preparations… That’s a lie, so we went to
+Uncle’s room as usual, had sex a few times… and
+then changed…』
 
 
 ***BGround_BG12_01
@@ -29,32 +29,32 @@ then changed...』
 ***Face_オトハ_目デフォ_口大笑い_赤み04
 
 主人公
-『...Hmm. You were like this yesterday evening too,
-　weren’t you? Lately, you’ve been coming home late every
-　day. I’m sure Reiko-nee-san would be worried about you.』
+『…Hmm. You were like this yesterday evening too,
+　weren’t you? Lately, you’ve been coming home late
+　every day. I’m sure Reiko-nee-san would be worried about you.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み04
 
 小鳥遊 乙羽(CH01_1385)
-『Huh? So... you’re saying I can’t?』
+『Huh? So… you’re saying I can’t?』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1386)
 『Just like you said, I’ve been doing it every day lately, before
-supplementary classes and after supplementary classes... That’s what
-he’s so happy about, so we should both want to do it today... but...』
+supplementary classes and after supplementary classes… That’s what
+he’s so happy about, so we should both want to do it today… but…』
 
 
 主人公
-『It’s not that I can’t... Just stop for today and
+『It’s not that I can’t… Just stop for today and
 　come back tomorrow.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1387)
-『I’d been so engrossed that I’d forgotten... but now I
+『I’d been so engrossed that I’d forgotten… but now I
 remember. The conversation I heard the day before
 yesterday with Rino in the hallway as I was about to go home.』
 
@@ -62,14 +62,14 @@ yesterday with Rino in the hallway as I was about to go home.』
 ***ST_オトハ_B2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_1388)
-『I knew it... You can’t today because you’re
-meeting with Rino-chan...?』
+『I knew it… You can’t today because you’re meeting
+with Rino-chan…?』
 
 
 ***ST_オトハ_B1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_アップ
 
 小鳥遊 乙羽(CH01_1389)
-『Whaaat...? But...』
+『Whaaat…? But…』
 
 
 ***SE_ドスン・ドサ音2{100}[0](1)
@@ -77,26 +77,26 @@ meeting with Rino-chan...?』
 ***Face_オトハ_目トロCE_口微笑_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1390)
-『I’ll hug you tight, Uncle...』
+『I’ll hug you tight, Uncle…』
 
 
 ***Face_オトハ_目微笑_口微笑_赤み05
 
 小鳥遊 乙羽(CH01_1391)
-『Even after it was over, your dick was... erect.
-　You wanted to have more sex with me, didn’t you?』
+『Even after it was over, your dick was… erect. You
+　wanted to have more sex with me, didn’t you?』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目微笑_口トロ笑い_赤み07_アップ
 
 小鳥遊 乙羽(CH01_1392)
-『I’m still aching, too. My uncle’s cock... He said he
-　still wants more, and it’s not enough... I’d like to do
-　it a little after supplementary lessons are over, so...』
+『I’m still aching, too. My uncle’s cock… He said he
+　still wants more, and it’s not enough… I’d like to do
+　it a little after supplementary lessons are over, so…』
 
 
 主人公
-『N-No, no... I’d like to, but my uncle got a job
+『N-No, no… I’d like to, but my uncle got a job
 　from the teacher from evening to night.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
@@ -107,22 +107,22 @@ meeting with Rino-chan...?』
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1393)
-『...A job from the teacher? You’re meeting with
+『…A job from the teacher? You’re meeting with
 Rino-chan, aren’t you? Uncle, are you going to
-lie...?』
+lie…?』
 
 
 ***Face_オトハ_目悲しい・テレNL_口への字_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1394)
-『It’s not a request from the teacher. ...Even
-though I know I’m going to meet Rino-chan...』
+『It’s not a request from the teacher. …Even though
+I know I’m going to meet Rino-chan…』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み05
 
 小鳥遊 乙羽(CH01_1395)
-『I-I see...』
+『I-I see…』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](2)
@@ -131,7 +131,7 @@ though I know I’m going to meet Rino-chan...』
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_1396)
-『I gently loosen my embrace and let go...』
+『I gently loosen my embrace and let go…』
 
 
 主人公
@@ -146,8 +146,8 @@ though I know I’m going to meet Rino-chan...』
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1398)
-『......So you’re going to keep it a secret from me
-and meet with Rino-chan after all.』
+『……So you’re going to keep it a secret from me and
+meet with Rino-chan after all.』
 
 
 小鳥遊 乙羽（独白）(CH01_1399)
@@ -156,16 +156,16 @@ to overhear back then. They looked really
 serious.』
 
 暁 莉乃（独白）(CH02_0338)
-『That’s not it. Anyway... I’ll be waiting in the
+『That’s not it. Anyway… I’ll be waiting in the
 classroom the evening after tomorrow. Be sure to
 come.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1400)
-『...I’ll be waiting, so be sure... huh? I wonder
+『…I’ll be waiting, so be sure… huh? I wonder
 what’s going on. But I don’t think she’ll tell me
-either way...』
+either way…』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口無表情_赤み03_中央
@@ -173,24 +173,24 @@ either way...』
 小鳥遊 乙羽（独白）(CH01_1401)
 『Ever since the day we met again, I’ve realized that
 Rino-chan’s relationship with Uncle is somehow
-different from how it used to be... Thinking back on it now...』
+different from how it used to be… Thinking back on it now…』
 
 
 ***Face_オトハ_目困りCE_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1402)
 『If you don’t know what their relationship really
-is... even if I ask... If I go to the classroom
-this evening... I wonder if I’ll understand...』
+is… even if I ask… If I go to the classroom this
+evening… I wonder if I’ll understand…』
 
 
 主人公
-『Otoha-chan...?』
+『Otoha-chan…?』
 
 ***Face_オトハ_目驚き_口困り_赤み03
 
 小鳥遊 乙羽(CH01_1403)
-『Ah...』
+『Ah…』
 
 
 主人公
@@ -222,7 +222,7 @@ this evening... I wonder if I’ll understand...』
 
 ―――
 
-...
+…
 
 ***FadeOut_InSide_Black
 
@@ -238,23 +238,23 @@ this evening... I wonder if I’ll understand...』
 ***ST_オトハ_B2_デフォ(着衣)_目困り_口無表情_赤み03_中央
 
 小鳥遊 乙羽(CH01_1405)
-『...I’m here...』
+『…I’m here…』
 
 
 小鳥遊 乙羽(CH01_1406)
-『No one’s here yet...』
+『No one’s here yet…』
 
 
 ***Face_オトハ_目困りNL_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1407)
-『I came here because I wanted to know the truth...
+『I came here because I wanted to know the truth…
 but now that I think about it, I can’t help
-eavesdropping...』
+eavesdropping…』
 
 
 小鳥遊 乙羽（独白）(CH01_1408)
-『Besides, it’s fine that we came here like this...
+『Besides, it’s fine that we came here like this…
 but I wasn’t thinking about what to do from there
 at all.』
 
@@ -262,7 +262,7 @@ at all.』
 ***Face_オトハ_目困りCE_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1409)
-『...Maybe I should go home after all...』
+『…Maybe I should go home after all…』
 
 
 ***SE_ゆっくり足音_concrete normal_running_mix{90}[0](1)
@@ -270,20 +270,20 @@ at all.』
 ***Face_オトハ_目驚き_口困り_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1410)
-『...!!』
+『…!!』
 
 
 ***SE_item lock 1{100}[0](1)
 
 小鳥遊 乙羽
-『...!!』
+『…!!』
 
 ***ST_オトハ_B1_デフォ(着衣)_目驚き_口焦り_赤み03_中央
 
 小鳥遊 乙羽（独白）(CH01_1411)
-『Huh? ...Ah... He’s really here...?! I-I have to hide...!
-...! ...Wh-Where... What should I do? I can see it under
-the desk... ...That’s right! If it’s the teacher’s desk...!』
+『Huh? …Ah… He’s really here…?! I-I have to hide…! …!
+…Wh-Where… What should I do? I can see it under the
+desk… …That’s right! If it’s the teacher’s desk…!』
 
 
 ***SE_走り去る足音_concrete normal_running_mix{50}[1](1)
@@ -307,11 +307,10 @@ the desk... ...That’s right! If it’s the teacher’s desk...!』
 ***PC_主人公_A1_デフォ(着衣)_中央
 
 主人公
-『Now then... Well, she’s not here yet. Hmm...』
+『Now then… Well, she’s not here yet. Hmm…』
 
 小鳥遊 乙羽（独白）(CH01_1412)
-『I-I’m glad... Just barely... I haven’t found
-her...』
+『I-I’m glad… Just barely… I haven’t found her…』
 
 
 ***SE_ゆっくり足音_concrete normal_running_mix{100}[1](2)
@@ -337,13 +336,13 @@ her...』
 　you know?』
 
 小鳥遊 乙羽（独白）(CH01_1413)
-『.........Ngh...』
+『………Ngh…』
 
 
 ***Face_リノ_目怒り_口無表情_赤み03
 
 暁 莉乃(CH02_0342)
-『...I’m not here to talk about that right now.』
+『…I’m not here to talk about that right now.』
 
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono{100}[0](1)
@@ -355,7 +354,7 @@ her...』
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_1414)
-『Wah, Mister!! ...He’s coming... to the podium!!』
+『Wah, Mister!! …He’s coming… to the podium!!』
 
 
 ***SE_END
@@ -363,24 +362,24 @@ her...』
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_1415)
-『M-My uncle’s... right in front of me. I... I have
-to... hold my breath. He’ll notice...』
+『M-My uncle’s… right in front of me. I… I have to…
+hold my breath. He’ll notice…』
 
 ***Face_リノ_目睨み_口無表情_赤み03
 
 暁 莉乃(CH02_0343)
-『What I want to ask...is your relationship with
+『What I want to ask…is your relationship with
 　Otoha.』
 
 
 ***SE_END
 
 小鳥遊 乙羽（独白）(CH01_1416)
-『...So you really were curious about Rino-chan...』
+『…So you really were curious about Rino-chan…』
 
 
 主人公
-『You called me out... and all of a sudden, that’s
+『You called me out… and all of a sudden, that’s
 　it?』
 
 ***ST_リノ_B3_デフォ(着衣)_目睨み_口無表情_赤み03_右１
@@ -396,12 +395,12 @@ to... hold my breath. He’ll notice...』
 ***Face_リノ_目怒り_口怒り_赤み03
 
 暁 莉乃(CH02_0345)
-『...Answer me. You haven’t... laid a hand on
-　Otoha, have you?』
+『…Answer me. You haven’t… laid a hand on Otoha,
+　have you?』
 
 
 主人公
-『You’re going to lay a hand on me...?』
+『You’re going to lay a hand on me…?』
 
 暁 莉乃(CH02_0346)
 『That’s right.』
@@ -409,52 +408,52 @@ to... hold my breath. He’ll notice...』
 
 主人公
 『I don’t know what you’re trying to say by saying
-　it like that...』
+　it like that…』
 
 ***ST_リノ_C1_デフォ(着衣)_目怒り_口怒り_赤み03_右１
 
 暁 莉乃(CH02_0347)
-『So don’t dodge the question. ...I can only talk
+『So don’t dodge the question. …I can only talk
 　about this when we’re alone together, and I want
 　you to give me a proper answer.』
 
 
 主人公
-『Sigh...』
+『Sigh…』
 
 ***Face_リノ_目怒りNL_口怒り_赤み04
 
 暁 莉乃(CH02_0348)
-『...You’re not doing anything sexual, are you?』
+『…You’re not doing anything sexual, are you?』
 
 
 小鳥遊 乙羽（独白）(CH01_1417)
-『...Gh... Sex... You mean sex... right? If you’re
-going to question me that much, then... Rino-chan
-and Uncle really are...』
+『…Gh… Sex… You mean sex… right? If you’re going to
+question me that much, then… Rino-chan and Uncle
+really are…』
 
 
 主人公
-『Something sexual... huh?』
+『Something sexual… huh?』
 
 ***Face_リノ_目怒り_口怒り_赤み04
 
 暁 莉乃(CH02_0349)
-『Answer me. To Otoha... I want to know if you’ve
+『Answer me. To Otoha… I want to know if you’ve
 　done anything like what you did to me.』
 
 
 小鳥遊 乙羽（独白）(CH01_1418)
-『Huh...? ...Rino...chan...?』
+『Huh…? …Rino…chan…?』
 
 
 主人公
-『I don’t know. ...Besides, Rino-chan’s special in
-　a way.』
+『I don’t know. …Besides, Rino-chan’s special in a
+　way.』
 
 小鳥遊 乙羽（独白）(CH01_1419)
-『Special...? Am I not special to you right now,
-Uncle...?』
+『Special…? Am I not special to you right now,
+Uncle…?』
 
 
 ***Face_リノ_目怒り_口怒り_赤み05
@@ -466,17 +465,17 @@ Uncle...?』
 
 主人公
 『Man, I just remembered a lot of things. I think
-　I’m about Otoha-chan’s age right now...』
+　I’m about Otoha-chan’s age right now…』
 
 小鳥遊 乙羽（独白）(CH01_1420)
-『What’s going on here...? Back when the three of
-us were playing together like normal...?』
+『What’s going on here…? Back when the three of us
+were playing together like normal…?』
 
 
 ***ST_リノ_D2_デフォ(着衣)_目怒り_口焦り_赤み05_右１
 
 暁 莉乃(CH02_0351)
-『...Don’t tell me you did something to Otoha?』
+『…Don’t tell me you did something to Otoha?』
 
 
 ***Face_リノ_目怒り_口怒り_赤み05
@@ -489,18 +488,18 @@ us were playing together like normal...?』
 主人公
 『Rino-chan used to be cute too, though. Especially
 　after Otoha-chan moved into town and disappeared,
-　huh...』
+　huh…』
 
 小鳥遊 乙羽（独白）(CH01_1421)
-『So... after I moved... we had that kind of
-relationship...?』
+『So… after I moved… we had that kind of
+relationship…?』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目怒りNL_口怒り_赤み05_右１
 
 暁 莉乃(CH02_0352)
-『...Don’t talk about that right now. I don’t want
-　to hear it.』
+『…Don’t talk about that right now. I don’t want to
+　hear it.』
 
 
 主人公
@@ -508,47 +507,45 @@ relationship...?』
 　you’ve always wanted that old man, haven’t you?』
 
 小鳥遊 乙羽（独白）(CH01_1422)
-『...No! Even I don’t want to hear that...!』
+『…No! Even I don’t want to hear that…!』
 
 
 小鳥遊 乙羽（独白）(CH01_1423)
-『Uncle... Uncle is mine and mine alone... No
-matter what happens between you and Rino-chan...!』
+『Uncle… Uncle is mine and mine alone… No matter
+what happens between you and Rino-chan…!』
 
 
 主人公
-『...She didn’t like it at first... but in the end,
-　she started moving her hips on her own and
-　straddled Uncle a lot.』
+『…She didn’t like it at first… but in the end, she
+　started moving her hips on her own and straddled
+　Uncle a lot.』
 
 小鳥遊 乙羽（独白）(CH01_1424)
 『Rino-chan and Uncle, no matter how much we had
-sex... Right now, I can make Uncle feel the
-best...』
+sex… Right now, I can make Uncle feel the best…』
 
 
 ***ST_リノ_A3_デフォ(着衣)_目怒り_口怒り_赤み05_右１
 
 暁 莉乃(CH02_0353)
 『That’s enough, isn’t it!? I’m not here to talk
-　about that...』
+　about that…』
 
 
 主人公
 『Oh, are you jealous, Rino-chan? If you want,
-　I’ll...』
+　I’ll…』
 
 ***ST_リノ_C1_デフォ(着衣)_目焦り_口への字_赤み05_右１
 
 小鳥遊 乙羽（独白）(CH01_1425)
-『...!!』
+『…!!』
 
 
 ***Face_リノ_目睨み_口への字_赤み05
 
 暁 莉乃(CH02_0354)
-『Wh-What are you saying...?! Enough with the
-　jokes!』
+『Wh-What are you saying…?! Enough with the jokes!』
 
 
 小鳥遊 乙羽（独白）(CH01_1426)
@@ -557,8 +554,8 @@ want me to do.』
 
 
 小鳥遊 乙羽（独白）(CH01_1427)
-『I’ll be the one to satisfy you the most, Uncle...
-...Even now, I’ll make you feel good...』
+『I’ll be the one to satisfy you the most, Uncle…
+…Even now, I’ll make you feel good…』
 
 
 ***FadeIn_InSide_Black
@@ -570,78 +567,77 @@ want me to do.』
 ***SE_ガサゴソcrafting cloth item 4{200}[0](1)
 
 主人公
-『...?!!』
+『…?!!』
 
 小鳥遊 乙羽（独白）(CH01_1428)
-『Haa, fuu... Uncle’s, cock...♡』
+『Haa, fuu… Uncle’s, cock…♡』
 
 
 小鳥遊 乙羽(CH01_1429)
-『...Hafh... Mmchu...』
+『…Hafh… Mmchu…』
 
 
 ***Cinema_CI01-MS-0601_00
 ***LoopCV_オトハ_VCフェラ_オトハ_通常フェラ_後期{20}
 
 暁 莉乃
-『...?』
+『…?』
 
 
 小鳥遊 乙羽(CH01_1430)
-『*slurp*... *kiss*, pon... *smack*, p-jubo...
-　*lick*, chu...』
+『*slurp*… *kiss*, pon… *smack*, p-jubo… *lick*,
+　chu…』
 
 
 主人公
-『...Oh...?! ...Dad...gh...』
+『…Oh…?! …Dad…gh…』
 
 暁 莉乃(CH02_0355)
-『Wh-What? All of a sudden...』
+『Wh-What? All of a sudden…』
 
 
 ***Cinema_CI01-MS-0601_01
 
 小鳥遊 乙羽(CH01_1431)
-『Hyufu... Hyukani...』
+『Hyufu… Hyukani…』
 
 
 小鳥遊 乙羽（独白）(CH01_1432)
-『Aaah... The precum... It’s overflowing so
-thickly... Nnh...♡ Mixed with saliva... Haa♡...
-Delicious...』
+『Aaah… The precum… It’s overflowing so thickly…
+Nnh…♡ Mixed with saliva… Haa♡… Delicious…』
 
 
 小鳥遊 乙羽(CH01_1433)
-『Nn, *kiss*, *slurp*, nn... *suck*... *lick*,
-　fuah, fuh... nbuh, chuh, schlp*...』
+『Nn, *kiss*, *slurp*, nn… *suck*… *lick*, fuah,
+　fuh… nbuh, chuh, schlp*…』
 
 
 主人公
-『I-It’s nothing...』
+『I-It’s nothing…』
 
 小鳥遊 乙羽（独白）(CH01_1434)
-『Come on, Uncle... You’re already... mine and mine
-alone...』
+『Come on, Uncle… You’re already… mine and mine
+alone…』
 
 ***Cinema_CI01-MS-0601_02
 
 暁 莉乃(CH02_0356)
-『Wh-What...? You’re twitching all of a sudden...』
+『Wh-What…? You’re twitching all of a sudden…』
 
 
 小鳥遊 乙羽（独白）(CH01_1435)
-『No matter...what kind of relationship you had
-with Rino-chan...』
+『No matter…what kind of relationship you had with
+Rino-chan…』
 
 
 小鳥遊 乙羽(CH01_1436)
-『Slurp... nnh... oh... nboh... *lick*... *slurp
-　slurp*, nnjuuu... *kiss*...』
+『Slurp… nnh… oh… nboh… *lick*… *slurp slurp*,
+　nnjuuu… *kiss*…』
 
 
 小鳥遊 乙羽（独白）(CH01_1437)
-『I’m the only one who wants to make you feel
-good... I want to be your number one uncle...!』
+『I’m the only one who wants to make you feel good…
+I want to be your number one uncle…!』
 
 
 暁 莉乃(CH02_0357)
@@ -651,53 +647,52 @@ good... I want to be your number one uncle...!』
 
 主人公
 『Let’s say you did something to Otoha-chan that
-　made Rino-chan worry...』
+　made Rino-chan worry…』
 
 暁 莉乃
 『......』
 
 小鳥遊 乙羽（独白）(CH01_1438)
 『I don’t need to worry about you, Rino-chan. Even if our
-relationship is really bad... Being able to hold your
-uncle’s cock in my mouth like this... makes me... very happy♡』
+relationship is really bad… Being able to hold your
+uncle’s cock in my mouth like this… makes me… very happy♡』
 
 
 小鳥遊 乙羽(CH01_1439)
-『Lick, lick... *slurp*... *kiss*, nn, oh...
-　*lick*, *suck*... nnh...』
+『Lick, lick… *slurp*… *kiss*, nn, oh… *lick*,
+　*suck*… nnh…』
 
 
 小鳥遊 乙羽（独白）(CH01_1440)
-『I love you... You’re my uncle... My cock... It’s
-delicious... Just doing this feels good...♡』
+『I love you… You’re my uncle… My cock… It’s
+delicious… Just doing this feels good…♡』
 
 
 主人公
-『...So, what are you going to do, Rino-chan?』
+『…So, what are you going to do, Rino-chan?』
 
 ***Cinema_CI01-MS-0601_03
 ***LoopCV_オトハ_VCフェラ_オトハ_ディープスロート_後期{20}
 
 小鳥遊 乙羽（独白）(CH01_1441)
-『An indecent cock that framed me raw...♡ This
-flavor fills my mouth... I love it, I love
-you...♡』
+『An indecent cock that framed me raw…♡ This flavor
+fills my mouth… I love it, I love you…♡』
 
 
 小鳥遊 乙羽(CH01_1442)
-『Nnbu, *lick, lick*... habu... nbuchu... ju...
-　jubu, nn... gu... jubo, jubo...』
+『Nnbu, *lick, lick*… habu… nbuchu… ju… jubu, nn…
+　gu… jubo, jubo…』
 
 
 暁 莉乃(CH02_0358)
-『If I’d made Otoha go through something like
-　that... like I did... like... a sex slave...』
+『If I’d made Otoha go through something like that…
+　like I did… like… a sex slave…』
 
 
 小鳥遊 乙羽（独白）(CH01_1443)
-『It’s fine... ♡ Even sex slaves are fine ♡ It
-feels really good for me too... If it’s for the
-uncle I love... If I can always be next to him...』
+『It’s fine… ♡ Even sex slaves are fine ♡ It feels
+really good for me too… If it’s for the uncle I
+love… If I can always be next to him…』
 
 
 主人公
@@ -705,46 +700,46 @@ uncle I love... If I can always be next to him...』
 　there, Rino?』
 
 小鳥遊 乙羽(CH01_1444)
-『Shlurp, slurp... Slurrp, shlurp, shlrp, bbh...
-　Shlurpp, buchuu... npfh... buph...』
+『Shlurp, slurp… Slurrp, shlurp, shlrp, bbh…
+　Shlurpp, buchuu… npfh… buph…』
 
 
 小鳥遊 乙羽（独白）(CH01_1445)
-『I love it ♡ It’s just for me... ♡ Hey, keep it
-up... Do whatever you want, Uncle...』
+『I love it ♡ It’s just for me… ♡ Hey, keep it up…
+Do whatever you want, Uncle…』
 
 
 ***Cinema_CI01-MS-0601_04
 
 暁 莉乃(CH02_0359)
-『......I’ll tell you.』
+『……I’ll tell you.』
 
 
 小鳥遊 乙羽（独白）(CH01_1446)
-『I can’t think about anything anymore...♡ Uncle, I
-love you...♡ I love your dick... I love it ♡...I
-love you ♡♡』
+『I can’t think about anything anymore…♡ Uncle, I
+love you…♡ I love your dick… I love it ♡…I love
+you ♡♡』
 
 
 主人公
-『Hm...?』
+『Hm…?』
 
 小鳥遊 乙羽（独白）(CH01_1447)
-『So... ejaculate!』
+『So… ejaculate!』
 
 
 ***Cinema_CI01-MS-0601_05
 ***LoopCV_FadeOut
 
 小鳥遊 乙羽(CH01_1448)
-『*kiss*, *slurp*... nnpu, bupu... *suck*... chubu,
-　chujubo, hff... nnn, uu...』
+『*kiss*, *slurp*… nnpu, bupu… *suck*… chubu,
+　chujubo, hff… nnn, uu…』
 
 
 小鳥遊 乙羽（独白）(CH01_1449)
-『Let out semen ♡ Megumi ♡ For me... Cock juice...
-Let out lots ♡ In front of Rino-chan... Just like
-this...!』
+『Let out semen ♡ Megumi ♡ For me… Cock juice… Let
+out lots ♡ In front of Rino-chan… Just like
+this…!』
 
 
 暁 莉乃(CH02_0360)
@@ -753,43 +748,42 @@ this...!』
 
 
 小鳥遊 乙羽(CH01_1450)
-『Slurp, slurp... slurrp, shlurrrrp... shupah...
-　npf... chubh... slrp... mlh...』
+『Slurp, slurp… slurrp, shlurrrrp… shupah… npf…
+　chubh… slrp… mlh…』
 
 
 小鳥遊 乙羽（独白）(CH01_1451)
-『It’s so hot, so big... and so thick...♡... Ah♡
-Right now, it’s twitching, moving... The taste of
-the juices is getting stronger...♡♡』
+『It’s so hot, so big… and so thick…♡… Ah♡ Right
+now, it’s twitching, moving… The taste of the
+juices is getting stronger…♡♡』
 
 
 ***Cinema_CI01-MS-0601_06
 
 小鳥遊 乙羽(CH01_1452)
-『Shlurp, shlurp... Shlurrp, slurrrp... nn...
-　buph... fweh, buh... bpfh, chu, churrr...
-　schlurpp...』
+『Shlurp, shlurp… Shlurrp, slurrrp… nn… buph… fweh,
+　buh… bpfh, chu, churrr… schlurpp…』
 
 
 小鳥遊 乙羽（独白）(CH01_1453)
-『I’m so happy♡... You’re going to let out semen
-for me... I’m really happy♡♡ Let out a lot for
-just me...♡』
+『I’m so happy♡… You’re going to let out semen for
+me… I’m really happy♡♡ Let out a lot for just
+me…♡』
 
 
 主人公
-『...!!』
+『…!!』
 
 
 ***Cinema_CI01-MS-0601_07
 
 小鳥遊 乙羽(CH01_1454)
-『Nbuuuuh...! ......bupuu...! Pojyuu......nnn,
-　nguu, nn...nnnn...nguu...jyupuuu...』
+『Nbuuuuh…! ……bupuu…! Pojyuu……nnn, nguu,
+　nn…nnnn…nguu…jyupuuu…』
 
 
 主人公
-『Oh... ...Ohhh...,』
+『Oh… …Ohhh…,』
 
 ***Cinema_CI01-MS-0601_08
 
@@ -799,48 +793,46 @@ just me...♡』
 
 
 主人公
-『N...no...not really.』
+『N…no…not really.』
 
 小鳥遊 乙羽（独白）(CH01_1455)
-『Amazing... I’m so full of thick stuff... My mouth
-is full... ♡ Aaah... I love you... I really love
-your semen, Uncle...♡♡』
+『Amazing… I’m so full of thick stuff… My mouth is
+full… ♡ Aaah… I love you… I really love your
+semen, Uncle…♡♡』
 
 小鳥遊 乙羽(CH01_1456)
-『Ngh... nnh... *kiss*...』
+『Ngh… nnh… *kiss*…』
 
 
 小鳥遊 乙羽（独白）(CH01_1457)
-『Let me...let you drink every last drop...let me
-clean...let it all out inside me...♡♡』
+『Let me…let you drink every last drop…let me
+clean…let it all out inside me…♡♡』
 
 
 ***Cinema_CI01-MS-0601_09
 ***LoopCV_オトハ_VCフェラ_オトハ_通常フェラ_後期{20}
 
 小鳥遊 乙羽（独白）(CH01_1458)
-『This cock juice is all mine...♡♡♡』
+『This cock juice is all mine…♡♡♡』
 
 
 暁 莉乃(CH02_0362)
-『Wh-What’s with that weird look on your face...?
-　You’re making my body tremble... I-It’s
-　creepy...!』
+『Wh-What’s with that weird look on your face…?
+　You’re making my body tremble… I-It’s creepy…!』
 
 
 小鳥遊 乙羽（独白）(CH01_1459)
-『Uncle’s sperm, so much♡ And the rest... I’m going
+『Uncle’s sperm, so much♡ And the rest… I’m going
 to drink all of it.』
 
 
 小鳥遊 乙羽(CH01_1460)
-『Zujuuuu~......zujuu......nnn, nguu, jupuu~,
-　...nn...』
+『Zujuuuu~……zujuu……nnn, nguu, jupuu~, …nn…』
 
 
 小鳥遊 乙羽（独白）(CH01_1461)
-『I’m the only one... who’s made to ejaculate this
-much...♡♡♡』
+『I’m the only one… who’s made to ejaculate this
+much…♡♡♡』
 
 
 ***LoopCV_FadeOut
@@ -856,13 +848,13 @@ much...♡♡♡』
 ***PC_主人公_A1_デフォ(着衣)_左１
 
 小鳥遊 乙羽(CH01_1462)
-『Gulp... hfff... hfff... hh... fhhh... fuuu...』
+『Gulp… hfff… hfff… hh… fhhh… fuuu…』
 
 
 小鳥遊 乙羽（独白）(CH01_1463)
-『I love you... I love you, Uncle...♡ It’s
-delicious♡ It has a richer flavor than usual♡ My
-throat’s stuck to it...♡』
+『I love you… I love you, Uncle…♡ It’s delicious♡
+It has a richer flavor than usual♡ My throat’s
+stuck to it…♡』
 
 
 主人公
@@ -870,13 +862,13 @@ throat’s stuck to it...♡』
 　so hard?』
 
 主人公
-『Could it be... that you’re actually jealous,
+『Could it be… that you’re actually jealous,
 　pretending to be worried about Otoha-chan?』
 
 ***Face_リノ_目焦り_口焦り_赤み04
 
 暁 莉乃(CH02_0363)
-『...Huh?!』
+『…Huh?!』
 
 
 ***Face_リノ_目焦り_口無表情_赤み04
@@ -884,7 +876,7 @@ throat’s stuck to it...♡』
 主人公
 『You said you wanted to get your uncle and Yori
 　back, so you were worried about your relationship
-　with Otoha-chan, who’s all over you...』
+　with Otoha-chan, who’s all over you…』
 
 ***Face_リノ_目怒り_口怒り_赤み04
 
@@ -893,34 +885,33 @@ throat’s stuck to it...♡』
 
 
 小鳥遊 乙羽（独白）(CH01_1464)
-『...? There’s no way... I’d return Yori? ...Huh?
-It’s... not related... right now...?』
+『…? There’s no way… I’d return Yori? …Huh? It’s…
+not related… right now…?』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目怒り_口無表情_赤み04_右１
 
 暁 莉乃(CH02_0365)
-『Gh... I don’t want you to know this, but I
-　already... have a precious, beloved boyfriend!
-　That’s why this conversation is over!!』
+『Gh… I don’t want you to know this, but I already…
+　have a precious, beloved boyfriend! That’s why
+　this conversation is over!!』
 
 
 小鳥遊 乙羽（独白）(CH01_1465)
-『Huh...? Rino-chan... So you’re not... the person
-Uncle likes...?』
+『Huh…? Rino-chan… So you’re not… the person Uncle
+likes…?』
 
 
 ***Face_リノ_目睨み_口無表情_赤み04
 
 暁 莉乃(CH02_0366)
-『Besides... Otoha’s a really important friend of
-　mine...』
+『Besides… Otoha’s a really important friend of
+　mine…』
 
 
 小鳥遊 乙羽（独白）(CH01_1466)
-『Huh... Huh...?? Then... Rino-chan’s interfering
-with my uncle... It’s all my...
-misunderstanding...?』
+『Huh… Huh…?? Then… Rino-chan’s interfering with my
+uncle… It’s all my… misunderstanding…?』
 
 
 主人公
@@ -937,25 +928,25 @@ misunderstanding...?』
 ***ST_リノ_B2_デフォ(着衣)_目怒り_口無表情_赤み03_右１
 
 暁 莉乃(CH02_0367)
-『...But if anything happens to Otoha, I’ll really
+『…But if anything happens to Otoha, I’ll really
 　tell Auntie Takanashi everything. That’s all I
 　wanted to say.』
 
 
 小鳥遊 乙羽（独白）(CH01_1467)
-『That’s not... I have to tell Rino-chan there’s
-nothing there, so she’ll be fine... But right now,
-she’s definitely not going to be able to leave...』
+『That’s not… I have to tell Rino-chan there’s
+nothing there, so she’ll be fine… But right now,
+she’s definitely not going to be able to leave…』
 
 
 主人公
 『Of course I wouldn’t do that to my niece.
-　...Probably.』
+　…Probably.』
 
 ***ST_リノ_B3_デフォ(着衣)_目怒り_口への字_赤み03_右１
 
 暁 莉乃(CH02_0368)
-『Gh!! You’re such a jerk!! ...Okay, I’ll be going
+『Gh!! You’re such a jerk!! …Okay, I’ll be going
 　now. I’m serious, so remember that.』
 
 
@@ -967,36 +958,34 @@ she’s definitely not going to be able to leave...』
 
 
 小鳥遊 乙羽（独白）(CH01_1468)
-『...Rino-chan used to... do stuff like that with
-her uncle... That’s a shock in its own way,
-but...』
+『…Rino-chan used to… do stuff like that with her
+uncle… That’s a shock in its own way, but…』
 
 
 小鳥遊 乙羽（独白）(CH01_1469)
-『Rino-chan... I’m sorry. Even though you care
-about me, you just assumed it... and
-misunderstood...』
+『Rino-chan… I’m sorry. Even though you care about
+me, you just assumed it… and misunderstood…』
 
 
 主人公
-『...Phew... She’s gone.』
+『…Phew… She’s gone.』
 
 主人公
-『...Come out already.』
+『…Come out already.』
 
 
 My body feels strange from nervousness and
-excitement. I can't move properly...
+excitement. I can’t move properly…
 
 
 小鳥遊 乙羽(CH01_1470)
-『Mm...』
+『Mm…』
 
 
 ***SE_ガサゴソfoley_cloth_light_fast_movement_01{100}[0](1)
 
 小鳥遊 乙羽(CH01_1471)
-『Let’s... hup...』
+『Let’s… hup…』
 
 
 ***PC_主人公_A1_デフォ(着衣)_画面外
@@ -1004,8 +993,8 @@ excitement. I can't move properly...
 ***ST_オトハ_D1_デフォ(着衣)_目微笑_口トロ笑い_赤み07_中央
 
 小鳥遊 乙羽(CH01_1472)
-『...Uncle, I’m talking to you, Rino-chan... but
-　you came so much for me...』
+『…Uncle, I’m talking to you, Rino-chan… but you
+　came so much for me…』
 
 
 主人公
@@ -1016,20 +1005,20 @@ excitement. I can't move properly...
 
 小鳥遊 乙羽(CH01_1473)
 『You’re doing terrible things too, Uncle. You were
-　doing dirty things with Rino-chan... when I moved
+　doing dirty things with Rino-chan… when I moved
 　here!』
 
 
 ***Face_オトハ_目悲しい・テレNL_口への字_赤み07
 
 小鳥遊 乙羽(CH01_1474)
-『I was the only one who didn’t know... and I
-　worried a lot, you know?』
+『I was the only one who didn’t know… and I worried
+　a lot, you know?』
 
 
 主人公
-『I’m... sorry about that. But what you said
-　earlier wasn’t a lie, okay?』
+『I’m… sorry about that. But what you said earlier
+　wasn’t a lie, okay?』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
 
@@ -1040,7 +1029,7 @@ excitement. I can't move properly...
 主人公
 『It means that Otoha-chan’s cuter than you,
 　Rino-chan. And she’s incredibly perverted, and
-　she's very attractive.』
+　she’s very attractive.』
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み08
 
@@ -1057,71 +1046,69 @@ excitement. I can't move properly...
 
 小鳥遊 乙羽(CH01_1477)
 『But Uncle, you were trying to do it with Rino
-　earlier, too...』
+　earlier, too…』
 
 
 ***Face_オトハ_目悲しい・テレCE_口への字_赤み07
 
 主人公
 『That was just a joke. I was just teasing you,
-　Rino. And I’m just talking to Otoha-chan... Yeah,
+　Rino. And I’m just talking to Otoha-chan… Yeah,
 　let’s actually show her.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
 
 主人公
-『...Come on. Your cock’s getting bigger again.
-　This is because you’re so attractive, Otoha-chan.』
+『…Come on. Your cock’s getting bigger again. This
+　is because you’re so attractive, Otoha-chan.』
 
 ***ST_オトハ_C1_デフォ(着衣)_目驚き_口驚き_赤み08_中央
 
 小鳥遊 乙羽(CH01_1478)
-『...Huh... Ah... ...I-It’s true...♡』
+『…Huh… Ah… …I-It’s true…♡』
 
 
 ***Face_オトハ_目微笑_口トロ笑い_赤み08
 
 主人公
-『Here, lick and insert this again... Don’t you
-　want to taste it a lot?』
+『Here, lick and insert this again… Don’t you want
+　to taste it a lot?』
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽(CH01_1479)
-『Nn, haa...♡... haa, haah... ...Hah, hah... B-But!
-　I’m still mad about you, Rino-chan.』
+『Nn, haa…♡… haa, haah… …Hah, hah… B-But! I’m still
+　mad about you, Rino-chan.』
 
 
 主人公
-『I see... So you’re mad. But right now, Uncle
-　wants to taste Otoha-chan and give her lots of
-　love.』
+『I see… So you’re mad. But right now, Uncle wants
+　to taste Otoha-chan and give her lots of love.』
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み08
 
 主人公
-『Do you really hate it, Otoha-chan...?』
+『Do you really hate it, Otoha-chan…?』
 
 ***ST_オトハ_C2_デフォ(着衣)_目微笑_口困り_赤み08_中央
 
 小鳥遊 乙羽(CH01_1480)
-『Hah, fhh... hah, hah... Uh... uuuh... I-I want
-　to... but...』
+『Hah, fhh… hah, hah… Uh… uuuh… I-I want to… but…』
 
 
 主人公
-『Yeah. Look, it’s gotten so big... I want to go
-　inside Otoha-chan’s pussy... It’s really painful
+『Yeah. Look, it’s gotten so big… I want to go
+　inside Otoha-chan’s pussy… It’s really painful
 　right now.』
 
 ***Face_オトハ_目悲しい・テレNL
 Kuchigumi_Red 08
 
 小鳥遊 乙羽(CH01_1481)
-『I... I want to... I do... but... B-But...』
+『I… I want to… I do… but… B-But…』
 
 
 主人公
-『Yeah. ...But what is it?』
+『Yeah. …But what is it?』
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み08
 
@@ -1131,42 +1118,41 @@ Kuchigumi_Red 08
 
 
 主人公
-『Even Otoha-chan has that kind of intensity...
+『Even Otoha-chan has that kind of intensity…
 　F-Fine. Do whatever you want, okay?』
 
 ***Face_オトハ_目睨み_口微笑_赤み08
 
 小鳥遊 乙羽(CH01_1483)
-『Ah! You must think I’m lying. It’s true...
-　Eigh...』
+『Ah! You must think I’m lying. It’s true… Eigh…』
 
 
 主人公
-『Wah...』
+『Wah…』
 
 
 ***Cinema_CI01-MS-0601_20
 
 小鳥遊 乙羽(CH01_1484)
-『Hehe... Uncle, I can really tell how big your
-　cock is...♡』
+『Hehe… Uncle, I can really tell how big your cock
+　is…♡』
 
 
 主人公
-『I-I’m surprised all of a sudden...』
+『I-I’m surprised all of a sudden…』
 
 小鳥遊 乙羽(CH01_1485)
 『I told you you can do whatever you want. That’s
 　why I’m going to have sex with you as much as I
-　want from now on...♡』
+　want from now on…♡』
 
 
 主人公
-『You’re making a face like that...』
+『You’re making a face like that…』
 
 小鳥遊 乙羽(CH01_1486)
-『Haa♡ Haa♡... Uncle, you want to be framed by my
-　slimy pussy again, don’t you? ...Haa, haa♡』
+『Haa♡ Haa♡… Uncle, you want to be framed by my
+　slimy pussy again, don’t you? …Haa, haa♡』
 
 
 ***Cinema_CI01-MS-0601_21
@@ -1174,88 +1160,87 @@ Kuchigumi_Red 08
 小鳥遊 乙羽(CH01_1487)
 『If I give you a blowjob too, I can’t help but
 　want to hold this big cock of yours in my wet
-　pussy...♡』
+　pussy…♡』
 
 
 主人公
-『Okay, Otoha-chan, let’s keep going...』
+『Okay, Otoha-chan, let’s keep going…』
 
 小鳥遊 乙羽(CH01_1488)
-『Not yet...♡』
+『Not yet…♡』
 
 
 小鳥遊 乙羽(CH01_1489)
-『Haaah... ♡Huff... nnh♡ Kya, hehe... Just a little
-　tweaking is enough to make me twitch... Your cock
-　arches back, amazing...♡』
+『Haaah… ♡Huff… nnh♡ Kya, hehe… Just a little
+　tweaking is enough to make me twitch… Your cock
+　arches back, amazing…♡』
 
 
 小鳥遊 乙羽(CH01_1490)
-『The head's all swollen up... and now all of my
-　folds are being churned up inside me, right...?』
+『The head’s all swollen up… and now all of my
+　folds are being churned up inside me, right…?』
 
 
 主人公
-『Could it be... you’re still jealous of
-　Rino-chan?』
+『Could it be… you’re still jealous of Rino-chan?』
 
 ***Cinema_CI01-MS-0601_22
 
 小鳥遊 乙羽(CH01_1491)
-『Gh... That’s enough! Don’t mention Rino-chan’s
+『Gh… That’s enough! Don’t mention Rino-chan’s
 　name. Uncle’s mine and mine alone.』
 
 
 ***Cinema_CI01-MS-0601_23
 
 小鳥遊 乙羽(CH01_1492)
-『Your dick is throbbing raw with me... Even though
-　I just let it out... I’m so happy that you’re
-　already like this...♡』
+『Your dick is throbbing raw with me… Even though I
+　just let it out… I’m so happy that you’re already
+　like this…♡』
 
 
 主人公
 『I want to put it in Otoha-chan as soon as
-　possible...』
+　possible…』
 
 小鳥遊 乙羽(CH01_1493)
-『Mmm. You can do whatever I want, right? ...In
-　that case, I’ll hold your dick in my mouth at the
-　exact moment I want to set you up...♡Haa...haa...♡♡』
+『Mmm. You can do whatever I want, right? …In that
+　case, I’ll hold your dick in my mouth at the exact
+　moment I want to set you up…♡Haa…haa…♡♡』
 
 
 主人公
-『It’s been reversed...』
+『It’s been reversed…』
 
 小鳥遊 乙羽(CH01_1494)
-『Let me look a little more... inside of me... I
-　want to see... what kind of thing you're going to
-　put inside me...』
+『Let me look a little more… inside of me… I want
+　to see… what kind of thing you’re going to put
+　inside me…』
 
 
 ***Cinema_CI01-MS-0601_24
 
 小鳥遊 乙羽(CH01_1495)
-『Haaaa ♡fuu...haa, haaa♡ It’s floating, it’s so
-　erect...nnn♡I’m starting to want to fill my mouth
-　again...』
+『Haaaa ♡fuu…haa, haaa♡ It’s floating, it’s so
+　erect…nnn♡I’m starting to want to fill my mouth
+　again…』
 
 
 小鳥遊 乙羽(CH01_1496)
 『On top of my tongue, the flavor of this, plump,
-　dripping precum spread out... Mm, hah...♡ It
-　smelled so good♡』
+　dripping precum spread out… Mm, hah…♡ It smelled
+　so good♡』
 
 
 主人公
-『I-I can’t take it anymore... I want you to put it
-　in my mouth... not with your mouth... but with
-　Otoha-chan’s pussy...』
+『I-I can’t take it anymore… I want you to put it
+　in my mouth… not with your mouth… but with
+　Otoha-chan’s pussy…』
 
 小鳥遊 乙羽(CH01_1497)
-『Hehe♡ I guess I can’t take it anymore, either...
-　It’s okay, Mister... My pussy’s so full, I’m
-　stuck...♡』
+『Hehe♡ I guess I can’t take it anymore, either…
+　It’s okay, Mister… My pussy’s so full, I’m
+　stuck…♡』
 
 
 ***FadeIn_InSide_Black
@@ -1276,36 +1261,36 @@ Kuchigumi_Red 08
 ***Cinema_CI01-MS-0601_25
 
 主人公
-『Finally... It’s all Otoha-chan’s fault this
+『Finally… It’s all Otoha-chan’s fault this
 　happened, so can you take responsibility and set
 　me up?』
 
 小鳥遊 乙羽(CH01_1498)
-『Hehe♡ It’s okay... I’ll set you up right away...
-　Don’t rush...♡ is... ah... ahh... ♡』
+『Hehe♡ It’s okay… I’ll set you up right away…
+　Don’t rush…♡ is… ah… ahh… ♡』
 
 
 ***Cinema_CI01-MS-0601_26
 
 小鳥遊 乙羽(CH01_1499)
-『Nnh... Ahaaaahhhh!!』
+『Nnh… Ahaaaahhhh!!』
 
 
 ***Cinema_CI01-MS-0601_27
 
 小鳥遊 乙羽(CH01_1500)
-『Ah... Hahh... Tch... Your cock... It’s here...』
+『Ah… Hahh… Tch… Your cock… It’s here…』
 
 
 主人公
-『Cum just from putting it in... Ahh... Your
-　insides are twitching so much...』
+『Cum just from putting it in… Ahh… Your insides
+　are twitching so much…』
 
 ***Cinema_CI01-MS-0601_28
 
 小鳥遊 乙羽(CH01_1501)
-『Haah... haah... Uncle, I’m going to rape you a
-　lot from now on... so prepare yourself, okay...?』
+『Haah… haah… Uncle, I’m going to rape you a lot
+　from now on… so prepare yourself, okay…?』
 
 
 ***Cinema_END

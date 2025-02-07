@@ -9,7 +9,7 @@
 
 
 The summer sun poured down on the walls of the
-school building, the grounds, my own clothes... It
+school building, the grounds, my own clothes… It
 was so clear that it bounced off all over the place.
 
 Despite how clear it was, the air was humid and
@@ -23,7 +23,7 @@ forehead to her chin and from her neck to her body.
 ***BGround_BG03_01
 
 
-I'm a live-in janitor at a school in a rural town
+I’m a live-in janitor at a school in a rural town
 in the mountains. Since I was born and raised
 here, this is my alma mater.
 
@@ -35,12 +35,12 @@ When you hear that it’s a rural town in the mountains,
 you tend to think summer is easier to pass the time in
 comparison to a green, cool, inconvenient, yet lively city
 
-...That's not true at all. It's true that there's
-a lot of nature here, but we're not in a remote
-area surrounded by mountains in all directions.
+…That’s not true at all. It’s true that there’s a
+lot of nature here, but we’re not in a remote area
+surrounded by mountains in all directions.
 
 The mountains are only visible in the distance, with flat
-land, houses, and fields. It's a little old, but there's also
+land, houses, and fields. It’s a little old, but there’s also
 a new residential area. Only the station is a little lively.
 
 There was no Pleasure Quarter, and no matter how
@@ -51,8 +51,8 @@ In this era, the closed-off nature of the land,
 which was born whether you wanted to or not when
 you decided on a face to face with, was alive and well.
 
-There's nothing unusual about it. It must be the
-　most common 'country' in the country.
+There’s nothing unusual about it. It must be the
+　most common ‘country’ in the country.
 
 Being a janitor in a place like this was simply
 too boring.
@@ -60,9 +60,9 @@ too boring.
 
 ***BGround_BG00_01
 
-And it's right in the middle of summer. In other
+And it’s right in the middle of summer. In other
 words, school is on summer break. At the very least,
-there aren't many female students here to comfort her.
+there aren’t many female students here to comfort her.
 
 I plucked the summer grass and was drenched in sweat,
 trying to catch my breath in the shade, but instead of
@@ -77,11 +77,11 @@ breathing, all the moisture was draining from my body.
 ***BGround_BG99_01
 ***SE_footsteps_Asphalt_Trainers_Walk_Slow_x8_loop_mono
 
-My room was far hotter than the outdoors... In
-other words, I started walking back to the
-janitor's office for the time being.
+My room was far hotter than the outdoors… In other
+words, I started walking back to the janitor’s
+office for the time being.
 
-Let's get out of the school building to avoid the
+Let’s get out of the school building to avoid the
 sun as much as possible.
 
 
@@ -89,16 +89,16 @@ sun as much as possible.
 ***BGM_夏空、静寂、蝉しぐれ
 ***SELoop_se_COCicadasILS2R_48khz_24bit_購入済み{45}
 
-I walk down the hallway, where there's almost no
-sign of any students even during the day. It's a
+I walk down the hallway, where there’s almost no
+sign of any students even during the day. It’s a
 little cooler than outside.
 
 The old man has been a janitor at this school
 since I was a student. He must be quite old. He
-fell ill around the beginning of summer...
+fell ill around the beginning of summer…
 
-Now that I've started recuperating for my return,
-I'm temporarily placed in an open post.
+Now that I’ve started recuperating for my return,
+I’m temporarily placed in an open post.
 
 I only became a janitor a few days ago, and since
 it was a temporary job, I was no different from a
@@ -107,48 +107,48 @@ part-timer.
 主人公
 『This is the easiest thing to do.』
 
-My work doesn't last long in the first place.
+My work doesn’t last long in the first place.
 
-There's no way I'd quit after arguing with someone,
-or get fired because I couldn't do it at all, but
+There’s no way I’d quit after arguing with someone,
+or get fired because I couldn’t do it at all, but
 no matter what I do, I get bored and become bored.
 
-It's not that I'm tired of being an excellent
-person who's learned how to do it completely.
-It'll just be boring, and I'll get more and more lazy.
+It’s not that I’m tired of being an excellent
+person who’s learned how to do it completely.
+It’ll just be boring, and I’ll get more and more lazy.
 
-Once you can do it to a certain extent, you'll
+Once you can do it to a certain extent, you’ll
 notice all sorts of flaws, like efficiency. But
-you don't have the energy or the ability to fix them.
+you don’t have the energy or the ability to fix them.
 
-As a result, I just hate it. I don't have much
+As a result, I just hate it. I don’t have much
 willpower or endurance to begin with.
 
-If that's the case, it's like counting down the
+If that’s the case, it’s like counting down the
 seconds until I quit or get backtracked.
 
 主人公
-『The club was like that, too...』
+『The club was like that, too…』
 
 ***SE_School Playground with Movement_1_re
 
-I turned my eyes in the direction of the club's
+I turned my eyes in the direction of the club’s
 voices outside.
 
-I'm aware that the basics aren't good either. So,
-it's easy to just move from place to place in a
+I’m aware that the basics aren’t good either. So,
+it’s easy to just move from place to place in a
 state where I can eat.
 
-I don't know what it's like to be a company animal
-when you can't get much money. I think you're
+I don’t know what it’s like to be a company animal
+when you can’t get much money. I think you’re
 doing a good job.
 
 Her parents found her work on their own, and she
 was given a little money so that it would flow as
 it was
 
-I was chased out of my family's house to the urban
-area to stand on my own, but...
+I was chased out of my family’s house to the urban
+area to stand on my own, but…
 
 Every job was short-lived, and the gambling and
 brothels I went to on my days off or whenever I
@@ -158,16 +158,15 @@ This job was unsatisfying due to its low salary,
 but since it was summer vacation, it wasn’t very
 busy, so I was grateful to be able to laze around
 
-Thanks to living here, she's a family member who
-says she doesn't have a regular job at her age...
-Or rather...
+Thanks to living here, she’s a family member who
+says she doesn’t have a regular job at her age… Or
+rather…
 
-Most of the time, I'd be able to stay away from
-Nee-san's nagging family.
+Most of the time, I’d be able to stay away from
+Nee-san’s nagging family.
 
-...Now then, what should I do next after I get
-back to my room, take a break, and cool off my
-sweat...?
+…Now then, what should I do next after I get back
+to my room, take a break, and cool off my sweat…?
 
 ？？？(CH01_0000)
 『Ah! Hello, Uncle.』
@@ -184,10 +183,10 @@ echoing behind her.
 
 
 ？？？(CH01_0001)
-『...Were you busy?』
+『…Were you busy?』
 
 
-I'm surprised.
+I’m surprised.
 
 A beautiful, almost transparent girl was standing
 there.
@@ -195,31 +194,29 @@ there.
 It looked fainter than the white floor that
 resembled linoleum shining in the sunlight.
 
-To put it simply, it's neat and tidy. And even
-though she's extremely tidy, she doesn't give off
+To put it simply, it’s neat and tidy. And even
+though she’s extremely tidy, she doesn’t give off
 a harsh impression at all.
 
 On the other hand, the reason she looks so docile
 might be because of the softness of her gaze.
 
-...The atmosphere and voice made me suddenly
-think.
+…The atmosphere and voice made me suddenly think.
 
 主人公
-『Hey, Otoha-chan... right?』
+『Hey, Otoha-chan… right?』
 
-I couldn't help but be captivated. I hurriedly
+I couldn’t help but be captivated. I hurriedly
 called out to check.
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 
 小鳥遊 乙羽(CH01_0002)
-『Yeah, it’s Otoha. I guess... I didn’t
-　understand?』
+『Yeah, it’s Otoha. I guess… I didn’t understand?』
 
 
-I didn't think she'd come to school today.
+I didn’t think she’d come to school today.
 
 This girl is Takanashi Otoha.
 
@@ -256,14 +253,14 @@ uncertainly, was because she was my niece.
 
 
 主人公
-『That’s right. Otoha-chan... It looks like a lot’s
+『That’s right. Otoha-chan… It looks like a lot’s
 　happened. How’ve you been?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0006)
 『Yeah, I’m doing fine somehow. Besides, I didn’t
-　think I’d get to see you today, Uncle...』
+　think I’d get to see you today, Uncle…』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口大笑い_赤み03_中央
@@ -297,7 +294,7 @@ growing daughter, was adorable.
 
 
 I had my eyes on the other parts of her that had
-grown. Five years had changed a girl like this...
+grown. Five years had changed a girl like this…
 
 Her breasts, which had begun to assert themselves
 since long ago. The contours of her body, her
@@ -307,25 +304,25 @@ Her overall plumpness was also somewhat soft,
 despite the fact that her innocence hadn’t left
 her at all
 
-She's starting to smell feminine. That vague
+She’s starting to smell feminine. That vague
 feeling is strangely arousing.
 
 ***ST_オトハ_C2_デフォ(着衣)_目大笑い_口微笑_赤み02_中央
 
-Since she was so young that she couldn't play, her
+Since she was so young that she couldn’t play, her
 hair was unmatchedly beautiful and glossy, forming
 a ring of light.
 
-And her skin is so firm that it feels like it's
+And her skin is so firm that it feels like it’s
 repelling not just beads of sweat, but water as
-well. It's fine-tuned.
+well. It’s fine-tuned.
 
 It made me want to savor the sensation with my own
 hands and pet her all over.
 
-...Or at least, that's what I was surprised to
-find myself lusting after my niece, whom I hadn't
-seen in a while.
+…Or at least, that’s what I was surprised to find
+myself lusting after my niece, whom I hadn’t seen
+in a while.
 
 She may be my niece, but to be honest, I want to
 hold her.
@@ -333,7 +330,7 @@ hold her.
 ***ST_オトハ_C1_デフォ(着衣)_目驚き_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0010)
-『Uncle...san...?』
+『Uncle…san…?』
 
 
 Otoha-chan started talking in a troubled tone
@@ -342,11 +339,11 @@ because she kept staring at her body.
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0011)
-『Does this uniform bother me after all...?』
+『Does this uniform bother me after all…?』
 
 
 主人公
-『Hm...?』
+『Hm…?』
 
 She seemed to be thinking about something else
 entirely.
@@ -366,7 +363,7 @@ I was a little taken aback by her overly innocent
 thoughts, and there was a strange sense of
 impatience mixed in with her reply.
 
-Fortunately, she hadn't been found out that she
+Fortunately, she hadn’t been found out that she
 was looking at her own niece sexually.
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
@@ -380,13 +377,13 @@ was looking at her own niece sexually.
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0014)
-『Apparently it’ll take a while to get it in...』
+『Apparently it’ll take a while to get it in…』
 
 
 小鳥遊 乙羽(CH01_0015)
 『So it looks like I’ll be wearing this uniform for
 　a while. The school told me that’s fine, so I’m
-　fine, but...』
+　fine, but…』
 
 
 Ignoring Otoha-chan, who was in trouble, I was
@@ -394,13 +391,13 @@ excited by the unexpected good fortune of being
 able to see a schoolgirl in a sailor uniform for a while.
 
 主人公
-『That’s a problem... But I think Otoha-chan would
+『That’s a problem… But I think Otoha-chan would
 　look good in either a sailor or the uniform here.』
 
 ***ST_オトハ_B3_デフォ(着衣)_目微笑_口微笑_赤み04_中央
 
 小鳥遊 乙羽(CH01_0016)
-『Th-Thank you... But even if there aren’t many
+『Th-Thank you… But even if there aren’t many
 　people during summer vacation, I’ll still stand
 　out a little.』
 
@@ -408,12 +405,12 @@ able to see a schoolgirl in a sailor uniform for a while.
 The embarrassment on her face makes me want to do
 it again.
 
-If I don't consciously suppress it, I won't be
+If I don’t consciously suppress it, I won’t be
 able to stop fantasizing about the Otoha-chan in
 front of me.
 
-If I let it slip, it'll be a pain. I have to
-change the subject...
+If I let it slip, it’ll be a pain. I have to
+change the subject…
 
 主人公
 『Oh yeah, Otoha-chan came back to this town
@@ -437,9 +434,8 @@ precise, she moved elsewhere and came back again.
 　friend you made over there. If you’re okay with
 　being an uncle, I’ll listen to you.』
 
-I was genuinely worried about my niece... or
-rather, I made a proposal from the bottom of my
-heart.
+I was genuinely worried about my niece… or rather,
+I made a proposal from the bottom of my heart.
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
@@ -450,7 +446,7 @@ heart.
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0019)
-『Everyone over there... was studying for entrance
+『Everyone over there… was studying for entrance
 　exams, so I don’t have that many memories of
 　playing around.』
 
@@ -466,14 +462,14 @@ seemed to be inviting me.
 『So that’s how it was.』
 
 I try to keep myself from getting horny, but I
-still remember Otoha-chan's circumstances.
+still remember Otoha-chan’s circumstances.
 
-Otoha-chan’s parents—in other words, my older
+Otoha-chan’s parents―in other words, my older
 sister, and her father-in-law’s older brother-
-in-law—would both be famous in the neighborhood
+in-law―would both be famous in the neighborhood
 
-She's an avid educator. Enthusiasm is an obsessive
-way of putting it... Honestly, it's out of the
+She’s an avid educator. Enthusiasm is an obsessive
+way of putting it… Honestly, it’s out of the
 ordinary.
 
 Otoha-chan had decided to go to a famous school
@@ -483,14 +479,14 @@ moved there for that purpose.
 The fact that she had returned meant she had
 failed her entrance exams.
 
-That wasn't the only reason, but Nee-san, with her
-pride, wouldn't tell me the details.
+That wasn’t the only reason, but Nee-san, with her
+pride, wouldn’t tell me the details.
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み01_中央
 
 小鳥遊 乙羽(CH01_0020)
 『I’m sorry. It’s gotten dark when I’m with you,
-　Uncle...』
+　Uncle…』
 
 
 主人公
@@ -505,7 +501,7 @@ pride, wouldn't tell me the details.
 
 
 Seeing her reply so happy from the bottom of her
-heart, I can't help but feel relatively horny.
+heart, I can’t help but feel relatively horny.
 
 She’d always had a decent appearance, but to be
 honest, I hadn’t expected her to grow up to be
@@ -515,8 +511,8 @@ this cute and enchanting.
 
 小鳥遊 乙羽(CH01_0022)
 『Ah, and then there’s that. Class progress was different between
-　my previous school and this one... and it’s been decided that
-　I’ll be attending supplementary lessons during summer vacation.』
+　my previous school and this one… and it’s been decided that I’ll
+　be attending supplementary lessons during summer vacation.』
 
 
 主人公
@@ -528,16 +524,16 @@ this cute and enchanting.
 『But studying is important.』
 
 
-I guess that's what she really thinks. Speaking of
-Otoha-chan, I get the impression that she's always
+I guess that’s what she really thinks. Speaking of
+Otoha-chan, I get the impression that she’s always
 studying.
 
 No matter how he spends his time, his body matures
 with age. Just thinking that Otoha-chan is
-approaching that time of year...
+approaching that time of year…
 
 Feeling the characteristic lewdness and
-seductiveness of her mature body, I couldn't look
+seductiveness of her mature body, I couldn’t look
 away again.
 
 主人公
@@ -546,7 +542,7 @@ away again.
 Even though she said that with her mouth, even she
 could tell that she was half-empty out of lust.
 
-Even in a brothel, I couldn't play with such a
+Even in a brothel, I couldn’t play with such a
 young, fresh girl no matter how much I served her.
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
@@ -565,14 +561,14 @@ young, fresh girl no matter how much I served her.
 
 
 Five years ago, when we were together, I missed
-people's skin, and sometimes I would pretend to
-pet them and touch places that were dangerous...
+people’s skin, and sometimes I would pretend to
+pet them and touch places that were dangerous…
 
 I had never seen or wanted to touch her this much
 as a woman.
 
-If she was going to school during summer
-vacation... she might have a chance.
+If she was going to school during summer vacation…
+she might have a chance.
 
 After all, Otoha-chan is attached to me.
 
@@ -600,7 +596,7 @@ footsteps.
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口困り_赤み02_中央
 
 小鳥遊 乙羽(CH01_0026)
-『Ah, Mom...』
+『Ah, Mom…』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口つぐみ_赤み02_左１
@@ -614,13 +610,13 @@ footsteps.
 
 
 小鳥遊 乙羽(CH01_0027)
-『I-I’m sorry...』
+『I-I’m sorry…』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口つぐみ_赤み02_画面外
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口への字_赤み01_中央
 
-This is my sister... Reiko Takanashi.
+This is my sister… Reiko Takanashi.
 
 The silence in the hallway made the high-pressure
 voice sound even more irritating.
@@ -633,7 +629,7 @@ voice sound even more irritating.
 
 
 小鳥遊 乙羽(CH01_0028)
-『Y-Yeah... But I didn’t think Mom would come so
+『Y-Yeah… But I didn’t think Mom would come so
 　early.』
 
 
@@ -655,10 +651,10 @@ completely curled up, she turned to look at me.
 
 
 主人公
-『...That’s right.』
+『…That’s right.』
 
-I don't want to talk to her. It'll definitely be a
-pain, or I'll just make her feel bad.
+I don’t want to talk to her. It’ll definitely be a
+pain, or I’ll just make her feel bad.
 
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口への字_赤み01_右１
 
@@ -670,17 +666,17 @@ pain, or I'll just make her feel bad.
 主人公
 『......』
 
-Why is Reiko-nee-san...? Why can she always spit
+Why is Reiko-nee-san…? Why can she always spit
 sarcasm out of her mouth?
 
-With just a few words, I'm fed up with people to
+With just a few words, I’m fed up with people to
 the core.
 
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口困り_赤み02_左１
 
 小鳥遊 乙羽(CH01_0029)
 『U-Um, Mom, it’s not that Uncle held me back. I
-　found Uncle and talked to him... so.』
+　found Uncle and talked to him… so.』
 
 
 小鳥遊 麗子(CH03_0006)
@@ -694,24 +690,24 @@ the core.
 小鳥遊 乙羽
 『...』
 
-It's just that Otoha-chan and Reiko-nee-san didn't
+It’s just that Otoha-chan and Reiko-nee-san didn’t
 come back to this town because they failed their
 entrance exams.
 
-Even if she doesn't want to say it, as long as
-we're family, there's something I can't hide.
+Even if she doesn’t want to say it, as long as
+we’re family, there’s something I can’t hide.
 
 Reiko-nee-san had divorced and come back. That was
 the one thing I knew for sure.
 
 I pushed my brother-in-law to take responsibility
 for the failure of the entrance exams and started
-arguing with him...
+arguing with him…
 
 In the end, there was no doubt that he had three
 and a half lines thrust at him.
 
-If it were me, I wouldn't want to marry a woman
+If it were me, I wouldn’t want to marry a woman
 with a personality like this, no matter how good
 she looks.
 
@@ -728,33 +724,33 @@ she looks.
 　you?』
 
 
-...Yeah, my mom did find this job.
+…Yeah, my mom did find this job.
 
-It's true that I was able to get a job through my
+It’s true that I was able to get a job through my
 connections at my alma mater because I knew what I
 wanted to do, and because I was a member of Takanashi.
 
 But it wasn’t like I’d asked her to find a job.
 
 小鳥遊 麗子(CH03_0009)
-『At least do your best. Honestly...』
+『At least do your best. Honestly…』
 
 
 小鳥遊 麗子(CH03_0010)
 『You’re old enough to change jobs one after
-　another... Don’t you have a sense of
-　responsibility or danger?』
+　another… Don’t you have a sense of responsibility
+　or danger?』
 
 
 Otoha-chan also fell silent, bewildered, partly
 because I remained silent.
 
-Reiko-nee-san hadn't noticed the atmosphere
+Reiko-nee-san hadn’t noticed the atmosphere
 itself, let alone the feeling of trying to do
 something about it.
 
 主人公
-『...Shut up.』
+『…Shut up.』
 
 ***ST_レイコ_B1_デフォ(着衣)_目怒り_口への字_赤み02_右１
 
@@ -762,12 +758,12 @@ something about it.
 『What did you say?』
 
 
-I couldn't help but slip up. Actually, I was at
+I couldn’t help but slip up. Actually, I was at
 the limit of my patience.
 
 主人公
-『I mean, Reiko-nee-san’s voice is too loud. Tch...
-　So you’re only good at mumbling...』
+『I mean, Reiko-nee-san’s voice is too loud. Tch…
+　So you’re only good at mumbling…』
 
 小鳥遊 麗子(CH03_0012)
 『What’s with all that mumbling at the end? If you
@@ -776,35 +772,35 @@ the limit of my patience.
 
 
 Even though she was at her limit, Reiko-nee-san
-couldn't stop easily at this point. ...She really
+couldn’t stop easily at this point. …She really
 did slip up.
 
 小鳥遊 麗子(CH03_0013)
-『I’m thinking about your sake... and I’m taking
-　care not to embarrass Takanashi any further.』
+『I’m thinking about your sake… and I’m taking care
+　not to embarrass Takanashi any further.』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口困り_赤み02_左１
 
 小鳥遊 乙羽(CH01_0030)
-『M-Mom...』
+『M-Mom…』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口つぐみ_赤み02_左１
 
-It's not embarrassing at all... Does she think
-that coming back from a divorce isn't the shame of
-her family?
+It’s not embarrassing at all… Does she think that
+coming back from a divorce isn’t the shame of her
+family?
 
-I start to get irritated again. ...That said, when
-I see Otoha-chan shrinking back, I shake off my
+I start to get irritated again. …That said, when I
+see Otoha-chan shrinking back, I shake off my
 thoughts.
 
-Let's get the situation under control somehow.
+Let’s get the situation under control somehow.
 
 主人公
-『...Anyway, Reiko-nee-san, you’re here for
-　something too, aren’t you?』
+『…Anyway, Reiko-nee-san, you’re here for something
+　too, aren’t you?』
 
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口への字_赤み01_右１
 
@@ -817,14 +813,14 @@ Let's get the situation under control somehow.
 I almost laughed at her insistence that it was a
 position I had gained through my own efforts.
 
-...It's no different from how I got this job
-through my connections.
+…It’s no different from how I got this job through
+my connections.
 
-My family, Takanashi's house, is a prestigious
-house in this town. However, it's only here.
+My family, Takanashi’s house, is a prestigious
+house in this town. However, it’s only here.
 
-That makes it a little wider. That's also unique
-to the countryside. I'm sick of it.
+That makes it a little wider. That’s also unique
+to the countryside. I’m sick of it.
 
 Even if Reiko-nee-san was an honor student who acknowledged both
 herself and others, even if she was an alumna who was proud of
@@ -833,7 +829,7 @@ herself, someone who had only just returned for the first time in several years
 It wasn’t even time to switch shifts, but I
 couldn’t suddenly become PTA president.
 
-It hasn't changed the fact that I haven't noticed
+It hasn’t changed the fact that I haven’t noticed
 that part.
 
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口無表情_赤み01_右１
@@ -842,11 +838,11 @@ that part.
 『That’s why, unlike you, I’m busy.』
 
 
-The way she says so many things hasn't changed.
+The way she says so many things hasn’t changed.
 
 主人公
-『In the country... in a small, deserted town, is
-　the school’s simple PTA president really that
+『In the country… in a small, deserted town, is the
+　school’s simple PTA president really that
 　important?』
 
 ***ST_レイコ_A1_デフォ(着衣)_目怒り_口への字_赤み02_右１
@@ -857,17 +853,17 @@ The way she says so many things hasn't changed.
 
 小鳥遊 麗子(CH03_0017)
 『Gh, you didn’t even do your job, and you’re just
-　being hateful... You haven’t changed a bit from
-　when you were cooped up at home!』
+　being hateful… You haven’t changed a bit from when
+　you were cooped up at home!』
 
 
-How many years ago did she bring up...?
+How many years ago did she bring up…?
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_左１
 
 小鳥遊 乙羽(CH01_0031)
-『M-Mom, let’s go already... I’m sure Sensei will
-　be waiting for you...』
+『M-Mom, let’s go already… I’m sure Sensei will be
+　waiting for you…』
 
 
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口無表情_赤み01_右１
@@ -879,7 +875,7 @@ How many years ago did she bring up...?
 ***ST_オトハ_B1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み01_左１
 
 小鳥遊 乙羽(CH01_0032)
-『Gh... Y-Yes... I’m sorry...』
+『Gh… Y-Yes… I’m sorry…』
 
 
 小鳥遊 麗子(CH03_0019)
@@ -897,11 +893,11 @@ How many years ago did she bring up...?
 
 主人公
 『Reiko-nee-san, you’re wearing something and
-　saying ‘Takanashi’ and ‘Takanashi’... Otoha-chan’s
+　saying ‘Takanashi’ and ‘Takanashi’… Otoha-chan’s
 　scared, isn’t she?!』
 
-Otoha-chan looks like she's about to burst into tears,
-but her voice gets rougher in the end. Reiko-nee-san's
+Otoha-chan looks like she’s about to burst into tears,
+but her voice gets rougher in the end. Reiko-nee-san’s
 attack stops for a moment, apparently taken aback.
 
 ***ST_レイコ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み01_右１
@@ -912,28 +908,28 @@ less like a mother.
 ***ST_レイコ_A1_デフォ(着衣)_目睨み_口への字_赤み01_右１
 
 小鳥遊 麗子(CH03_0021)
-『...Anyway, if you slack off on this job, it’ll be
+『…Anyway, if you slack off on this job, it’ll be
 　in my ears. I won’t forgive you if you embarrass
 　me.』
 
 
 小鳥遊 乙羽(CH01_0033)
-『Mom, it’s time... I-I’m really going to be late
-　for the interview... I’m sure Uncle has work to
-　do, too...』
+『Mom, it’s time… I-I’m really going to be late for
+　the interview… I’m sure Uncle has work to do,
+　too…』
 
 
 Sensing that Reiko-nee-san’s momentum had weakened
 a little, Otoha-chan mustered her voice.
 
-It was like this five years ago, too...
+It was like this five years ago, too…
 
 As the daughter of me, the eldest son of
 Takanashi, and Reiko-nee-san, the talented woman
-I'm proud of.
+I’m proud of.
 
 Otoha-chan would be thoroughly scolded if she
-didn't continue to be an honor student and always
+didn’t continue to be an honor student and always
 get excellent grades.
 
 While our genders and ages were different, we had
@@ -941,13 +937,13 @@ a kind of sense of camaraderie.
 
 This Reiko-nee-san was our common enemy.
 
-...That said, Otoha-chan doesn't hate
-Reiko-nee-san. She's just bad at it.
+…That said, Otoha-chan doesn’t hate Reiko-nee-san.
+She’s just bad at it.
 
 ***ST_レイコ_A3_デフォ(着衣)_目悲しい・テレ_口への字_赤み01_右１
 
 小鳥遊 麗子(CH03_0022)
-『Sigh... You’re right. All right. Let’s go.』
+『Sigh… You’re right. All right. Let’s go.』
 
 
 ***ST_レイコ_A3_デフォ(着衣)_目デフォ_口への字_赤み01_右１
@@ -970,12 +966,12 @@ me.
 
 ***SELoop_se_COCicadasILS2R_48khz_24bit_購入済み{45}
 
-Rather than feeling refreshed after leaving, she's
-feeling really sick. That's why I hate her...
+Rather than feeling refreshed after leaving, she’s
+feeling really sick. That’s why I hate her…
 
 小鳥遊 乙羽(CH01_0034)
-『M-Mister... Um... I’m sorry. My mom said
-　something terrible like that...』
+『M-Mister… Um… I’m sorry. My mom said something
+　terrible like that…』
 
 
 主人公
@@ -985,8 +981,8 @@ feeling really sick. That's why I hate her...
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み01_中央
 
 小鳥遊 乙羽(CH01_0035)
-『But I couldn’t say anything... and my fight with
-　my father was always like that...』
+『But I couldn’t say anything… and my fight with my
+　father was always like that…』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口への字_赤み02_中央
@@ -996,7 +992,7 @@ feeling really sick. That's why I hate her...
 　to get hurt.』
 
 
-...Otoha-chan was so calm and good-natured that I
+…Otoha-chan was so calm and good-natured that I
 wanted to tilt my head to see if she really was
 the child Reiko-nee-san gave birth to.
 
@@ -1007,13 +1003,13 @@ the child Reiko-nee-san gave birth to.
 
 小鳥遊 乙羽(CH01_0037)
 『Besides, I’ve never thought of you as if your
-　mother were talking about you...』
+　mother were talking about you…』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口困り_赤み03_中央
 
 小鳥遊 乙羽(CH01_0038)
-『Um... I’m sorry I couldn’t quite put it into
+『Um… I’m sorry I couldn’t quite put it into
 　words.』
 
 
@@ -1023,9 +1019,9 @@ the child Reiko-nee-san gave birth to.
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0039)
-『I still want to talk, but... if I don’t get going
-　soon, she’ll get mad at me again. ...Uncle, see
-　you later.』
+『I still want to talk, but… if I don’t get going
+　soon, she’ll get mad at me again. …Uncle, see you
+　later.』
 
 
 主人公
@@ -1043,15 +1039,15 @@ Seeing Otoha-chan off, who was cute and had a good
 personality, had calmed down the feeling of being
 so irritated.
 
-That said, whenever Reiko-nee-san's face crossed
+That said, whenever Reiko-nee-san’s face crossed
 my mind for even a moment, I got really angry
 again.
 
-I'm tired from all the work outside. Anyway, let's
-head back to the janitor's office and take a nap.
+I’m tired from all the work outside. Anyway, let’s
+head back to the janitor’s office and take a nap.
 
-And... before that, let's let out this horny
-sexual desire of Otoha-chan's.
+And… before that, let’s let out this horny sexual
+desire of Otoha-chan’s.
 
 ***BGM_FadeOut
 
@@ -1074,19 +1070,19 @@ little, and the heat will probably be better.
 ***FadeOut_InSide_Black
 
 
-I wake up and wake up. It looks like it's evening.
+I wake up and wake up. It looks like it’s evening.
 Maybe I slept a little too much.
 
-The room that's hazy smells like sperm. That alone
+The room that’s hazy smells like sperm. That alone
 should have been enough to clear my mind, but now
-I'm irritated.
+I’m irritated.
 
 
 ***SE_引き戸_窓_Sliding Door Close
 ***FadeIn_InSide_Black
 
 
-It'll only get hotter, but let's ventilate it and
+It’ll only get hotter, but let’s ventilate it and
 get out on patrol.
 
 ***FadeOut_InSide_Black
@@ -1094,7 +1090,7 @@ get out on patrol.
 
 ***BGround_BG07_00
 
-At this hour, she couldn't even hear the club
+At this hour, she couldn’t even hear the club
 anymore. She must have withdrawn.
 
 ***SE_FOOTSTEPS_Asphalt_Trainers_Walk_Slow_x8_loop_mono
@@ -1108,19 +1104,19 @@ cries.
 After a short walk, I heard a female student
 talking.
 
-There's... two of them up ahead. They're walking
-towards me...
+There’s… two of them up ahead. They’re walking
+towards me…
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み02_左１
 ***ST_リノ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_右１
 
 
-That's...
+That’s…
 
 ***ST_オトハ_A1_デフォ(着衣)_目大笑い_口微笑_赤み02_左１
 
 小鳥遊 乙羽(CH01_0040)
-『Ah... Uncle!』
+『Ah… Uncle!』
 
 
 When Otoha-chan noticed me, her face brightened.
@@ -1161,14 +1157,14 @@ Akatsuki Rino.
 
 小鳥遊 乙羽(CH01_0042)
 『I told Rino-chan that I’d be coming back, but I
-　haven’t promised to meet her yet...』
+　haven’t promised to meet her yet…』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目大笑_口微笑_赤み04_左１
 
 小鳥遊 乙羽(CH01_0043)
 『This is my first time meeting my uncle today,
-　too... Hehe, I feel like I’m really lucky today.』
+　too… Hehe, I feel like I’m really lucky today.』
 
 
 暁 莉乃
@@ -1182,8 +1178,8 @@ Rino’s eyes widened when she saw me
 I was also surprised on the inside that she was
 here.
 
-...That said, this school was a one-way school, so
-it wouldn't be surprising if Rino-chan went
+…That said, this school was a one-way school, so
+it wouldn’t be surprising if Rino-chan went
 straight to college.
 
 ***ST_オトハ_A2_デフォ(着衣)_目驚き_口驚き_赤み02_左１
@@ -1196,8 +1192,8 @@ straight to college.
 ***ST_オトハ_A2_デフォ(着衣)_目デフォ_口微笑_赤み02_左１
 
 暁 莉乃(CH02_0001)
-『Ah, ahh, yeah... It’s been a while since I last
-　saw you, Uncle. But why are you here...?』
+『Ah, ahh, yeah… It’s been a while since I last saw
+　you, Uncle. But why are you here…?』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目大笑い_口微笑_赤み02_左１
@@ -1210,7 +1206,7 @@ straight to college.
 ***ST_リノ_B3_デフォ(着衣)_目困り_口無表情_赤み02_右１
 
 暁 莉乃(CH02_0002)
-『...Huh, I-I see. I didn’t know that.』
+『…Huh, I-I see. I didn’t know that.』
 
 
 The normally docile Otoha-chan beckoned to me with
@@ -1226,7 +1222,7 @@ It was a stark contrast to how Rino looked.
 
 暁 莉乃(CH02_0003)
 『No, there’s nothing. I’m still a little
-　surprised...』
+　surprised…』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目大笑い_口微笑_赤み02_左１
@@ -1243,7 +1239,7 @@ It was a stark contrast to how Rino looked.
 『Y-Yeah.』
 
 
-...I understand why Otoha-chan's so excited.
+…I understand why Otoha-chan’s so excited.
 
 ***ST_オトハ_C1_デフォ(着衣)_目大笑_口微笑_赤み02_左１
 
@@ -1259,8 +1255,8 @@ her from a young age to get along with her.
 
 ***ST_オトハ_B3_デフォ(着衣)_目微笑_口微笑_赤み03_左１
 
-She's a little older than Otoha-chan in age, but
-she's cheerful and lively like an older sister.
+She’s a little older than Otoha-chan in age, but
+she’s cheerful and lively like an older sister.
 And a caring girl.
 
 Reiko-nee-san, who had been busy with a lot of
@@ -1278,13 +1274,13 @@ Thanks to that, I’ve known Rino for a long time.
 ***ST_リノ_C1_デフォ(着衣)_目困り_口無表情_赤み02_右１
 
 暁 莉乃(CH02_0005)
-『It’s... been a while...』
+『It’s… been a while…』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口困り_赤み02_左１
 
 小鳥遊 乙羽
-『...?』
+『…?』
 
 Otoha-chan looked at Rino-chan curiously.
 
@@ -1297,8 +1293,7 @@ Otoha-chan looked at Rino-chan curiously.
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_左１
 
 小鳥遊 乙羽(CH01_0048)
-『Hmm... I see. Hmm... You’re right. I got
-　excited.』
+『Hmm… I see. Hmm… You’re right. I got excited.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み02_左１
@@ -1316,7 +1311,7 @@ tone of voice.
 ***ST_リノ_A2_デフォ(着衣)_目悲しい・テレ_口困り_赤み02_右１
 
 暁 莉乃(CH02_0007)
-『O-Otoha...』
+『O-Otoha…』
 
 
 ***ST_リノ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_右１
@@ -1325,7 +1320,7 @@ tone of voice.
 『Huh. Rino-chan’s doing rhythmic gymnastics, huh?』
 
 暁 莉乃(CH02_0008)
-『Y-Yeah...』
+『Y-Yeah…』
 
 
 As soon as I heard the word rhythmic gymnastics, a
@@ -1333,7 +1328,7 @@ leotard figure came to mind.
 
 The thought of Rino-chan wearing an erotic outfit
 that perfectly matched her body line, one that
-couldn’t hide her body...
+couldn’t hide her body…
 
 My eyes naturally follow Rino’s body as if
 appraising her.
@@ -1341,13 +1336,13 @@ appraising her.
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_右１
 
 Compared to Otoha-chan, her body is more feminine
-and round. And it's taut in moderation.
+and round. And it’s taut in moderation.
 
-This girl is pretty nice too. She's growing up to
+This girl is pretty nice too. She’s growing up to
 be her type.
 
-...If I stare at them too much, I'll end up
-empty-headed. Let's listen to what they have to
+…If I stare at them too much, I’ll end up
+empty-headed. Let’s listen to what they have to
 say for now.
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_左１
@@ -1367,7 +1362,7 @@ say for now.
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_左１
 
 小鳥遊 乙羽(CH01_0051)
-『Yeah. But I’m not very athletic... and I don’t
+『Yeah. But I’m not very athletic… and I don’t
 　think I’ll be able to do rhythmic gymnastics.』
 
 
@@ -1396,7 +1391,7 @@ say for now.
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_左１
 
 小鳥遊 乙羽(CH01_0053)
-『Y-Yeah... I’m sorry I couldn’t give you a clear
+『Y-Yeah… I’m sorry I couldn’t give you a clear
 　reply after you’ve gone out of your way to invite
 　me.』
 
@@ -1411,11 +1406,11 @@ say for now.
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み02_左１
 
 小鳥遊 乙羽(CH01_0054)
-『...Thank you. You’re so kind, Rino-chan.』
+『…Thank you. You’re so kind, Rino-chan.』
 
 
 As I listened to their exchange, I remembered how
-young they looked, and it seemed that they hadn't
+young they looked, and it seemed that they hadn’t
 changed at all since before we were separated.
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み02_左１
@@ -1428,7 +1423,7 @@ changed at all since before we were separated.
 ***ST_リノ_B2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_右１
 
 暁 莉乃(CH02_0013)
-『...Hmm, I guess that’s how it felt.』
+『…Hmm, I guess that’s how it felt.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目微笑_口微笑_赤み02_左１
@@ -1441,14 +1436,14 @@ changed at all since before we were separated.
 ***ST_リノ_B3_デフォ(着衣)_目デフォ_口無表情_赤み02_右１
 
 暁 莉乃(CH02_0014)
-『Yeah, well... But it was five years ago, so I
-　don’t remember much anymore.』
+『Yeah, well… But it was five years ago, so I don’t
+　remember much anymore.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_左１
 
 小鳥遊 乙羽(CH01_0057)
-『Ah... Y-You’re right. ...It was a long time ago,
+『Ah… Y-You’re right. …It was a long time ago,
 　wasn’t it?』
 
 
@@ -1471,14 +1466,14 @@ them, who had been chattering excitedly until just
 a moment ago.
 
 Otoha-chan looks back and forth between me and
-Rino-chan... but she still doesn't seem to know
-what to say.
+Rino-chan… but she still doesn’t seem to know what
+to say.
 
 ***ST_リノ_B2_デフォ(着衣)_目デフォ_口微笑_赤み02_右１
 
 暁 莉乃(CH02_0016)
-『......That’s right, Otoha. You said you were
-　curious about the pool.』
+『……That’s right, Otoha. You said you were curious
+　about the pool.』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目デフォ_口微笑_赤み02_左１
@@ -1493,20 +1488,20 @@ what to say.
 暁 莉乃(CH02_0017)
 『I see. This place is during summer vacation, so
 　you’re free to enter unless the swimming club is
-　using it...』
+　using it…』
 
 
 When I heard the word pool, I imagined these two
 in swimsuits.
 
-I only became a janitor after school started. I've
+I only became a janitor after school started. I’ve
 never seen her use the pool in class.
 
-When the swimming club is using it, there's an advisor. But if
-anyone other than the club members can use it freely, I might
-be able to see these two in their swimsuits at that time...
+When the swimming club is using it, there’s an advisor. But
+if anyone other than the club members can use it freely, I
+might be able to see these two in their swimsuits at that time…
 
-I'm looking forward to this.
+I’m looking forward to this.
 
 ***ST_リノ_B2_デフォ(着衣)_目睨み_口無表情_赤み02_右１
 
@@ -1522,7 +1517,7 @@ through my thoughts.
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口無表情_赤み02_左１
 
 小鳥遊 乙羽(CH01_0059)
-『Rino-chan...?』
+『Rino-chan…?』
 
 
 暁 莉乃
@@ -1536,10 +1531,10 @@ through my thoughts.
 
 
 小鳥遊 乙羽(CH01_0060)
-『Huh...』
+『Huh…』
 
 
-Suddenly, Otoha-chan's arm was taken, and she
+Suddenly, Otoha-chan’s arm was taken, and she
 started to stagger.
 
 暁 莉乃(CH02_0019)
@@ -1552,7 +1547,7 @@ started to stagger.
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口焦り_赤み02_左１
 
 小鳥遊 乙羽(CH01_0061)
-『Ah, umm... I-I understand.』
+『Ah, umm… I-I understand.』
 
 
 小鳥遊 乙羽(CH01_0062)
@@ -1566,26 +1561,26 @@ started to stagger.
 
 
 Otoha-chan was taken away, still looking like she
-couldn't read the situation.
+couldn’t read the situation.
 
 Before I knew it, the two of them were far away.
 
-...I started walking again.
+…I started walking again.
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono
 
-I'll be able to see Otoha-chan when she comes to
+I’ll be able to see Otoha-chan when she comes to
 supplementary lessons.
 
-Reiko-nee-san doesn't come every day to talk. Even
-if I did see her, I'd better avoid her before she
+Reiko-nee-san doesn’t come every day to talk. Even
+if I did see her, I’d better avoid her before she
 talks to me.
 
-And then there's Rino. I'm sure I'll be able to
-meet that girl, too. I also know she's active in
+And then there’s Rino. I’m sure I’ll be able to
+meet that girl, too. I also know she’s active in
 the rhythmic gymnastics club.
 
-There's a lot to be gained from this unexpected
+There’s a lot to be gained from this unexpected
 reunion.
 
 Let’s finish our chores quickly today and think
@@ -1599,8 +1594,8 @@ summer vacation.
 ***FadeIn_InSide_Black
 
 
-It'll probably be sunny and hot again tomorrow at
-this evening. It's going to be the height of
+It’ll probably be sunny and hot again tomorrow at
+this evening. It’s going to be the height of
 summer.
 
 
