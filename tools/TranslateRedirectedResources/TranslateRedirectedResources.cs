@@ -195,7 +195,7 @@ namespace TranslateRedirectedResources
                         {
                             //Splitting lines in separated words
                             string originalTranslation = TranslationsDictionary[key];
-                            string[] words = originalTranslation.Split(' ');
+                            string[] words = SplitTranslationForWrapping(originalTranslation);
                             int numWords = words.Length;
 
                             // making a new line if lenght exceeds is maximum
@@ -203,18 +203,22 @@ namespace TranslateRedirectedResources
                             int maxLenght = 50;
                             int currentLenght = 0;
                             int currentLine = 1;
-
+                            
                             //Miconisomi only allows up to 3 lines per screen
-                            float lineNumber = (float)originalTranslation.Length / (float)maxLenght;
+                            int translationLength = string.Join(" ", words).Length;
+                            float lineNumber = (float)translationLength / (float)maxLenght;
                             //if there's more than 3 lines, split the chars in these 3 lines
+                            //use slightly larger than 1/3 of total length as maxLenght
+                            //this generally balances the line lengths a bit better
                             if (lineNumber > 3f)
-                                maxLenght = originalTranslation.Length / 3;
+                                maxLenght = (int)Math.Ceiling(translationLength / 2.999);
 
                             for (int wordIndex = 0; wordIndex < numWords; wordIndex++)
                             {
                                 if ((currentLenght + words[wordIndex].Length) > maxLenght && currentLine < 3)
                                 {
-                                    translatedLine += "\n";
+                                    // removing trailing space we just added
+                                    translatedLine = translatedLine.TrimEnd(' ') + "\n";
                                     // Original scripts have IDSP(wide space) at start of new line if it's a part of quoted text.
                                     // Monologue and recollection lines have their quotes stripped by the game so no spaces there.
                                     if (key.Contains("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）")) 
@@ -294,16 +298,31 @@ namespace TranslateRedirectedResources
             Console.ForegroundColor = ConsoleColor.White;
         }
 
+        private static string[] SplitTranslationForWrapping(string originalTranslation)
+        {
+            // since we're wrapping, remove any embedded newlines in translation
+            return originalTranslation.Replace("\\n", " ").Trim(' ')
+                .Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+        }
+
         static string PostTranslation(string dump, string translation)
         {
             dump = dump.Replace("「", "『");
             dump = dump.Replace("」", "』");
             translation = translation.TrimEnd(' ');
 
+            
             if (dump.Contains("『"))
             {
-                translation = translation.TrimStart('"', '“', '”');
-                translation = translation.TrimEnd('"', '“', '”');
+                translation = translation.Trim(' ');
+                // remove excess quoting ONLY if it quotes the whole string
+                // avoid corrupting lines like:
+                // - “Exceptions” are a pain.
+                // - So I said, “You suck!”
+                // - “Hey you”, I yelled after them, “Come back here!”
+                var tmp = translation.Trim('"', '“', '”', ' ');
+                if (!new[] { '"', '“', '”' }.Any(tmp.Contains)) translation = tmp;
+
                 translation = "『" + translation + "』";
             }
 
