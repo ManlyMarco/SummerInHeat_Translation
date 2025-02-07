@@ -17,23 +17,23 @@
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1106)
-『I haven’t seen her at all in the past five days... 
-She’s been busy even when I see her every now and 
-then... so I couldn’t even call out to her... It’s really hazy...』
+『I haven’t seen her at all in the past five days... She’s
+been busy even when I see her every now and then... so I
+couldn’t even call out to her... It’s really hazy...』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_1107)
-『That’s why... before I know it, I’m doing it all 
-by myself... It feels good, but my mind and body 
+『That’s why... before I know it, I’m doing it all
+by myself... It feels good, but my mind and body
 aren’t satisfied at all...』
 
 
 ***Face_オトハ_目困りNL_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1108)
-『Even if I go to the janitor’s office with all my 
+『Even if I go to the janitor’s office with all my
 might, I’ll be out at a bad time... Hmm...』
 
 
@@ -51,7 +51,7 @@ might, I’ll be out at a bad time... Hmm...』
 
 ***SE_走り去る足音_concrete normal_running_mix{100}[0](1)
 
-She's working with her back to me. She doesn't 
+She's working with her back to me. She doesn't
 seem to have noticed me.
 
 ***Face_オトハ_目微笑_口大笑い_赤み04
@@ -66,8 +66,8 @@ seem to have noticed me.
 ***Face_オトハ_目悲しい・テレ_口つぐみ_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1112)
-『Nnh... I-I was just looking at you and returning 
-the greeting, but I’m really happy... And my 
+『Nnh... I-I was just looking at you and returning
+the greeting, but I’m really happy... And my
 body’s tightening up...』
 
 
@@ -82,7 +82,7 @@ body’s tightening up...』
 
 
 小鳥遊 乙羽（独白）(CH01_1115)
-『...This feeling... Maybe... that place... is 
+『...This feeling... Maybe... that place... is
 getting... wet...』
 
 
@@ -104,7 +104,7 @@ getting... wet...』
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口微笑_赤み05_中央
 
 小鳥遊 乙羽(CH01_1118)
-『I-I haven’t seen my uncle at all lately, so... 
+『I-I haven’t seen my uncle at all lately, so...
 　umm... just before this evening...』
 
 
@@ -112,18 +112,18 @@ getting... wet...』
 『Yeah, what is it?』
 
 小鳥遊 乙羽(CH01_1119)
-『I wonder if she’s still busy...? I, um... I’ll be 
-　done with supplementary lessons a little early 
+『I wonder if she’s still busy...? I, um... I’ll be
+　done with supplementary lessons a little early
 　today, so...』
 
 
 小鳥遊 乙羽（独白）(CH01_1120)
-『My uncle... isn’t excited or excited like this, 
+『My uncle... isn’t excited or excited like this,
 either... I guess...?』
 
 
 主人公
-『Sorry. I’ve been really busy lately... Work’s 
+『Sorry. I’ve been really busy lately... Work’s
 　been busy all day again.』
 
 ***Face_オトハ_目困り_口無表情_赤み05
@@ -133,7 +133,7 @@ either... I guess...?』
 
 
 主人公
-『Otoha-chan, isn’t it about time for supplementary 
+『Otoha-chan, isn’t it about time for supplementary
 　lessons to start? Don’t you need to go?』
 
 ***Face_オトハ_目焦り_口微笑_赤み05
@@ -158,43 +158,43 @@ either... I guess...?』
 
 ***SE_ゆっくり足音_concrete normal_running_mix{100}[0](2)
 
-The old man didn't even look back at me as I 
+The old man didn't even look back at me as I
 started walking.
 
 ***ST_オトハ_B2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_1124)
-『...We finally got to see each other, and we were 
-able to talk for a bit... After supplementary 
+『...We finally got to see each other, and we were
+able to talk for a bit... After supplementary
 classes... I thought today would be the day...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1125)
-『......Could it be that they’re getting tired of 
+『......Could it be that they’re getting tired of
 me... and avoiding me?』
 
 
 ***Face_オトハ_目困り_口つぐみ_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1126)
-『Up until now, whenever we met, he’d always come 
+『Up until now, whenever we met, he’d always come
 seeking me out...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困りNL_口つぐみ_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_1127)
-『...It suddenly went blank the moment we went to 
-the pool... Don’t tell me... you went to see 
+『...It suddenly went blank the moment we went to
+the pool... Don’t tell me... you went to see
 Rino-chan...?』
 
 
 ***Face_オトハ_目悲しい・テレCE_口への字_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1128)
-『Just looking at my uncle’s face makes me feel 
+『Just looking at my uncle’s face makes me feel
 like this... It’s so painful...』
 
 
@@ -228,22 +228,22 @@ Another five days later...
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_1129)
-『Even though I’m in the middle of supplementary 
-lessons... I can’t calm down at all... Nothing 
+『Even though I’m in the middle of supplementary
+lessons... I can’t calm down at all... Nothing
 comes to mind...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1130)
-『This has happened before... but I’m even less 
+『This has happened before... but I’m even less
 focused than I was back then...』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口つぐみ_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_1131)
-『Just as much... of the teachers and boys... of 
+『Just as much... of the teachers and boys... of
 everyone... I can’t help but look over there...』
 
 
@@ -256,50 +256,50 @@ everyone... I can’t help but look over there...』
 ***Face_オトハ_目困り_口困り_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1133)
-『Even if I stare at you, thinking I’ll focus on 
+『Even if I stare at you, thinking I’ll focus on
 you somehow...』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1134)
-『My eyes... are going to go to Sensei's... 
-pants... The thing under them... ...I heard... 
+『My eyes... are going to go to Sensei's...
+pants... The thing under them... ...I heard...
 your dick's right there...』
 
 
 ***Face_オトハ_目困り_口困り_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1135)
-『Ugh... I can hear what’s going on in class, but 
-it’s all flowing from right to left and 
+『Ugh... I can hear what’s going on in class, but
+it’s all flowing from right to left and
 disappearing... All I can think about is... dirty stuff.』
 
 
 ***Face_オトハ_目困りNL_口つぐみ_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1136)
-『...Your dick... I mean, your uncle always says 
+『...Your dick... I mean, your uncle always says
 it’s a dick.』
 
 
 ***Face_オトハ_目悲しい・テレCE_口つぐみ_赤み05
 
 小鳥遊 乙羽（独白）(CH01_1137)
-『I was too embarrassed to say it out loud, but 
-while I was being told by my uncle and 
+『I was too embarrassed to say it out loud, but
+while I was being told by my uncle and
 masturbating a lot at home...』
 
 
 ***Face_オトハ_目悲しい・テレ_口つぐみ_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1138)
-『I’m starting to get a lot more excited about 
+『I’m starting to get a lot more excited about
 calling it a dick...』
 
 
 教師
-『Then you’ll have to solve these three questions 
+『Then you’ll have to solve these three questions
 　for five minutes now.』
 
 ***Face_オトハ_目驚き_口無表情_赤み06
@@ -311,7 +311,7 @@ calling it a dick...』
 ***Face_オトハ_目焦り_口無表情_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1140)
-『Ahh, but... Sensei’s cock... is as big as 
+『Ahh, but... Sensei’s cock... is as big as
 Uncle’s... because he’s an adult...?』
 
 
@@ -324,44 +324,44 @@ Uncle’s... because he’s an adult...?』
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口困り_赤み06_中央
 
 小鳥遊 乙羽（独白）(CH01_1142)
-『S-Sensei, but... having sex with a woman... 
+『S-Sensei, but... having sex with a woman...
 moving your hips a lot, m-mashing your pussy...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1143)
-『I can ejaculate just like that... I wonder if the 
-other boys... have already experienced that sort 
+『I can ejaculate just like that... I wonder if the
+other boys... have already experienced that sort
 of thing...?』
 
 
 ***Face_オトハ_目困り_口困り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1144)
-『If I had a girlfriend... I'd have sex after 
+『If I had a girlfriend... I'd have sex after
 all... with your dick... lots and lots...』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1145)
-『I'm going in and out... intensely... inside your 
+『I'm going in and out... intensely... inside your
 pussy... Or...』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1146)
-『The old man said that if you don’t have a 
+『The old man said that if you don’t have a
 partner... any man masturbates a lot...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_1147)
-『That’s why everyone here is having dirty 
-fantasies... Sex and stroking their dicks 
+『That’s why everyone here is having dirty
+fantasies... Sex and stroking their dicks
 themselves...』
 
 
@@ -386,31 +386,31 @@ themselves...』
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_1151)
-『I can’t do breasts right now... If it’s my pussy... 
-Ahh, I want to touch it... But if it looks like I’m 
+『I can’t do breasts right now... If it’s my pussy...
+Ahh, I want to touch it... But if it looks like I’m
 about to be found out like last time... it’ll be bad...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口怒り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1152)
-『Mmm, ...holding back...is really painful... I 
-want to touch it...I want to pet it, pinch it, 
+『Mmm, ...holding back...is really painful... I
+want to touch it...I want to pet it, pinch it,
 play it...and stir it up...』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1153)
-『...This happens when I come to supplementary lessons. 
-I’m studying to make up for it, so I’ll be able to catch 
-up at home somehow... but in the end, I end up masturbating.』
+『...This happens when I come to supplementary lessons. I’m
+studying to make up for it, so I’ll be able to catch up at
+home somehow... but in the end, I end up masturbating.』
 
 
 ***Face_オトハ_目焦りCE_口困り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1154)
-『I’m concentrating on something dirty... My body’s 
+『I’m concentrating on something dirty... My body’s
 getting hot, and it’s burning...』
 
 
@@ -420,20 +420,20 @@ getting hot, and it’s burning...』
 ***ST_オトハ_A3_デフォ(着衣)_目驚き_口驚き_赤み07_中央
 
 小鳥遊 乙羽(CH01_1155)
-『Ah, eh?!! ...Wh-What... What’s going on? Am I 
+『Ah, eh?!! ...Wh-What... What’s going on? Am I
 　being guessed at?!』
 
 
 ***Face_オトハ_目驚き_口驚き_赤み07
 
 茂部
-『No, um... You know, Takanashi-san, could it 
+『No, um... You know, Takanashi-san, could it
 　be...』
 
 ***Face_オトハ_目驚き_口つぐみ_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1156)
-『D-...Did they notice something...? Th-That’s not 
+『D-...Did they notice something...? Th-That’s not
 true, is it...!?』
 
 
@@ -447,15 +447,15 @@ true, is it...!?』
 
 
 茂部
-『Look, you’ve been staring down at the ground for 
-　a while... and your face is red... Are you sick? 
+『Look, you’ve been staring down at the ground for
+　a while... and your face is red... Are you sick?
 　Are you okay?』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1158)
-『They thought I wasn’t feeling well. But... when I 
-was having dirty fantasies... they were watching 
+『They thought I wasn’t feeling well. But... when I
+was having dirty fantasies... they were watching
 me all the time...』
 
 
@@ -465,8 +465,8 @@ me all the time...』
 『......』
 
 小鳥遊 乙羽（独白）(CH01_1159)
-『...Maybe it’s because we’re sitting next to each 
-other... I feel like Mobu-kun’s been looking out 
+『...Maybe it’s because we’re sitting next to each
+other... I feel like Mobu-kun’s been looking out
 for me for a while now...』
 
 
@@ -476,13 +476,13 @@ for me for a while now...』
 『If anything happens, don’t hesitate to tell me.』
 
 小鳥遊 乙羽（独白）(CH01_1160)
-『Even now, she’s quietly calling out to me like 
-this so I don’t get noticed by the teacher... 
+『Even now, she’s quietly calling out to me like
+this so I don’t get noticed by the teacher...
 She’s also the one who greets me first...』
 
 
 小鳥遊 乙羽（独白）(CH01_1161)
-『Does this mean... she’s worried about me, or... 
+『Does this mean... she’s worried about me, or...
 maybe... she likes me...?』
 
 
@@ -495,30 +495,30 @@ maybe... she likes me...?』
 ***Face_オトハ_目困りNL_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1163)
-『...Even if Mobu-kun is this kind, to think he'd want to 
-have sex with someone he likes... I wonder if he really 
-wants to have intense sex with them...? ...Just like Uncle and I...』
+『...Even if Mobu-kun is this kind, to think he'd want to have
+sex with someone he likes... I wonder if he really wants to
+have intense sex with them...? ...Just like Uncle and I...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1164)
-『If... if... if I really were the person Mobu-kun 
-likes... maybe... when I masturbate... I-I'd be 
+『If... if... if I really were the person Mobu-kun
+likes... maybe... when I masturbate... I-I'd be
 turned... into a f-frog... or something...』
 
 
 小鳥遊 乙羽（独白）(CH01_1165)
-『Lately every night, every night... It’s like I’ve 
-been thinking about Uncle Shi... Mobu-kun’s 
+『Lately every night, every night... It’s like I’ve
+been thinking about Uncle Shi... Mobu-kun’s
 thinking about me...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1166)
-『Imagine... my boobs, my butt, and... my pussy... 
-I'm... being raped... in Mobu-kun's perverted 
+『Imagine... my boobs, my butt, and... my pussy...
+I'm... being raped... in Mobu-kun's perverted
 fantasies...』
 
 
@@ -531,30 +531,30 @@ fantasies...』
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1168)
-『...I’m sure she’s stronger than me, so even if 
-she pushes me down... I can’t resist... and I’m no 
+『...I’m sure she’s stronger than me, so even if
+she pushes me down... I can’t resist... and I’m no
 match for her...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1169)
-『You forced me to take it off, bared my boobs... 
-and groped me... and took off my bottom... and 
+『You forced me to take it off, bared my boobs...
+and groped me... and took off my bottom... and
 spread my legs...』
 
 
 ***Face_オトハ_目困りNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1170)
-『I'm sure your cock will be rock hard... and 
-arch... ...I don't want it to be you, but... I 
+『I'm sure your cock will be rock hard... and
+arch... ...I don't want it to be you, but... I
 wonder if you'll screw it into my pussy.』
 
 
 小鳥遊 乙羽（独白）(CH01_1171)
-『Ngh! No! ...I’m not the person I like... It’s 
-strange to fantasize about this. I’m losing my 
+『Ngh! No! ...I’m not the person I like... It’s
+strange to fantasize about this. I’m losing my
 indiscriminateness...』
 
 
@@ -568,7 +568,7 @@ indiscriminateness...』
 ***Face_オトハ_目困りCE_口困り_赤み08
 
 小鳥遊 乙羽（独白）(CH01_1173)
-『I want it... Not Mobu-kun’s... Uncle’s cock... I 
+『I want it... Not Mobu-kun’s... Uncle’s cock... I
 want a big dick...』
 
 
@@ -576,7 +576,7 @@ want a big dick...』
 ***SE_heart beating_mix{100}[0](2)
 
 小鳥遊 乙羽（独白）(CH01_1174)
-『I... I-I can’t take it anymore... It’s going to 
+『I... I-I can’t take it anymore... It’s going to
 break... Before that... I have to do something...』
 
 
@@ -587,11 +587,11 @@ break... Before that... I have to do something...』
 
 
 教師
-『Oh, Takanashi. You look pale. ...Are you okay on 
+『Oh, Takanashi. You look pale. ...Are you okay on
 　your own?』
 
 小鳥遊 乙羽（独白）(CH01_1176)
-『So you really do look like you’re not feeling 
+『So you really do look like you’re not feeling
 well.』
 
 
@@ -602,8 +602,8 @@ well.』
 ***Face_オトハ_目悲しい・テレNL_口怒り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1178)
-『It’s so embarrassing how it throbs. ...I get the 
-feeling she’ll notice something, so I quietly get 
+『It’s so embarrassing how it throbs. ...I get the
+feeling she’ll notice something, so I quietly get
 up from my seat and head out into the hallway.』
 
 
@@ -639,43 +639,43 @@ up from my seat and head out into the hallway.』
 ***Face_オトハ_目悲しい・テレCE_口つぐみ_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1180)
-『I really want to see you, Uncle... I’ve been 
-holding it in for a long time, but at this 
+『I really want to see you, Uncle... I’ve been
+holding it in for a long time, but at this
 rate...I’m going to lose all my studying and everything...』
 
 
 ***Face_オトハ_目困り_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1181)
-『All I can think about is perverted, perverted 
-thoughts... I can tell I’m getting more and more 
+『All I can think about is perverted, perverted
+thoughts... I can tell I’m getting more and more
 out of hand with each passing day.』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1182)
-『...I don’t care if the teacher gets mad at me, 
+『...I don’t care if the teacher gets mad at me,
 I’ll just... take a little time now...』
 
 
 ***Face_オトハ_目悲しい・テレ_口つぐみ_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1183)
-『Let’s go to the janitor’s office. So, if there’s 
+『Let’s go to the janitor’s office. So, if there’s
 an uncle... I’ll ask him.』
 
 
 小鳥遊 乙羽（独白）(CH01_1184)
-『Even if I’m busy with work, even if I have to 
+『Even if I’m busy with work, even if I have to
 force it, I’ll somehow invite her...』
 
 
 ***Face_オトハ_目焦りCE_口つぐみ_赤み07
 
 小鳥遊 乙羽（独白）(CH01_1185)
-『...I want to. I can’t... take it anymore. I’m so 
-anxious and lonely, and my body is so hot... It’s 
+『...I want to. I can’t... take it anymore. I’m so
+anxious and lonely, and my body is so hot... It’s
 not enough...』
 
 
@@ -695,25 +695,25 @@ not enough...』
 
 
 小鳥遊 乙羽（独白）(CH01_1188)
-『Your pussy is so wet that I can tell if you move 
+『Your pussy is so wet that I can tell if you move
 your legs... It's overflowing...』
 
 
 小鳥遊 乙羽（独白）(CH01_1189)
-『At times like this, until just a little while 
-ago... masturbating a little would’ve put an end 
+『At times like this, until just a little while
+ago... masturbating a little would’ve put an end
 to it...』
 
 
 小鳥遊 乙羽（独白）(CH01_1190)
-『While I couldn’t have sex with my uncle... I did 
-it a lot... But it wasn’t enough... and the number 
+『While I couldn’t have sex with my uncle... I did
+it a lot... But it wasn’t enough... and the number
 of times I’d done it increased...』
 
 
 小鳥遊 乙羽（独白）(CH01_1191)
-『No matter how many times I cum, it’s different 
-from being made to cum by an old man. No matter 
+『No matter how many times I cum, it’s different
+from being made to cum by an old man. No matter
 how much I cum... I can’t be satisfied...』
 
 
@@ -732,7 +732,7 @@ how much I cum... I can’t be satisfied...』
 
 
 小鳥遊 乙羽（独白）(CH01_1194)
-『There’s... an old man in front of the staff 
+『There’s... an old man in front of the staff
 bathroom.』
 
 
@@ -763,34 +763,34 @@ bathroom.』
 ***BGround_BG06_01
 
 
-Now then, let's start cleaning from this men's 
+Now then, let's start cleaning from this men's
 bathroom. The teachers are noisy.
 
-...What a pain. It's in the staff bathroom, and 
-it's for men. Just the thought of cleaning a place 
+...What a pain. It's in the staff bathroom, and
+it's for men. Just the thought of cleaning a place
 like this is depressing.
 
-It was the female toilets used by the female 
-students that made me feel a little better from 
+It was the female toilets used by the female
+students that made me feel a little better from
 cleaning the toilets.
 
-Speaking of female students... Ah, that's right. 
+Speaking of female students... Ah, that's right.
 It's Otoha-chan.
 
-Lately, Otoha-chan's been so desperate and cute... 
-Every time I change the subject and treat her like 
+Lately, Otoha-chan's been so desperate and cute...
+Every time I change the subject and treat her like
 this, she says it in such a blatant way.
 
-...But maybe I went a little too far. Judging by 
-how she's acting, it looks like she'll be putting 
+...But maybe I went a little too far. Judging by
+how she's acting, it looks like she'll be putting
 her studies out of the way.
 
-No, thanks to that, I feel sorry for her. She's 
+No, thanks to that, I feel sorry for her. She's
 probably completely excited.
 
 ***SE_走り去る足音_concrete normal_running_mix{80}[0](1)
 
-Once I'm done cleaning, I'll call her out in the 
+Once I'm done cleaning, I'll call her out in the
 evening...
 
 ***BGM_夏空、静寂、蝉しぐれ{100}
@@ -806,35 +806,35 @@ evening...
 主人公
 『Oh...』
 
-Just as I was thinking that, I was surprised that 
+Just as I was thinking that, I was surprised that
 the person in question had come.
 
-Her cheeks were flushed, her eyes were moist, her 
-breathing was ragged, and her shoulders were 
+Her cheeks were flushed, her eyes were moist, her
+breathing was ragged, and her shoulders were
 heaving.
 
-I didn't think it was possible, but had she 
-slipped out of supplementary lessons and come out 
+I didn't think it was possible, but had she
+slipped out of supplementary lessons and come out
 looking for me?
 
-In that case, we don't have to wait for evening. 
-But since we're here, let's tease her a little and 
+In that case, we don't have to wait for evening.
+But since we're here, let's tease her a little and
 have fun.
 
 主人公
-『Oh my, what’s wrong? ...Are you not feeling 
+『Oh my, what’s wrong? ...Are you not feeling
 　well?』
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み07
 
 小鳥遊 乙羽(CH01_1197)
-『Th-This is... I-I’m not feeling well... Hah, 
+『Th-This is... I-I’m not feeling well... Hah,
 　hah...』
 
 
 主人公
-『Your face is red, and your breathing is ragged. 
-　It looks like you’ve got a fever. Are you on your 
+『Your face is red, and your breathing is ragged.
+　It looks like you’ve got a fever. Are you on your
 　way to the nurse’s office?』
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口への字_赤み07_中央
@@ -843,25 +843,25 @@ have fun.
 『N-No... That’s not what I meant...』
 
 
-She fidgets and shakes her body, furrowing her 
+She fidgets and shakes her body, furrowing her
 brows. I have an idea of what's going on. But...
 
 主人公
-『Then maybe she was holding back in the bathroom? 
+『Then maybe she was holding back in the bathroom?
 　But this is for the staff, so the students...』
 
 ***Face_オトハ_目悲しい・テレNL_口驚き_赤み07
 
 小鳥遊 乙羽(CH01_1199)
-『It’s not a bathroom, either... Hahh, hahh... 
+『It’s not a bathroom, either... Hahh, hahh...
 　Uncle...gh... hah, fuuh...』
 
 
-She pursed her lips slightly, letting out hot, 
+She pursed her lips slightly, letting out hot,
 damp breaths through the thin opening.
 
 主人公
-『Yeah? I wonder what’s wrong...? It’s time for 
+『Yeah? I wonder what’s wrong...? It’s time for
 　supplementary lessons, isn’t it? I’m worried...』
 
 ***Face_オトハ_目悲しい・テレ_口怒り_赤み07
@@ -876,7 +876,7 @@ damp breaths through the thin opening.
 ***Face_オトハ_目悲しい・テレCE_口怒り_赤み07
 
 小鳥遊 乙羽(CH01_1201)
-『Uncle...gh... Without you, I’ll go crazy at this 
+『Uncle...gh... Without you, I’ll go crazy at this
 　rate...』
 
 
@@ -884,19 +884,19 @@ Just then...
 
 ***BGM_FadeOut
 
-Otoha-chan closed the distance between us without 
+Otoha-chan closed the distance between us without
 hesitation, like she was hugging me...
 
 ***BGM_モーニングティータイム{60}
 
-She gently wraps one hand around my crotch and 
+She gently wraps one hand around my crotch and
 strokes it with her wild movements.
 
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口困り_赤み08_アップ
 
 小鳥遊 乙羽(CH01_1202)
-『Hahhh, hahhh... I want it... This... hurts. I 
-　want to do it with you, Uncle... It’s already gone 
+『Hahhh, hahhh... I want it... This... hurts. I
+　want to do it with you, Uncle... It’s already gone
 　crazy.』
 
 
@@ -905,19 +905,19 @@ strokes it with her wild movements.
 
 ***Face_オトハ_目焦りCE_口無表情_赤み08
 
-Even though I said that with my mouth, I chuckled 
+Even though I said that with my mouth, I chuckled
 on the inside, wondering if I'd gotten this far.
 
 ***ST_オトハ_C2_デフォ(着衣)_目悲しい・テレ_口への字_赤み08_アップ
 
 小鳥遊 乙羽(CH01_1203)
-『There’s no one here but you, Uncle. More 
-　importantly, I want to do it right now. I can’t 
+『There’s no one here but you, Uncle. More
+　importantly, I want to do it right now. I can’t
 　help but want to have sex.』
 
 
-She groped gently and relentlessly, in a melty 
-tone like a completely different person, as if to 
+She groped gently and relentlessly, in a melty
+tone like a completely different person, as if to
 make her sticky dick stand out.
 
 ***Face_オトハ_目悲しい・テレ_口驚き_赤み08
@@ -928,9 +928,9 @@ make her sticky dick stand out.
 
 ***Face_オトハ_目悲しい・テレ_口トロ笑い_赤み08
 
-She single-mindedly stroked and stroked her groin, 
-which was gradually swelling and hardening, and 
-her breathing became even rougher as she stroked it.
+She single-mindedly stroked and stroked her groin,
+which was gradually swelling and hardening, and her
+breathing became even rougher as she stroked it.
 
 主人公
 『I said I can’t do it here...』
@@ -938,27 +938,27 @@ her breathing became even rougher as she stroked it.
 ***Face_オトハ_目悲しい・テレ_口焦り_赤み08
 
 小鳥遊 乙羽(CH01_1205)
-『Uncle, are you tired of me...? Hah, hah... I’ve 
-　always wanted to do it with you, so I came to see 
+『Uncle, are you tired of me...? Hah, hah... I’ve
+　always wanted to do it with you, so I came to see
 　you.』
 
 
 小鳥遊 乙羽(CH01_1206)
-『Haaah, haaah... Or... haahaa... maybe you’re 
+『Haaah, haaah... Or... haahaa... maybe you’re
 　having a dirty relationship with Rino-chan...?』
 
 
 ***Face_オトハ_目悲しい・テレ_口驚き_赤み08
 
-I flinched for a moment, but asking must have been 
+I flinched for a moment, but asking must have been
 Otoha-chan's imagination.
 
-She used her fingertips and palms to caress the cloth 
-between her legs, which had been made into a tent in 
+She used her fingertips and palms to caress the cloth
+between her legs, which had been made into a tent in
 preparation for battle, and stared at it with moistened eyes.
 
 小鳥遊 乙羽(CH01_1207)
-『I’ll do anything for you, Uncle. I want to do 
+『I’ll do anything for you, Uncle. I want to do
 　anything. Anything...』
 
 
@@ -968,22 +968,22 @@ preparation for battle, and stared at it with moistened eyes.
 『Huff, huff, puff... I-I’m telling you...』
 
 
-Saying that, I put my hands into her underwear 
+Saying that, I put my hands into her underwear
 with my excited hands, exposing my swollen penis.
 
 Its curved, sinister maw swayed.
 
 小鳥遊 乙羽(CH01_1210)
-『Even if I do it with you, Rino-chan, I’ll make 
-　you feel much better... I really will do 
+『Even if I do it with you, Rino-chan, I’ll make
+　you feel much better... I really will do
 　anything... Hah, hah...』
 
 
 主人公
 『A-Anyway... it’s not good here.』
 
-Of course, someone might see us in the hallway, so 
-I hurriedly invited Otoha-chan into a bathroom 
+Of course, someone might see us in the hallway, so
+I hurriedly invited Otoha-chan into a bathroom
 stall.
 
 
@@ -1010,11 +1010,11 @@ stall.
 『Otoha-chan, no matter how you look at it...』
 
 主人公
-『...But you’re feeling so lewd that you’d do 
+『...But you’re feeling so lewd that you’d do
 　something like that?』
 
 小鳥遊 乙羽(CH01_1211)
-『That’s right... Haa haa, fuu, huu... nnh... 
+『That’s right... Haa haa, fuu, huu... nnh...
 　haa... fuuh, haaah...』
 
 
@@ -1036,24 +1036,24 @@ stall.
 
 
 小鳥遊 乙羽(CH01_1214)
-『It’s so wet... My panties are also covered in 
-　pussy juice... Even though I haven’t taken them 
+『It’s so wet... My panties are also covered in
+　pussy juice... Even though I haven’t taken them
 　off, they’re dripping down to my thighs...』
 
 
 主人公
-『Maybe that’s because you messed with my pussy 
-　while it was being repaired, and that wasn’t 
+『Maybe that’s because you messed with my pussy
+　while it was being repaired, and that wasn’t
 　enough, so you ended up coming to your uncle’s place?』
 
 ***Cinema_CI01-MS-0401_02
 
-Every time I tease her, her expectations 
-skyrocket. I keep pressing my meat stake against 
+Every time I tease her, her expectations
+skyrocket. I keep pressing my meat stake against
 her lustful cheeks. From the looks of it, she's even happy.
 
 小鳥遊 乙羽(CH01_1215)
-『Ah, ah... Nooo... I haven’t fiddled with anywhere 
+『Ah, ah... Nooo... I haven’t fiddled with anywhere
 　yet...』
 
 
@@ -1065,13 +1065,13 @@ her lustful cheeks. From the looks of it, she's even happy.
 
 
 小鳥遊 乙羽(CH01_1217)
-『Huff, huff... There were teachers and other boys 
-　in the classroom... but when I was staring at 
+『Huff, huff... There were teachers and other boys
+　in the classroom... but when I was staring at
 　them, they got wet on their own...』
 
 
 主人公
-『Huh. ...What were you staring at when your pussy 
+『Huh. ...What were you staring at when your pussy
 　juices started overflowing?』
 
 ***Cinema_CI01-MS-0401_03
@@ -1081,7 +1081,7 @@ her lustful cheeks. From the looks of it, she's even happy.
 
 
 主人公
-『Your penis? ...I’ve already taught you how to say 
+『Your penis? ...I’ve already taught you how to say
 　it properly many times, haven’t I?』
 
 小鳥遊 乙羽(CH01_1219)
@@ -1089,51 +1089,51 @@ her lustful cheeks. From the looks of it, she's even happy.
 
 
 主人公
-『Yeah, that’s right. So... just looking at the guy 
-　over there made you want to mate? You want to do 
+『Yeah, that’s right. So... just looking at the guy
+　over there made you want to mate? You want to do
 　it with them?』
 
 小鳥遊 乙羽(CH01_1220)
-『...Huff, huff... D-Don’t get the wrong idea... I 
+『...Huff, huff... D-Don’t get the wrong idea... I
 　like my uncle. I only want to do it with him...』
 
 
 小鳥遊 乙羽(CH01_1221)
-『And yet, fuu, haa... Uncle won’t do it with me 
-　all the time. He’ll go off somewhere as soon as we 
+『And yet, fuu, haa... Uncle won’t do it with me
+　all the time. He’ll go off somewhere as soon as we
 　meet...』
 
 
 主人公
 『Well... I was busy, after all.』
 
-I try saying it out loud, but Otoha-chan seems so 
+I try saying it out loud, but Otoha-chan seems so
 excited that she doesn't notice anything.
 
 小鳥遊 乙羽(CH01_1222)
-『Hahh, fhhh... I’m so lonely... It’s so sad... If 
-　I don’t have sex with you, I won’t be able to 
+『Hahh, fhhh... I’m so lonely... It’s so sad... If
+　I don’t have sex with you, I won’t be able to
 　think about anything...』
 
 
 ***Cinema_CI01-MS-0401_04
 
 小鳥遊 乙羽(CH01_1223)
-『I wanted this, cock...cock... Uncle’s cock... Haa 
+『I wanted this, cock...cock... Uncle’s cock... Haa
 　haa...sniff, sniff...fh, haaa...haahaa.』
 
 
 小鳥遊 乙羽(CH01_1224)
-『Ahh, this smell... It’s starting to leave my 
+『Ahh, this smell... It’s starting to leave my
 　head...』
 
 
 主人公
-『Otoha-chan, you’re doing this for your studies, 
+『Otoha-chan, you’re doing this for your studies,
 　aren’t you?』
 
 小鳥遊 乙羽(CH01_1225)
-『But... Hafh, hahh... ah, soooon... fuh... soon, 
+『But... Hafh, hahh... ah, soooon... fuh... soon,
 　soon... Uncle... hah... I love you...』
 
 
@@ -1143,35 +1143,35 @@ excited that she doesn't notice anything.
 『What do you like?』
 
 小鳥遊 乙羽(CH01_1226)
-『Haahaa, this is... haa, haa... This big, thick 
+『Haahaa, this is... haa, haa... This big, thick
 　cock...』
 
 
 主人公
-『Sigh... You’re in heat like this. How did 
-　Otoha-chan manage to hold back these past ten 
+『Sigh... You’re in heat like this. How did
+　Otoha-chan manage to hold back these past ten
 　days?』
 
 小鳥遊 乙羽(CH01_1227)
-『Huff, huff... I want your, nn... cock... fuu, 
+『Huff, huff... I want your, nn... cock... fuu,
 　haa...』
 
 
 小鳥遊 乙羽(CH01_1228)
-『Haaah, haaah... I remember having sex with my 
-　uncle every night, thinking dirty thoughts... over 
+『Haaah, haaah... I remember having sex with my
+　uncle every night, thinking dirty thoughts... over
 　and over... all by myself...』
 
 
 小鳥遊 乙羽(CH01_1229)
-『Hah, hah... M-Masturbating... every day... I 
-　masturbated... But it’s not enough... Uncle, give 
+『Hah, hah... M-Masturbating... every day... I
+　masturbated... But it’s not enough... Uncle, give
 　me more... Give me... this cock...』
 
 
 主人公
-『Guess there’s no helping it. At this rate, it’s 
-　really going to break... and we can’t go any 
+『Guess there’s no helping it. At this rate, it’s
+　really going to break... and we can’t go any
 　further here...』
 
 
@@ -1191,19 +1191,19 @@ excited that she doesn't notice anything.
 
 
 小鳥遊 乙羽(CH01_1230)
-『Mmchu, chubu... nbu... chubuh... bu... nnbu... 
+『Mmchu, chubu... nbu... chubuh... bu... nnbu...
 　mmchu, ju... jubu...』
 
 
 小鳥遊 乙羽(CH01_1231)
-『Chubu, chubu, jubu... chupo... nn, bu... nnn, 
+『Chubu, chubu, jubu... chupo... nn, bu... nnn,
 　ju... chuph... chupu, jupu... chuu...』
 
 
 ***FadeIn_InSide_Black
 
 小鳥遊 乙羽(CH01_1232)
-『Nboh... *slurp*... *kiss* *suck*... nnfh, 
+『Nboh... *slurp*... *kiss* *suck*... nnfh,
 　*smack*, nboh...*slurrp*, puh...』
 
 
