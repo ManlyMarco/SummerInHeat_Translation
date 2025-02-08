@@ -244,7 +244,7 @@ IFストーリー=If Story
 モデリング/モーション\n\nプログラム/WEB\n\nシナリオ\n\nSDキャラデザイン=Modeling/Motion\n\nProgram/WEB\n\nScenario\n\nSD character design
 
 声の出演=Voice Actors
-小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Takanashi\nOtoha      \nAkatsuki  \nRino         \nTakanashi\nReiko       \nTanaka     \nCocoa
+小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Takanashi\nOtoha      \nAkatsuki  \nRino         \nTakanashi\nReiko       \nTanaka     \nCocoa      
 陽向葵ゅか\n\n水野七海\n\n秋山はるる\n\n山田じぇみ子=Hinata Yuka\n(陽向葵ゅか)\nMizuno Nanami\n(水野七海)\nAkiyama Haru\n(秋山はるる)\nYamadaGemiko\n(山田じぇみ子)
 
 ライセンス情報は同梱の"License.txt"に記載しています。=License information is provided in the included “License.txt” file.
