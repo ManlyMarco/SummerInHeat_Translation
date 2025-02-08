@@ -6,13 +6,13 @@
 ***BGround_BG99_00
 
 
-I've run out of things to do, so I'm wandering
+I’ve run out of things to do, so I’m wandering
 around the school with the intention of patrolling
 for some reason.
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono{100}[0](1)
 
-I've already finished patrolling the school
+I’ve already finished patrolling the school
 building, so I head toward the gym next.
 
 
@@ -42,8 +42,8 @@ voice from inside.
 『Hehe, it’s worth it if you’re that surprised.』
 
 
-I've heard that voice before. And it looks like
-there's only two of them. I take a peek.
+I’ve heard that voice before. And it looks like
+there’s only two of them. I take a peek.
 
 ***Face_オトハ_目大笑い_口微笑_赤み03汗05
 
@@ -64,9 +64,9 @@ there's only two of them. I take a peek.
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03汗05
 
 小鳥遊 乙羽(CH01_0782)
-『Hmm, do you think so...? But I don’t think I’ll
-　be able to do it like you, Rino-chan. I’d run out
-　of breath right away.』
+『Hmm, do you think so…? But I don’t think I’ll be
+　able to do it like you, Rino-chan. I’d run out of
+　breath right away.』
 
 
 ***Face_リノ_目大笑い_口微笑_赤み03汗05
@@ -80,7 +80,7 @@ there's only two of them. I take a peek.
 ***Face_オトハ_目大笑い_口微笑_赤み03汗05
 
 小鳥遊 乙羽(CH01_0783)
-『Heheh. ...Hah, I’ve sweated a lot. But I’m really
+『Heheh. …Hah, I’ve sweated a lot. But I’m really
 　happy to get to experience basic rhythmic
 　gymnastics practice.』
 
@@ -106,7 +106,7 @@ body, I quickly walk over to them.
 ***BGM_不穏な空気{100}
 
 暁 莉乃(CH02_0260)
-『Ah...』
+『Ah…』
 
 
 Rino was the first to notice me.
@@ -126,7 +126,7 @@ Rino was the first to notice me.
 ***Face_オトハ_目微笑_口微笑_赤み03汗05
 
 小鳥遊 乙羽(CH01_0784)
-『Ah... Uncle.』
+『Ah… Uncle.』
 
 
 Looking at it up close, it really is strikingly
@@ -141,11 +141,11 @@ tighter than usual with sweat.
 
 ***Face_オトハ_目大笑い_口微笑_赤み03汗05
 
-Otoha-chan's gym clothes were probably freshly
+Otoha-chan’s gym clothes were probably freshly
 washed and soft at first.
 
-But now, I'm soaking in the sweat that's flowing
-down my body, and it's following the line of my
+But now, I’m soaking in the sweat that’s flowing
+down my body, and it’s following the line of my
 body.
 
 主人公
@@ -157,8 +157,8 @@ body.
 『N-Nope.』
 
 
-It wasn't as big as the leotard, but my favorite
-Otoha-chan's physique was clearly visible there.
+It wasn’t as big as the leotard, but my favorite
+Otoha-chan’s physique was clearly visible there.
 
 From the looks of it, not only her shirt, but also
 her bloomers must have been soaked in a
@@ -173,7 +173,7 @@ sweet-and-sour sweat.
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み03汗05
 
 小鳥遊 乙羽(CH01_0787)
-『...Y-Yeah.』
+『…Y-Yeah.』
 
 
 ***Face_リノ_目デフォ_口無表情_赤み03汗05
@@ -185,13 +185,13 @@ sweet-and-sour sweat.
 ***ST_オトハ_A3_体操服ブルマ(着衣)_目悲しい・テレ_口微笑_赤み汗0503_右１
 
 小鳥遊 乙羽(CH01_0788)
-『Let’s see... I still don’t know that... First, I
-　need to get used to school and studying here...』
+『Let’s see… I still don’t know that… First, I need
+　to get used to school and studying here…』
 
 
 Just imagining the skin underneath her clothes, which
 must have been steaming after inhaling as much of the
-young girl's sweat as possible, made me intensely horny.
+young girl’s sweat as possible, made me intensely horny.
 
 主人公
 『You’re right. But I’d like to see Otoha-chan in
@@ -206,8 +206,7 @@ young girl's sweat as possible, made me intensely horny.
 ***Face_オトハ_目焦りCE_口微笑_赤み04汗05
 
 小鳥遊 乙羽(CH01_0789)
-『Th-That’s... That’s kind of embarrassing...
-　Um...』
+『Th-That’s… That’s kind of embarrassing… Um…』
 
 
 主人公
@@ -219,7 +218,7 @@ looking at her damp, sweaty clothes.
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み05汗05
 
 小鳥遊 乙羽(CH01_0790)
-『...Y-Yes...』
+『…Y-Yes…』
 
 
 Her skin is also healthy and flushed from the
@@ -242,8 +241,8 @@ misunderstood my relationship with Otoha-chan.
 『......』
 
 
-...However, it seems that Otoha-chan has finally
-noticed the “mark” I'm trying to make.
+…However, it seems that Otoha-chan has finally
+noticed the “mark” I’m trying to make.
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み05汗05
 
@@ -286,30 +285,30 @@ or what was happening, stared at me. Her
 expression was grim.
 
 暁 莉乃(CH02_0264)
-『Sigh. ...Um, did you come here for something?』
+『Sigh. …Um, did you come here for something?』
 
 
 主人公
-『Y...yeah. ...Come to think of it, there was one.』
+『Y…yeah. …Come to think of it, there was one.』
 
 ***Face_オトハ_目困り_口つぐみ_赤み04汗05
 
 小鳥遊 乙羽(CH01_0792)
-『Wh-what...is it?』
+『Wh-what…is it?』
 
 
 Otoha-chan’s reaction seemed to have deepened
 Rino’s dubious attitude even further.
 
 主人公
-『Reiko-nee-san... There’s something I’d like you
-　to give to Otoha-chan’s mother, so could you stop
-　by the janitor’s office on the way home?』
+『Reiko-nee-san… There’s something I’d like you to
+　give to Otoha-chan’s mother, so could you stop by
+　the janitor’s office on the way home?』
 
 ***ST_オトハ_B3_体操服ブルマ(着衣)_目デフォ_口微笑_赤み04汗05_右１
 
 小鳥遊 乙羽(CH01_0793)
-『I-In the janitor’s office...?! ...Y-Yeah! Got it.
+『I-In the janitor’s office…?! …Y-Yeah! Got it.
 　Mom’s coming to school today at the PTA meeting,
 　so I’ll give it to her then.』
 
@@ -322,18 +321,18 @@ Rino’s dubious attitude even further.
 
 暁 莉乃(CH02_0265)
 『Hey, Otoha. I’ve got time, so why don’t we go to
-　the janitor’s office together? ...How should I put
-　it... I’m curious.』
+　the janitor’s office together? …How should I put
+　it… I’m curious.』
 
 
 ***Face_オトハ_目デフォ_口困り_赤み03汗05
 
 小鳥遊 乙羽(CH01_0794)
-『I’m curious...? ...N-No! I’ll be fine on my own.』
+『I’m curious…? …N-No! I’ll be fine on my own.』
 
 
 暁 莉乃(CH02_0266)
-『...I see. If Otoha’s like that... I understand.』
+『…I see. If Otoha’s like that… I understand.』
 
 
 ***Face_オトハ_目デフォ_口無表情_赤み03汗05
@@ -343,7 +342,7 @@ Rino’s dubious attitude even further.
 　work.』
 
 I was able to thoroughly rape her young body as we
-talked. It's about time to withdraw.
+talked. It’s about time to withdraw.
 
 After looking at the two of them one last time
 from the tips of their toes to the top of their
@@ -366,12 +365,11 @@ heads, I left the gym.
 
 
 小鳥遊 乙羽(CH01_0795)
-『She’s gone...』
+『She’s gone…』
 
 
 暁 莉乃(CH02_0267)
-『Otoha, are you really okay...? Something’s
-　wrong.』
+『Otoha, are you really okay…? Something’s wrong.』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み05汗05
@@ -383,13 +381,13 @@ heads, I left the gym.
 ***ST_リノ_A2_レオタード(着衣)_目悲しい・テレ_口無表情_赤み03汗05_左１
 
 暁 莉乃(CH02_0268)
-『Otoha...?』
+『Otoha…?』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み05汗05
 
 小鳥遊 乙羽(CH01_0796)
-『Ah! ...Yeah, s-sorry. I was spacing out again.』
+『Ah! …Yeah, s-sorry. I was spacing out again.』
 
 
 ***Face_オトハ_目驚きNL_口無表情_赤み05汗05
@@ -402,8 +400,8 @@ you that I can’t hear you calling me anymore.』
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み05汗05
 
 小鳥遊 乙羽（独白）(CH01_0798)
-『Y-You did... that... And you were staring at my
-body the whole time we were talking just now...』
+『Y-You did… that… And you were staring at my body
+the whole time we were talking just now…』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み06汗05
@@ -411,14 +409,14 @@ body the whole time we were talking just now...』
 ***SE_heart beating_mix{100}[0](3)
 
 小鳥遊 乙羽（独白）(CH01_0799)
-『M-Mister... was... erect...』
+『M-Mister… was… erect…』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み06汗05
 
 小鳥遊 乙羽（独白）(CH01_0800)
-『Seeing that... reminds me of our first time...
-having sex... I'm... really... wet...』
+『Seeing that… reminds me of our first time… having
+sex… I’m… really… wet…』
 
 
 小鳥遊 乙羽
@@ -426,9 +424,9 @@ having sex... I'm... really... wet...』
 
 
 暁 莉乃(CH02_0269)
-『I think we’ll practice together a little
-　longer... If it’s hard to concentrate, why don’t
-　we stop for today?』
+『I think we’ll practice together a little longer…
+　If it’s hard to concentrate, why don’t we stop for
+　today?』
 
 
 ***Face_オトハ_目驚き_口困り_赤み05汗05
@@ -440,22 +438,22 @@ having sex... I'm... really... wet...』
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み06汗05
 
 小鳥遊 乙羽（独白）(CH01_0802)
-『Yeah... I took a break, but the core of my body
-feels hot... I’m really not okay, but... I need to
-get it together.』
+『Yeah… I took a break, but the core of my body
+feels hot… I’m really not okay, but… I need to get
+it together.』
 
 
 ***ST_オトハ_B2_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み05汗05_右１
 
 小鳥遊 乙羽（独白）(CH01_0803)
-『...Anyway, Rino-chan, why do you care so much
-about me and Uncle...?』
+『…Anyway, Rino-chan, why do you care so much about
+me and Uncle…?』
 
 
 小鳥遊 乙羽（独白）(CH01_0804)
 『I feel like they’re putting more distance between
-us than they used to be... ...I wonder if
-something happened between Uncle and Rino-chan?』
+us than they used to be… …I wonder if something
+happened between Uncle and Rino-chan?』
 
 
 小鳥遊 乙羽
@@ -464,7 +462,7 @@ something happened between Uncle and Rino-chan?』
 ***ST_リノ_B2_レオタード(着衣)_目悲しい・テレ_口微笑_赤み03汗05_左１
 
 暁 莉乃(CH02_0270)
-『Mmm... Then let’s try a little harder.』
+『Mmm… Then let’s try a little harder.』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み04汗05
@@ -476,7 +474,7 @@ something happened between Uncle and Rino-chan?』
 小鳥遊 乙羽（独白）(CH01_0806)
 『If I’m not careful, I’ll space out. I don’t want
 Rino-chan to think anything more weird about me,
-and I have to be careful about my injuries...!』
+and I have to be careful about my injuries…!』
 
 
 ***FadeIn_InSide_Black
@@ -524,13 +522,13 @@ and I have to be careful about my injuries...!』
 暁 莉乃(CH02_0272)
 『There’s a lot of basic training in actual club
 　activities, too, but that’s not all there is to
-　it. I hope you’re having fun today...』
+　it. I hope you’re having fun today…』
 
 
 ***Face_オトハ_目困り_口無表情_赤み03汗03
 
 小鳥遊 乙羽
-『...?』
+『…?』
 
 ***ST_リノ_B2_レオタード(着衣)_目悲しい・テレ_口無表情_赤み03汗03_左１
 
@@ -546,7 +544,7 @@ and I have to be careful about my injuries...!』
 
 暁 莉乃(CH02_0274)
 『See, ever since the break ended, it’s been kind
-　of empty... It didn’t seem like she’d been able to
+　of empty… It didn’t seem like she’d been able to
 　concentrate that much.』
 
 
@@ -566,15 +564,15 @@ and I have to be careful about my injuries...!』
 ***Face_オトハ_目デフォ_口微笑_赤み03汗03
 
 小鳥遊 乙羽(CH01_0810)
-『Yeah. ...Is there a normal club tomorrow?』
+『Yeah. …Is there a normal club tomorrow?』
 
 
 ***Face_リノ_目デフォ_口困り_赤み03汗03
 
 暁 莉乃(CH02_0276)
 『Nope. There’s a club, but we’ve got to gather
-　members for the tournament... Oh! I had a
-　discussion with the advisor about that!』
+　members for the tournament… Oh! I had a discussion
+　with the advisor about that!』
 
 
 ***ST_オトハ_B1_体操服ブルマ(着衣)_目驚き_口困り_赤み03汗03_右１
@@ -588,13 +586,13 @@ and I have to be careful about my injuries...!』
 暁 莉乃(CH02_0277)
 『I was having so much fun that I completely
 　forgot. I have to close this place and bring the
-　key! Wow... There’s less than ten minutes left!』
+　key! Wow… There’s less than ten minutes left!』
 
 
 暁 莉乃(CH02_0278)
-『I need to get changed quickly, um... What should
-　I do? Oh, and Otoha needs to change, too, right?
-　Um, umm...』
+『I need to get changed quickly, um… What should I
+　do? Oh, and Otoha needs to change, too, right? Um,
+　umm…』
 
 
 ***ST_オトハ_B3_体操服ブルマ(着衣)_目悲しい・テレ_口微笑_赤み03汗03_右１
@@ -607,7 +605,7 @@ and I have to be careful about my injuries...!』
 ***ST_リノ_C2_レオタード(着衣)_目困り_口無表情_赤み03汗03_左１
 
 暁 莉乃(CH02_0279)
-『Huh? But...』
+『Huh? But…』
 
 
 ***Face_オトハ_目大笑い_口微笑_赤み03汗03
@@ -664,24 +662,24 @@ and I have to be careful about my injuries...!』
 ***SE_ゆっくり足音_concrete normal_running_mix{100}[3](3)
 
 小鳥遊 乙羽（独白）(CH01_0815)
-『...I’ve been thinking about you ever since your
+『…I’ve been thinking about you ever since your
 uncle came over during the break. I can’t stop
-thinking about how you... were erect...』
+thinking about how you… were erect…』
 
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み04汗02
 
 小鳥遊 乙羽（独白）(CH01_0816)
-『I wonder if Rino-chan noticed...? I haven’t been
+『I wonder if Rino-chan noticed…? I haven’t been
 able to concentrate since then, so I ended up
-making her worry...』
+making her worry…』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み04汗02
 
 小鳥遊 乙羽（独白）(CH01_0817)
 『I was just getting to experience the club. But if
-you stare at me like that, I’ll...』
+you stare at me like that, I’ll…』
 
 
 ***SE_heart beating_mix{100}[0](5)
@@ -689,30 +687,29 @@ you stare at me like that, I’ll...』
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み06汗02
 
 小鳥遊 乙羽（独白）(CH01_0818)
-『...Now that I’ve done it... I remember your eyes,
-the smell of the room, the temperature of your
-skin... all of it.』
+『…Now that I’ve done it… I remember your eyes, the
+smell of the room, the temperature of your skin…
+all of it.』
 
 
 ***ST_オトハ_D2_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み06汗02_中央
 
 小鳥遊 乙羽（独白）(CH01_0819)
-『Hahh... This outfit... Uncle was staring at it
-really hard. Maybe he likes clothes like this,
-too...』
+『Hahh… This outfit… Uncle was staring at it really
+hard. Maybe he likes clothes like this, too…』
 
 
 小鳥遊 乙羽（独白）(CH01_0820)
 『Come to think of it, there might’ve been a woman
 dressed like this in a dirty book I saw in my
-uncle’s room...』
+uncle’s room…』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み06汗02
 
 小鳥遊 乙羽（独白）(CH01_0821)
-『So... that’s why... at that time... you wanted
-to... have sex... with me...?』
+『So… that’s why… at that time… you wanted to… have
+sex… with me…?』
 
 
 ***SE_ゆっくり足音_concrete normal_running_mix{100}[3](3)
@@ -720,15 +717,15 @@ to... have sex... with me...?』
 ***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレNL_口無表情_赤み06汗02_中央
 
 小鳥遊 乙羽（独白）(CH01_0822)
-『...Ngh, geez... I’m itching again... I have to go
-to Uncle’s room right now...』
+『…Ngh, geez… I’m itching again… I have to go to
+Uncle’s room right now…』
 
 
 ***Face_オトハ_目困りNL_口無表情_赤み06汗02
 
 小鳥遊 乙羽（独白）(CH01_0823)
-『I-I guess I should get changed first... But... if
-you really... like this kind of thing...』
+『I-I guess I should get changed first… But… if you
+really… like this kind of thing…』
 
 
 ***Face_オトハ_目困りCE_口無表情_赤み06汗02
@@ -736,9 +733,8 @@ you really... like this kind of thing...』
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0824)
-『Mm, ah... My body’s... getting hotter and hotter.
-...Don’t tell me... I’m expecting something
-dirty...?』
+『Mm, ah… My body’s… getting hotter and hotter.
+…Don’t tell me… I’m expecting something dirty…?』
 
 
 ***ST_オトハ_D1_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み06汗02_中央
@@ -746,19 +742,19 @@ dirty...?』
 小鳥遊 乙羽（独白）(CH01_0825)
 『I’ve just decided not to focus on studying so I
 can follow the supplementary lessons anymore, but
-I don’t want to... It’s embarrassing...』
+I don’t want to… It’s embarrassing…』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み06汗02
 
 小鳥遊 乙羽（独白）(CH01_0826)
-『I wonder what the old man thinks right now...
-Maybe... after that... I... m-masturbated him or
-something...』
+『I wonder what the old man thinks right now…
+Maybe… after that… I… m-masturbated him or
+something…』
 
 
 小鳥遊 乙羽（独白）(CH01_0827)
-『Or maybe I’m the only one getting excited...』
+『Or maybe I’m the only one getting excited…』
 
 
 ***SE_END
@@ -784,15 +780,14 @@ something...』
 ***ST_オトハ_A2_体操服ブルマ(着衣)_目悲しい・テレ_口無表情_赤み05汗02_中央
 
 小鳥遊 乙羽（独白）(CH01_0828)
-『...I had weird expectations, and I was self-aware
-of how dirty I was feeling... I was thinking in
+『…I had weird expectations, and I was self-aware
+of how dirty I was feeling… I was thinking in
 circles when I arrived in the blink of an eye.』
 
 
 小鳥遊 乙羽（独白）(CH01_0829)
-『Don’t change my clothes... I’m going to see you
-in this outfit on purpose. ...My voice is
-shaking.』
+『Don’t change my clothes… I’m going to see you in
+this outfit on purpose. …My voice is shaking.』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み05汗02
@@ -807,7 +802,7 @@ shaking.』
 ***ST_オトハ_A2_体操服ブルマ(着衣)_目悲しい・テレ_口大笑い_赤み05汗02_中央
 
 小鳥遊 乙羽(CH01_0831)
-『...I-I’m sorry to intrude.』
+『…I-I’m sorry to intrude.』
 
 
 ***SE_door04{100}[0](1)
@@ -822,9 +817,9 @@ shaking.』
 ***SE_heart beating_mix{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_0832)
-『I haven’t done anything weird yet... My heart’s
+『I haven’t done anything weird yet… My heart’s
 beating so fast it feels like it’s going to
-explode...』
+explode…』
 
 
 ――――
@@ -838,14 +833,14 @@ explode...』
 ***BGround_BG12_01
 
 主人公
-『Thank you for coming. ...Oh? Why are you still in
+『Thank you for coming. …Oh? Why are you still in
 　your gym clothes?』
 
 ***ST_オトハ_A2_体操服ブルマ(着衣)_目悲しい・テレ_口微笑_赤み04汗02_中央
 
 小鳥遊 乙羽(CH01_0833)
-『Ah... umm... this is... Rino-chan forgot there
-　was a meeting, and I got really flustered, so...』
+『Ah… umm… this is… Rino-chan forgot there was a
+　meeting, and I got really flustered, so…』
 
 
 主人公
@@ -853,7 +848,7 @@ explode...』
 　Rino-chan?』
 
 小鳥遊 乙羽(CH01_0834)
-『N-No... I think Rino-chan probably hurried off to
+『N-No… I think Rino-chan probably hurried off to
 　change.』
 
 
@@ -865,7 +860,7 @@ explode...』
 ***Face_オトハ_目悲しい・テレ_口困り_赤み04汗02
 
 小鳥遊 乙羽(CH01_0835)
-『U-Ugh...』
+『U-Ugh…』
 
 
 小鳥遊 乙羽（独白）(CH01_0836)
@@ -896,7 +891,7 @@ my feelings, and I can’t get the words out.』
 ***Face_オトハ_目驚き_口焦り_赤み06汗02
 
 小鳥遊 乙羽(CH01_0838)
-『Wh-What...?!』
+『Wh-What…?!』
 
 
 主人公
@@ -906,13 +901,13 @@ my feelings, and I can’t get the words out.』
 ***Face_オトハ_目驚き_口無表情_赤み07汗02
 
 小鳥遊 乙羽(CH01_0839)
-『Huh? Th-That’s...』
+『Huh? Th-That’s…』
 
 
 小鳥遊 乙羽（独白）(CH01_0840)
 『I can’t believe you were able to guess what I
-came here in this outfit on purpose... Ugh... I-I
-have to hide it...』
+came here in this outfit on purpose… Ugh… I-I have
+to hide it…』
 
 
 ***ST_オトハ_D1_体操服ブルマ(着衣)_目困り_口無表情_赤み06汗02_中央
@@ -920,9 +915,8 @@ have to hide it...』
 ***SE_heart beating_mix{100}[0](2)
 
 小鳥遊 乙羽(CH01_0841)
-『I-I didn’t mean it like that, y-you know...?
-　A-And... b-besides... I-I don’t know... that I
-　was... erect.』
+『I-I didn’t mean it like that, y-you know…? A-And…
+　b-besides… I-I don’t know… that I was… erect.』
 
 
 主人公
@@ -935,7 +929,7 @@ have to hide it...』
 　pussy under those clothes.』
 
 小鳥遊 乙羽(CH01_0842)
-『I-I knew... y-you saw me... but...』
+『I-I knew… y-you saw me… but…』
 
 
 主人公
@@ -948,15 +942,15 @@ have to hide it...』
 　her uncle, isn’t she?』
 
 小鳥遊 乙羽(CH01_0843)
-『Th-That’s...n-not true...』
+『Th-That’s…n-not true…』
 
 
 ***Face_オトハ_目困りCE_口つぐみ_赤み06汗02
 
 小鳥遊 乙羽（独白）(CH01_0844)
-『You lied to me again on the spur of the moment...
-But now... I can’t make excuses or gloss over
-this... anymore...』
+『You lied to me again on the spur of the moment…
+But now… I can’t make excuses or gloss over this…
+anymore…』
 
 
 ***Face_オトハ_目困り_口無表情_赤み06汗02
@@ -967,7 +961,7 @@ this... anymore...』
 　again.』
 
 主人公
-『Otoha-chan was agitating your uncle, after all...
+『Otoha-chan was agitating your uncle, after all…
 　You’re right, could you take responsibility for
 　that?』
 
@@ -976,21 +970,21 @@ this... anymore...』
 ***SE_heart beating_mix{100}[0](7)
 
 小鳥遊 乙羽（独白）(CH01_0845)
-『When you put it like that... I just barely
-managed to hold myself back... but it was blown
-away all at once...』
+『When you put it like that… I just barely managed
+to hold myself back… but it was blown away all at
+once…』
 
 
 ***Face_オトハ_目困りNL_口無表情_赤み07汗02
 
 小鳥遊 乙羽(CH01_0846)
-『R-Responsibility... B-But...』
+『R-Responsibility… B-But…』
 
 
 小鳥遊 乙羽（独白）(CH01_0847)
-『...In other words, responsibility... That’s what
-you mean, isn’t it...? ...After all, I’m the one
-who came here dressed like this...』
+『…In other words, responsibility… That’s what you
+mean, isn’t it…? …After all, I’m the one who came
+here dressed like this…』
 
 
 主人公
@@ -1000,38 +994,38 @@ who came here dressed like this...』
 ***ST_オトハ_C1_体操服ブルマ(着衣)_目驚き_口困り_赤み07汗02_中央
 
 小鳥遊 乙羽(CH01_0848)
-『Eh, you can’t... put it in...?』
+『Eh, you can’t… put it in…?』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み07汗02
 
 小鳥遊 乙羽（独白）(CH01_0849)
-『I-I can’t put it in... Maybe I’ll... use my
-mouth... like last time...』
+『I-I can’t put it in… Maybe I’ll… use my mouth…
+like last time…』
 
 
 主人公
 『The attractive Otoha-chan in front of me gets me
-　too excited... My cock’s already rock hard and
-　it’s in pain.』
+　too excited… My cock’s already rock hard and it’s
+　in pain.』
 
 小鳥遊 乙羽(CH01_0850)
-『Gh...』
+『Gh…』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07汗02
 
 小鳥遊 乙羽（独白）(CH01_0851)
-『It’s... because I invited you... isn’t it? The
-reason you’re in pain... is because of me... and
-it can’t be helped, right...?』
+『It’s… because I invited you… isn’t it? The reason
+you’re in pain… is because of me… and it can’t be
+helped, right…?』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み07汗02
 
 小鳥遊 乙羽（独白）(CH01_0852)
-『I don’t have a choice... And... I-If you can’t
-put it in...』
+『I don’t have a choice… And… I-If you can’t put it
+in…』
 
 
 ***SE_heart beating_mix{100}[0](2)
@@ -1039,8 +1033,7 @@ put it in...』
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07汗02
 
 小鳥遊 乙羽(CH01_0853)
-『O-Okay... I-If you can’t put it in... it’s
-　fine...』
+『O-Okay… I-If you can’t put it in… it’s fine…』
 
 
 主人公
@@ -1051,8 +1044,8 @@ put it in...』
 ***ST_オトハ_D1_体操服ブルマ(着衣)_目驚き_口焦り_赤み07汗02_中央
 
 小鳥遊 乙羽(CH01_0854)
-『Huh?! Th-That’s...! The thing I was wearing is
-　covered in sweat... It’s dirty...!』
+『Huh?! Th-That’s…! The thing I was wearing is
+　covered in sweat… It’s dirty…!』
 
 
 主人公
@@ -1064,7 +1057,7 @@ put it in...』
 ***Face_オトハ_目悲しい・テレ_口驚き_赤み07汗02
 
 小鳥遊 乙羽(CH01_0855)
-『Ngh, th-that’s... Haah... haah...』
+『Ngh, th-that’s… Haah… haah…』
 
 
 主人公
@@ -1072,17 +1065,17 @@ put it in...』
 　Uncle’s scent.』
 
 小鳥遊 乙羽（独白）(CH01_0856)
-『What should I do... I’m being told something
-amazing... and then my breathing gets rough... and
-my heart’s beating really fast.』
+『What should I do… I’m being told something
+amazing… and then my breathing gets rough… and my
+heart’s beating really fast.』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み07汗02
 
 小鳥遊 乙羽（独白）(CH01_0857)
 『You took off what you were wearing after exercise
-and then... stroked your dick...? You're getting
-excited about something perverted...』
+and then… stroked your dick…? You’re getting
+excited about something perverted…』
 
 
 主人公
@@ -1090,43 +1083,43 @@ excited about something perverted...』
 　to your uncle’s request?』
 
 小鳥遊 乙羽（独白）(CH01_0858)
-『If you ask me that... I can’t refuse...』
+『If you ask me that… I can’t refuse…』
 
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み08汗02
 
 小鳥遊 乙羽(CH01_0859)
-『I... I understand...』
+『I… I understand…』
 
 
 ***Cinema_CI01-MS-0201_00
 
 主人公
-『Ohhh... Otoha-chan’s freshly removed bloomers...
-　They’re so warm... and smell so nasty...』
+『Ohhh… Otoha-chan’s freshly removed bloomers…
+　They’re so warm… and smell so nasty…』
 
 小鳥遊 乙羽(CH01_0860)
-『No... Don’t say such embarrassing things...』
+『No… Don’t say such embarrassing things…』
 
 
 主人公
-『Don’t be shy... Come on, hold my cock like that
-　and move your hands up and down.』
+『Don’t be shy… Come on, hold my cock like that and
+　move your hands up and down.』
 
 ***Cinema_CI01-MS-0201_01
 
 小鳥遊 乙羽(CH01_0861)
-『L-Like this...?』
+『L-Like this…?』
 
 
 主人公
-『Whoa... Yeah, that’s right. You’re good at
-　this... It feels really good.』
+『Whoa… Yeah, that’s right. You’re good at this… It
+　feels really good.』
 
 ***Cinema_CI01-MS-0201_02
 
 小鳥遊 乙羽(CH01_0862)
-『I... I’m glad, then.』
+『I… I’m glad, then.』
 
 
 主人公
@@ -1134,8 +1127,8 @@ excited about something perverted...』
 　good?』
 
 小鳥遊 乙羽(CH01_0863)
-『Y-Yeah... I understand. I’ll do my best... to
-　make you feel good, okay...?』
+『Y-Yeah… I understand. I’ll do my best… to make
+　you feel good, okay…?』
 
 
 ***Cinema_END

@@ -33,7 +33,7 @@ r:^(\d+)秒$=$1s
 
 sr:"^(\[Day\d+-\d+\])(.*)$"=$1 $2
 
-r:^初期値：(\d+)日～$=Initial value: $1 days～
+r:^初期値：(\d+)日～$=Initial value: $1 days〜
 
 sr:"^(.*)\（夕\）$"=$1 (Evening)
 sr:"^(.*)\（夜\）$"=$1 (Night)
@@ -42,3 +42,6 @@ sr:"^(.*)\（昼\）$"=$1 (Noon)
 r:キャラクターセレクト([♡♥]+)=Character Select $1
 
 //sr:"^( *\d\d )(.*)$"=$1$2
+
+// For some reason these will be sent for translation, this stops that.
+r:^(『…+』)$=$1

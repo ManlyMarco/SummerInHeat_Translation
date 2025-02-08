@@ -16,22 +16,22 @@
 
 暁 莉乃（独白）(CH02_0370)
 『Today, too, when I stayed behind and practiced
-until the end, all the club members left
-first...and I ended up being the last one.』
+until the end, all the club members left first…and
+I ended up being the last one.』
 
 
 ***ST_リノ_A3_レオタード(着衣)_目悲しい・テレNL_口微笑_赤み03汗06_中央
 
 暁 莉乃（独白）(CH02_0371)
-『It’s the same as always... Besides, after what
+『It’s the same as always… Besides, after what
 happened, it’s more distracting to practice so
-hard...』
+hard…』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み03汗06
 
 暁 莉乃(CH02_0372)
-『Gh, hah... I’m pretty tired after all. There’s no
+『Gh, hah… I’m pretty tired after all. There’s no
 　point in practicing if I get hurt. I’ll go home
 　soon.』
 
@@ -39,11 +39,11 @@ hard...』
 ***Face_リノ_目驚き_口無表情_赤み03汗06
 
 暁 莉乃(CH02_0373)
-『Hm...? ...That’s...』
+『Hm…? …That’s…』
 
 
 暁 莉乃（独白）(CH02_0374)
-『...That’s when I saw a figure running toward us.』
+『…That’s when I saw a figure running toward us.』
 
 
 ***Face_リノ_目デフォ_口微笑_赤み03汗06
@@ -57,7 +57,7 @@ hard...』
 ***ST_リノ_A2_レオタード(着衣)_目大笑い_口微笑_赤み04汗06汗06_中央
 
 暁 莉乃(CH02_0375)
-『...Taka-kun!』
+『…Taka-kun!』
 
 
 ***ST_リノ_A2_レオタード(着衣)_目大笑い_口大笑い_赤み04汗06汗06_右１
@@ -83,9 +83,9 @@ hard...』
 ***ST_リノ_B3_レオタード(着衣)_目悲しい・テレ_口微笑_赤み03汗06_右１
 
 暁 莉乃(CH02_0377)
-『Ah... but I’m still dressed like this... I’ll
-　change... I need to check the cleaning and logbook
-　in the changing room, so...』
+『Ah… but I’m still dressed like this… I’ll change…
+　I need to check the cleaning and logbook in the
+　changing room, so…』
 
 
 ***Face_リノ_目焦りCE_口微笑_赤み04汗06汗06
@@ -103,16 +103,16 @@ hard...』
 ***Face_リノ_目悲しい・テレ_口微笑_赤み04汗06汗06
 
 暁 莉乃(CH02_0379)
-『Taka-kun...』
+『Taka-kun…』
 
 
 たかし
-『Um... the other day... I’m really sorry.』
+『Um… the other day… I’m really sorry.』
 
 ***Face_リノ_目大笑い_口微笑_赤み04汗06汗06
 
 暁 莉乃(CH02_0380)
-『...Hehe, you don’t have to apologize anymore. I
+『…Hehe, you don’t have to apologize anymore. I
 　told you over LIME that you’re fine now. Don’t
 　worry about it.』
 
@@ -121,7 +121,7 @@ hard...』
 『Thanks.』
 
 暁 莉乃(CH02_0381)
-『Hehe... I’m the one who should be thanking you.』
+『Hehe… I’m the one who should be thanking you.』
 
 
 ？？？
@@ -140,34 +140,34 @@ hard...』
 
 暁 莉乃（独白）(CH02_0383)
 『The moment I heard that voice, I was dragged down
-from being engrossed to reality... far worse than
-that...』
+from being engrossed to reality… far worse than
+that…』
 
 
 ***Face_リノ_目困りNL_口つぐみ_赤み01汗06
 
 暁 莉乃（独白）(CH02_0384)
-『The blood drains all at once...』
+『The blood drains all at once…』
 
 
 たかし
-『...Who’s that guy? ...He’s not a teacher, is he?』
+『…Who’s that guy? …He’s not a teacher, is he?』
 
 ***ST_リノ_C1_レオタード(着衣)_目悲しい・テレNL_口無表情_赤み01汗06_右１
 
 暁 莉乃（独白）(CH02_0385)
-『Why... at a time like this...? When I’m with
-Taka-kun of all people...』
+『Why… at a time like this…? When I’m with Taka-kun
+of all people…』
 
 
 たかし
-『...Rino??』
+『…Rino??』
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み02汗06
 
 暁 莉乃(CH02_0386)
-『...Eh, it’s like...you’re a new janitor. Look,
-　the old man’s not feeling well right now.』
+『…Eh, it’s like…you’re a new janitor. Look, the
+　old man’s not feeling well right now.』
 
 
 たかし
@@ -180,7 +180,7 @@ Taka-kun of all people...』
 　minute?』
 
 たかし
-『...No, well... I heard it.』
+『…No, well… I heard it.』
 
 ***Face_リノ_目困りNL_口無表情_赤み03
 
@@ -193,7 +193,7 @@ Taka-kun of all people...』
 暁 莉乃（独白）(CH02_0387)
 『Up until now, I would have been able to drive her
 away flatly even if I tried to hide it, but now I
-can’t say anything...』
+can’t say anything…』
 
 
 主人公
@@ -202,7 +202,7 @@ can’t say anything...』
 　members held back on you guys and went home first.』
 
 たかし
-『...Okay, I’m sorry. I’ll be home soon.』
+『…Okay, I’m sorry. I’ll be home soon.』
 
 ***Face_リノ_目困り_口無表情_赤み03汗06
 
@@ -213,7 +213,7 @@ can’t say anything...』
 ***Face_リノ_目怒りNL_口無表情_赤み03汗06
 
 暁 莉乃（独白）(CH02_0388)
-『...It’s really, really irritating...』
+『…It’s really, really irritating…』
 
 
 ***Face_リノ_目困り_口無表情_赤み03汗06
@@ -227,13 +227,13 @@ can’t say anything...』
 ***Face_リノ_目睨みNL_口への字_赤み03汗06
 
 暁 莉乃(CH02_0389)
-『Gh... I’ll try to hurry home too...』
+『Gh… I’ll try to hurry home too…』
 
 
 ***Face_リノ_目睨みCE_口つぐみ_赤み03汗06
 
 暁 莉乃（独白）(CH02_0390)
-『It’s really, really frustrating...』
+『It’s really, really frustrating…』
 
 
 ***FadeIn_InSide_Black
@@ -283,9 +283,9 @@ can’t say anything...』
 
 
 主人公
-『Just because it’s in the same direction...
-　doesn’t mean you’re getting a little
-　self-conscious, Rino-chan?』
+『Just because it’s in the same direction… doesn’t
+　mean you’re getting a little self-conscious,
+　Rino-chan?』
 
 ***Face_リノ_目睨み_口無表情_赤み03汗00
 
@@ -319,8 +319,8 @@ can’t say anything...』
 ***ST_リノ_B3_レオタード(着衣)_目怒り_口無表情_赤み03汗00_中央
 
 暁 莉乃(CH02_0395)
-『Takaku... Don’t speak ill of that person. You
-　don’t have to care.』
+『Takaku… Don’t speak ill of that person. You don’t
+　have to care.』
 
 
 主人公
@@ -367,7 +367,7 @@ can’t say anything...』
 ***Face_リノ_目怒り_口怒り_赤み05汗00
 
 暁 莉乃(CH02_0399)
-『...!! You really are the worst...!』
+『…!! You really are the worst…!』
 
 
 主人公
@@ -381,7 +381,7 @@ can’t say anything...』
 
 主人公
 『Ever since then, the old man’s been remembering
-　the feel of Rino’s naka... Oh, the changing room.』
+　the feel of Rino’s naka… Oh, the changing room.』
 
 ***ST_リノ_A3_レオタード(着衣)_目怒り_口怒り_赤み05汗00_中央
 
@@ -392,7 +392,7 @@ can’t say anything...』
 ***SE_door_wood_bedroom_close_01_mono{2500}[0](1)
 
 Rino-chan glared at me hard, opened the door,
-slipped inside, and then...
+slipped inside, and then…
 
 ***SE_door04{130}[0](1)
 
@@ -422,32 +422,32 @@ door.
 
 
 暁 莉乃(CH02_0402)
-『You’re the worst, the lowest, the worst...! You
-　knew it was a changing room, and you followed
-　me... No matter what I said, you didn’t listen at all.』
+『You’re the worst, the lowest, the worst…! You
+　knew it was a changing room, and you followed me…
+　No matter what I said, you didn’t listen at all.』
 
 
 ***Face_リノ_目睨み_口無表情_赤み04汗00
 
 暁 莉乃(CH02_0403)
-『And on top of that, you’re so persistent... Haah, I
-　can’t take this anymore. This was my first chance to
-　go home together since I made up with Taka-kun...』
+『And on top of that, you’re so persistent… Haah, I
+　can’t take this anymore. This was my first chance
+　to go home together since I made up with Taka-kun…』
 
 
 ***ST_リノ_B3_レオタード(着衣)_目困り_口への字_赤み04汗00_中央
 
 暁 莉乃(CH02_0404)
-『Ah... Geez. Who’s that? I left the gym ribbon
-　here... I’m telling you to put it back in the
-　toolbox if you use it...』
+『Ah… Geez. Who’s that? I left the gym ribbon here…
+　I’m telling you to put it back in the toolbox if
+　you use it…』
 
 
 ***Face_リノ_目困りCE_口困り_赤み04汗00
 
 暁 莉乃(CH02_0405)
-『Sigh... I don’t want this anymore. Go home
-　quickly and take a shower...』
+『Sigh… I don’t want this anymore. Go home quickly
+　and take a shower…』
 
 
 ***BGM_マーブルコーヒー{100}
@@ -462,14 +462,14 @@ door.
 ***ST_リノ_C1_レオタード(着衣)_目焦り_口焦り_赤み04汗00_中央
 
 暁 莉乃(CH02_0406)
-『Huh?! Eh, wait... No!! Why...?!』
+『Huh?! Eh, wait… No!! Why…?!』
 
 
 ***Face_リノ_目焦り_口つぐみ_赤み04汗00
 
 主人公
-『What...? You’re late, so I thought you’d start
-　masturbating or something...』
+『What…? You’re late, so I thought you’d start
+　masturbating or something…』
 
 ***Face_リノ_目怒り_口怒り_赤み04汗00
 
@@ -486,13 +486,13 @@ door.
 
 暁 莉乃(CH02_0408)
 『You’re an idiot!! You’re the worst! Don’t do
-　anything gross! Opening it while you’re
-　changing... You pervert!!!』
+　anything gross! Opening it while you’re changing…
+　You pervert!!!』
 
 
 主人公
 『It’s not good for a girl to have a dirty mouth.
-　I’ll have to discipline her like I used to...』
+　I’ll have to discipline her like I used to…』
 
 暁 莉乃(CH02_0409)
 『Huh? What’s so long ago? Don’t come over here!!』
@@ -506,7 +506,7 @@ door.
 ***ST_リノ_C2_レオタード(着衣)_目焦り_口つぐみ_赤み04汗00_中央
 
 暁 莉乃(CH02_0410)
-『Wh-What are you doing...?』
+『Wh-What are you doing…?』
 
 
 主人公
@@ -517,14 +517,14 @@ door.
 『Gh?!』
 
 主人公
-『Let’s see, oooh... There’s just the thing.
-　Leaving your gymnastics equipment behind doesn’t
-　even serve as guidance for your juniors.』
+『Let’s see, oooh… There’s just the thing. Leaving
+　your gymnastics equipment behind doesn’t even
+　serve as guidance for your juniors.』
 
 ***ST_リノ_A2_レオタード(着衣)_目焦り_口怒り_赤み04汗00_中央
 
 暁 莉乃(CH02_0411)
-『No, what are you... Kyaa!!!』
+『No, what are you… Kyaa!!!』
 
 
 ***SE_ドスン・ドサ音2{100}[0](1)
@@ -535,7 +535,7 @@ door.
 ***Cinema_CI02-MS-0101_00
 
 暁 莉乃(CH02_0412)
-『Nnh...』
+『Nnh…』
 
 
 主人公
@@ -555,9 +555,9 @@ door.
 
 
 主人公
-『...Didn’t Uncle tell you not to talk dirty to
+『…Didn’t Uncle tell you not to talk dirty to
 　girls? If you don’t understand even if I tell
-　you...』
+　you…』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
@@ -565,7 +565,7 @@ door.
 ***Cinema_CI02-MS-0101_01
 
 暁 莉乃(CH02_0415)
-『Gh...』
+『Gh…』
 
 
 主人公
@@ -576,7 +576,7 @@ door.
 ***Cinema_CI02-MS-0101_02
 
 暁 莉乃(CH02_0416)
-『Ngh... No... hah... ah...』
+『Ngh… No… hah… ah…』
 
 
 主人公
@@ -595,15 +595,15 @@ door.
 　hands, didn’t you?』
 
 暁 莉乃(CH02_0417)
-『Hah... ah... haah... fuu... haa... ngh...』
+『Hah… ah… haah… fuu… haa… ngh…』
 
 
 主人公
-『You’re so easy on me... I guess I’m remembering
-　all the carnal desires of the past.』
+『You’re so easy on me… I guess I’m remembering all
+　the carnal desires of the past.』
 
 暁 莉乃(CH02_0418)
-『N...no, you’re wrong...!』
+『N…no, you’re wrong…!』
 
 
 主人公
@@ -617,16 +617,15 @@ door.
 ***Cinema_CI02-MS-0101_04
 
 暁 莉乃(CH02_0419)
-『Nnh... uh...gh...』
+『Nnh… uh…gh…』
 
 
 主人公
 『You’ve got an intoxicated look on your face that
-　doesn’t suit a slut...』
+　doesn’t suit a slut…』
 
 暁 莉乃(CH02_0420)
-『Not really... y-your... filthy... thing... is
-　kinda...』
+『Not really… y-your… filthy… thing… is kinda…』
 
 
 主人公
@@ -635,13 +634,13 @@ door.
 　bitch like that so easily.』
 
 暁 莉乃(CH02_0421)
-『S-So... I don’t think... I-I want it...』
+『S-So… I don’t think… I-I want it…』
 
 
 主人公
-『You’re a troublesome woman who’s all talk.
-　...Let’s see, I’ll try to be a little more honest
-　with you.』
+『You’re a troublesome woman who’s all talk. …Let’s
+　see, I’ll try to be a little more honest with
+　you.』
 
 
 ***FadeIn_InSide_Black
@@ -662,17 +661,17 @@ door.
 
 
 暁 莉乃(CH02_0422)
-『H-Hey... Wh-What are you planning...?!』
+『H-Hey… Wh-What are you planning…?!』
 
 
 主人公
 『What do you mean, ‘what’? First, let’s make this
-　lewd pussy remember the taste of your cock...』
+　lewd pussy remember the taste of your cock…』
 
 
 暁 莉乃(CH02_0423)
-『Ah, fuaah... Wait... No...! I told you to
-　stop...! Haah... ahn...』
+『Ah, fuaah… Wait… No…! I told you to stop…! Haah…
+　ahn…』
 
 
 主人公

@@ -17,11 +17,11 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 ★ココア　進行度表\n\n    00    \r\n    01 ココア if ＯＰ\r\n    02 ココア if エッチ\r\n    03 ココア if ＥＰ=★Cocoa Progressive Table 0001 Cocoa if open 02 Cocoa if dirty 03 Cocoa if EP
 ★危険日指定（指定日から6日間が対象）=★Dangerous Day Designation (Aim for six days from the designated date)
 ★麗子　進行度表\n\n    00\r\n    01 麗子 if ＯＰ\r\n    02 麗子 if エッチ\r\n    03 麗子 if ＥＰ=★Reiko progress chart 0001 Reiko if open 02 Reiko if dirty 03 Reiko if EP
-　\n[24/09/04][修正情報][Ver0.13]\n投稿サーバーの負荷軽減、移転の為\nVer0.13以前のバージョンでは投稿機能がご利用頂けません。\n各ダウンロードサイト様より最新版の\n再ダウンロードをお願いします。\n　\n前バージョンを遊んでいる方は、Saveフォルダ内のデータが上書きされないように対処をお願いします。\nお手数おかけしますがよろしくお願いします。\n　=　\n[24/09/04][Correction Information] [Ver. 0.13] Due to load reduction and transfer of the submission server, submission functions cannot be used in the previous version of Ver. Please re-download the latest version from each download site. Those who are playing with the previous version, please take care not to overwrite the data in the Save folder. I'm sorry to trouble you, but I'm counting on you.\n　
+　\n[24/09/04][修正情報][Ver0.13]\n投稿サーバーの負荷軽減、移転の為\nVer0.13以前のバージョンでは投稿機能がご利用頂けません。\n各ダウンロードサイト様より最新版の\n再ダウンロードをお願いします。\n　\n前バージョンを遊んでいる方は、Saveフォルダ内のデータが上書きされないように対処をお願いします。\nお手数おかけしますがよろしくお願いします。\n　=\n[24/09/04][Correction Information] [Ver. 0.13] Due to load reduction and transfer of the submission server, submission functions cannot be used in the previous version of Ver. Please re-download the latest version from each download site. Those who are playing with the previous version, please take care not to overwrite the data in the Save folder. I’m sorry to trouble you, but I’m counting on you.\n
 「移動モード有効中」はモーションに\n　合わせた配置は無視され、リセット\n　でモーション準拠に戻ります。=When movement mode is enabled\n, placement according to animation is ignored, and \nresetting returns to following animation.
 『はじめから』を開始するには\nキャラクターの進行度をリセットする必要があります。\n\n対象キャラクターを選択してください。=In order to start from the beginning, you need to reset some progress. Select which characters you want to reset progress with.
 『実際会うのはかなり久しぶりだから、確信がなくてね。\n　こっちに帰ってきてるのは聞いていたけど』\n\n=“It’s been quite a while since we actually met, so I wasn’t sure. I heard you were back here, though.”\n\n
-『ＯＮ』の場合ストーリーにあわせた服装で表示されます。\n『ＯＦＦ』の場合はカスタムのまま表示されます。\n(ストーリーと矛盾する場面が発生する場合があります)=When set to "ON", the character will be shown in the clothes that match the story. \nWhen set to "OFF", the character will be shown in the custom clothes. \n(If off, there may be contradictions in some story scenes)
+『ＯＮ』の場合ストーリーにあわせた服装で表示されます。\n『ＯＦＦ』の場合はカスタムのまま表示されます。\n(ストーリーと矛盾する場面が発生する場合があります)=When set to “ON”, the character will be shown in the clothes that match the story. \nWhen set to “OFF”, the character will be shown in the custom clothes. \n(If off, there may be contradictions in some story scenes)
 あああああああああ=Aaaaaaaaaaa
 
 アット=At
@@ -51,7 +51,7 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 モーションセレクト=Motion selection
 モーションメニュー=Motion menu
 ランダム=Random
-ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from "Change Position" in the "Side Menu".
+ランダムでシーンへ移行します。\n移行後はミニメニューから好きな体位へ\n素早く移動することができます。=※ Start from a random sex scene.\r\nYou can change scenes from “Change Position” in the “Side Menu”.
 ランダム停止=Random stop
 ループ再生=Loop regeneration
 ルームカラー=Room color
@@ -76,7 +76,7 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 本ベンチマークにはサウンドはありません。=There is no sound on this bench.
 
 涙=Tears
-現在未実装！\n親切機能だと思うが、こちらとしてはスカートなどはめり込むから\n半脱げにしたいなどある、相談=It's not implemented right now! I think it's a nice feature, but I'll be wearing skirts and the like, so I'd like to take them off half-heartedly.
+現在未実装！\n親切機能だと思うが、こちらとしてはスカートなどはめり込むから\n半脱げにしたいなどある、相談=It’s not implemented right now! I think it’s a nice feature, but I’ll be wearing skirts and the like, so I’d like to take them off half-heartedly.
 環境設定画面を閉じます [ 設定を適応 ]=Close the environment menu. [adapt settings]
 
 
@@ -99,7 +99,7 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 設定を変更します=Change Settings
 進行度リセット=Progress reset
 遮断物=Blocker
-遮断物を半透明表示=It's semitransparent.
+遮断物を半透明表示=It’s semitransparent.
 遮断物を表示=Display Blocker.
 遮断物を非表示=Hide the blockade
 Ｆ２キーでショートカットキーの一覧を確認する事ができます。=You can view a list of shortcut keys by pressing F2.

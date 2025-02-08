@@ -1,5 +1,5 @@
 // First game start
-セーブデータをチェック中です...=Checking the save data...
+セーブデータをチェック中です...=Checking the save data…
 
 
 // ADV
@@ -50,7 +50,7 @@ IFストーリー=If Story
 階段=Stairway
 廊下･階段=Corridor/Stairs
 教室=Classroom
-用務員室=Janitor's Office
+用務員室=Janitor’s Office
 踊り場=Stairway Top
 部室-外無し=Clubroom - No outside
 部室=Clubroom
@@ -88,7 +88,7 @@ IFストーリー=If Story
 キャラクターデータを\n初期化してよろしいですか？=Are you sure you want to reset all characters\nto their default appearances?
 キャラクターデータを初期化しています\nゲームを終了しないでください=Initializing character data. Please do not close the game.
 
-キャラクターの進行度をリセットします。\n\n対象キャラクターを選択してください。=Please select which character(s) progress you'd like to reset.
+キャラクターの進行度をリセットします。\n\n対象キャラクターを選択してください。=Please select which character(s) progress you’d like to reset.
 (解放チャプターは保持されます)=(Completed chapters will remain unlocked in Chapter Select)
 
 次のシーンまでスキップしますか？=Do you want to skip to the next scene?
@@ -99,8 +99,8 @@ IFストーリー=If Story
 [莉乃フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Rino has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
 [麗子フリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Reiko has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
 [ココアフリーエッチが解放されました]\r\nフリーモードよりお楽しみください。=[Cocoa has been unlocked in Free H Mode]\nYou can enter Free H from the title screen.
-[ココアIFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Cocoa's If Story has been unlocked]\nYou can begin the If story from the title screen.
-[麗子IFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Reiko's If Story has been unlocked]\nYou can begin the If story from the title screen.
+[ココアIFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Cocoa’s If Story has been unlocked]\nYou can begin the If story from the title screen.
+[麗子IFストーリーが解放されました]\r\nＩＦストーリーよりお楽しみください。=[Reiko’s If Story has been unlocked]\nYou can begin the If story from the title screen.
 
 
 // Chapter select menu and parts of debug menu
@@ -132,7 +132,7 @@ IFストーリー=If Story
 乙羽ルート④中間=Event 4 Midway
 乙羽ルート④ＥＰ=Event 4 Ending
 乙羽ルート④ＯＰ=Event 4 Opening
-保健室で茂部と会話=Talk to Mobu in\nthe nurse's office
+保健室で茂部と会話=Talk to Mobu in\nthe nurse’s office
 乙羽ルート⑤中間=Event 5 Midway
 乙羽ルート⑤ＥＰ=Event 5 Ending
 乙羽ルート⑤ＯＰ=Event 5 Opening
@@ -141,8 +141,8 @@ IFストーリー=If Story
 乙羽ルート⑥ＥＰ=Event 6 Ending
 乙羽ルート⑥ＯＰ=Event 6 Opening
 乙羽ルートＥＮＤ=Otoha Route END
-乙羽ルートをクリアすることで解放されます=Complete Otoha's route to unlock
-（乙羽ルートADVを最後まで見ると解放されます）=(Complete Otoha's route to unlock)
+乙羽ルートをクリアすることで解放されます=Complete Otoha’s route to unlock
+（乙羽ルートADVを最後まで見ると解放されます）=(Complete Otoha’s route to unlock)
 乙羽本編ルートのつづきから開始します。=Continuation of the main Otoha route.
 乙羽 役=Role: Otoha
 乙羽2日目クリアフラグ=Otoha Day 2 Clear Flag
@@ -179,8 +179,8 @@ IFストーリー=If Story
 莉乃ルート⑥ＥＰ=Event 6 Ending
 莉乃ルート⑥ＯＰ=Event 6 Opening
 莉乃ルートＥＮＤ=Rino Route END
-莉乃ルートをクリアすることで解放されます=Complete Rino's route to unlock
-（莉乃ルートをクリアすることで解放されます）=(Complete Rino's route to unlock)
+莉乃ルートをクリアすることで解放されます=Complete Rino’s route to unlock
+（莉乃ルートをクリアすることで解放されます）=(Complete Rino’s route to unlock)
 莉乃本編ルートのつづきから開始します。=Continuation of the main Rino route.
 莉乃 役=Role: Rino
 莉乃１日目クリアフラグ=Rino Day 1 Clear Flag
@@ -197,9 +197,9 @@ IFストーリー=If Story
 麗子 if ＯＰ=Reiko If Opening
 麗子-if EP=Reiko If EP
 麗子-if OP=Reiko If OP
-麗子のifストーリーを楽しむことができます。=You can enjoy Reiko's If story.
+麗子のifストーリーを楽しむことができます。=You can enjoy Reiko’s If story.
 麗子 役=Role: Reiko
-麗子IFルートをクリアすることで解放されます=Complete Reiko's If route to unlock
+麗子IFルートをクリアすることで解放されます=Complete Reiko’s If route to unlock
 
 ココアルート=Cocoa route
 ココアIfルート=Cocoa If route
@@ -212,17 +212,17 @@ IFストーリー=If Story
 ココア if ＯＰ=Cocoa If Opening
 ココア-if EP=Cocoa If EP
 ココア-if OP=Cocoa If OP
-ココアのifストーリーを楽しむことができます。=You can enjoy Cocoa's If story.
+ココアのifストーリーを楽しむことができます。=You can enjoy Cocoa’s If story.
 ココア会話=Cocoa conversation
 ココア 役=Role: Cocoa
-ココアIFルートをクリアすることで解放されます=Complete Cocoa's If route to unlock
+ココアIFルートをクリアすることで解放されます=Complete Cocoa’s If route to unlock
 
 
 // Debug menu
 // BUG: newlines get eaten somewhere along the way when applying these translations
-//★乙羽　進行度表\n\n00     \n01 乙羽-分岐①\n02 乙羽-分岐②\n03 乙羽-分岐③\n04 乙羽-分岐④\n05 乙羽ルート①ＯＰ\n06 舐めフェラ\n07 乙羽ルート①中間\n08 正常位\n09 乙羽ルート①ＥＰ\n10 乙羽ルート②ＯＰ\n11 手コキ\n12 乙羽ルート②中間\n13 後背位\n14 乙羽ルート②ＥＰ\n15 乙羽ルート③ＯＰ\n16 シャワー会話\n17 乙羽ルート③中間\n18 側位\n19 乙羽ルート③ＥＰ\n20 乙羽ルート④ＯＰ\n21 フェラ\n22 乙羽ルート④中間\n23 アナル\n24 乙羽ルート④ＥＰ\n25 乙羽ルート⑤ＯＰ\n26 保健室会話\n27 乙羽ルート⑤中間\n28 騎乗位\n29 乙羽ルート⑤ＥＰ\n30 乙羽ルート⑥ＯＰ\n31 女攻め\n32 乙羽ルート⑥中間\n33 孕らませ正常位\n34 乙羽ルート⑥ＥＰ\n35 乙羽ルートＥＮＤ=★Otoha Progress Chart\n\n00 \n01 Otoha - Branch 1\n02 Otoha - Branch 2\n03 Otoha - Branch 3\n04 Otoha - Branch 4\n05 Otoha Route 1 OP\n06 Licking blowjob\n07 Otoha Route 1 Mid\n08 Missionary position\n09 Otoha Route 1 EP\n10 Otoha Route 2 OP\n11 Handjob\n12 Otoha Route 2 Mid\n13 Doggy style\n14 Otoha Route 2 EP\n15 Otoha Route 3 OP\n16 Shower conversation\n17 Otoha Route 3 Mid\n18 Side position\n19 Otoha Route 3 EP\n20 Otoha Route 4 OP\n21 Blowjob\n22 Otoha Route 4 Mid\n23 Anal\n24 Otoha Route 4 EP\n25 Otoha Route 5 OP\n26 Nurse's office conversation\n27 Otoha Route 5 Mid\n28 Cowgirl\n29 Otsuwa Route 5 EP\n30 Otsuwa Route 6 OP\n31 Female attack\n32 Otsuwa Route 6 Middle\n33 Impregnating missionary position\n34 Otsuwa Route 6 EP\n35 Otsuwa Route END
+//★乙羽　進行度表\n\n00     \n01 乙羽-分岐①\n02 乙羽-分岐②\n03 乙羽-分岐③\n04 乙羽-分岐④\n05 乙羽ルート①ＯＰ\n06 舐めフェラ\n07 乙羽ルート①中間\n08 正常位\n09 乙羽ルート①ＥＰ\n10 乙羽ルート②ＯＰ\n11 手コキ\n12 乙羽ルート②中間\n13 後背位\n14 乙羽ルート②ＥＰ\n15 乙羽ルート③ＯＰ\n16 シャワー会話\n17 乙羽ルート③中間\n18 側位\n19 乙羽ルート③ＥＰ\n20 乙羽ルート④ＯＰ\n21 フェラ\n22 乙羽ルート④中間\n23 アナル\n24 乙羽ルート④ＥＰ\n25 乙羽ルート⑤ＯＰ\n26 保健室会話\n27 乙羽ルート⑤中間\n28 騎乗位\n29 乙羽ルート⑤ＥＰ\n30 乙羽ルート⑥ＯＰ\n31 女攻め\n32 乙羽ルート⑥中間\n33 孕らませ正常位\n34 乙羽ルート⑥ＥＰ\n35 乙羽ルートＥＮＤ=★Otoha Progress Chart\n\n00 \n01 Otoha - Branch 1\n02 Otoha - Branch 2\n03 Otoha - Branch 3\n04 Otoha - Branch 4\n05 Otoha Route 1 OP\n06 Licking blowjob\n07 Otoha Route 1 Mid\n08 Missionary position\n09 Otoha Route 1 EP\n10 Otoha Route 2 OP\n11 Handjob\n12 Otoha Route 2 Mid\n13 Doggy style\n14 Otoha Route 2 EP\n15 Otoha Route 3 OP\n16 Shower conversation\n17 Otoha Route 3 Mid\n18 Side position\n19 Otoha Route 3 EP\n20 Otoha Route 4 OP\n21 Blowjob\n22 Otoha Route 4 Mid\n23 Anal\n24 Otoha Route 4 EP\n25 Otoha Route 5 OP\n26 Nurse’s office conversation\n27 Otoha Route 5 Mid\n28 Cowgirl\n29 Otsuwa Route 5 EP\n30 Otsuwa Route 6 OP\n31 Female attack\n32 Otsuwa Route 6 Middle\n33 Impregnating missionary position\n34 Otsuwa Route 6 EP\n35 Otsuwa Route END
 //★莉乃　進行度表\n\n    00\n    01 莉乃-分岐①\n    02 莉乃-分岐②\n    03 莉乃-分岐③\n    04 莉乃-分岐④\n    05 莉乃ルート①ＯＰ\n    06 スマタ\n    07 莉乃ルート①中間\n    08 後背位\n    09 莉乃ルート①ＥＰ\n    10 莉乃ルート②ＯＰ\n    11 パイズリ\n    12 莉乃ルート②中間\n    13 側位\n    14 莉乃ルート②ＥＰ\n    15 莉乃ルート③ＯＰ\n    16 窓会話\n    17 莉乃ルート③中間\n    18 拘束\n    19 莉乃ルート③ＥＰ\n    20 莉乃ルート④ＯＰ\n    21 フェラ\n    22 莉乃ルート④中間\n    23 アナル\n    24 莉乃ルート④ＥＰ\n    25 莉乃ルート⑤ＯＰ\n    26 部室でココアと会話\n    27 莉乃ルート⑤中間\n    28 騎乗位\n    29 莉乃ルート⑤ＥＰ\n    30 莉乃ルート⑥ＯＰ\n    31 足コキ\n    32 莉乃ルート⑥中間\n    33 ３Ｐ\n    34 莉乃ルート⑥ＥＰ\n    35 莉乃ルートＥＮＤ=★Rino Progress Chart\n\n00\n01 Rino-Branch ①\n02 Rino-Branch ②\n03 Rino-Branch ③\n04 Rino-Branch ④\n05 Rino Route ① OP\n06 Handjob\n07 Rino Route ① Intermediate\n08 Doggy style\n09 Rino Route ① EP\n10 Rino Route ② OP\n11 Titty fuck\n12 Rino Route ② Intermediate\n13 Side position\n14 Rino Route ② EP\n15 Rino Route ③ OP\n16 Window conversation\n17 Rino Route ③ Intermediate\n18 Restraint\n19 Rino Route ③ EP\n20 Rino Route ④ OP\n21 Blowjob\n22 Rino Route ④ Intermediate\n23 Anal\n24 Rino Route ④ EP\n25 Rino Route ⑤ OP\n26 Talking with Cocoa in the clubroom\n27 Rino Route ⑤ Mid\n28 Cowgirl\n29 Rino Route ⑤ EP\n30 Rino Route ⑥ OP\n31 Footjob\n32 Rino Route ⑥ Mid\n33 Threesome\n34 Rino Route ⑥ EP\n35 Rino Route END
-★乙羽　進行度表\n\n00     \n01 乙羽-分岐①\n02 乙羽-分岐②\n03 乙羽-分岐③\n04 乙羽-分岐④\n05 乙羽ルート①ＯＰ\n06 舐めフェラ\n07 乙羽ルート①中間\n08 正常位\n09 乙羽ルート①ＥＰ\n10 乙羽ルート②ＯＰ\n11 手コキ\n12 乙羽ルート②中間\n13 後背位\n14 乙羽ルート②ＥＰ\n15 乙羽ルート③ＯＰ\n16 シャワー会話\n17 乙羽ルート③中間\n18 側位\n19 乙羽ルート③ＥＰ\n20 乙羽ルート④ＯＰ\n21 フェラ\n22 乙羽ルート④中間\n23 アナル\n24 乙羽ルート④ＥＰ\n25 乙羽ルート⑤ＯＰ\n26 保健室会話\n27 乙羽ルート⑤中間\n28 騎乗位\n29 乙羽ルート⑤ＥＰ\n30 乙羽ルート⑥ＯＰ\n31 女攻め\n32 乙羽ルート⑥中間\n33 孕らませ正常位\n34 乙羽ルート⑥ＥＰ\n35 乙羽ルートＥＮＤ=★Otoha Progress Chart\n\n00  -> 01 Otoha - Branch 1 -> 02 Otoha - Branch 2 -> 03 Otoha - Branch 3 -> 04 Otoha - Branch 4 -> 05 Otoha Route 1 OP -> 06 Licking blowjob -> 07 Otoha Route 1 Mid -> 08 Missionary position -> 09 Otoha Route 1 EP -> 10 Otoha Route 2 OP -> 11 Handjob -> 12 Otoha Route 2 Mid -> 13 Doggy style -> 14 Otoha Route 2 EP -> 15 Otoha Route 3 OP -> 16 Shower conversation -> 17 Otoha Route 3 Mid -> 18 Side position -> 19 Otoha Route 3 EP -> 20 Otoha Route 4 OP -> 21 Blowjob -> 22 Otoha Route 4 Mid -> 23 Anal -> 24 Otoha Route 4 EP -> 25 Otoha Route 5 OP -> 26 Nurse's office conversation -> 27 Otoha Route 5 Mid -> 28 Cowgirl -> 29 Otsuwa Route 5 EP -> 30 Otsuwa Route 6 OP -> 31 Female attack -> 32 Otsuwa Route 6 Middle -> 33 Impregnating missionary position -> 34 Otsuwa Route 6 EP -> 35 Otsuwa Route END
+★乙羽　進行度表\n\n00     \n01 乙羽-分岐①\n02 乙羽-分岐②\n03 乙羽-分岐③\n04 乙羽-分岐④\n05 乙羽ルート①ＯＰ\n06 舐めフェラ\n07 乙羽ルート①中間\n08 正常位\n09 乙羽ルート①ＥＰ\n10 乙羽ルート②ＯＰ\n11 手コキ\n12 乙羽ルート②中間\n13 後背位\n14 乙羽ルート②ＥＰ\n15 乙羽ルート③ＯＰ\n16 シャワー会話\n17 乙羽ルート③中間\n18 側位\n19 乙羽ルート③ＥＰ\n20 乙羽ルート④ＯＰ\n21 フェラ\n22 乙羽ルート④中間\n23 アナル\n24 乙羽ルート④ＥＰ\n25 乙羽ルート⑤ＯＰ\n26 保健室会話\n27 乙羽ルート⑤中間\n28 騎乗位\n29 乙羽ルート⑤ＥＰ\n30 乙羽ルート⑥ＯＰ\n31 女攻め\n32 乙羽ルート⑥中間\n33 孕らませ正常位\n34 乙羽ルート⑥ＥＰ\n35 乙羽ルートＥＮＤ=★Otoha Progress Chart\n\n00  -> 01 Otoha - Branch 1 -> 02 Otoha - Branch 2 -> 03 Otoha - Branch 3 -> 04 Otoha - Branch 4 -> 05 Otoha Route 1 OP -> 06 Licking blowjob -> 07 Otoha Route 1 Mid -> 08 Missionary position -> 09 Otoha Route 1 EP -> 10 Otoha Route 2 OP -> 11 Handjob -> 12 Otoha Route 2 Mid -> 13 Doggy style -> 14 Otoha Route 2 EP -> 15 Otoha Route 3 OP -> 16 Shower conversation -> 17 Otoha Route 3 Mid -> 18 Side position -> 19 Otoha Route 3 EP -> 20 Otoha Route 4 OP -> 21 Blowjob -> 22 Otoha Route 4 Mid -> 23 Anal -> 24 Otoha Route 4 EP -> 25 Otoha Route 5 OP -> 26 Nurse’s office conversation -> 27 Otoha Route 5 Mid -> 28 Cowgirl -> 29 Otsuwa Route 5 EP -> 30 Otsuwa Route 6 OP -> 31 Female attack -> 32 Otsuwa Route 6 Middle -> 33 Impregnating missionary position -> 34 Otsuwa Route 6 EP -> 35 Otsuwa Route END
 ★莉乃　進行度表\n\n    00\n    01 莉乃-分岐①\n    02 莉乃-分岐②\n    03 莉乃-分岐③\n    04 莉乃-分岐④\n    05 莉乃ルート①ＯＰ\n    06 スマタ\n    07 莉乃ルート①中間\n    08 後背位\n    09 莉乃ルート①ＥＰ\n    10 莉乃ルート②ＯＰ\n    11 パイズリ\n    12 莉乃ルート②中間\n    13 側位\n    14 莉乃ルート②ＥＰ\n    15 莉乃ルート③ＯＰ\n    16 窓会話\n    17 莉乃ルート③中間\n    18 拘束\n    19 莉乃ルート③ＥＰ\n    20 莉乃ルート④ＯＰ\n    21 フェラ\n    22 莉乃ルート④中間\n    23 アナル\n    24 莉乃ルート④ＥＰ\n    25 莉乃ルート⑤ＯＰ\n    26 部室でココアと会話\n    27 莉乃ルート⑤中間\n    28 騎乗位\n    29 莉乃ルート⑤ＥＰ\n    30 莉乃ルート⑥ＯＰ\n    31 足コキ\n    32 莉乃ルート⑥中間\n    33 ３Ｐ\n    34 莉乃ルート⑥ＥＰ\n    35 莉乃ルートＥＮＤ=★Rino Progress Chart\n\n00 -> 01 Rino-Branch ① -> 02 Rino-Branch ② -> 03 Rino-Branch ③ -> 04 Rino-Branch ④ -> 05 Rino Route ① OP -> 06 Handjob -> 07 Rino Route ① Intermediate -> 08 Doggy style -> 09 Rino Route ① EP -> 10 Rino Route ② OP -> 11 Titty fuck -> 12 Rino Route ② Intermediate -> 13 Side position -> 14 Rino Route ② EP -> 15 Rino Route ③ OP -> 16 Window conversation -> 17 Rino Route ③ Intermediate -> 18 Restraint -> 19 Rino Route ③ EP -> 20 Rino Route ④ OP -> 21 Blowjob -> 22 Rino Route ④ Intermediate -> 23 Anal -> 24 Rino Route ④ EP -> 25 Rino Route ⑤ OP -> 26 Talking with Cocoa in the clubroom -> 27 Rino Route ⑤ Mid -> 28 Cowgirl -> 29 Rino Route ⑤ EP -> 30 Rino Route ⑥ OP -> 31 Footjob -> 32 Rino Route ⑥ Mid -> 33 Threesome -> 34 Rino Route ⑥ EP -> 35 Rino Route END
 
 
@@ -240,11 +240,11 @@ IFストーリー=If Story
 
 // Credits
 開　発=Developers
-てらち\n\nしゅんころ\n\nら～ゆ\n\nアサ=Terachi\n(てらち)\nShunkoro\n(しゅんころ)\nRa~yu\n(ら～ゆ)\nAsa\n(アサ)
+てらち\n\nしゅんころ\n\nら～ゆ\n\nアサ=Terachi\n(てらち)\nShunkoro\n(しゅんころ)\nRa~yu\n(ら〜ゆ)\nAsa\n(アサ)
 モデリング/モーション\n\nプログラム/WEB\n\nシナリオ\n\nSDキャラデザイン=Modeling/Motion\n\nProgram/WEB\n\nScenario\n\nSD character design
 
 声の出演=Voice Actors
 小鳥遊 乙羽\n\n暁　 莉乃\n\n小鳥遊 麗子\n\r\n\r田中 心々愛=Takanashi\nOtoha      \nAkatsuki  \nRino         \nTakanashi\nReiko       \nTanaka     \nCocoa      
 陽向葵ゅか\n\n水野七海\n\n秋山はるる\n\n山田じぇみ子=Hinata Yuka\n(陽向葵ゅか)\nMizuno Nanami\n(水野七海)\nAkiyama Haru\n(秋山はるる)\nYamadaGemiko\n(山田じぇみ子)
 
-ライセンス情報は同梱の"License.txt"に記載しています。=License information is provided in the included "License.txt" file.
+ライセンス情報は同梱の"License.txt"に記載しています。=License information is provided in the included “License.txt” file.
