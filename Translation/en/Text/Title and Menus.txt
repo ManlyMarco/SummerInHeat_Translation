@@ -74,7 +74,7 @@ IFストーリー=If Story
 
 
 // Random / map screen
-カスタム=Customize
+カスタム= Customize 
 ゲームの進行を\n保存しました=The game progress has been saved
 分岐ルートクリア済み=Branching route cleared
 タイトルへ=To the title
