@@ -14,7 +14,7 @@
 テキスト設定を表示します=Open the text settings
 オンラインマニュアル=Online manual
 
-設定初期化=Return to \nDefault Settings
+設定初期化=Reset settings\nto default values
 環境設定のすべて項目を初期化します=Reset all preferences to default
 
 //=============== Graphic Settings 1 ================
@@ -22,6 +22,9 @@
 画面表示サイズを変更します=Change screen display size
 ウィンドウ=Windowed
 フルスクリーン=Full Screen
+
+ゲーム解像度=Game resolution
+ゲーム解像度を変更します=Change the game resolution
 
 クオリティ設定=Quality Preset
 クオリティ設定を変更します=Change quality preset
@@ -71,7 +74,7 @@
 遮断物を半透明=Obstructions are transparent
 遮断物を透過する=Obstructions are hidden
 
-断面の表示=View X-Ray Window
+断面の表示=Show X-Ray window
 断面ウィンドウの表示を変更します=Change the display of the X-Ray Window
 
 現在使用できません=Cannot currently be used
@@ -133,22 +136,22 @@
 
 //=============== Camera Settings ================
 
-カメラの移動速度=Camera movement speed
+カメラの移動速度=Camera move speed
 
-カメラの回転速度=Camera rotation speed
+カメラの回転速度=Camera rotate speed
 エッチシーンでのフリーカメラの基点移動・回転速度を変更します=Change the base movement and rotation speed of free cameras in sex scenes
 
 カメラのズーム速度=Camera zoom speed
 エッチシーンでのフリーカメラのズーム速度を変更します（１ホイールで進む距離）=Change the zoom speed of the free camera in sex scenes (distance traveled per wheel scroll).
 
-オートカメラの移動速度=Autocamera movement speed
+オートカメラの移動速度=Auto-camera\nmovement speed
 エッチシーンでのオート回転カメラの速度・方向を変更します（＋右回転、－左回転）=Changing the speed and direction of the auto-rotating camera in the sex scene (+right turn, -left turn)
 
 
-FOV(視野角)ﾒｲﾝｶﾒﾗ=FOV (field of view)\nMain camera
-FOV(視野角)ｻﾌﾞｶﾒﾗ=FOV (field of view)\nSub-camera
-FOV(視野角)主観ﾒｲﾝ=FOV (field of view)\nSubjective Main
-FOV(視野角)主観ｻﾌﾞ=FOV (field of view)\nSubjective Sub
+FOV(視野角)ﾒｲﾝｶﾒﾗ=FOV (field of view)\n- Main camera
+FOV(視野角)ｻﾌﾞｶﾒﾗ=FOV (field of view)\n- Sub-camera
+FOV(視野角)主観ﾒｲﾝ=FOV (field of view)\n- Main character POV
+FOV(視野角)主観ｻﾌﾞ=FOV (field of view)\n- Sub character POV
 視野角を変更します(一部のシーンでは画角が固定されます)初期値:２５°=Change the viewing angle (the viewing angle is fixed in some scenes). Default: 25°
 
 
@@ -262,6 +265,9 @@ FOV(視野角)主観ｻﾌﾞ=FOV (field of view)\nSubjective Sub
 
 テキスト表示スピードサンプルです\nメッセージ表示テスト=Sample of text display speed
 テキスト表示スピードサンプルです\r\nメッセージ表示テスト=Sample of the text display speed.\r\nMessage display test.
+
+テキストの不具合表示の回避=Display text immediately
+テキストの不具合表示を回避します（グラデーション表示が出来なくなります）=Avoids text display issues around the sides (prevents text from appearing gradually)
 
 //=============== Manual ================
 ゲームの進め方・操作方法はオンラインマニュアルをご確認ください。=Please check the online manual for how to proceed and operate the game.

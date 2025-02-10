@@ -1,12 +1,13 @@
 
 // Maker dialog boxes ----------------------------------------------------------
 
-sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、切り替えてよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and switch characters?
+sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、切り替えてよろしいですか？　?$"=Do you want to apply your current customizations to \n[$1] and switch characters?
 sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、タイトルへ戻ってよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and return to title?
 sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、セレクトマップへ戻ってよろしいですか？$"=Do you want to apply your current customizations to \n[$1] and return to the map?
 
 sr:"^現在の選択キャラクターは\[([^\]]+)\]です。$"=Currently selected character: [$1]
 
+sr:"^現在のカスタマイズを\[([^\]]+)\]に適用し、ゲームを終了してよろしいですか？$"=Do you want to apply current customizations to \n[$1] and exit the game?
 
 // H scenes ----------------------------------------------------------
 
@@ -33,7 +34,7 @@ r:^(\d+)秒$=$1s
 
 sr:"^(\[Day\d+-\d+\])(.*)$"=$1 $2
 
-r:^初期値：(\d+)日～$=Initial value: $1 days〜
+r:^初期値：(\d+)日～$=Default: Day $1
 
 sr:"^(.*)\（夕\）$"=$1 (Evening)
 sr:"^(.*)\（夜\）$"=$1 (Night)
