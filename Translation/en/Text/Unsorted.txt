@@ -58,7 +58,6 @@ ADV体験はここまでです。\n[乙羽エッチが解放されました]\n�
 他ﾓｰｼｮﾝ=Other motions
 以下のキャラクター進行度を削除して物語を『はじめから』開始します。\n\n\n\nよろしいですか？=Progress the with following characters will be deleted \nand the story will start from the beginning.\n\n\n\nIs this okay?\n
 位置=Position
-共通OPクリア=Common opening cleared
 各CHAPTERの冒頭から続きを遊ぶことができます。=You start playing from the beginning of each chapter.
 吊るし縄=Hanging rope
 名前名前=Name, name
