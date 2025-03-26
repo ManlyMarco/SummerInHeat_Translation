@@ -232,7 +232,7 @@
 
 ***FadeIn_InSide_Black
 
-―――　
+―――
 
 ***SE_ガサゴソfoley_cloth_light_fast_movement_01{100}[0](1)
 
