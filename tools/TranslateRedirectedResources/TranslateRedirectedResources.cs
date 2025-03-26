@@ -321,8 +321,8 @@ namespace TranslateRedirectedResources
                 // - So I said, “You suck!”
                 // - “Hey you”, I yelled after them, “Come back here!”
                 if (translation.Length >= 2 &&
-                    (translation.StartsWith("\"") || translation.StartsWith("“") || translation.StartsWith("”")) &&
-                    (translation.EndsWith("\"") || translation.EndsWith("“") || translation.EndsWith("”")))
+                    (translation.StartsWith("\"") || translation.StartsWith("“") || translation.StartsWith("”") || translation.StartsWith("[") || translation.StartsWith("『")) &&
+                    (translation.EndsWith("\"") || translation.EndsWith("“") || translation.EndsWith("”") || translation.EndsWith("]") || translation.EndsWith("』")))
                     translation = translation.Substring(1, translation.Length - 2);
 
                 translation = "『" + translation + "』";
@@ -410,6 +410,7 @@ namespace TranslateRedirectedResources
             { "回想",             "Recollection" }   ,
             { "独白",             "Monologue" }   ,
             { "主人公",           "Hero" }   ,
+            { "主人公（独白）",    "Hero (Monologue)" }   ,
             { "茂部",             "Mobu" }   ,
             { "たかし",           "Takashi" }   ,
             { "？？？",           "???" }   ,
