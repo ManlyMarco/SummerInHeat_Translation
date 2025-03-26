@@ -9,15 +9,14 @@
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1270)
-『The supplementary lessons were all over, the
-teacher left, and everyone else finished cleaning
-up and left the classroom more and more.』
+『With all the classes finished, and the teacher
+already gone, the other students also packed their
+things up and left one by one.』
 
 
 小鳥遊 乙羽（独白）(CH01_1271)
-『While I’m cleaning up, I pick up my phone, which
-is in manner mode, and immediately send Uncle a
-LIME message.』
+『I packed up my stuff myself, while quickly
+sending a message to uncle via LIME on my phone.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口無表情_赤み03汗00_画面外
@@ -27,52 +26,54 @@ LIME message.』
 ***ST_オトハ_A3_デフォ(着衣)_目デフォNL_口微笑_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1272)
-『{Remedial classes are over. Can I go to your room
-now?}』
+『<Classes just finished, uncle. Would you mind, if
+I came over right now?>』
 
 
 ***SE_suck pop message2{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_1273)
-『I sent it… and got a reply right away.』
+『I sent it... and got a reply back right away.』
 
 
 ***SE_suck pop message1{100}[0](1)
 
-The main character (a monologue) {He’s not in the
-　room right now.}
+主人公（独白）
+『<I'm not in my room right now.>』
 
 ***Face_オトハ_目デフォNL_口困り_赤み03汗00
 
 ***SE_suck pop message2{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_1274)
-『{Where are you?}』
+『<Where are you then?>』
 
 
 ***SE_suck pop message1{100}[0](1)
 
 ***Face_オトハ_目デフォNL_口微笑_赤み03汗00
 
-The main character ( monologue) “{He asked me to
-　watch the house in the nurse’s office. It looks like
-　it’ll take a while, so you can go home for today.}”
+主人公（独白）
+『<Got tasked with watching over the infirmary, you
+see. I'm gonna be a while, so feel free to head
+home today.>』
 
 ***SE_suck pop message2{100}[0](1)
 
 小鳥遊 乙羽（独白）(CH01_1275)
-『{I see. Then can I go to the nurse’s office?}』
+『<Huh, I see. Do you mind if I come over there
+too, then?>』
 
 
 ***SE_suck pop message1{100}[0](1)
 
-protagonist ( monologue)《Yeah, I’ll be waiting.》
+主人公（独白）
+『<Not at all. Come over whenever.>』
 
 ***Face_オトハ_目大笑い_口微笑_赤み04汗00
 
 小鳥遊 乙羽（独白）(CH01_1276)
-『Yay. Hurry up and go to the nurse’s office where
-your uncle is…』
+『Yay. Let's go right...』
 
 
 ***BGround_BG10_00
@@ -88,138 +89,137 @@ your uncle is…』
 ***Face_オトハ_目驚き_口困り_赤み03汗00
 
 小鳥遊 乙羽(CH01_1277)
-『Wah…!』
+『Wah...!』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み03汗00
 
 小鳥遊 乙羽（独白）(CH01_1278)
-『You startled me. I was so absorbed in the
-exchange on my phone that I didn’t think Mobu-kun
-would be right there.』
+『That surprised me. I was staring so hard into my
+phone, I didn't even notice Mob-kun just standing
+right there.』
 
 
 茂部
-『I wonder if I surprised you. I’m sorry.』
+『Did I surprise you? Sorry.』
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み03汗00_右１
 
 小鳥遊 乙羽(CH01_1279)
-『No, I’m the one. So, what is it…?』
+『No, my bad. So then, what is it...?』
 
 
 茂部
-『Ahh… umm, well… why don’t we… go home together
+『Ah... erhm, uh... say... wanna walk home together
 　today?』
 
 ***Face_オトハ_目驚き_口困り_赤み03汗00
 
 小鳥遊 乙羽(CH01_1280)
-『Huh…』
+『Eh...』
 
 
 茂部
-『I-I don’t know.』
+『H-How about it?』
 
 ***Face_オトハ_目困り_口無表情_赤み03汗00
 
 小鳥遊 乙羽（独白）(CH01_1281)
-『I kind of knew you were being nice to me, but I
-didn’t think you’d invite me… But I want to go see
-you, Uncle…』
+『I did know that he liked me but, I never expected
+him to be so assertive... but, I want to go visit
+uncle too...』
 
 
 ***Face_オトハ_目困り_口微笑_赤み03汗00
 
 小鳥遊 乙羽(CH01_1282)
-『Um… Um, sorry. I’ve got somewhere to stop by.』
+『Erhm... uhm, sorry. I'm not going to go straight
+　home, so.』
 
 
 茂部
-『I see. Then… let’s go back to the school gate
-　together.』
+『Ah, I see. Then.... let's walk to the school gate
+　together, at least.』
 
 ***Face_オトハ_目焦り_口無表情_赤み03汗00
 
 小鳥遊 乙羽(CH01_1283)
-『Ah, um…』
+『Ah, erhm...』
 
 
 小鳥遊 乙羽（独白）(CH01_1284)
-『I thought I could’ve refused… What a problem…』
+『Why won't he take a hint... What a bother...』
 
 
 茂部
-『If you’re in a hurry, I’ll walk at a quick pace,
-　too.』
+『If you're in a hurry, I can walk fast.』
 
 ***ST_オトハ_A2_デフォ(着衣)_目困り_口微笑_赤み03汗00_右１
 
 小鳥遊 乙羽(CH01_1285)
-『I-It’s fine. That’s bad.』
+『I-It's fine. I'd feel bad.』
 
 
 茂部
-『I don’t mind, but… Or are there places you’ll
-　stop by at school?』
+『I don't really mind it myself though... or is it
+　somewhere inside the school?』
 
 ***Face_オトハ_目困りNL_口微笑_赤み03汗00
 
 小鳥遊 乙羽(CH01_1286)
-『Y-Yeah. Well…』
+『N-Nnn. Well, kinda...』
 
 
 ***Face_オトハ_目困り_口微笑_赤み03汗00
 
 茂部
-『Did the teacher ask you to do something for me?
-　If that’s the case, I’ll help.』
+『Did sensei ask you to take care of something? If
+　so, I don't mind lending a hand.』
 
 ***Face_オトハ_目焦りCE_口微笑_赤み03汗00
 
 小鳥遊 乙羽(CH01_1287)
-『No, that’s not it.』
+『No, it's nothing like that.』
 
 
 茂部
-『Hmm, I see… In that case, I’ll wait until you’re
-　done with your business, so once I’m done, we’ll
-　go back to the classroom…』
+『Hmm, I see... In that case, I can wait until
+　you're done, we can just meet back he...』
 
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口無表情_赤み03汗00_右１
 
 小鳥遊 乙羽(CH01_1288)
-『N-No. Um… actually… umm… I’m not feeling very
-　well, so I was thinking of stopping by the nurse’s
-　office…』
+『I-I'ts not like that. Uhm... I actually...
+　erhm... don't feel all that good, so I thought
+　that maybe I'd hit up the infirmary...』
 
 
 茂部
-『Huh?! Are you okay?』
+『Eh--! You okay?』
 
 ***Face_オトハ_目困りCE_口無表情_赤み03汗00
 
 小鳥遊 乙羽（独白）(CH01_1289)
-『I’m sorry for lying… I want you to leave me
-alone… Because I want to go to your uncle as soon
-as possible…』
+『I'm sorry for lying.... but please leave me
+alone... I want to go visit uncle already...』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03汗00
 
 小鳥遊 乙羽(CH01_1290)
-『Yeah, I’m fine. I’ll just take a little break…』
+『Yeah, I'm okay. I'm just gonna rest for a bit...』
 
 
 茂部
-『I’ll accompany you. You looked sick the other
-　day, too. I’m worried about leaving you alone.』
+『I don't mind waiting upon you. You looked off the
+　other day too, so I'd just worry if I left you
+　alone.』
 
 ***Face_オトハ_目困り_口無表情_赤み03汗00
 
 小鳥遊 乙羽(CH01_1291)
-『N-No. I’m really, really fine… Um, sorry, I’ll be
-　going now.』
+『N-No, really. I really am fine so... erhm,
+　sorry--, I'm gonna go.』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目困り_口無表情_赤み03汗00_画面外
@@ -230,7 +230,7 @@ as possible…』
 ***BGM_FadeOut
 
 茂部
-『Ah, Takanashi-san!』
+『Ah, Takanashi-san--』
 
 
 ***PC_モブ_A1_デフォ(着衣)_画面外
@@ -250,15 +250,15 @@ as possible…』
 ***ST_オトハ_B1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1292)
-『Geez, Mobu-kun… Even though you’ve turned me down
-so much…』
+『Jeez, Mob-kun is so... he really needs to learn
+to take a hint...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1293)
-『Uncle, I wonder if I’ve kept you waiting… We have
-to hurry.』
+『I hope I haven't made uncle wait too long... I
+need to hurry.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み03汗00_画面外
@@ -281,51 +281,51 @@ to hurry.』
 
 ***SE_door_09_knock{90}[0](1)
 
-Hearing the noise, I thought the infirmary who had asked
-me to take care of the house had come back, but if I was
-going to knock, it would be different. Was it a student?
+Hearing the sounds, I thought that the infirmary physician
+was finally back, before hearing some knocks on the door.
+The physician wouldn't knock, so it was probably a student.
 
-As I continued to silently observe her, someone
-sneaked in without making much noise.
+As I just waited without a word, someone slipped
+their way inside, without making too much sound.
 
 ***BGM_優しい波打ち際(gentle_surf){100}
 
 ？？？
-『......』
+『..................』
 
 ？？？(CH01_1294)
-『Huh, there’s… no one here…? A teacher… or an
-　uncle should be here…』
+『Huh, there's... nobody...? There should be... at
+　least either the nurse, or uncle....』
 
 
-Looks like it’s Otoha-chan.
+It was Otoha-chan, from the looks of things.
 
 主人公
-『You’re late.』
+『You got here pretty late.』
 
 小鳥遊 乙羽(CH01_1295)
-『Ah, Uncle! Thank goodness. Um, sorry I’m late.
-　…Are you over there?』
+『Ah, uncle! Thank god. Uhm, sorry about that.
+　....Are you over there?』
 
 ***SE_ゆっくり足音_concrete normal_running_mix{80}[0](1)
 
-She walks toward the bed where I’m sitting,
-relying on her voice.
+She made her way towards the bed I was on, only
+relying on the direction of my voice.
 
 主人公
-『This way. There’s no one here, so come in.』
+『Over here. There's nobody here so come on.』
 
 ***SE_Shower Curtain Pull 5{100}[0](1)
 
-Otoha-chan opened the curtains that partitioned
-the bed and entered.
+She pulled aside the curtain blocking the view,
+before making her way past it.
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目困り_口微笑_赤み03汗00_中央
 
 小鳥遊 乙羽(CH01_1296)
-『So this is where you were. I made you wait a
-　little… I’m sorry.』
+『So this is where you were. Sorry... I didn't mean
+　to make you wait.』
 
 
 主人公
@@ -334,150 +334,157 @@ the bed and entered.
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み03汗00
 
 小鳥遊 乙羽(CH01_1297)
-『Um… I was held back after that by a boy who’s
-　taking supplementary lessons with me…』
+『Erhm... I got held up, by a boy attending the
+　same extra classes...』
 
 主人公
-『Oh, did she talk to you about supplementary
-　lessons?』
+『Oh? Was he asking for help with some class
+　related things?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_中央
 
 小鳥遊 乙羽(CH01_1298)
-『No. …She invited me to go home with her. I turned
-　her down… but she wouldn’t give up…』
+『No. ...He wanted me to walk back along with him.
+　I turned him down but... he kept pushing and...』
 
 
 主人公
-『Huh…』
+『Hoh...』
 
-I clicked my tongue lightly on the inside at the
-shitty brat whose face and name I didn’t know.
+I clicked my tongue internally, at the brat whom I
+knew nothing about.
 
 主人公
-『Otoha-chan, you’ve finally invited a man.』
+『So you're finally starting to seduce other men
+　too, huh?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口焦り_赤み03汗00_中央
 
 小鳥遊 乙羽(CH01_1299)
-『Huh?!! N-No, how did that happen? I didn’t do
-　that…!』
+『Eh--!? I-I'm not, how did you get to that? I
+　would never do that...!』
 
 
 主人公
-『But you know… Girls who do dirty things tend to
-　get all sexy on their own…』
+『But you know... girls who do lewd stuff all the
+　time just have that aura around them...』
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口無表情_赤み05汗00_中央
 
 小鳥遊 乙羽(CH01_1300)
-『…Th-That’s… I don’t know myself… No one should
-　have noticed what happened with Uncle.』
+『....T-That's... not something I can do anything
+　about... Nobody should have found out about you,
+　either.』
 
 
 主人公
-『That’s why, no matter what Otoha-chan is like,
-　she’ll just naturally make the male lust and
-　invite him.』
+『Like I said, it doesn't matter what you want,
+　your aura and body just have that effect on men
+　now.』
 
 小鳥遊 乙羽(CH01_1301)
-『Geez… The only one I want to invite is you,
-　Uncle. I want you to look at me like that, not
-　other people.』
+『Jeez... the only one I want to seduce is you, you
+　know. I don't want anyone else to look at me like
+　that, only you.』
 
 
 主人公
-『Really?』
+『Is that so?』
 
 ***BGM_夏空、静寂、蝉しぐれ{100}
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み06汗00
 
 小鳥遊 乙羽(CH01_1302)
-『Yeah, I mean… Just thinking about you gets me
-　excited… and today… I came here because… I wanted
-　to have sex again.』
+『Yeah, I mean... just thinking about you is enough
+　to make me horny and... it's the same today too...
+　I came here because... I wanted to, have sex.』
 
 
 主人公
-『I wonder if it’s true?』
+『Is that true now?』
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06汗00_中央
 
 小鳥遊 乙羽(CH01_1303)
-『It’s true…! If I let my guard down during
-　supplementary lessons, I’ll only think about
-　having sex… with my uncle…』
+『It is...! If I let my guard down for a second in
+　class, I always... e-end up thinking about doing
+　lewd stuff with you...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み06汗00
 
 小鳥遊 乙羽(CH01_1304)
-『Besides… I always… m-masturbate when I think
-　about my uncle…』
+『Not to mention... I always think of you and...
+　m-masturbate... everyday...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み06汗00
 
 小鳥遊 乙羽(CH01_1305)
-『Hah, hah… Every time you do dirty things to me,
-　Uncle… sex… masturbation feels better and better…』
+『Haah, haaah... everytime you do and, make me do
+　lewd stuff... both sex and... even masturbation,
+　start feeling better...』
 
 
 主人公
-『You sound like you’re in pain…』
+『Really? With that sort of hungry tone too...』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み06汗00
 
 小鳥遊 乙羽(CH01_1306)
-『Nnh, hah… hah, but… even now… I’m already…
-　getting wet. …So, you see… Shiyo…? Uncle.』
+『Nn, haah... haah, I can't... help it... I'm
+　already so wet. ...So, you know... let's do it...?
+　Uncle...』
 
 
 ***SE_movement_snow_rr1_mono{100}[1](3)
 
-She fidgets as she leans in right in front of me.
+Even as she fidgeted, she made her way right up to
+me.
 
 ***ST_オトハ_C2_デフォ(全半)_目悲しい・テレ_口微笑_赤み06汗00_アップ
 
 小鳥遊 乙羽(CH01_1307)
-『I love your smell, Uncle. It really puts me at
-　ease… It makes me feel safe… and I’m getting
-　really… horny…』
+『I love how you smell, uncle. Your scent really
+　calms me down... it calms me and... makes me so
+　horny....』
 
 
-She bares her clothes and pleads with moist eyes
-and voice.
+With her shirt pulled up, she begged me for it,
+with moist eyes and a soft voice.
 
-Even so, my irritation at the kid who tried to
-mess with Otoha-chan was still a little
-smoldering.
+But still, it wasn't enough for me to let go of my
+irritation over that brat poking his nose where it
+didn't belong.
 
 主人公
-『…If your uncle’s away even a little bit, he’s so
-　Sakan that it wouldn’t be strange for him to have
-　sex with that boy.』
+『...With how sex crazed you've gotten, if I was
+　away for even a few hours, who knows if you'd have
+　jumped that boy.』
 ***Face_オトハ_目困り_口への字_赤み07汗00
 
 小鳥遊 乙羽(CH01_1308)
-『…Geez! Don’t be mean. I really only want uncles…』
+『...Jeez! Don't be mean, uncle. You really are the
+　only one in my eyes...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み07汗00
 
 主人公
-『Then maybe I’ll have you prove to me how good you
-　can make your uncle feel.』
+『Maybe I'll have you prove just how much you can
+　do for me today, then.』
 
 ***Face_オトハ_目悲しい・テレ_口トロ笑い_赤み07汗00
 
 小鳥遊 乙羽(CH01_1309)
-『Mm… Hah, hah… Got it. Then… today… I’ll move a
-　lot… and make you feel good…』
+『Nn... haah, haah.... got it. Then... for today...
+　I'll do the moving... and make you feel
+　amazing...』
 
 
-When I finished speaking, Otoha-chan straddled me
-without hesitation.
+As soon as she was done saying that, she climbed
+onto the bed, and straddled me.
 
 ***ST_オトハ_C2_デフォ(全半)_目悲しい・テレ_口トロ笑い_赤み07汗00_画面外
 
@@ -486,76 +493,78 @@ without hesitation.
 
 
 小鳥遊 乙羽(CH01_1310)
-『…Hah, ah… hah, hah… It’s really hard. I want…
-　Naka… to do it… as soon as possible…』
+『...Hah, ah--... haah, haah... you're so hard. I
+　want it... inside...』
 
 
 小鳥遊 乙羽(CH01_1311)
-『Ahn… nnh… nh… It’s so wet, if I relax… I’ll just…
-　put it in like this…』
+『Ahn--... nn--... nn... I'm so wet, just letting
+　go made it... it might just... go in like
+　this....』
 
 
 ***Cinema_CI01-MS-0501_01
 
 主人公
-『It’s like you’re straddling your uncle and
-　masturbating.』
+『The way you're straddling me, don't you think it
+　looks like you're using me to masturbate?』
 
 小鳥遊 乙羽(CH01_1312)
-『Haa, haa… Masturbating with your uncle’s cock… is
-　really dirty…』
+『Haahaaaah.... masturbating using your cock...
+　that sounds so lewd...』
 
 
 小鳥遊 乙羽(CH01_1313)
-『But, Uncle, hey… Let’s… set this up…』
+『But, uncle, c'mon... fuck me... like this...』
 
 
 主人公
-『You’re going to make Otoha-chan feel good by
-　moving today, aren’t you? In that case, you should
-　have done everything yourself from the start.』
+『Weren't you going to do the moving and make me
+　feel good? C'mon, try doing everything yourself.』
 
 ***Cinema_CI01-MS-0501_02
 
 小鳥遊 乙羽(CH01_1314)
-『Th-That’s true, but… Ahn, but it feels really
-　good at this rate… This is… so good…』
+『I-I did say that but.... ahn--, it feels so good
+　even just like this, uncle.... this... this is so
+　good...』
 
 
 主人公
-『If you’re going to feel good on your own, I think
-　I’ll hold off on it.』
+『If you're going to just enjoy yourself like this,
+　then maybe we should call it off for today.』
 
 ***Cinema_CI01-MS-0501_03
 
 小鳥遊 乙羽(CH01_1315)
-『No, nooo… I’m sorry… Hah, ahh… I’ll hold your
-　cock in my pussy and make it feel good.』
+『Yahn, no, please... I'm sorry.... haah, aaah...
+　I'll put it in my pussy and make you feel good so
+　pleaseee』
 
 
 主人公
-『I see, I see. Well then, here… try putting it in,
-　okay?』
+『I see I see. Well then, c'mon... try putting it
+　in yourself?』
 
 
 ***Cinema_CI01-MS-0501_04
 
 小鳥遊 乙羽(CH01_1316)
-『Haa… nnnn… aaah… y-your cock… went all the way…
-　to the back of my pussy… h-all the way to the
-　base… hah, ah… I put it all… deep inside… yes…』
+『Haah... nnn.... aah--.... y... your cock... is
+　going all the way into... m-my pussy--... hah,
+　ah.... deep... inside...』
 
 
 主人公
-『You did well. Your insides are trembling like you
-　just came lightly. It feels good.』
+『Good job. You're twitching inside too, and it
+　feels great.』
 
 ***Cinema_CI01-MS-0501_05
 
 小鳥遊 乙羽(CH01_1317)
-『I-I… I mean… ahh, hah… th-they’re too big…
-　They’re pushing up… the baby’s room… aah… amazing…
-　Uncle… I love you…! …Aah, ha, ah…』
+『I--... I can't help it.... ah, hah... y-you're too
+　big... it's pushing down... on my baby room...
+　ah... wow... uncle... I love this... ah, hah, ah....』
 
 
 ***Cinema_END
@@ -570,68 +579,68 @@ without hesitation.
 ***ST_オトハ_C1_デフォ(全半)_目トロ_口困り_赤み08汗08_アップ
 
 小鳥遊 乙羽(CH01_0864)
-『Huff, huff… Mm… Huff, puff…』
+『Haahaaaah... nn.... haah, haah...』
 
 茂部
-『Takanashi-san, are you there?』
+『Takanashi-san, are you in there?』
 
 ***Face_オトハ_目驚き_口怒り_赤み08汗08
 
 小鳥遊 乙羽(CH01_1318)
-『?!!』
+『--?!!』
 
 
 茂部
-『Huh, I wonder if there’s anyone here…』
+『Huh--, is there nobody in here....』
 
 ***BGM_モーニングティータイム{80}
 
 ***Face_オトハ_目驚き_口焦り_赤み08汗08
 
 小鳥遊 乙羽(CH01_1319)
-『…No way… Mobu, you…?』
+『...No way--... Mob, kun...?』
 
 
 主人公
-『…Hm, maybe it’s the boy that that thing was
-　talking about earlier?』
+『...Nn, is that the boy you mentioned earlier?』
 
 ***Face_オトハ_目困り_口焦り_赤み08汗08
 
 小鳥遊 乙羽(CH01_1320)
-『No… I-I’ll just… shut up and… do it. Uncle,
-　please… Nnh… Be quiet…! Hah, aah…』
+『Yah--.... q-quiet, j-just... let him pass... by.
+　Please, uncle--... nn--... stay quiet--... for
+　just a sec--.... hah, ah...』
 
 
 ***Face_オトハ_目困りNL_口怒り_赤み08汗08
 
 茂部
-『Is there… no one here? …Sorry to intrude.
-　…Takanashi-saaan, are you… resting in bed…?』
+『Is there... really nobody? ...Excuse me. ....Is
+　Takanashi-san... resting on a bed....?』
 
 ***Face_オトハ_目困りCE_口怒り_赤み08汗08
 
 主人公
-『Yeah, it looks like she’s around. …But at this
-　rate, she’ll come all the way over here to check, so
-　let’s just take her at face value and let her pass.』
+『Aah, I see, I get why you had trouble brushing him off.
+　...But at this rate he's going to come and pull the
+　curtain aside, so just say this and that and shoo him away.』
 
 ***Face_オトハ_目驚き_口怒り_赤み08汗08
 
 小鳥遊 乙羽(CH01_1321)
-『A-An answer?! …I-It’s like this… Oh, with your
-　cock in my mouth… That’s…』
+『Y-You want me to reply!? ...W-While... W-While
+　I'm riding your cock?... That's...』
 
 
 主人公
-『Hm? If you’re so afraid of being found out, why
-　don’t I pull out my cock? In that case, I’ll have
-　to stop continuing this today.』
+『Nn? If you're that scared of being found out,
+　should I pull out? It'll be over for today though,
+　no redos.』
 ***Face_オトハ_目困り_口怒り_赤み08汗08
 
 小鳥遊 乙羽(CH01_1322)
-『I-I don’t wanna do that… I’ll… I’ll do it…
-　properly… Nnh… nnh, uuuh… nh…』
+『N-No way, I don't.... I'll do it... I'll do it,
+　so... nn--... nn, uu--... nnn--...』
 
 
 ***Face_オトハ_目困りCE_口怒り_赤み08汗08
@@ -639,46 +648,47 @@ without hesitation.
 ***SE_footsteps_leather_wood_hollow_walk_x8_loop_mono{100}[0](1)
 
 茂部
-『You’re growling…? Are you sleeping over there
-　after all? Hey, are you okay?』
+『Is that a groan...? Is that you, Takanashi-san?
+　Hey, are you okay?』
 
 
 茂部
-『Takanashi-sa…』
+『Takanashi-sa...』
 
-The boy calling for Otoha-chan shamelessly
-approaches the bed we’re in…
+Just as the brat that had come calling for her was
+brazenly making his way towards our bed...
 
 
 小鳥遊 乙羽(CH01_1323)
-『M-Mobu-kun… Why are you here?』
+『M-Mob-kun--... why are, you here?』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
 ***ST_オトハ_C1_デフォ(下半+パンツ半)_目困りCE_口怒り_赤み08汗08_アップ
 
-Otoha-chan hurriedly put her jacket back in order
-and immediately pulled only her face out of the
-curtain.
+Otoha-chan rushed to fix her top, and poked her
+head out of the curtain.
 
 
 ***Cinema_CI01-MS-0501_10
 
 
 茂部
-『Ah, Takanashi-san. …After that, I thought I’d go
-　straight home, so I went to the shoe lockers…』
+『Ah, Takanashi-san. ...You know, after that, I
+　went down all the way to the shoe racks, thinking
+　I'd just go home but...』
 
 小鳥遊 乙羽(CH01_1324)
-『Y-Yeah…gh…』
+『Y-Yeah....』
 
 
 茂部
-『Um, I was worried after all… I couldn’t help but
-　be curious, so I came back.』
+『I erhm, I couldn't help but be worried... and
+　well, I was curious so I came back.』
 
 小鳥遊 乙羽(CH01_1325)
-『I-I see… Ngh… Nnh, hah… ngh… That’s… fine…』
+『I-I see... ....Nnn, haah.... you really... didn't
+　have to...』
 
 
 ***Cinema_CI01-MS-0501_11
@@ -687,90 +697,91 @@ curtain.
 『Your face really is red. Do you have a fever?』
 
 小鳥遊 乙羽(CH01_1326)
-『You think so? …I-I don’t… have a fever. I’m just…
-　hah… uu… resting… and it’s getting easier…』
+『You think--? ....I-I don't... have a, fever. I'm
+　feeling... hah... uu... better--... by the minute
+　anyway...』
 
 
-What the hell is this kid doing? Otoha-chan’s my
-personal hole.
+Fuck's this dipshit making advances on her for?
+Otoha-chan's my private hole, you know?
 
 茂部
-『But…you look like you’re in pain. Are you really
-　okay? The health teacher isn’t here. Should I go
-　look for him and call him?』
+『But... you don't really look alright. You sure
+　you're okay? The nurse isn't here either. Should I
+　go and call her in?』
 
 小鳥遊 乙羽(CH01_1327)
-『Ah, uu… ah, my head just hurts a little… really…
-　fuh… uuh… I-I’m fine, so you don’t have to call me
-　that…』
+『Ah, uu... m-my head just hurts a bit, that's
+　all... really... fuh... uu... I-I'm fine, so you
+　don't, have to...』
 
 
 茂部
-『Takanashi-san, don’t push yourself. I’m really
-　worried…』
+『Okay, but don't overdo it, Takanashi-san. I
+　really am worried...』
 
 ***Cinema_CI01-MS-0501_12
 
-…If you love me that much, I’ll make you worship
-the face of a bitch holding my cock in her mouth
-as you talk.
+...Damn, you like her that much, huh? I guess I'll
+help you get a good look at her melty face as she
+straddles my cock while you chat with her.
 
 ***Cinema_CI01-MS-0501_13
 
 小鳥遊 乙羽(CH01_1328)
-『Y-Yeah…gh, it’s okay…,』
+『Y-Yeah.... I-I'm o....』
 
 
 小鳥遊 乙羽(CH01_1329)
-『I’m… fine…!』
+『ka... y....!』
 
 
 小鳥遊 乙羽(CH01_1330)
-『!!』
+『--!!!』
 
 
 ***Cinema_CI01-MS-0501_14
 
 小鳥遊 乙羽(CH01_1331)
-『Uncle… nn,』
+『Unc--... le--』
 
 
 茂部
-『…? Huh…? Oh, I don’t have anything to do, so I’ll
-　stay here a little longer.』
+『....? Eh... ah, I don't have anything to do or
+　anything, so I'll stay by your side a bit longer.』
 
 小鳥遊 乙羽(CH01_1332)
-『Ah…gh…』
+『Ah... uu....』
 
 
 主人公
-『So you really do like being framed in public…
-　You’re even tighter than usual.』
+『You really do love being fucked in front of other
+　people, huh?.... You're way tighter than usual.』
 
 小鳥遊 乙羽(CH01_1333)
-『…No way, s-stop…!! …!』
+『...Don't, st--....!! ....!』
 
 
 茂部
-『…? Um, are you okay…?』
+『...? Erhm, you okay...?』
 
 ***Cinema_CI01-MS-0501_15
 
 小鳥遊 乙羽(CH01_1334)
-『I-I don’t mind…gh… So…』
+『D-Don't worry--... about it....』
 
 
 茂部
-『Y-Yeah. Takanashi-san, you’re blushing. Are you…
-　feverish?』
+『O-Okay. Takanashi-san, your face is getting
+　pretty red... is your fever rising?』
 
 小鳥遊 乙羽(CH01_1335)
-『Eh, ah, I… I see… Geez. Ah, hah…』
+『Eh, ah, m... may... be--. Ah--, haah...--』
 
 
 茂部
-『I’m worried, so I’ll stay here a little longer.
-　The chair’s… oops.』
+『I'm getting pretty worried, so I'll stay here for
+　a bit longer. Let's see... a chair.』
 
 
 ***Cinema_END

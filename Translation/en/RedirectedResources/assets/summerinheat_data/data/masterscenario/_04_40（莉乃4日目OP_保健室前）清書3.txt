@@ -8,54 +8,54 @@
 ***ST_リノ_A2_レオタード(全半)_目トロ_口焦り_赤み08汗08_中央
 
 暁 莉乃(CH02_0736)
-『Phew… ah… h… fh… hah… nn, … hahh… hhah… fuh,
-　…hahhh, haah… haahh…』
+『Fuh... ah... fuh... haah... nn.... haah...
+　haah... fuh... haah... haah...』
 
 
 ***Face_リノ_目トロCE_口焦り_赤み08汗08
 
 主人公
-『Phew, today was great too. Every time I used it,
-　I felt better and ejaculated a lot.』
+『Fuh~, it was great today too, I came a whole lot.
+　You get better to use by the day, honestly.』
 
 ***Face_リノ_目トロNL_口驚き_赤み08汗08
 
 暁 莉乃(CH02_0737)
-『Haaah, fuuh… fuu… hah… haaah… haah… ahh… hhaaahh…
-　nn… ah…haa…haah…』
+『Haah, fuuh... fuuh.... haah.. haah... haah...
+　ah... haah... nn... ah... haah... hah..』
 
 
 ***Face_リノ_目トロNL_口焦り_赤み08汗08
 
 暁 莉乃（独白）(CH02_0738)
-『…I’m going to get worked up with you… I knew it…
-My body is honest… I can’t help but feel it… from
-this person…』
+『...And I like it too... my body... really is
+honest... it can't help but... enjoy this...』
 
 
 主人公
-『Yeah, I’m feeling better. I’ll use it again.』
+『Aah, I feel better. Well, that was fun. I'll come
+　again soon.』
 
 ***Face_リノ_目悲しい・テレCE_口驚き_赤み08汗08
 
 暁 莉乃(CH02_0739)
-『Hahh… nnah… hahh…! Nnh, nnh… afh… haah… hhah… ah…
-　haaah…』
+『Haah... nnah... haah... nn--... afuh.... haah...
+　haah... ah.... haah...』
 
 
 ***Face_リノ_目悲しい・テレCE_口怒り_赤み08汗08
 
 暁 莉乃（独白）(CH02_0740)
-『Lately, every day… whenever it’s used like a
-tool, I’ve become more and more sensitive… I don’t
-feel like resisting… anymore…』
+『Recently, he's been using me... like a tool,
+everyday, and each time, my body gets more
+sensitive... I don't even... feel like... resisting anymore...』
 
 
 ***Face_リノ_目悲しい・テレCE_口困り_赤み08汗08
 
 暁 莉乃（独白）(CH02_0741)
-『I just want… to be swept away by pleasure like
-this…』
+『At this point, I just want to... give in to the
+pleasure...』
 
 
 ***BGM_FadeOut
@@ -77,65 +77,68 @@ this…』
 ***ST_リノ_A3_デフォ(着衣)_目デフォ_口無表情_赤み04汗00_中央
 
 暁 莉乃(CH02_0742)
-『Well, I’ll be going home soon, too…』
+『Then, I'm gonna go home too...』
 
 
 ***Face_リノ_目デフォNL_口つぐみ_赤み04汗00
 
 暁 莉乃（独白）(CH02_0743)
-『This relationship has been dragging on for days…
-It’s become natural for us to have sex…』
+『This "relationship" has dragged on for so many
+days... having sex everyday is becoming natural
+for me...』
 
 
 ***Face_リノ_目悲しい・テレCE_口無表情_赤み04汗00
 
 暁 莉乃（独白）(CH02_0744)
-『I’ll satisfy this person, change my clothes… and
-finally be able to return home peacefully.』
+『I've satisfied him, and changed my clothes too...
+now I can finally go home in peace.』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目デフォNL_口困り_赤み04汗00_中央
 
 暁 莉乃（独白）(CH02_0745)
-『Come to think of it, my phone… It’s been muted
-and shut inside my bag the whole time. Taka-kun
-might contact me soon.』
+『Come to think of it, my phone's... been in my bag
+this whole time, on mute. Taka-kun might contact
+me soon.』
 
 
 ***Face_リノ_目デフォNL_口無表情_赤み04汗00
 
 主人公
-『Rino-chan, don’t you think you’re already feeling
-　shitty again?』
+『Say, Rino-chan. Aren't you feeling like doing it
+　again already?』
 
 ***Face_リノ_目困り_口への字_赤み03汗00
 
 暁 莉乃(CH02_0746)
-『…Sigh. Of course not. Don’t get carried away…
-　Wait, ah…』
+『...Hah? Do you really think I would be? Don't get
+　carried away... ah--...』
 
 
 ***Face_リノ_目驚きNL_口困り_赤み03汗00
 
 暁 莉乃（独白）(CH02_0747)
-『There’s been a few missed calls, and a few LIME
-messages… from Taka-kun…』
+『There's several missed calls, and a few messages
+on LIME too... all from Taka-kun...』
 
 
 ***Face_リノ_目デフォNL_口無表情_赤み03汗00
 
 主人公
-『…? From your boyfriend?』
+『...? Is it your boyfriend?』
 
 ***ST_リノ_C1_デフォ(着衣)_目睨み_口無表情_赤み03汗00_中央
 
 暁 莉乃（独白）(CH02_0748)
-『She’s grinning as she peers over my shoulder. I
-immediately get annoyed and twist my body.』
+『He was looking over my shoulder with a grin on
+his face. I twisted my body away out of
+irritation.』
 
 
 暁 莉乃(CH02_0749)
-『Hey, don’t look at my phone. Geez!』
+『Hey, don't look into other people's phones!
+　Jeez!』
 
 
 ***BGM_FadeOut
@@ -143,8 +146,8 @@ immediately get annoyed and twist my body.』
 ***Face_リノ_目焦りNL_口無表情_赤み03汗00
 
 暁 莉乃（独白）(CH02_0750)
-『There’s so much… This hasn’t happened since the
-fight. Did something happen…?』
+『So many... he hasn't done this since we fought.
+Did something happen...?』
 
 
 ***BGM_不穏な空気{100}
@@ -155,55 +158,57 @@ fight. Did something happen…?』
 ***BGround_BG95_01
 
 たかし
-『{Rineau}.』
+『<Rino~>』
 
 たかし
-『{Rino, what’s wrong?}』
+『<Rino, what's up?>』
 
 たかし
-『{You haven’t answered the phone at all. What are
-　you doing?}』
+『<You're not answering my calls either, what're
+　you doing?>』
 
 暁 莉乃（独白）(CH02_0751)
-『My heart skips a beat… But… they shouldn’t have…
-found out.』
+『My heart skipped a beat.... but... he
+shouldn't... have found out anything.』
 
 
 たかし
-『{I lost my leg during club activities, and now
-　I’m in the infirmary. It looks like it’s just a
-　sprain.}』
+『<I kinda hurt my ankle during club, at the
+　nurse's office right now. Seems like just a
+　sprain.>』
 
 暁 莉乃（独白）(CH02_0752)
-『Huh…?! Taka-kun, you’re hurt…!』
+『Eh--?! My Taka-kun's injured...!』
 
 たかし
-『{I’m sorry if you’re still practicing on your
-　own. It might be annoying to call or LIME over a
-　sprain, though.}』
+『<Sorry for bothering you during practice. This
+　many calls and messages over a sprain might be a
+　bit annoying, I get it.>』
 
 たかし
-『{I just wanted to hear Rino’s voice.}』
+『<But you know, I kinda really wanna hear your
+　voice right now.>』
 
 暁 莉乃
-『......』
+『..................』
 
 たかし
-『{I’m fine at all, but the people around me are
-　noisy, so I’m going to take a break. You can go
-　home ahead of me.}』
+『<I'm completely fine of course, but the guys are
+　getting noisy, so I'm gonna rest to shut them up.
+　Feel free to go home without me.>』
 
 暁 莉乃（独白）(CH02_0753)
-『No, what time is this? …Thirty minutes ago…?』
+『Gosh, when did he send this?.... 30 minutes
+ago...?』
 
 たかし
-『{Seriously, it’s no big deal, so don’t worry
-　about it. Good work.}』
+『<It's a super nothing burger, so don't worry
+　about it. See you later~>』
 
 ***Flash_InSide_Black
 
 暁 莉乃(CH02_0754)
-『Gh…』
+『--...』
 
 
 ***BGround_BG22_00
@@ -211,48 +216,47 @@ found out.』
 ***ST_リノ_B3_デフォ(着衣)_目焦りNL_口無表情_赤み03汗00_中央
 
 暁 莉乃（独白）(CH02_0755)
-『This time I got this call… I was having sex with
-my uncle… and I was so engrossed… I didn’t
-notice…』
+『At that time... I was, having sex with uncle... I
+was so lost in it... I didn't realize...』
 
 
 暁 莉乃(CH02_0756)
-『No…』
+『Gosh...』
 
 
 主人公
-『Maybe it’s an invitation to go home with her?
-　She’s so carefree and slow… She doesn’t even know
-　she’s just been framed by another man.』
+『Is he asking you to walk home with him? Not even
+　realizing that his girlfriend's being fucked by
+　another man on the daily... what a carefree idiot.』
 
 ***Face_リノ_目怒り_口無表情_赤み03汗00
 
 暁 莉乃(CH02_0757)
-『Sh-shut up…gh…』
+『S-Shut up--!...』
 
 
 暁 莉乃（独白）(CH02_0758)
-『I was about to retort harshly, so I was at a loss
-for words… This person… Uncle… wasn’t forcing me
-to do it.』
+『I almost yelled at him, but I couldn't bring
+myself to... He... didn't make me do it this
+time.』
 
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み03汗00
 
 暁 莉乃（独白）(CH02_0759)
-『I… had a lot of fun… with you… …What the hell did
-I do…?』
+『I was... also... "enjoying" it... with him....
+what am I, even...』
 
 
 暁 莉乃(CH02_0760)
-『…I have to go.』
+『...I gotta, go.』
 
 
 ***Face_リノ_目困りCE_口つぐみ_赤み03汗00
 
 暁 莉乃（独白）(CH02_0761)
-『…She should still be resting… I want to go see
-Taka-kun as soon as possible. I have to go…』
+『...He should still be there.... I want to be with
+him. I need to...』
 
 
 ***BGM_FadeOut
@@ -269,7 +273,7 @@ Taka-kun as soon as possible. I have to go…』
 
 ――――
 
-―――
+――
 
 ***FadeOut_InSide_Black
 
@@ -282,244 +286,245 @@ Taka-kun as soon as possible. I have to go…』
 ***ST_リノ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_中央
 
 暁 莉乃（独白）(CH02_0762)
-『When I arrived at the nurse’s office, the teacher
-wasn’t there… and Taka-kun was lying in one of the
-beds in the back.』
+『When I got to the infirmary, the nurse wasn't
+there... but Taka-kun was, on one of the beds.』
 
 
 ***SE_走り去る足音_concrete normal_running_mix{100}[5](1)
 
 暁 莉乃（独白）(CH02_0763)
-『I’ll run over to you, still feeling guilty and
-uneasy.』
+『With guilt and anxiety in my heart, I ran over to
+his side.』
 
 
 ***BGM_君と穏やかな午後{100}
 
 たかし
-『Ah… Rino, you came. I thought you were still
-　doing your own training or going home ahead of
-　me.』
+『Ah... Rino, you really came. I thought you
+　might've been training or gone home by yourself.』
 
 ***Face_リノ_目悲しい・テレCE_口無表情_赤み03汗00
 
 暁 莉乃(CH02_0764)
-『I’m sorry…』
+『I'm so sorry...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目焦りCE_口無表情_赤み03汗00_中央
 
 暁 莉乃（独白）(CH02_0765)
-『I’m terribly sorry… I don’t have the right to
-touch you, but I’m so anxious I can’t stand it… I
-squeeze Taka-kun’s hand on the bed.』
+『I felt so terrible... I knew I had no right to
+even touch him, but I was so worried... so I
+squeezed down on his hand tightly.』
 
 
 たかし
-『Ahaha, what do you mean, sorry all of a sudden? You
-　didn’t do anything wrong, Rino. You freaked out and
-　kept contacting me like crazy. I’m such a loser.』
+『Ahahah, what are you apologizing for? It's not
+　your fault, now is it? I'm the lame one for
+　getting shit scared and spamming you so much.』
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み03汗00
 
 暁 莉乃（独白）(CH02_0766)
-『When you contacted me saying you were injured…
-I…』
+『Even though he thought of me when he got
+injured... I...』
 
 
 ***Face_リノ_目焦りCE_口怒り_赤み03汗00
 
 暁 莉乃(CH02_0767)
-『Really…! …I’m sorry…』
+『I really... am so sorry...』
 
 
 たかし
-『What the… Geez. Seriously, it’s not Rino’s fault,
-　and she’s totally fine.』
+『What even... seriously, it's not your fault, so
+　you don't need to beat yourself up so much.』
 
 ***Face_リノ_目困り_口怒り_赤み03汗00
 
 暁 莉乃(CH02_0768)
-『Gh…』
+『--!....』
 
 
 たかし
-『You’re sweating. You ran here, didn’t you? Come
-　on, that chair over there, sit down for now.』
+『Look at you, you're so sweaty. You ran all the
+　way here, didn't you? C'mon, just sit down for
+　now.』
 
 ***Face_リノ_目悲しい・テレ_口無表情_赤み03汗00
 
 ***SE_movement_snow_rr1_mono{100}[3](1)
 
 暁 莉乃(CH02_0769)
-『Y-Yeah… Thanks…』
+『O-Okay... thanks...』
 
 
 たかし
-『I said I could go home, but I’m still glad you’re
-　here.』
+『I know I told you to go home by yourself on LIME
+　but, I really am glad you came.』
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_アップ
 
 暁 莉乃(CH02_0770)
-『…Of course you’d come… …Sorry I didn’t notice
-　right away…』
+『...Of course I would... I'm sorry for not
+　noticing...』
 
 
 ***Face_リノ_目悲しい・テレCE_口無表情_赤み03汗00
 
 たかし
-『You don’t have to apologize over and over again.
-　I’m seriously happy you’re here, Rino.』
+『No need to apologize, seriously. I'm already
+　happy enough that you came.』
 
 暁 莉乃（独白）(CH02_0771)
-『I knew it… Taka-kun is the only one I really love from
-the bottom of my heart… …This me… makes me hate it the
-worst, but… I love it so much, I can’t help but love it.』
+『He really is... the only one I truly love.... I
+really am... trash, the worst possible human
+being... but I can't help but love him.』
 
 
 ***Face_リノ_目困り_口無表情_赤み03汗00
 
 暁 莉乃(CH02_0772)
-『Are your injuries really okay…?』
+『Is your injury, really okay...?』
 
 
 たかし
-『Yeah! It’s a really light sprain.』
+『Yeah! It's just a light sprain.』
 
 ***ST_リノ_D3_デフォ(着衣)_目困りCE_口無表情_赤み04汗00_アップ
 
 暁 莉乃（独白）(CH02_0773)
-『‘I wanted to touch you more no matter what… I put my
-head lightly on Taka-kun’s chest, as if fawning over
-him, while being careful not to put my weight on him.’』
+『I wanted to touch him more so bad... being
+careful not to put any weight on him, I lightly
+put my head on his chest, as if acting spoilt.』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
 
 たかし
-『Wah… R-Rino… What’s wrong?』
+『Wah--... R-Rino... what's gotten into you?』
 
 ***Face_リノ_目悲しい・テレNL_口微笑_赤み04汗00
 
 暁 莉乃(CH02_0774)
-『I’m glad things didn’t get serious… …I love you…』
+『I'm so glad it wasn't serious... I love you...』
 
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み04汗00
 
 暁 莉乃（独白）(CH02_0775)
-『Taka-kun’s chest… I touched his skin through his
-shirt, felt his heat…… I remember having sex with
-him earlier.』
+『His chest... I felt his skin through his shirt,
+and felt his warmth.............. and suddenly
+remembered the sex I just had with 'him'.』
 
 
 ***Face_リノ_目焦り_口無表情_赤み02汗00
 
 暁 莉乃(CH02_0776)
-『……!』
+『....--!』
 
 
 ***Face_リノ_目焦りCE_口怒り_赤み02汗00
 
 暁 莉乃（独白）(CH02_0777)
-『No. Why is this… going through my head…? There’s
-a limit to how stupid I can be… Even though I’m
-with Taka-kun right now…』
+『Gosh--. Why now... of all things... why am I so
+stupid... I'm with Taka-kun right now, and yet...』
 
 
 たかし
-『U-Um… Rino… I’m sorry… If you could get out of my
-　way… No, it’s not like you’re in the way or heavy
-　or anything…』
+『H-Hey... Rino... sorry... could you erhm, move...
+　ah, not to say that you're heavy or in the way or
+　anything...』
 
 ***Face_リノ_目驚き_口困り_赤み03汗00
 
 暁 莉乃(CH02_0778)
-『…What? …It echoed in my legs…?』
+『...What? ...Did you feel it in your foot...?』
 
 
 たかし
-『Um, well… um, I… got hard… Sorry… But Rino, you
-　smell really good…』
+『Erhm, uhm.. ah, I.... I'm popping a chub... I'm
+　sorry... but you smell really nice, right now
+　so...』
 
 ***Face_リノ_目困り_口微笑_赤み04汗00
 
 暁 莉乃(CH02_0779)
-『I-It’s okay… I love you… Taka-kun… Even if that
-　happens… I’ll be fine. I won’t look down on you or
-　anything.』
+『D-Don't worry... I love you... so it's... okay if
+　you... feel like that. I'd never hate you for
+　that.』
 
 
 ***Face_リノ_目悲しい・テレCE_口無表情_赤み04汗00
 
 暁 莉乃（独白）(CH02_0780)
-『I want to erase my stupid thoughts… and fix me
-somehow… I want to stop my relationship with that
-person… and only do it with Taka-kun…』
+『Get these thoughts out of my head... fix my weird
+head.... I'll stop it, I'll stop doing it with him,
+please... I want to do it with Taka-kun, only him...』
 
 
 ***Face_リノ_目悲しい・テレCE_口怒り_赤み05汗00
 
 暁 莉乃（独白）(CH02_0781)
-『……I want to do it with Taka-kun…』
+『...I want to do it with my Taka-kun...』
 
 
 たかし
-『Rino…?』
+『Rino...?』
 
 ***Face_リノ_目微笑_口微笑_赤み05汗00
 
 暁 莉乃(CH02_0782)
-『Hey… You’re erect, aren’t you…? I’ll be fine… So…
-　when I’m sleeping over something like this…』
+『Hey... you're erect, right...? I'm fine with
+　it... so... and I know you're supposed to be
+　resting....』
 
 
 ***Face_リノ_目悲しい・テレCE_口微笑_赤み05汗00
 
 暁 莉乃（独白）(CH02_0783)
-『……It really, hurts…』
+『......I want to do it, so bad...』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み05汗00
 
 暁 莉乃(CH02_0784)
-『…Taka-kun, Coco… I’ll make you feel good…』
+『...I'll make you... feel good down here...』
 
 
 たかし
-『Huh… Huh… Wh-Why so suddenly…? But, y-you sure?』
+『Eh--... eh... w-why so suddenly... but, y-you
+　sure?』
 
 ***Face_リノ_目悲しい・テレNL_口微笑_赤み05汗00
 
 暁 莉乃(CH02_0785)
-『Yeah… She’s the person I like… Look, we fought
-　before, but you wanted to do it… back then too,
-　didn’t you…?』
+『Yeah... I love you, so... back then... we had
+　that fight but, you wanted to... do it then too,
+　right...?』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み05汗00
 
 たかし
-『Y-Yeah… B-But I can’t get up right now.』
+『Y-Yeah... B... But, I can't get up, right now.』
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み05汗00
 
 暁 莉乃（独白）(CH02_0786)
-『Even though I don’t have the face to face with
-you after all that… I’m… starting to get excited
-about Taka-kun being erect…』
+『Even though it's hard to bring myself to even
+look at him... seeing him get hard, is... making
+me excited...』
 
 
 ***Face_リノ_目悲しい・テレ_口微笑_赤み05汗00
 
 暁 莉乃(CH02_0787)
-『Taka-kun, you can stay like that… I want you to
-　feel good right now. …For now, leave it… to me…
-　Make me feel good…?』
+『You can just stay like that, Taka-kun... I want
+　you to enjoy this. ...So leave it... to me... and
+　just enjoy it...?』
 
 
 たかし
-『Huh, ah… Y-Yeah…?!』
+『Eh, ah... o-okay....!?』
 
 
 ***ST_リノ_C2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05汗00_画面外
@@ -527,57 +532,60 @@ about Taka-kun being erect…』
 ***FadeIn_InSide_Black
 
 たかし
-『But… you said you’d leave it to me…』
+『But... leave it to you?...』
 
 
 ***SE_ガサゴソfoley_cloth_light_fast_movement_01{95}[0](1)
 
 たかし
-『Ah, eh…』
+『Ah, eh...』
 
 ***SE_脱がしベルト音MIX{100}[0](1)
 
 たかし
-『R-Rino… Hey…gh…』
+『R-Rino... hey--...』
 
 ***FadeOut_InSide_Black
 
 ***ST_リノ_D3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05汗00_アップ
 
 暁 莉乃(CH02_0788)
-『…It’s okay. You can stay still… Nn, it’s really…
-　starting to get bigger… Haa, nn… haa…』
+『...Don't worry. You can just stay still.... nn,
+　it really is... getting bigger by the second...
+　haah, nn... haah...』
 
 
 たかし
-『Hey… You shouldn’t say that…』
+『Hey--.... it's embarrassing when you say that
+　stuff out loud...』
 
 ***Face_リノ_目トロ_口微笑_赤み07汗00
 
 暁 莉乃（独白）(CH02_0789)
-『‘This is…Taka-kun’s…cock… His breathing is
-rough…and it’s really hot.’』
+『This is... Taka-kun's... cock... my breath's
+getting rough too... I feel so hot.』
 
 
 暁 莉乃（独白）(CH02_0790)
-『I’m… going to have sex with the person I really
-love for the first time… …It’s really… exciting,
-and I’m happy…』
+『I really am... gonna do something lewd with the
+man I love for the first time... I'm so...
+aroused, and happy...』
 
 
 ***Face_リノ_目微笑_口微笑_赤み07汗00
 
 暁 莉乃(CH02_0791)
-『When your leg heals… it’ll be full, y’know…?』
+『Once your, injury heals up... let's do it
+　lots...?』
 
 
 たかし
-『O-oh…』
+『A-Alright...』
 
 暁 莉乃（独白）(CH02_0792)
-『…Taka-kun’s excited like this, too… It’s okay if
-he thinks I’m dirty… I made him hold back, so…
-I’ll make him feel good a lot…』
+『...He's so excited about it too... I don't care
+if he thinks of me as a slutty girl... Taka-kun, I
+made to wait so much... enjoy this lots...』
 
 
 ***ST_リノ_D3_デフォ(着衣)_目微笑_口微笑_赤み07汗00_画面外
@@ -585,11 +593,11 @@ I’ll make him feel good a lot…』
 ***FadeIn_InSide_Black
 
 暁 莉乃(CH02_0793)
-『…Hah, mm… Mm…』
+『... Haah, mm.... nn--...』
 
 
 たかし
-『R-Rino… ah…』
+『R-Rino... ah....』
 
 
 ***Cinema_CI02-MS-0401_00
@@ -597,95 +605,95 @@ I’ll make him feel good a lot…』
 
 
 暁 莉乃(CH02_0794)
-『Nnh… nnh…nh, chu… chuph… schlp… chp… nhh… chu…
-　juku… bu, bu…』
+『Nn--... nn... *suck*... *shlup*... *shlup*...
+　*shlup*... *shluck*... *suck*... *shlub*....』
 
 
 暁 莉乃（独白）(CH02_0795)
-『Huh… Taka-kun’s… a little… small…? Is it still
-not big enough…?』
+『Huh... is he... a bit... on the small side...? Is
+it just not fully erect yet...?』
 
 
 ***Cinema_CI02-MS-0401_01
 
 たかし
-『Mm… hah…』
+『Nn... hah--...』
 
 暁 莉乃(CH02_0796)
-『*kiss*, *slurp*… nnpu, bupu… *suck*… chupu,
-　chujubo, hff… nfu… nh, uu…』
+『*Suck*, *shluzz*... nnpuh, bbph... *shlup*...
+　*shlup*, *shlobb*, fuh... nnfuh.... nn, uu...』
 
 
 たかし
-『Gh…』
+『--...』
 
 暁 莉乃（独白）(CH02_0797)
-『No… It won’t get any bigger. No matter how much I
-stimulate it, it’s just twitching… And the
-precum’s really thin…』
+『No... he's not gonna get any bigger than this. No
+matter how much I stimulate it, it's just
+twitching in place... and his pre-cum's so thin too...』
 
 
 たかし
-『Ah… hey, wait…』
+『Ah... hey...』
 
 
 ***Cinema_CI02-MS-0401_02
 
 暁 莉乃（独白）(CH02_0798)
-『Wh-What is this feeling…? I really like you,
-Taka-kun, and I’m incredibly excited…』
+『W... What is this... this feeling... I love him
+so much, and I'm so aroused too, and yet...』
 
 
 暁 莉乃(CH02_0799)
-『Chuph, slurp, chuh, schlp, nnchuh… shlurp… chuph,
-　chuph… hfh, njuh…』
+『*Shlurp*, *jhlurp*, *suck*, *shuck*, *jhuck*....
+　*shlob*... *shlop*, *jhlop*... fuh, *shlurp*...』
 
 
 暁 莉乃（独白）(CH02_0800)
-『…When I had sex with Taka-kun… I wonder… if I’d
-be satisfied with this size…?』
+『...Will a cock of this size, really manage to...
+satisfy me, when we have sex...?』
 
 
 ***Cinema_CI02-MS-0401_03
 ***LoopCV_リノ_VCフェラ_リノ_ディープスロート_後期{20}
 
 たかし
-『Ah, Rino… W-Wow… It feels… good…』
+『AH--, Rino--... w-wow... this is... insane...』
 
 暁 莉乃（独白）(CH02_0801)
-『Gh, what are you thinking…?!! …I’m with the
-person I love! It’ll definitely feel good…!』
+『--! What am I even thinking...!! ...He's the man
+I love! It'll definitely feel good...!』
 
 
 暁 莉乃(CH02_0802)
-『Slurp… hafh… afh, nnh… fh, nh… slurp, … nn, nchu,
-　nnu, hafuah…』
+『*Shlurp*... hafuh... afuh, nn--... fuh, nn...
+　*shlurp*... nn, *shluck*, nnn, hafuah...』
 
 
 暁 莉乃（独白）(CH02_0803)
-『The size… shouldn’t have anything to do with it…
-Just doing this makes me happy right now…』
+『The size... shouldn't matter at all... I'm in
+bliss, just doing this even...』
 
 
 たかし
-『Rino, this is bad, w-wait…』
+『Damn, Rino, hey... hey...』
 
 ***Cinema_CI02-MS-0401_04
 
 暁 莉乃（独白）(CH02_0804)
-『It’s different from having sex with someone who
-just enjoys raping you…』
+『Unlike sex with that guy, who just violates me
+however he pleases...』
 
 
 暁 莉乃(CH02_0805)
-『Ngh… chuph, ngh… nn, kh… mm, hafh… mmchu… slurp…
-　schlp…』
+『Nnguh... *shlup*, nnguh... nn, kuh... muh,
+　hafuh... *shluck*... *shlurp*... *shlup*...』
 
 
 暁 莉乃（独白）(CH02_0806)
-『Taka-kun and I love each other, after all… Having
-sex with each other… with love… would definitely
-feel even better…!』
+『The two of us are in love... sex between... two
+people who love each other... should definitely be
+better...!』
 
 
 ***Cinema_CI02-MS-0401_05
@@ -693,26 +701,26 @@ feel even better…!』
 
 
 暁 莉乃(CH02_0807)
-『Nnh… hfh, nchu, pfh… slurp… chuph… nnchu, chuph,
-　nnh… buph…』
+『Nn--.. fuh, *suck*, puh... *shlup*... *shlup*...
+　*shluzzhhluck*, *shlup*... bbpuh--...』
 
 
 たかし
-『R-Ah… ah, wow… Rino… ah… ahh…』
+『Ri--, ah--... ah--, wow... Rino--... ah... ah...』
 
 暁 莉乃（独白）(CH02_0808)
-『Unlike that guy, he’ll take good care of me a
-lot…! So, make me feel better, more comfortable…』
+『Unlike him, he treasures me lots and lots...! So,
+let me, let me make you feel even better...』
 
 
 たかし
-『Gh… I’m… gonna… cum… I’m gonna cum… Aaah!!』
+『...I'm... gonna--... c--... cum... ah--!!』
 
 
 ***Cinema_CI02-MS-0401_06
 
 暁 莉乃(CH02_0809)
-『…?!』
+『--....?!』
 
 
 ***Flash_OutSide_White
@@ -729,174 +737,177 @@ lot…! So, make me feel better, more comfortable…』
 ***ST_リノ_C2_デフォ(着衣)_目驚き_口困り_赤み07汗00_アップ
 
 暁 莉乃
-『......』
+『...............』
 
 暁 莉乃（独白）(CH02_0810)
-『No way… You came… already…?!』
+『No way... he... already...?!』
 
 
 たかし
-『Huff… Huff… R-Rino… This is bad… It felt good…』
+『Haah... haah... R-Rino... fuck... that felt
+　amazing...』
 
 暁 莉乃
-『......』
+『..................』
 
 ***Face_リノ_目驚き_口無表情_赤み07汗00
 
 暁 莉乃（独白）(CH02_0811)
-『I’m glad you enjoyed it, but…』
+『I mean, I'm happy he enjoyed it, but...』
 
 
 たかし
-『Hah, hah… I’m embarrassed… to have you do this to
-　me, Rino, but, you know… Um, …I’m really happy…』
+『Haah, haah... you know, it's kinda embarrassing
+　to say this but... the fact that you did this for
+　me... I'm, uhm... super happy...』
 
 ***Face_リノ_目驚き_口微笑_赤み07汗00
 
 暁 莉乃(CH02_0812)
-『Y-Yeah…』
+『Y-Yeah...』
 
 
 ***Face_リノ_目困りNL_口無表情_赤み07汗00
 
 暁 莉乃（独白）(CH02_0813)
-『Even though I’m finally getting wet… Taka-kun…
-you came already… It’s really starting to ache…』
+『Even though I was just starting to get wet...
+Taka-kun... already came... even though I was
+throbbing so much...』
 
 
 たかし
-『Rino…?』
+『Rino...?』
 
 ***Face_リノ_目困り_口微笑_赤み07汗00
 
 暁 莉乃(CH02_0814)
-『Ah… I-I’m… umm… happy that you’re feeling good.
-　…Hey, Taka-kun, you still want to do it, don’t
-　you…?』
+『Ah--... I... I'm glad that you.. uhm...
+　enjoyed... it. ...Hey, you wanna keep going too,
+　right...?』
 
 
 ***Face_リノ_目困りNL_口無表情_赤み07汗00
 
 暁 莉乃（独白）(CH02_0815)
-『I want to make it erect again…and connect with
-you this time… I want to be with the person I
-love… I can’t stand it. It doesn’t have to be shameful.』
+『I want to, get it hard again... and this time connect
+with him... I want to be one, with the man I love... I
+can't take it. I don't care if he thinks of me as a slut.』
 
 
 ***Face_リノ_目困り_口微笑_赤み07汗00
 
 暁 莉乃(CH02_0816)
-『I’ll take it easy next time, so… let’s feel good
-　together, okay…?』
+『I'll go slower this time so... let's feel, good
+　together...?』
 
 
 たかし
-『Ah, well…』
+『Ah, no, I mean...』
 
 暁 莉乃（独白）(CH02_0817)
-『It’s right after my ejaculation, so… stroke it
-slowly, gently… If I do this… I should be erect
-again…』
+『He just ejaculated so... slowly, gently... if I
+stroke it... like this... he should get hard
+again...』
 
 
 たかし
-『Hey, Rino… T-That tickles…! …Um, come on… You
-　don’t have to force yourself.』
+『Hey, Rino... i-it kinda tickles...! ...We uhm,
+　you know... we don't need to force it.』
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07汗00_アップ
 
 暁 莉乃(CH02_0818)
-『Huh? But I…』
+『Eh, but I...』
 
 
 たかし
-『Y-You did it with your mouth, and it felt really
-　good… Um, how can I say this…? Because I want to
-　take good care of you…』
+『I-It already felt fantastic, when you blew me
+　like that... so, uhm... I don't, want to rush
+　things between us...』
 
 ***Face_リノ_目悲しい・テレNL_口無表情_赤み06汗00
 
 暁 莉乃（独白）(CH02_0819)
-『Huh… I’m stimulating it properly… but it doesn’t
-get hard at all… …Could it be that it’s not
-getting hard anymore…?』
+『Huh... even though I'm stimulating it... it's not
+getting hard at all... wait, is it not gonna....?』
 
 
 ***Face_リノ_目困り_口微笑_赤み06汗00
 
 暁 莉乃(CH02_0820)
-『I-I see… …Th-Thank you…』
+『H-Huh... t-thanks...』
 
 
 たかし
-『When I let it out… I lost a lot of strength… …I’m
-　so happy… that you’re doing it for me, Rino…』
+『I kinda feel... really relaxed now... I'm
+　honestly... in bliss right now...』
 
 ***Face_リノ_目焦りCE_口微笑_赤み06汗00
 
 暁 莉乃(CH02_0821)
-『Y-Yeah… Um… well, umm……… get some rest…』
+『O-Okay... erhm... then, uhm... rest up...』
 
 
 たかし
-『Yeah, thanks… Really… I’m exhausted, this is
-　bad…』
+『Yeah, thanks... seriously... I feel super
+　sleepy...』
 
 ***Face_リノ_目困りCE_口つぐみ_赤み05汗00
 
 暁 莉乃（独白）(CH02_0822)
-『I can’t… be disappointed… Being disappointed… At
-this rate, I’ll end up with him…』
+『I shouldn't... feel disappointed... if I do...
+I'll be the same as him...』
 
 
 ***Face_リノ_目困り_口無表情_赤み05汗00
 
 暁 莉乃（独白）(CH02_0823)
-『This is… what it means to cherish each other and
-have sex with each other because we love each
-other…』
+『This is... what it means, for two people who love
+each other, to have sex, without rushing
+things...』
 
 
 ***Face_リノ_目焦りCE_口微笑_赤み05汗00
 
 暁 莉乃(CH02_0824)
-『Um, I also… um, want to take good care of you,
-　Taka-kun…』
+『Uhm, I want to... uhm, not rush things either
+　so...』
 
 
 たかし
-『…Zzz… Zzz…』
+『....Zzzz ....zzz...』
 
 ***Face_リノ_目困り_口への字_赤み05汗00
 
 暁 莉乃（独白）(CH02_0825)
-『Taka-kun… he’s already asleep…』
+『He's already... asleep...』
 
 
 ***Face_リノ_目困りNL_口無表情_赤み05汗00
 
 暁 莉乃
-『......』
+『..................』
 
 ***ST_リノ_B3_デフォ(着衣)_目困りCE_口無表情_赤み05汗00_アップ
 
 暁 莉乃（独白）(CH02_0826)
-『I’ve only ever experienced extreme things… so I
-didn’t know how normal sex works… But comparing
-them… I’m completely out of my mind…』
+『I've only ever experienced extreme stuff so... I
+don't know how normal sex is at all... but the fact
+that I'm comparing at all is... completely insane of me...』
 
 
 ***Face_リノ_目困りNL_口微笑_赤み06汗00
 
 暁 莉乃
-『......』
+『............』
 
 暁 莉乃（独白）(CH02_0827)
-『Taka-kun felt good like this… and being with him…
-makes me really happy…』
+『I was able to, make him feel good and... we get
+to be together like this... and I'm happy about
+that...』
 
 暁 莉乃
-『......』
+『..................』
 
 
 ***SE_引き戸_扉1_horror_game_door_sliding_wood_close_1_light_interior{100}[0](1)
@@ -904,69 +915,68 @@ makes me really happy…』
 ***SE_footsteps_leather_wood_hollow_walk_x8_loop_mono{100}[2](1)
 
 主人公
-『Rino-chan, what do you think?』
+『Rino-chan, how was it?』
 
 
 ***Face_リノ_目焦り_口無表情_赤み05汗00
 
 暁 莉乃(CH02_0828)
-『Huh…』
+『Eh...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目睨み_口無表情_赤み05汗00_アップ
 
 暁 莉乃(CH02_0829)
-『Wh-Why are you here… Wait… What did you come here
-　for?!』
+『Wha--, why are you... what did you come here
+　for!?』
 
 
 ***BGM_不穏な空気{100}
 
 主人公
-『I’m not worried about how you’re doing. I was
-　following you. You’re going off somewhere on your
-　own without saying anything.』
+『To see what was up. Since you left without saying
+　a word. Oh, I followed you here, so you know.』
 
 ***Face_リノ_目睨み_口への字_赤み05汗00
 
 暁 莉乃(CH02_0830)
-『…Could you have been watching from the start…?!』
+『....Were you watching this whole time...?!』
 
 
 主人公
-『I didn’t think I’d get to see a blowjob for my
-　boyfriend…』
+『Well, I certainly didn't think I'd catch a sight
+　of you blowing your boyfriend, that's for sure...』
 
 ***Face_リノ_目焦り_口無表情_赤み04汗00
 
 暁 莉乃(CH02_0831)
-『Gh…!』
+『--...!』
 
 
 主人公
-『It looks like she came right away, but… Well,
-　there’s no way a virgin can withstand such a
-　vulgar blowjob.』
+『Looks like he came right away too... well, no way
+　a virgin would be able to withstand a nasty
+　blowjob like that.』
 
 ***Face_リノ_目怒り_口怒り_赤み04汗00
 
 暁 莉乃(CH02_0832)
-『Wha…』
+『Wha--...』
 
 
 主人公
-『It was your first time, wasn’t it?』
+『It was probably your first time blowing him, no?』
 
 暁 莉乃(CH02_0833)
-『I-It’s got nothing to do with this! …Besides, I’m
-　resting because of my injury… Just get out of
-　here.』
+『W-What does it matter to you! ...Besides, he got
+　injured, and he's resting right now... just get
+　out.』
 
 
 主人公
-『Your boyfriend’s such a bad kid… Even if you
-　don’t know that Rino-chan’s a woman who gets
-　excited from semen and wants to do it over and over again…』
+『Still, lady luck really does have it out for him,
+　huh... Even if he doesn't know that you're the sort of
+　slut who gets going from the smell and taste of semen...』
 
 
 ***SE_footsteps_leather_wood_hollow_walk_x8_loop_mono{100}[0](1)
@@ -974,214 +984,213 @@ makes me really happy…』
 ***ST_リノ_B3_デフォ(着衣)_目怒り_口無表情_赤み04汗00_アップ
 
 暁 莉乃(CH02_0834)
-『…Don’t come this way!』
+『...Don't come any closer!』
 
 
 主人公
-『I can’t believe you fired so fast that you fell
-　asleep like that…』
+『He blew his load just like that, and drifted off
+　right to sleep~...』
 
 ***Face_リノ_目怒り_口怒り_赤み04汗00
 
 暁 莉乃(CH02_0835)
-『I told you not to come here…!』
+『I told you, don't come any closer...!』
 
 
 主人公
-『If you’re going to run away, why don’t you just
-　run away…? They’ve found out you’ve started to
-　have too much of a body again.』
+『You could just run, I'm not holding you down or
+　anything... It's clear as day that your body's
+　starting to go into heat again.』
 
 ***Face_リノ_目焦りCE_口無表情_赤み06汗00
 
 暁 莉乃(CH02_0836)
-『No… No… Ah, nn… D-Don’t touch me…!』
+『No... yah--... ah, nn... d-don't touch me...!』
 
 
 主人公
-『What kind of voice are you making when another
-　man touches you in front of your boyfriend?』
+『Moaning like that from another man's touch, right
+　in front of your boyfriend too.』
 
 ***Face_リノ_目怒り_口無表情_赤み06汗00
 
 暁 莉乃(CH02_0837)
-『Gh, like I said… You’re wrong…! Ngh, don’t touch
-　me!』
+『--! I told you... it's not like that...! Nn--,
+　don't touch me!』
 
 
 主人公
-『Come on, if you make too much noise, you’ll wake
-　your boyfriend up.』
+『C'mon, if you make too much noise, he's gonna get
+　up, you know?』
 
 ***ST_リノ_C2_デフォ(着衣)_目焦りCE_口への字_赤み07汗00_アップ
 
 暁 莉乃(CH02_0838)
-『N-No…!!』
+『N-No...!!』
 
 
 主人公
-『I know your body’s flushed, Uncle. That’s why I’m
-　toying with you to comfort you.』
+『I can tell just how much your body's burning up,
+　you know? That's why I'm trying to soothe it.』
 
 ***Face_リノ_目焦りCE_口無表情_赤み07汗00
 
 暁 莉乃(CH02_0839)
-『Mnah…gh…』
+『Nnah--....』
 
 
 主人公
-『Or are you excited to be touched right in front
-　of your boyfriend, and you’re making such
-　shameless noises?』
+『Or are you moaning so erotically because you're
+　getting off from being touched right in front of
+　your boyfriend?』
 
 ***Face_リノ_目悲しい・テレ_口無表情_赤み07汗00
 
 暁 莉乃(CH02_0840)
-『Huff, huff… No, no…』
+『Haah, haah--... no, no....』
 
 
 主人公
-『You couldn’t even make it to the second round…
-　Poor thing. You still haven’t sucked enough, have
-　you?』
+『He couldn't even go another round... I honestly
+　feel bad. You still haven't sucked on a cock
+　enough, no?』
 
 ***ST_リノ_A2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07汗00_アップ
 
 暁 莉乃(CH02_0841)
-『S-Stop it here…! Ah, ah… nn… I don’t want to… do
-　it with you anymore… Nnah… haah haah…』
+『N-Not here.... Ah, ah--... nn--... I don't, want
+　to... do it with you anymore... Nnah--... haah,
+　haah--...』
 
 
 主人公
-『You say that… Here, I’ll let you use it if you’d
-　like. Try sucking it.』
+『Saying that now... C'mon, I'll let you use it so
+　go ahead. Suck on it.』
 
 ***Face_リノ_目焦り_口無表情_赤み07汗00
 
 暁 莉乃(CH02_0842)
-『H-Hey…! …In a place like this…! Taka-kun… And I
-　don’t know when you’ll be back, Sensei…』
+『H-Hey...! ...Not here...! Taka-kun's gonna... the
+　nurse could come back anytime too...』
 
 
 主人公
-『Then wouldn’t it be better to pull out the ones
-　that are already like this?』
+『Then wouldn't it be best to wring my little man
+　out asap?』
 
 主人公
-『Or do you want to wake your boyfriend up in this
-　situation?』
+『Or do you want your boyfriend to wake up and see
+　all this?』
 
 ***Face_リノ_目焦り_口怒り_赤み07汗00
 
 暁 莉乃(CH02_0843)
-『…No… I-I get it, so…』
+『...No-... f-fine, I got it...--』
 
 
 主人公
-『Besides, I’ve come all this way. Maybe I’ll have
-　my boyfriend straddle him.』
+『Plus, this is a great opportunity. Straddle him
+　and do it.』
 
 ***Face_リノ_目焦り_口焦り_赤み07汗00
 
 暁 莉乃(CH02_0844)
-『Th-That’s not…!!』
+『A-As if...!!』
 
 
 主人公
-『You’re persistent. I don’t mind waking you up
-　right now and divulging our relationship until
-　now, you know?』
+『So obstinate. I don't mind waking him up right
+　here and spilling the beans, you know?』
 
 ***ST_リノ_C2_デフォ(着衣)_目焦り_口怒り_赤み07汗00_アップ
 
 暁 莉乃(CH02_0845)
-『Gh!! …I-I get it…! I get it, so hurry…』
+『--!!! ...F-Fine...! I got it, so quickly...』
 
 
 ***Cinema_CI02-MS-0401_10
 
 主人公
-『Hehehe, what a nice view. I’ll straddle my stupid
-　boyfriend and service another man’s thing…』
+『Fufufuh, what a view. Straddling your idiot
+　boyfriend while serving another man...』
 
 暁 莉乃(CH02_0846)
-『Sh-Shut up… You’re so hard in a situation like
-　this… Pervert… How much do I have to let out to
-　satisfy you…?』
+『S-Shut up... getting so hard in this situation...
+　pervert... just how much do you have to cum before
+　you're satisfied...』
 
 
 主人公
-『Rino-chan’s got a nasty body, so any guy would
-　end up like this… Or so my boyfriend said, but
-　only once.』
+『You've got a real slutty body, so any man would
+　end up like this in front of you... well, aside
+　from your one hit wonder of a boyfriend.』
 
 暁 莉乃(CH02_0847)
-『Khh… Th-Then let’s get started, okay?』
+『Kuh... t-then, I'm gonna start, okay?』
 
 
 主人公
-『Wait. First… Let’s see…』
+『Wait. Before that... let's see...』
 
 主人公
-『Could you kiss my uncle’s glans in front of my
-　beloved boyfriend?』
+『Won't you kiss my tip in front of your darling
+　boyfriend?』
 
 ***Cinema_CI02-MS-0401_11
 
 暁 莉乃(CH02_0848)
-『Th… That’s not…!』
+『T--... That's...!』
 
 
 主人公
-『......』
+『..................』
 
 ***Cinema_CI02-MS-0401_12
 
 暁 莉乃(CH02_0849)
-『……I-I understand…』
+『........F-Fine, fine...』
 
 
 暁 莉乃(CH02_0850)
-『Mm…』
+『Nn.....』
 
 
 ***Cinema_CI02-MS-0401_13
 
 暁 莉乃(CH02_0851)
-『Chu… chuu… chu…』
+『*Kiss*.... *smooch*.... *kiss*....』
 
 
 主人公
-『Your lips are so soft… It’s great. I’m so proud
-　to be able to greet my beloved cock.』
+『Your lips are so soft... and nice. What a proper
+　greeting to the cock you love. Good girl.』
 
 ***Cinema_CI02-MS-0401_14
 
 主人公
-『I-It wasn’t enough for you to hold it in your
-　mouth, was it? Feel free to suck on it however you
-　like.』
+『Come on then, you haven't had enough, right? Suck
+　on it as much as you want.』
 
 暁 莉乃(CH02_0852)
-『Nnh… It’s just to get this over with… I’m not
-　saying it’s not enough or anything…』
+『Nn--... I'm just gonna get this over with asap...
+　It's not like I'm unsatisfied or anything...』
 
 
 ***Cinema_CI02-MS-0401_15
 
 暁 莉乃(CH02_0853)
-『Haaah…』
+『Haah...』
 
 
 ***Cinema_CI02-MS-0401_16
 
 
 暁 莉乃(CH02_0854)
-『Njuuuu…』
+『*Shlurrrrp*...』
 
 
 主人公
-『Oh… Ohhhh…!』
+『Ogh--... oooh...!』
 
 
 ***Cinema_END

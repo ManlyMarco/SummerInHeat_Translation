@@ -10,120 +10,123 @@
 
 
 小鳥遊 乙羽（回想）(CH01_0063)
-『For as long as I can remember, Mom and Dad made
-me study as hard as I could.』
+『Ever since I could remember, my mom and dad had
+pushed me to study as much as I could.』
 
 
 小鳥遊 乙羽（回想）(CH01_0064)
-『I’ve naturally lost friends of my generation.』
+『Naturally, I never had any friends of my own
+age.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0065)
-『But the one who kept getting along with me was
-the older Rino-chan. She treated me like a real
-big sister.』
+『Still, there was an older girl who was always
+close to me, Rino-chan. She always treated me like
+a real sister.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目微笑_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0066)
-『And most importantly, I… had an uncle.』
+『And more than anyone else... I had my uncle.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0067)
-『My uncle would often play with me and talk to me
-without my mother’s notice.』
+『He always made time for me, sneaking around
+behind my mom's back, to play with me and talk to
+me.』
 
 
 小鳥遊 乙羽（回想）(CH01_0068)
-『Even when you’re crying after being scolded for
-trying harder to study, you say, ‘Otoha-chan’s
-working hard enough.’』
+『Everytime I cried because my parents scolded me
+for not studying hard enough, he consoled me,
+telling me that I was doing more than enough.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目微笑_口微笑_赤み03_中央
 
 小鳥遊 乙羽（回想）(CH01_0069)
-『He patted my head a lot and held me in his arms.』
+『He stroked my head lots, and hugged me lots too.』
 
 
 小鳥遊 乙羽（回想）(CH01_0070)
-『That made me very happy. You’re always on my
-side, and you’re so kind…』
+『It made me very happy. He was always so nice to
+me, always on my side...』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目大笑い_口微笑_赤み04_中央
 
 小鳥遊 乙羽（回想）(CH01_0071)
-『That’s the kind of uncle I loved.』
+『I loved him lots and lots.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0072)
-『But one day, due to our family’s studying for
-exams and Dad’s work, we ended up moving far
-away.』
+『But one day, because of my dad's work and
+highschool entrance exams, our family had to move
+far away.』
 
 
 小鳥遊 乙羽（回想）(CH01_0073)
-『I was so sad, so lonely… No matter how much you
-tried to convince me, I didn’t want to move, so I
-burst into tears.』
+『It made feel so sad, so lonely... no matter how
+much they tried to convince me, I hated the idea
+of it, and cried lots.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽（回想）(CH01_0074)
-『Because, just a little… I liked you as a man. …My
-little first love.』
+『Because, a part of me... loved my uncle, as a
+woman would. ...It was a little girl's first
+love.』
 
 
 小鳥遊 乙羽（回想）(CH01_0075)
-『The day I left town. I told her I’d definitely
-become her uncle’s wife. …It’s a little
-embarrassing to think about now.』
+『The day we left town, I told my uncle that I'd
+come back and marry him someday, no matter what.
+...It's a bit embarrassing to think back to that now.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目微笑_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0076)
-『Uncle didn’t seem particularly surprised by what
-I said… he just nodded and stroked my head with a
-smile, saying, ‘That’s right.’』
+『But he didn't really seem all that surprised at
+those words... he just stroked my head with a
+smile, just saying "sure".』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0077)
-『But it’s like they’re treating me like a kid, and
-I’m so sad… I was so strong that I said, ‘Promise
-me’.』
+『But it felt like he was treating me like a kid,
+and it made me so sad... that I begged him to
+promise me.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0078)
-『I was really happy when you said you’d promise me
-that… Thanks to that, I was able to leave town
-without worry.』
+『He said "Okay, I promise", which made me very
+happy... and it was thanks to that, that I was
+able to leave our hometown with peace of mind.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0079)
-『It’s been five years since then.』
+『It's been 5 years since then.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目微笑_口微笑_赤み02_中央
 
 小鳥遊 乙羽（回想）(CH01_0080)
-『I came back to this town and was reunited with my
-uncle…』
+『I've since come back to this town, and have
+managed to meet him once again...』
 
 
 ***BGM_FadeOut
@@ -131,7 +134,7 @@ uncle…』
 ***FadeIn_InSide_Black
 
 
-“Rino, this is a bad joke… please stop…”
+━━━
 
 ***ST_オトハ_A1_デフォ(着衣)_目微笑_口微笑_赤み02_画面外
 
@@ -143,437 +146,446 @@ uncle…』
 
 ***SELoop_se_cocicadasils2r_48khz_24bit_購入済み{45}
 
-Today, I saw a few students who probably came to
-school for club activities.
+Today, I saw a few students coming in, probably
+here for club activities.
 
-However, perhaps because she doesn’t know that I’ve
-changed from my predecessor, she looks at me
-suspiciously, bows her head slightly, and leaves quickly.
+But maybe because they didn't know that I was a
+replacement for the old man, they looked at me with
+eyes full of suspicion as they bowed and quickly left.
 
-I couldn’t blame her for being suspicious of me,
-but I sighed for a different reason.
+Even if it was only natural for them to do that,
+it made me sigh for a different reason.
 
-…There’s something I’ve been expecting from this
-boring job. It’s sneaking a peek at my favorite
-schoolgirl up close.
+...There was something I was hoping for from this
+boring job, you see. Specifically, it was to be able
+to sneak some views of the sort of school girls I liked.
 
-However, there weren’t many girls she liked.
+But it was hard to find any.
 
-There were some passing marks, even if it was just
-looking at her body, but that alone was a bit
-unwieldy to use as a joke.
+If you looked at just their bodies alone, there
+were a few passable ones but, that alone wasn't
+enough for me to fap to them to.
 
-Perhaps because I’ve watched too many porn, the
-image of a young schoolgirl ＝ a woman who makes me
-want to do it is ingrained in my head.
+Maybe I'd just watched too many pornos. The idea
+that young schoolgirls = women you'd want to fuck
+was deeply ingrained in my head.
 
-Now that I think about it, those two are reunited. Those
-two are on another level without favoritism. Besides, the
-rhythmic gymnastics club will be a feast for the eyes.
+Thinking about it, there were those two. They were in a
+league of their own, even without my bias. Plus, their
+rhythmic gymnastics would be a real sight for sore eyes.
 
-But I can’t go see her myself. There’s nothing I
-can do…
+But still, I couldn't exactly go waltzing in for a
+look. Think, what can I do...
 
-As that thought crossed my mind, I violently
-reattached the notice board that was about to come
-off.
+With thoughts like that in my head, I was in the
+middle of sticking a half peeled away poster back
+on the wall when--
 
 ？？？(CH01_0081)
-『Good afternoon, Uncle.』
+『Hello there, uncle.』
 
 
-I turned around in surprise at her lovely voice,
-which seemed to completely change the mood.
+I turned around in surprise at the adorable voice
+that seemed to have changed the very mood in the
+air.
 
 
 ***BGM_雲わすれの夏
 
 ***ST_オトハ_B1_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
-Otoha-chan was standing there. Then she hurriedly
-walked in our direction.
+Otoha-chan was standing right there. And seeing me
+turn around, she started cheerfully walking
+towards me.
 
 ***SE_ゆっくり足音_concrete normal_running_Mix
 
 主人公
-『Oh, you surprised me. Otoha-chan, huh? Hello.』
+『Oh, you surprised me there. Hello, Otoha-chan.』
 
 ***ST_オトハ_A2_デフォ(着衣)_目大笑い_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0082)
-『Uncle, thank you for your hard work again today.』
+『Uncle, thank you for your hard work.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目デフォ_口微笑_赤み03_中央
 
-I can’t help but stare at Otoha-chan with starved
-eyes. She’s always so lustrous and clean.
+I couldn't help but look at her with starved eyes.
+She always had the same glossy skin, and clean
+look to her.
 
-Maybe it’s because I pulled it out in a video that
-reminded me of Otoha-chan.
+And maybe because I'd just recently watched a
+porno featuring a woman that looked almost like
+her,
 
-Even the cleanliness that hung in the air felt
-like it was inviting a man.
+but even that 'neatness' of her style seemed to be
+tempting, luring me in.
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0083)
-『…Uncle?』
+『...Uncle?』
 
 
 主人公
-『Mm, ah, yeah. Come to think of it, today’s… Hey,
-　is this the day the supplementary lessons you
-　mentioned start?』
+『Nn, y-yeah. Come to think of it, today's... let's
+　see, your extra lessons start from today, do
+　they?』
 
-Flustered, I somehow managed to remember from my
-sloppy head and reply.
+Panicking, I somehow managed to dig something out
+from my lust addled brain as I replied.
 
 ***ST_オトハ_B3_デフォ(着衣)_目微笑_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0084)
-『No, that’s not yet done. Today, I have a final
-　meeting with my homeroom teacher.』
+『No, not yet. Today's our last meeting with my
+　homeroom teacher.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0085)
-『So I thought I’d come early and learn a little
-　about the school.』
+『So I thought that maybe I'd come a bit earlier,
+　just to familiarize myself with the school.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0086)
-『See… I don’t have a good sense of direction, so I
-　immediately got lost about new buildings and
-　stuff…』
+『I mean, you know... I'm really bad with
+　directions, so I always get lost easily...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0087)
-『But I’m happy to see you like this again.』
+『But I'm glad we got to meet again thanks to
+　that.』
 
 
-Suppressing my urge to stare at her more, I show
-her a fixed smile, and Otoha-chan returns a clear
-smile.
+As I suppressed my desire to stare at her more, I
+shot her a stiff smile and got a clear one from
+her in return.
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0088)
-『Oh, and Mister, um… I’m sorry…』
+『Ah, and uncle, uhm... I'm sorry...』
 
 
 主人公
-『…What’s gotten into you all of a sudden?』
+『...What for?』
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0089)
-『…You know, the other day… I couldn’t stop Mom’s
-　harsh words in the hallway.』
+『...The other day... I couldn't stop my mom at
+　all, from saying all those horrible things.』
 
 
 主人公
-『Hahaha… What, you’re still worried about that?』
+『Hahahah... what, are you still worried about
+　that?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0090)
-『Huh…』
+『Eh...』
 
 
 主人公
-『I’ve known Reiko-nee-san’s personality since
-　before Otoha-chan was born.』
+『She's my older sister, so I've been used to it
+　for longer than you've been alive, Otoha-chan.』
 
 主人公
-『More than anything, Otoha-chan hasn’t done
-　anything wrong, so there’s nothing to apologize
-　for.』
+『And more than anything else, was it you who did
+　it? No, right? So there's nothing for you to
+　apologize for.』
 
 主人公
-『You gave me kind words back then, and that calmed
-　my uncle down, so I almost forgot.』
+『You tried to apologize for your mom back then
+　too, and that helped me calm down, so I honestly
+　forgot about it.』
 
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0091)
-『…Uncle.』
+『...Uncle.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目大笑い_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0092)
-『Thank you. You really are kind, Uncle. You’ve
-　been kind to me ever since I was little.』
+『Thank you. You really are always so nice to me.
+　You've always been like that, since I was little.』
 
 
 主人公
-『Hahaha. You’re exaggerating. And Otoha-chan’s
-　always been a kind girl.』
+『Hahahah, you're making a big deal out of it.
+　You've always been a nice girl too, so it's only
+　natural.』
 
 小鳥遊 乙羽(CH01_0093)
-『Hehe, thank you.』
+『Fufuh, thank you.』
 
 
-As we exchange words, my eyes are drawn to her
-body. She doesn’t seem to realize her true
-intentions, so I don’t think she cares.
+As we talked, my eyes inevitably went down to her
+body. Even now she hadn't noticed, so it was
+probably fine.
 
 主人公
-『I thought about it the day we first met, but you
-　really did grow up a lot while I wasn’t looking,
-　and you’ve changed.』
+『I thought as much when I saw you back then, but
+　you really did grow and change a whole lot in the
+　past few years.』
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0094)
-『Really? Their heights and stuff are completely
-　different… but their contents haven’t really changed…
-　and they’re still fawning over you like this right away.』
+『You think? I've grown bigger and stuff for sure
+　but... I don't think I'm all that different
+　inside... even now, I can't help but cling to you, uncle.』
 
 
 主人公
-『You’re a cute Otoha-chan now and in the past, so
-　you’re welcome to be my uncle.』
+『You were and still are adorable, so I don't mind
+　at all.』
 
-If she’s a pure niece who gets attached to me
-through kindness alone, I welcome her in more ways
-than one.
+Especially when all I had to do was be nice to
+her.
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽(CH01_0095)
-『Heheh. You complimented me so much that I’m
-　starting to get nervous.』
+『Fufuh, you're praising me too much, uncle. I'm
+　getting nervous now.』
 
 
 主人公
-『Seeing Otoha-chan so nervous reminds me of the
-　day we parted ways.』
+『You know, that reminds me. The last time I
+　remember you being seriously nervous was back when
+　you left.』
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0096)
-『The day we parted ways… Ah, five years ago…』
+『The day I left?... Ah, 5 years ago...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽(CH01_0097)
-『D-Does that mean… I cried so much… …Could it be…
-　y-you’re talking about the promise…?』
+『A-Are you talking about... how I cried really
+　hard... or maybe... a-about that... promise...?』
 
 
-Ah, now that she mentions it… I think she said
-something like that.
+Aah, come to think of it... she did say something
+like that, didn't she?
 
-Now that she mentions it, I remember.
+I'm remembering it now that she brought it up.
 
-What she told me that day… was a promise…?
+A promise, huh... what was it...?
 
 主人公
-『A promise…? What kind of promise?』
+『A promise...? What sort of promise was it?』
 
-As I asked, I tried to remember what she had said
-to me that day, too.
+As I asked her, I was myself trying to remember
+what it was she said that day.
 
-And then, vaguely, I remembered.
+And though vague, I remembered something.
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0098)
-『Eh… ah… umm…』
+『Eh... ah.. erhm....』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口困り_赤み06_中央
 
 小鳥遊 乙羽(CH01_0099)
-『Uh, umm… n-nothing. Ngh… D-Don’t worry about it!』
+『E-Erhm... n-nothing... d-don't worry about it! It
+　was nothing!』
 
 
-…Judging by her reaction, she was probably
-referring to that promise.
+...Looking at her reaction, it was probably "that
+kind" of a promise.
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み05_中央
 
 小鳥遊 乙羽
-『...』
+『............』
 
-But I decided to pretend I’d forgotten about it
-for now. Even if I said I remembered, it wasn’t
-something I could accomplish.
+But for now, let's pretend that I forgot about it.
+It's not like it could ever come true.
 
-I couldn’t expect anything more than a feast for
-the eyes.
+I can't hope for more than eye-candy here.
 
 主人公
-『Sorry. There’s been a lot I can’t remember right
-　away lately. You’re getting old, Uncle, hahaha.』
+『Sorry, I've been forgetting a lot of things
+　lately. I must be getting old, hahahah.』
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0100)
-『N-No! Uncle, you’re still totally young… and… so…
-　umm, umm…』
+『N-Not at all! You're still super young, uncle...
+　and not to mention... you know... uhm, erhmm...』
 
 
 小鳥遊 乙羽
-『......』
+『..................』
 
-I wonder what she’s thinking.
+Just what could she be thinking right now?
 
-She fell silent, as if brooding over the words of
-a child five years ago. I couldn’t help but admire
-Otoha-chan’s innocence.
+She brought up her naive words from 5 years ago,
+and was almost brooding over them. I couldn't help
+but be amazed at her innocence.
 
-It’d be a waste to hurt her and distance myself
-from her because she’s so innocent. I’ll follow
-up.
+It'd be a shame to hurt her and distance myself
+from her just because she's still naive though. So
+I'll support her instead.
 
 主人公
-『What is it? Don’t worry about it. Just tell your
-　uncle anything you want, like you used to.』
+『What is it? Don't mind it, feel free to tell me
+　anything, like you used to.』
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 小鳥遊 乙羽(CH01_0101)
-『Then, um… umm…』
+『Then, uhm... erhm....』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0102)
-『Um… O-Oji-san, are you… the woman you’re dating
-　right now… or something…?』
+『Uhm--! ...U-Uncle, is there anyone that you're...
+　dating... right now...?』
 
 
 主人公
-『Oh, that’s sudden again. That’s… What’s wrong?』
+『Oh? Another one out of the blue there. Let's
+　see... why do you want to know that?』
 
-I asked slowly, hiding my surprise at the
+I slowly asked her, hiding my own surprise at the
 unexpected question.
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0103)
-『Well… umm… Mom doesn’t talk about her uncle much…
-　so maybe she’s already married or something…』
+『That's... uhm... mom uh, never really talks about
+　you so... I was wondering if you were already
+　married or...』
 
 
 小鳥遊 乙羽(CH01_0104)
-『I-I’m not just curious about whether you’re
-　married or not. I’m just wondering how your
-　uncle’s been doing lately.』
+『T-That's not to say that I only want to know if
+　you're married, or not. I just, I want to know how
+　things are going for you, uncle.』
 
 
-It seems she’s noticed a certain amount of color
-along with her well-developed body.
+Looks like her mind wasn't far behind her growing
+body, considering how sexually aware she was
+getting.
 
-『It was completely different from the sarcasm
-　Reiko-nee-san gave off when she said she didn’t
-　even have a partner.』
+『It was completely different from the bitter and
+　sarcastic "What, still no girlfriend?" that my
+　sister spat out every now and then.』
 
-It’s so trivial that it’s blinding, but at the
-same time, I can’t help but get horny.
+Though I was almost dazzled by her innocence, I
+couldn't help but start feeling horny too.
 
 主人公
-『Hahaha, so Otoha-chan’s getting old enough to be
-　curious about something like that. …Marriage, huh?
-　I dunno.』
+『Hahahah, I see you're getting to that age
+　yourself, huh? ...Marriage, huh? I do wonder.』
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0105)
-『Seriously, I’m sorry for asking something so
-　weird all of a sudden!』
+『Really, I'm sorry for asking something so weird
+　out of the blue!』
 
 
 主人公
-『It’s fine. I wonder if Otoha-chan moved here from
-　her previous school and got separated from the
-　person she likes?』
+『It's fine, it's fine. Say, Otoha-chan, did moving
+　back here mean splitting up with someone you liked
+　back there?』
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03_中央
 
 小鳥遊 乙羽(CH01_0106)
-『N-No… There’s no one like that. I’ve been
-　studying all the time over there, too, and
-　everyone felt that way.』
+『N-No... there's nobody like that. Everyone over
+　there was always just studying, so nobody had
+　time.』
 
 
 主人公
-『I see, I see. You’ve been working hard over
-　there, too.』
+『I see, I see. You were working hard over there
+　too, huh?』
 
-The word “virgin as she looks” came to mind.
+The words "virgin as she looked" popped up in my
+head.
 
-…It stirred up intense carnal desire. She wanted
-to defile such an innocent young girl with her own
-hands.
+...And they stirred up my lust like nothing else.
+I couldn't help but want to defile a girl this
+innocent, with my own two hands.
 
-I don’t think I’m indiscriminate enough to feel this
-way about my niece… but it’s precisely because she’s
-my nieces that my sense of immorality is aroused.
+Even I'm not so far gone to think nothing of
+thinking this way about my own niece but... that's
+exactly why it felt immorally arousing.
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0107)
-『But I did my best, but as you know…』
+『I did, a lot. But as you know...』
 
 
 主人公
-『Don’t worry. Otoha-chan’s been working hard
-　enough, both now and in the past. I really do
-　think she’s amazing. She’s my proud niece.』
+『It's fine. You've always worked plenty hard, and
+　I know that. I think you're amazing. I'm proud of
+　you.』
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0108)
-『Uncle…』
+『Uncle...』
 
 
 ***SE_0003
 
-The sound of the clock breaking rang out loudly in
-the quiet hallway.
+A loud gong from the school clock resounded out
+through the quiet hallway, notifying us of the
+passage of time.
 
 ***SE_END
 
-Just like I’m working, school is always working
-for supplementary classes and club activities even
-during summer vacation.
+Just as I was on the clock still, the school was
+always alive even through the summer, whether for
+club activities or for extra classes.
 
 ***ST_オトハ_B1_デフォ(着衣)_目驚き_口焦り_赤み02_中央
 
 小鳥遊 乙羽(CH01_0109)
-『Huh? Wait, what time is it?!』
+『Eh--, what time is it right now!?』
 
 
 ***ST_オトハ_B1_デフォ(着衣)_目驚き_口無表情_赤み02_中央
 
 主人公
-『You’re right… Let’s see, ahh… It’s almost one
-　o’clock.』
+『Let's see... hmm... almost 1, I'd say.』
 
 ***ST_オトハ_A1_デフォ(着衣)_目焦り_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0110)
-『Wah! I-I’m sorry. I have to go now! I’m sure the
-　teacher and mother are waiting for me!』
+『Wah--! I-I'm sorry, I gotta go! I'm sure both mom
+　and the teacher are waiting for me!』
 
 
 主人公
-『Yeah. Go ahead.』
+『Yeah, go on, Otoha-chan.』
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0111)
-『Uncle, see you later!』
+『See you later, uncle!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み02_画面外
@@ -582,17 +594,19 @@ during summer vacation.
 ***SE_走り去る足音_concrete normal_running_Mix
 
 
-As I watched her run off, I pondered the wicked
-feelings I’d been holding back.
+As I watched her run off, I reflected over the
+evil feelings I'd been suppressing through our
+chat.
 
-Otoha-chan doesn’t know men in every sense of the
-word. She’s completely defenseless.
+Otoha-chan knows too little about men, in every
+sense of the word. "Defenseless" doesn't begin to
+describe her.
 
 ***BGM_FadeOut
 
-I won’t let my carnal desires, which I’ve
-indiscriminately embraced, show… I’ll stealthily
-and thoroughly rape her.
+I'll have to make sure to keep this lust hidden
+deep inside... as I secretly watch her to my
+heart's content.
 
 ***FadeIn_InSide_Black
 
@@ -610,14 +624,14 @@ and thoroughly rape her.
 
 
 小鳥遊 乙羽(CH01_0112)
-『Huff… Huff… Fhh… huff…』
+『Haah... haah... fuuh... haah...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03_中央
 
 小鳥遊 乙羽(CH01_0113)
-『I lied and ran away… There’s still a little time
-　before I have something to do…』
+『I lied to him, and ran away... even though
+　there's still, some time until the meeting...』
 
 
 ***BGM_君と穏やかな午後
@@ -625,73 +639,72 @@ and thoroughly rape her.
 ***ST_オトハ_B3_デフォ(着衣)_目微笑_口無表情_赤み03_中央
 
 小鳥遊 乙羽(CH01_0114)
-『Uncle, you really are kind…』
+『He really is just so nice to me...』
 
 
 小鳥遊 乙羽(CH01_0115)
-『I could’ve just talked to him normally… I’ve only
-　asked him weird things… Uncle, you were in
-　trouble, weren’t you?』
+『Even though we finally got to chat normally... I
+　ended up asking just weird stuff... I bet he was
+　really bothered.』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0116)
-『Uncle… Did you really forget that promise…?』
+『Uncle... did you really forget that promise...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み05_中央
 
 小鳥遊 乙羽(CH01_0117)
-『Make me your bride…』
+『To make me your wife...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0118)
-『…Man, I was so small…』
+『...I really was little back then, so no
+　wonder...』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0119)
-『I’ve been dodged as to whether I have a
-　girlfriend or not.』
+『He dodged the question about his girlfriend too.』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0120)
-『Uncle… If you’re not going to say it, does that
-　mean you have a girlfriend…? I wonder if you
-　don’t…』
+『Uncle... does the fact that you didn't tell me,
+　mean that you do have one... or that you don't...』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽(CH01_0121)
-『…Sigh. If I did… I wonder what kind of person the
-　woman your uncle likes is…』
+『...Haah. If he does... just what sort of woman
+　would it be anyway, the sort that uncle likes...』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み02_中央
 
 小鳥遊 乙羽（独白）(CH01_0122)
-『Your type of hair, your height, your breast size…
-Hmm, I don’t know what you like at all.』
+『Her hairstyle, her height... her chest size....
+nnn, I don't know a single thing about what he
+likes.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み02_中央
 
 小鳥遊 乙羽（独白）(CH01_0123)
-『Like going on dates… Oh yeah, in this town, maybe
-it’s in front of the station…? Or maybe we’ll spend
-time together in the old man’s room or something.』
+『Like what sort of dates... oh yeah, would the
+train station be a good spot for it...? Or maybe
+we could just hang out in his room too.』
 
 
 小鳥遊 乙羽（独白）(CH01_0124)
-『Going out with an old man as a man and going on a
-date, huh…』
+『A date with uncle, as a man and woman, huh...』
 
 
 ***SELoop_Heart beating_Mix
@@ -699,131 +712,133 @@ date, huh…』
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_0125)
-『My chest tightens… and yet, my heart is
+『I can feel my chest tightening... and my heart
 pounding.』
 
 
 小鳥遊 乙羽（独白）(CH01_0126)
-『I’ve never really thought about this…』
+『Even though I've never really thought about this
+stuff before...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口無表情_赤み04_中央
 
 小鳥遊 乙羽(CH01_0127)
-『If we’re going out… we’ll be holding hands,
-　right?』
+『If we were to go out... we'd hold hands and
+　stuff, right?』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_0128)
-『If it’s just imagining a little…it’s fine.』
+『Just imagining it for a bit... shouldn't hurt,
+right?』
 
 
 小鳥遊 乙羽(CH01_0129)
-『It doesn’t feel like you’ve held hands with me in
-　the past… As a man… The hand of the woman I love…』
+『Not like the way he used to hold my hand back
+　then... but as a man... holding the hand of the
+　woman he loves...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_中央
 
 小鳥遊 乙羽
-『......』
+『...............』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_中央
 
 小鳥遊 乙羽(CH01_0130)
-『…She’s probably squeezing my hand…』
+『...He'd probably, squeeze it tight...』
 
 
 小鳥遊 乙羽(CH01_0131)
-『It’s like something out of a manga… Hmm, but
-　people older than you wouldn’t do that… or
-　something like that?』
+『Like in a manga... Nnn, but an older man like him
+　wouldn't do that... maybe?』
 
 
 小鳥遊 乙羽(CH01_0132)
-『Haaah…』
+『Haah....』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0133)
-『My face is hot. My heart’s pounding so hard it
-feels good. Something even further than the fact
-that you held my hand in the past…』
+『My face is all hot. My heart keeps pounding, it
+feels so nice. But beyond just holding hands,
+I...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽（独白）(CH01_0134)
-『That said, I don’t have any experience, so the
-only thing I can think of clearly is the warmth of
-your hand.』
+『In the end, I still have no experience with
+anything, so the only thing I can imagine is his
+warm hand.』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_0135)
-『That’s all I know, so it’s only natural, but… …I
-feel kind of lonely.』
+『That's the only thing I know, so it's just
+natural but... I don't like it. Now I feel
+lonely.』
 
 
 小鳥遊 乙羽(CH01_0136)
-『I’ve never fallen in love with anyone other than
-　my uncle, and I’d never dated a guy before, so I
-　don’t get it at all.』
+『I've never been in love with anyone else, and
+　I've never dated anyone, so I don't know at all.』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 小鳥遊 乙羽(CH01_0137)
-『But, after all… if it’s her… we’d hug each other…
-　and kiss… and stuff… right?』
+『But, if I really was... his girlfriend... he'd
+　hug me... and... kiss... me, right?』
 
 
 小鳥遊 乙羽(CH01_0138)
-『I wonder what it’d feel like if Uncle hugged
-　me…?』
+『I wonder what it'd feel like, to be hugged by
+　uncle like that...?』
 
 
 小鳥遊 乙羽(CH01_0139)
-『I wonder… what kisses actually feel like… If it’s
-　an uncle…』
+『Just what does... kissing even feel like... if
+　uncle and I ki...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽
-『......』
+『..................』
 
 
 ***ST_オトハ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0140)
-『I’m starting to get really excited… I need to
-　calm down… I said I wanted to be a bride.』
+『Now my heart is, really pounding... I gotta calm
+　down... I said all that about being his wife, and
+　just this is making me...』
 
 
 小鳥遊 乙羽（独白）(CH01_0141)
-『What’s more, I just confirmed that promise…
-Marriage means you’re more than her…』
+『Not to mention, that promise... being a wife is
+way higher than being a girlfriend...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0142)
-『More than your girlfriend… Which means you’ll do
-　more than kissing… right?』
+『So we'd do something more than... just kissing...
+　wouldn't, we?』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目驚き_口困り_赤み07_中央
 
 小鳥遊 乙羽(CH01_0143)
-『Wah-wah, I’m starting to feel really
-　embarrassed…! I can’t stop fantasizing about it if
-　I’m alone!』
+『Wawah--, so embarrassing...! At this rate, I
+　won't be able to stop daydreaming!』
 
 
 ***SELoop_FadeOut
@@ -831,28 +846,29 @@ Marriage means you’re more than her…』
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口への字_赤み07_中央
 
 小鳥遊 乙羽(CH01_0144)
-『Don’t think about this… It’s a little early, but
-　you can go to the staff room now.』
+『I need to stop... it's a bit early, but it
+　shouldn't be a problem to head to the staff room
+　already, right?』
 
 
 ***ST_オトハ_B2_デフォ(着衣)_目困り_口無表情_赤み05_中央
 
 小鳥遊 乙羽(CH01_0145)
-『Um…』
+『Erhm...』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口困り_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0146)
-『Whoa, it’s already this late…! I’m really going
-to be late!』
+『Uwah, it's already...! I really will be late at
+this rate!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0147)
-『If I say I ran a little, I can hide the fact that
-my face is red.』
+『If I say that I ran all the way there, they won't
+think too much about how red my face is, right?』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_画面外

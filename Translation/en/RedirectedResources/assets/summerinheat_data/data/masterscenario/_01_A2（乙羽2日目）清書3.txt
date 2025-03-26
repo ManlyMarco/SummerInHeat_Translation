@@ -7,90 +7,88 @@
 ***BGround_BG06_00
 
 
-Today’s heat was even more abnormal than
-yesterday.
+Today's heat was incomparable to yesterday's.
 
-I stopped weeding the backyard and changed my
-schedule to cleaning the hallway to avoid the
-blazing sun.
+I gave up on weeding the ground, and instead
+pushed hallway cleaning up the schedule to avoid
+the sun.
 
-Once it’s clean enough, I take a breath and lean
-against the wall. Just then, I hear footsteps from
-somewhere.
+Having cleaned up a fair bit, I leaned against the
+wall to take a breather. Just then, I heard
+footsteps.
 
 
 ***SE_走り去る足音_concrete normal_running_mix{50}
 
-The soft, distant pattering of footsteps could be
-heard from the floor right next to the wall she
-was leaning against.
+The small and somewhat distant footsteps seemed to
+have been coming from the above the staircase
+right next to the wall I was leaning against.
 
-The sound of her footsteps as she moves around
-restlessly makes me think of her as a student, not
-a teacher.
+The restless pitter patter of the steps sounded
+more like that of a student rather than a teacher.
 
 ？？？
-『……, …, …』
+『..., ......, .....』
 
-I hear a girl’s murmured voice. I wonder who it
-is…?
+I heard the sound of a girl's whispers. Just who
+could it be...?
 
 ***BGround_BG27_01
 
 
 ？？？(CH01_0148)
-『…But she’s not here, so what should I do? I
-　wonder where the classroom is… Ugh… Maybe she was
-　one year younger than me, not on this floor…』
+『...obody's here, what do I do? Where's the
+　classroom... Uuu... am I on the wrong floor...』
 
 
-Is that… Otoha-chan?
+That voice... is it Otoha-chan?
 
-Looks like she’s hesitating. Should I come up here
-and call out to her? Or…
+Seems like she's lost. Should I go and call out to
+her? Or maybe...
 
-The moment I think that, the footsteps coming down
-toward me grow louder.
+The moment I had that thought, the footsteps
+became louder, in my direction.
 
 
 ***SE_ゆっくり足音_concrete normal_running_Mix{60}
 
 
-And then, from the stairs a little higher than the
-landing, I suddenly saw her head.
+Then I saw a head pop out, a few steps above the
+landing.
 
 
 ***ST_オトハ_C2_デフォ(着衣)_目驚き_口困り_赤み02_中央
 
 小鳥遊 乙羽(CH01_0149)
-『Ah!』
+『Ah--』
 
 
-When our eyes met, she immediately smiled after
-being surprised.
+When our eyes met, she did a double take from
+surprise, before smiling back.
 
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み02_中央
 
 小鳥遊 乙羽(CH01_0150)
-『Mister!』
+『Uncle!』
 
 
-Waving her hand, she looked at me and ran down
-several steps.
+As she waved at me, she ran down the steps,
+without looking away.
 
 
 ***SE_ゆっくり足音_concrete normal_running_Mix{100}
 
 
-Then she reached the landing and began descending
-the stairs to the floor I was on again without
-stopping.
+Reaching the landing, she started going down the
+steps towards me without stopping for even a
+moment.
 
 主人公
-『Oh, Otoha-chan. In such a rare place.』
+『Oh--, Otoha-chan. Didn't expect to see you here.』
 
-She must be really happy to have found me, because
-she runs even faster as she looks at me.
+She must have been very happy to see me, as she
+ran down even faster, while still staring right at
+my face.
 
 
 ***SE_走り去る足音_concrete normal_running_mix{100}
@@ -99,20 +97,20 @@ she runs even faster as she looks at me.
 ***ST_オトハ_B3_デフォ(着衣)_目大笑_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_0151)
-『It’s a coincidence to see you here! Hehe, I’m so
-　happy…』
+『What a coincidence, really! Fufuh--, I'm so
+　ha...--!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口驚き_赤み02_中央
 
-Ah… There were still more than a few steps left,
-but I could feel Otoha-chan’s stance slipping
-forward.
+Ah... there were still a few steps to go, but I
+could see her posture collapsing forwards in
+realtime.
 
 ***SE_つまずくBody armor 1
 
 主人公
-『Watch out…!!』
+『Hey--...!!』
 
 
 ***FadeIn_InSide_Black　
@@ -125,283 +123,288 @@ forward.
 
 
 主人公
-『O-Otoha-chan, are you okay…?』
+『O-Otoha-chan, are you okay...?』
 
 
 ***SE_Heart beating_Mix
-My heart was still racing.
+My heart was still pounding from the adrenaline.
 
-…Did she catch Otoha-chan?
+...Did I manage to catch her?
 
 小鳥遊 乙羽(CH01_0152)
-『O-ji…san…』
+『Un... cle...』
 
 
-Ah…
+Aah...
 
 
 ***FadeOut_InSide_Black　
 ***Cinema_CI01-OP-0201_00
 
-Otoha-chan was right in front of me with a stiff
-expression… which meant she was fine…
+She was there, right in front of my face,
+petrified... so she was alright, phew...
 
 小鳥遊 乙羽(CH01_0153)
-『M-Mister, I…』
+『U--, Uncle, I--...』
 
 
 主人公
-『…Are you hurt? Owowowow…』
+『...Are you hurt? Tsss...』
 
-I try to wrap my arms around her shoulders, but I
-lose to the force of her sudden jump…
+I'd tried to catch her by her shoulders but, since
+it was so sudden, her flying momentum managed to
+topple me too...
 
-Unable to keep my balance, I fell on my butt.
+and so I lost my balance, and fell on my ass.
 
 小鳥遊 乙羽(CH01_0154)
-『A-Are you okay…?』
+『A-Are you okaay....?』
 
 
-…That’s good. But still… Otoha-chan’s really
-close…
+...Great. Still... she's really close....
 
-A woman’s… or rather, a fainter, sweeter, girlish
-smell. My nose twitches on its own, trying to
+I smelt a woman's... no, a faintly sweet, girlish
+scent. My nose worked overtime on its own to
 inhale it.
 
-Ah, the smell of a woman I haven’t smelled in a
-long time… No, not only has it been a while, but
-it’s the first time I’ve smelled it.
+Aah, it's been a while since I've gotten a whiff
+of a woman... No, it was so exquisite, it felt
+like my first time.
 
-Moreover, because we were pressed up against each
-other, I could clearly feel the warmth of her warm
-body.
+And what's more, because we were so close, I could
+even feel the warmth of the body it came from.
 
 
 ***Cinema_CI01-OP-0201_01
 
 
 小鳥遊 乙羽(CH01_0155)
-『I-I’m sorry! Does it hurt, Uncle? Are you okay?』
+『I-I'm sorry! Uncle, does it hurt? Are you okay?』
 
 
 主人公
-『Y-Yeah… I’m fine. I fell over like I was falling
-　on my butt, so it’s no big deal.』
+『Y-Yeah... I'm fine. I fell on my butt so it
+　wasn't that bad.』
 
-It’s tingling, but it really shouldn’t be a big
-deal.
+It was still tingling, but it really shouldn't be
+anything that serious.
 
-More importantly, the pleasant smell from
-Otoha-chan is making me intensely horny.
+More importantly, the sweet scent coming from her
+was making me ridiculously horny.
 
-I’ll wake up Otoha-chan and wake up too.
+I needed to get her off me, and then get up
+myself.
 
-If I don’t, I’ll definitely get an erection. The
-girl I’ve turned into a freak is in my arms. It’d
-be weirder if I didn’t.
+Else, I'd definitely end up popping a chub. The
+girl I wanked to just the other day was in my
+arms. It'd be weirder if I didn't get hard.
 
-Hm…?
+Nn...?
 
-My hand is touching…
+Right now, my hands were...
 
 ***Cinema_CI01-OP-0201_02
 
-…Otoha-chan’s boobs.
+...right on her boobs.
 
 主人公
-『…?!』
+『...?!』
 
 ***Cinema_CI01-OP-0201_03
 
 
 小鳥遊 乙羽(CH01_0156)
-『Ah, s-sorry, Uncle. It’s heavy, isn’t it?』
+『U-U-Uncle, I'm sorry. I must be heavy.』
 
 
-No, that’s not it. What’s pressing against my hand
-right now… is this girl’s breasts, which are close
-enough for me to feel her breath.
+No, that wasn't it. Right now, my hands were... being
+pressed thoroughly against the chest of this girl,
+who was so close to me that I could feel her breath.
 
-It’s probably through her bra… but I can tell it’s
-soft and firm.
+Even though it was through a bra... I could still
+feel just how soft, yet firm they were.
 
 ***Cinema_CI01-OP-0201_04
 
 
-I couldn’t help but put strength into my fingers.
+My fingers moved on their own.
 
-Yeah… It’s exactly what I imagined it would be.
+Aah... yep, it was exactly the sensation I
+expected.
 
 ***Cinema_CI01-OP-0201_05
 
 
 小鳥遊 乙羽(CH01_0157)
-『I-It’s so modern…!!』
+『I-I'll move right away--...!!』
 
 
 ***Cinema_CI01-OP-0201_06
 
 
-Otoha-chan seems to have realized that we’re too
-close, too, but if she moves carelessly, she’ll
-never get up.
+Otoha-chan seemed to have noticed herself, that we
+were too close, but if she keeps up that restless
+fumbling, she'll never manage to get up.
 
-Her still-young, still-growing breasts hit the
-palm of my hand, and she moved in accordance with
-her fleshiness.
+Her youthful, still developing chest was pushing
+itself into my palms, moving and squeezing itself
+softly.
 
-This is… pretty bad… The urge to blow everything
-away and thrust my cock into her is building up.
+This is... not good.... the urge to just throw
+caution to the wind and stick my dick in was
+slowly overtaking me.
 
-A child who was just raping her, her own niece…
-That wasn’t the case right now. She really was
-looking at her like this up close.
+She was my niece, a girl I'd only oggled until
+now... But now, I wanted to hold her, fuck her
+while looking at her up close.
 
-I want to rape her. I want sex with this girl. I need
-to teach her how to be a man. I also want to make her
-blush even more and make her climax with my own hands.
+I wanted to teach her what a man was. I wanted to
+make her blush, and make her climax with my own
+hands.
 
-I wonder what kind of voice it’ll make. I wonder
-if it’s as loud as the one I’m hearing right now.
-How will it sound at first…?
+Just what sort of moans would she make? Would they
+be high pitched like her yelps just now, or...
 
 ***Cinema_CI01-OP-0201_07
 
 
 小鳥遊 乙羽(CH01_0158)
-『Ah… Mmm…』
+『Ah--... nnn...』
 
 
-And with Otoha-chan gasping quietly, I finally
-came to my senses.
+But as I heard her trying to hold in her gasps, I
+came back to my senses.
 
 ***Cinema_CI01-OP-0201_08
 
 
 主人公
-『I-I’ll get up.』
+『I-I'll get up and out, sec.』
 
-I try to act calm, but I talk too fast. My head
-feels like it’s going to burst with lust for
-Otoha-chan’s body.
+I tried to stay calm, but my words came out rapid
+fire. In my head, there was nothing but the desire
+to devour her.
 
-All at once, the lust I had been holding back
-became unstoppable. My breathing became ragged.
+The lust I'd been holding in exploded out, no
+longer under my control. My breathing became
+rough.
 
-I want to keep touching her like this. I wanna rub
-her more. The sensation of her size is so raw and
-lewd.
+I wanted to keep touching her more. I wanted to
+rub them. The feeling of them, befitting their
+size, felt obscenely raw in my palms.
 
-Underneath these clothes… they’re covered in fine,
-smooth skin, just like the skin I can see.
+Buried under her clothes... was I'm sure the same
+fine and smooth skin, as she had everywhere else.
 
-And the protrusion in the middle of it was…
+And at the very centers of her mounds...
 
 
 ***Cinema_CI01-OP-0201_09
 
 
 小鳥遊 乙羽(CH01_0159)
-『No… Nnh, I-I’ll get out of the way…』
+『Yah--... nn--, n-no, I'll--...』
 
 
-I couldn’t help but rub her lightly. But she
-probably didn’t find out on purpose.
+I couldn't help give them a squeeze. Not like
+she'd realize that I did it on purpose.
 
 
 ***Cinema_CI01-OP-0201_10
 
 
-I want to hear more. I want her to touch me. I
-need to make her cry out. This is a good
-opportunity. This might never happen again.
+I wanted to hear her more. I wanted to touch her
+more. I wanted to make her moan. An opportunity
+like this might never come again.
 
 主人公
-『Otoha-chan…』
+『Otoha-chan...』
 
-I want to enjoy the sensation just one more time.
+I wanted to enjoy the sensation, just one more
+time.
 
-I move my fingers slightly in time with her
-breathing so she won’t notice.
+I moved my fingers in time with our breathing, so
+that she wouldn't notice.
 
 小鳥遊 乙羽(CH01_0160)
-『Wah… What should I do?』
+『Wah--... what do I--』
 
 
-Otoha-chan’s face is getting redder and redder.
-She’s so close… It’s unbearably arousing.
+Her face was getting redder and redder. From this
+up close... it was ridiculously provocative.
 
-Her breathing is ragged at the same time. It feels
-like the foreplay of sex itself.
+Her breathing was getting rough too. It almost
+felt like foreplay.
 
 主人公
-『Otoha-chan, um…』
+『Otoha-chan, erhm...』
 
-My fingers, my hands are happy. …I can’t help but
-want to rape her. I want to turn the tables and
-pin her down.
+My fingers, my hands were in paradise. ...I
+couldn't help but want to ravish her. I wanted to
+turn her over, pin her down and do her like this.
 
-That’s right. Pushing her down, holding her down
-violently, spreading her legs…
+Yes, push her down, hold her down under me, and
+spread her legs, and...
 
 
 ***Cinema_CI01-OP-0201_11
 
 
 小鳥遊 乙羽(CH01_0161)
-『M-Mister… um… ‘something’… is… hitting me…』
+『U--... Uncle... uhm... "something" is... poking,
+　into...』
 
 
 ***Cinema_CI01-OP-0201_12
 
 
 主人公
-『Gh…』
+『--...』
 
-Crap… If imagining it this much turns me on, then
-it’s only natural that I’m erect.
+Damn... Of course I got an erection, considering I
+was imagining all that.
 
-Normally, I wouldn’t think anything of getting
-excited and erect, but right now, my body is glued
-to hers.
+Normally, I'd never think much of it but, right
+now she was pressed against me.
 
-And that person knows. On top of that, she’s my
-niece.
+And she could feel it. And she was my niece, at
+that.
 
 
 ***Cinema_CI01-OP-0201_13
 
 
 小鳥遊 乙羽(CH01_0162)
-『......』
+『..................』
 
-The blood drained from my face for a moment.
+For a moment, all the blood drained from my face.
 
-But Otoha-chan’s expression doesn’t seem to abhor
-my vulgarity. She’s just embarrassed and confused.
+But Otoha-chan didn't seem to be disgusted by my
+vile side at all, she just seemed to be
+embarrassed and confused.
 
-…It would probably be better for both of us to
-just laugh it off.
+...It'd be better for the both of us to just laugh
+this off and never talk about it again.
 
-I couldn’t think of any other way to get it under
-control.
+I couldn't think of any better way to settle this
+other than that.
 
 主人公
-『S-Sorry, sorry. Hahaha…』
+『S-Sorry, my bad. Hahahah...』
 
 ***Cinema_CI01-OP-0201_14
 
 
 小鳥遊 乙羽(CH01_0163)
-『N-No. Um… You’re a man… aren’t you? I-I’m the one
-　who’s sorry…』
+『N-No. Uhm--... you're a man, so... I-I'm sorry
+　too...』
 
 
-What was this reaction? Was it out of her natural
-kindness, or because she was confused…?
+Just what is that reaction? Is it just her innate
+soft nature, or is she confused, or what...
 
-Feeling a little calmer, I picked Otoha-chan up.
+Feeling a bit calmer myself thanks to it, I picked
+her up and off myself.
 
 
 ***Cinema_END
@@ -409,41 +412,43 @@ Feeling a little calmer, I picked Otoha-chan up.
 
 
 主人公
-『Um… Are you really okay?』
+『Uhm... are you really okay?』
 
-I try to act cool, but my crotch is still
-twitching, and our breathing is still ragged.
+I tried to put on an act, but my crotch was still
+pitching a tent, and we were both breathing
+roughly.
 
-Her innocence makes her stand out even more.
+It was just way too shameless a question to ask.
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0164)
-『Mm…』
+『Nn...』
 
 
 主人公
-『I see. …That’s good, then.』
+『I see. ...That's good then.』
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0165)
-『I…is 1B in the classroom…on this floor…?』
+『I... Is the class 1-B... on this floor...?』
 
 
 主人公
-『Ah, if that’s the case, it’s right at the end of
-　this floor, not up the stairs, but around a
-　little.』
+『Yeah, just go to the end of the hall, and don't
+　go up the stairs, it's just around the corner from
+　them.』
 
-As I explain, I can’t help but think about the
-sensation of my fingers again.
+As I was explaining to her, the sensation of her
+chest against my fingers... was still lingering in
+my mind.
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_中央
 
 小鳥遊 乙羽(CH01_0166)
-『Th-Thank you. It’s my first supplementary lesson
-　from now on, but I’m lost… I’ll go.』
+『T-Thank you, uncle. It's my first extra class, so
+　I got lost... I'm gonna go then--!』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_画面外
@@ -452,17 +457,18 @@ sensation of my fingers again.
 ***SE_走り去る足音_concrete normal_running_mix{100}
 
 
-Even after Otoha-chan disappeared from view,
-Ichimoto didn’t wither. She was still rock-hard.
+Even long after she was gone, forget going limp,
+my cock was harder than ever.
 
-More than being found out, I let out a sigh at the
-fact that we couldn’t stay tangled up like that.
+I sighed at the fact that we couldn't stay tangled
+like that for a bit longer, not even bothering to
+worry about her noticing my erection.
 
 
 ***FadeIn_InSide_Black
 
 小鳥遊 乙羽(CH01_0167)
-『Haah, haah…』
+『Haah--, haah--....』
 
 
 ***SE_走り去る足音_concrete normal_running_mix{100}
@@ -475,45 +481,46 @@ fact that we couldn’t stay tangled up like that.
 ***ST_オトハ_B3_デフォ(着衣)_目困り_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0168)
-『Huff… Huff… huff.』
+『Haah... haah... haah...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口困り_赤み06_中央
 
 小鳥遊 乙羽（独白）(CH01_0169)
-『I came running… I need to calm down a little…』
+『I ran all the way... I need to calm down...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目困り_口無表情_赤み06_中央
 
 小鳥遊 乙羽（独白）(CH01_0170)
-『Uncle… My chest…』
+『Uncle's... on my chest...』
 
 
 小鳥遊 乙羽(CH01_0171)
-『Uncle’s hand…like this…』
+『His hands... like this...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 小鳥遊 乙羽(CH01_0172)
-『Nnh… Nnnh…』
+『Nn--... nnnn--...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0173)
-『No. I’m making weird noises…』
+『Gosh--. I'm making, weird noises--...』
 
 
 小鳥遊 乙羽(CH01_0174)
-『What is this…? My heart’s beating really fast.
-　When I think about how my uncle touched me… it
-　feels weird. It’s itchy…』
+『What is this... my heart's pounding so much. When
+　I think about how he touched me... it feels weird.
+　My body feels...』
 
 
 小鳥遊 乙羽（独白）(CH01_0175)
-『I… want to touch it more… Hide… in this shadow…』
+『I want to... touch myself more... maybe... in
+the, shadows here...』
 
 
 ***FadeIn_InSide_Black
@@ -530,174 +537,173 @@ fact that we couldn’t stay tangled up like that.
 ***ST_オトハ_E1_デフォ(着衣)_目悲しい・テレNL_口困り_赤み07_中央
 
 小鳥遊 乙羽(CH01_0176)
-『You’re… touching me with the hand of the man you
-　love… Nnh…』
+『Uncle's... the hands of the man I love, touching
+　me... nn--...』
 
 
 小鳥遊 乙羽（独白）(CH01_0177)
-『I’m… touching it myself… but it’s completely
-different from back then… And yet… now that I
-think about it, I’m really… excited…』
+『Even though... I'm touching them myself... it
+feels completely different... and yet... thinking
+back to it... is making me so aroused...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み07
 
 小鳥遊 乙羽(CH01_0178)
-『My boobs… made your pussy… really hard… Haa,
-　haa…』
+『My boobs... made him... so hard down there...
+　haah, haah...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_0179)
-『…!!! I’m… excited even with my own words.』
+『--...!!! Even my own words... were arousing me.』
 
 
 ***Face_オトハ_目微笑NL_口困り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_0180)
-『I’m getting chills… Hahh… nnh…』
+『I feel so restless... haah... nn--...』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み07
 
 小鳥遊 乙羽(CH01_0181)
-『Huff, huff… Huff…』
+『Haah, fuuh... haah....』
 
 
 小鳥遊 乙羽（独白）(CH01_0182)
-『I can tell your nipples through your clothes.
-You’re pushing up your bra… and rubbing it.』
+『You can even, see my nipples through the clothes
+now. They're pushing up against my bra... rubbing
+against it.』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み07
 
 小鳥遊 乙羽(CH01_0183)
-『Haah haah…』
+『Haah--, haah--....』
 
 
 ***Face_オトハ_目困りNL_口困り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_0184)
-『It hurts. It’s not the pain after running… What
-is this…?』
+『It feels harsh. I'm out of breath. But not from
+the run... what is, this...』
 
 
 小鳥遊 乙羽(CH01_0185)
-『Oji-san’s… b-big… That was… a man’s d-d-dick…
-　wasn’t it…?』
+『Uncle's... w-was so big... that was... a man's...
+　d... d... dick... wasn't it....』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み07
 
 小鳥遊 乙羽(CH01_0186)
-『It’s because Uncle got excited over me… Haa, haa…
-　He’s like that, isn’t he…?』
+『He became like that... haahaaah... because he got
+　aroused too, didn't he...』
 
 
 小鳥遊 乙羽（独白）(CH01_0187)
-『If it’s gotten bigger, that means…』
+『The fact that he got big means...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み09
 
 小鳥遊 乙羽（独白）(CH01_0188)
-『I-It’s because… I want to have sex… or something,
-right…?』
+『We... we could, have sex... men get hard... when
+they want to have sex, right?...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口困り_赤み08
 
 小鳥遊 乙羽(CH01_0189)
-『Haah, haah…』
+『Haah, haaah--....』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み08
 
 小鳥遊 乙羽(CH01_0190)
-『But that thing’s going to go inside me… That’s
-　what you’re saying, right? Is something that big
-　going to… go in…?』
+『But, that means it'll go... inside me, right?
+　Something that big... inside me...?』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0191)
-『I’m sweating profusely. It’s really hot.』
+『I'm sweating so much. I feel so hot.』
 
 
 ***Face_オトハ_目悲しい・テレCE_口困り_赤み08
 
 小鳥遊 乙羽(CH01_0192)
-『Hah, hah… But I wonder if it’s going to go in… I
-　wonder what it’ll feel like… It looks really,
-　painful…』
+『Haah, haah... but would it really fit... what
+　would it feel like... it sounds, painful...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み08
 
 小鳥遊 乙羽(CH01_0193)
-『Hahh… ah… I-I wonder if it’ll feel good… When a
-　man’s thing… gets bigger, it’s actually like
-　that…』
+『Haah... ah... w-will it feel good... that's
+　how... men get big, huh...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口困り_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0194)
-『I can’t stop touching your chest. Doing this at
-school… I have to go to supplementary lessons.』
+『I can't, stop touching myself. I can't believe
+I'm doing this at school... even though I've got
+extra lessons to attend.』
 
 
 小鳥遊 乙羽(CH01_0195)
-『Mm… hah… ah… ahh… ha…』
+『Nn... hah... ah... ah... haah...』
 
 
 小鳥遊 乙羽（独白）(CH01_0196)
-『I’m just touching your breasts, your boobs… but when I
-think you’re touching me, it’s completely different… A
-sensation I don’t know wells up from deep within my body.』
+『Even though I'm just touching my chest, my boobs... it
+feels completely different when I imagine it's him... I can
+feel something I don't know, gushing out from deep inside me.』
 
 
 小鳥遊 乙羽（独白）(CH01_0197)
-『It’s tingling, and I’m shivering, and my head… is
-wobbling. It’s like I can’t breathe, and the back
-of my nose is prickling…』
+『I feel tingly, and restless, and my head... is
+spinning. My nose feels numb, and it feels like I
+can't breathe...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口困り_赤み08
 
 小鳥遊 乙羽(CH01_0198)
-『M-Mister… ah, haa… ah…』
+『U-Uncle... ah, haah... ah...』
 
 
 ***Face_オトハ_目困りCE_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0199)
-『If we find something like this… No, even if we
-don’t find it, we can’t.』
+『If someone finds me like this... no, I shouldn't
+be doing this even without that risk.』
 
 
 小鳥遊 乙羽（独白）(CH01_0200)
-『Ever since I met you, Uncle, I’ve been acting a
-little weird…』
+『Ever since we met again, I've been feeling
+weird...』
 
 
 ***Face_オトハ_目微笑NL_口困り_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0201)
-『Something’s wrong. But I can’t stop.』
+『Something's wrong with me. But I can't stop.』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0202)
-『What should I do…』
+『What do I do...』
 
 
 ***Face_オトハ_目困りCE_口困り_赤み09
 
 小鳥遊 乙羽（独白）(CH01_0203)
-『I’ve gone crazy…』
+『Something's really wrong with me...』
 
 

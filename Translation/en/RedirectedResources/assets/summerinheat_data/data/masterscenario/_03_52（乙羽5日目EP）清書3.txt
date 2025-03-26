@@ -10,40 +10,41 @@
 ***ST_オトハ_B3_デフォ(全半)_目困りCE_口焦り_赤み08汗08_中央
 
 小鳥遊 乙羽(CH01_1360)
-『Haa…! ♡…Haaaa♡…haaa…ahh…haah…hahh…hhaaahhhh♡…!
-　Ah…hauuu♡…』
+『Haah...♡ ...Haah♡ ...Haah♡ ...Ah... haah...
+　haah... haah♡... ah... haah♡♡♡...』
 
 
 主人公
-『Let’s leave it at that for today.』
+『Let's leave it here for today, alright?』
 
 ***Face_オトハ_目トロ_口トロ笑い_赤み08
 
 小鳥遊 乙羽(CH01_1361)
-『Haa♡ Haa♡…gh… Ehh… I wanna do more… ♡, hey… I can
-　still do it, Uncle, you can do it too, right?』
+『Haah♡ haah♡... ehh... but I wanna do
+　moreee....♡--! Hey... I can keep going, you can
+　too, no?』
 
 
 ***Face_オトハ_目トロCE_口驚き_赤み08
 
 主人公
-『I can, but the health teacher should be back
-　soon.』
+『I can but, the nurse should be coming back any
+　moment now.』
 
 ***ST_オトハ_B1_デフォ(全半)_目悲しい・テレCE_口微笑_赤み08汗08_中央
 
 小鳥遊 乙羽(CH01_1362)
-『Mmm… Then… I’ll wait with you♡』
+『Nn... then... I wanna wait with you♡』
 
 
 主人公
-『Hey, hey. You’re already limp. Go home for today,
-　okay?』
+『Hey there now. Aren't you already tired out? Just
+　go home for today, okay?』
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み08
 
 小鳥遊 乙羽(CH01_1363)
-『Mm… Mm. Okay…』
+『Nn.... nnn. Okay...』
 
 
 ***ST_オトハ_B1_デフォ(全半)_目困りCE_口困り_赤み08汗08_画面外
@@ -52,17 +53,17 @@
 
 
 小鳥遊 乙羽（独白）(CH01_1364)
-『After that, I got a little selfish while hugging
-and rubbing up against him. He looked troubled,
-but it was a really happy time.』
+『After that, I clung to him and snuggled up to
+him, and just acted selfish for a bit. He made a
+troubled face but, it was pure bliss for me.』
 
 
 ***BGM_FadeOut
 
 小鳥遊 乙羽（独白）(CH01_1365)
-『While I was doing that, the health teacher came
-back, so I glossed over why I was in the nurse’s
-office… and went outside like I was running away.』
+『The nurse came back as I was doing that though,
+so I made up a reason as to why I was there... and
+more or less ran out.』
 
 
 ――――――
@@ -81,32 +82,31 @@ office… and went outside like I was running away.』
 ***ST_オトハ_B3_デフォ(着衣)_目大笑い_口微笑_赤み04汗00_中央
 
 小鳥遊 乙羽（独白）(CH01_1366)
-『I’m really happy to be with you today, and to
-have lots of sex…』
+『I got to be with him today, and got to have lots
+of sex too... I'm so happy.』
 
 
 ***Face_オトハ_目困り_口微笑_赤み04
 
 小鳥遊 乙羽（独白）(CH01_1367)
-『Mobu-kun surprised me when I came to the nurse’s
-office, and it was a problem… but I managed to
-cover it up somehow…』
+『It surprised me when Mob-kun chased me all the
+way to the nurse's office but... we managed to
+play that off too...』
 
 
 ***Face_オトハ_目困りCE_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1368)
-『Mobu-kun’s pretty pushy, isn’t he…? He probably
-won’t change seats, and he’ll be sitting next to me
-the whole time during supplementary lessons. …Ah!!』
+『He's such a pushy guy... I probably can't change
+my seat, so I'm gonna be stuck with him the entire
+time the extra classes are on. ...Ah--!!』
 
 
 ***Face_オトハ_目驚き_口焦り_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1369)
-『My textbooks and notebooks… I left my bag in the
-classroom in the first place! …I have to go get
-it!!』
+『My books and notes... heck, even my bag! ...I
+gotta go back!!』
 
 
 ***BGM_FadeOut
@@ -125,14 +125,14 @@ it!!』
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_中央
 
 小鳥遊 乙羽(CH01_1370)
-『Sigh… I’m glad I noticed. Hurry up and go home…』
+『Haah... I'm glad I noticed. I should run back
+　home a...』
 
 
 ***Face_オトハ_目デフォ_口困り_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1371)
-『Huh… Is that… Uncle over there? …And……Rino,
-chan?』
+『Huh.... is that... uncle? ...And... Rino, chan?』
 
 
 ***BGM_不穏な空気{100}
@@ -140,7 +140,8 @@ chan?』
 ***Face_オトハ_目困り_口無表情_赤み03
 
 小鳥遊 乙羽（独白）(CH01_1372)
-『Huh… You seem really serious about this.』
+『Huh... and they're having a really serious chat
+about something too.』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_画面外
@@ -154,85 +155,84 @@ chan?』
 ***ST_リノ_B2_デフォ(着衣)_目睨み_口無表情_赤み03_中央
 
 主人公
-『…I think it’s just a misunderstanding, though…
-　Rino-chan’s going to make assumptions like that
-　right away.』
+『...I think you're just misundestanding things
+　but... well, you've always been quick to do that.』
 
 暁 莉乃(CH02_0338)
-『That’s not it. Anyway… I’ll be waiting in the
-　classroom the evening after tomorrow. Be sure to
-　come.』
+『I really am not. Anyways... I'll be waiting for
+　you in class, on the evening of the day after
+　tomorrow, so you gotta come, okay?』
 
 
 主人公
-『Sigh, all right.』
+『Haah, fine.』
 
 小鳥遊 乙羽（独白）(CH01_1373)
-『…Uncle, did you make me go home early so you
-could talk to Rino-chan? …What do you mean by
-misunderstanding…?』
+『...Did he make me go home early, because he
+wanted to chat with her? ...A misunderstanding,
+about what...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1374)
-『Rino-chan too… I wonder what she’s going to do by
-summoning her uncle to the classroom tomorrow…?』
+『And Rino-chan too... she called him to class too,
+but just what is she...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1375)
-『It’s been bugging me this whole time… Is there
-really something going on between Rino and
-Uncle…?』
+『It's been bothering me for a while now but.... is
+there really something between uncle and her...?』
 
 
 小鳥遊 乙羽（独白）(CH01_1376)
-『Something you can’t tell me… while I’m not in
-this town…』
+『Something that happened while I wasn't here...
+something she can't tell me about...』
 
 
 小鳥遊 乙羽（独白）(CH01_1377)
-『Rino-chan was weird when we played in the pool,
-too. She tried to keep me and Uncle away from each
-other…』
+『She acted weird back at the pool too. It was like
+she was trying to put distance between me and
+him...』
 
 
 小鳥遊 乙羽（独白）(CH01_1378)
-『You’re always dealing with me, Uncle, but when
-I’m closing in on so many dirty things… I wonder
-if you’re actually disillusioned?』
+『He always keeps me company but, I always make him
+do lewd stuff... is he getting sick of me?』
 
 
 小鳥遊 乙羽（独白）(CH01_1379)
-『If that’s the case… then it wouldn’t be strange
-for you to choose the wonderful Rino-chan, who’s
-much more reliable than me…』
+『If so... it wouldn't be weird for him to pick
+Rino-chan instead, who's way more reliable and
+wonderful than me....』
 
 
 ***ST_リノ_A3_デフォ(着衣)_目睨み_口への字_赤み03_中央
 
 暁 莉乃(CH02_0339)
-『You know that just because I haven’t told anyone
-　until now doesn’t mean nothing happened, right?』
+『You know that just because I've refused to babble
+　until now doesn't mean that it didn't actually
+　happen, right?』
 
 
 主人公
-『Yes, yes.』
+『Yes yes.』
 
 ***ST_リノ_B2_デフォ(着衣)_目怒り_口無表情_赤み03_中央
 
 暁 莉乃(CH02_0340)
-『Ngh… That’s enough for today! I really don’t want
-　that attitude of not admitting anything. The day
-　after tomorrow… I’m sure of it.』
+『--... Ah, whatever! I'm done for today. I really
+　hate that attitude of yours. Anyways, the day
+　after tomorrow... don't forget it.』
 
 
 小鳥遊 乙羽（独白）(CH01_1380)
-『It kind of…looks like they’re having a lovers’
-quarrel… There’s definitely something going on
-between Rino-chan and Uncle after all…』
+『It kinda... looks like a lovers' quarrel...
+there's definitely something going on between
+them, I'm sure of it now...』
 
 
 小鳥遊 乙羽（独白）(CH01_1381)
-『…I can’t sit still anymore. I have to find out…』
+『...I can't stay still about it anymore. I need
+to... figure it out...』
 
 
 ***FadeInBlack

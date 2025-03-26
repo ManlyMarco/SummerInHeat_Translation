@@ -15,69 +15,71 @@
 
 
 暁 莉乃(CH02_0135)
-『…I told you to stop!!』
+『...Stop it!!』
 
 
 暁 莉乃(CH02_0136)
-『Stop it!』
+『Stop it--!』
 
 
 暁 莉乃(CH02_0137)
-『Uncle, get out of the way!』
+『Get off me, uncle!』
 
 
 暁 莉乃(CH02_0138)
-『…Why are you doing this?! No!』
+『...Why are you doing this! I don't like this--!』
 
 
 ***SE_ドスン・ドサ音2{100}[0](4)
 
 
 暁 莉乃(CH02_0139)
-『Move! Move!! …Haa haa.』
+『Let me go! Let me gooo!! ...Haah--, haah--』
 
 
 ***SE_movement_snow_rr1_mono{100}[1](3)
 
 主人公
-『Uncle wants to feel good together with you,
+『Uncle just wants to feel good with you,
 　Rino-chan.』
 
 
 暁 莉乃(CH02_0140)
-『No! I don’t wanna be one! I said I don’t want to
-　do anything! Let me go!! Nnh, hyah… No!!』
+『No! I don't want to! I don't want to do any of
+　this! Let me go!! Nn--, hyah--... no--!!』
 
 
 ***SE_se_ぬちょ2{100}[0](5)
 
 主人公
-『Look… When you rub it, it’s squishing with your
-　uncle’s cock juices. It’s so dirty…』
+『Look... when I rub it, the noises it makes from
+　my dick juice rubbing into it are so obscene....』
 
 
 暁 莉乃(CH02_0141)
-『No, no!! Uncle, let me go! No!!』
+『No, stop it!! Let me go, uncle! No!!』
 
 
 主人公
-『Let’s just sit still and bear with it for a bit…
-　It’ll feel good soon, so don’t worry.』
+『Let's just stay still and endure it a bit,
+　okay?.... It'll feel good in no time, so don't
+　worry.』
 
 ***SE_se_ぬちょ3{100}[0](6)
 
 
 暁 莉乃(CH02_0142)
-『No, I’m scared! …I can’t move… It’s disgusting.』
+『No, I'm scared!... I can't mov--... It feels so
+　disgusting--』
 
 
 主人公
-『Don’t worry, I’ll take my time.』
+『Don't worry, I'll go slow.』
 
 
 暁 莉乃(CH02_0143)
-『Ugh… kh, gh… O-Ow, don’t do anything weird. Stop,
-　stop!』
+『Ii... kuh--... I-It hurts, don't do this--.
+　Stop--! Stop it--!』
 
 
 ***BGM_FadeOut
@@ -89,19 +91,20 @@
 
 
 主人公
-『Ahh… Even with it spread out, Rino-chan’s pussy
-　is tightly closed… Slowly… ahh… it’s going in…』
+『Aah... even when I spread it apart, your folds
+　just refuse to open up... let me... aah... put it
+　in slowly...』
 
 暁 莉乃(CH02_0144)
-『It hurts, it hurts! Nooo!! It hurts!! It’s
-　tearing!』
+『It hurts--, it hurts--! Stop it!! It hurts!!
+　You'll rip me apart--!』
 
 
 ***Cinema_CI02-OP-0301_01
 
 
 暁 莉乃(CH02_0145)
-『Kyah, yaaaaah!!』
+『Kkyyaaaaaggh--!!』
 
 
 ***Cinema_CI02-OP-0301_02
@@ -109,53 +112,58 @@
 
 
 主人公
-『Ahh…Rino-chan…you’re such a good girl. It feels
-　really good.』
+『Aaah... Rino-chan... you're such a good girl, it
+　feels fantastic.』
 
 暁 莉乃(CH02_0146)
-『Ah… Aaah… ugh… twitch… It hurts, don’t move… Hic,
-　hic…』
+『Ah--... aaah... uguh... hic--, it hurtsss, don't
+　move it inside... hic, hic...』
 
 
 主人公
-『It’s so tight… and you’re amazing, Rino-chan…』
+『It's so tight... you're amazing, Rino-chan...』
 
 ***Cinema_CI02-OP-0301_03
 
 
 暁 莉乃(CH02_0147)
-『Hic, hic… It hurts… Stop it…』
+『Hiik, hiik... it hurts... stop ittt....』
 
 
 主人公
-『It’s okay, it’s all right…Rino-chan’s fine…』
+『Don't worry, relax... you're alright,
+　Rino-chan....』
 
 暁 莉乃(CH02_0148)
-『I’m not… okay…gh… ah…』
+『I'm not al--...ri...--! ....ah--....』
 
 
 主人公
-『…Good girl, good girl… This is a secret between
-　Uncle and Rino-chan.』
+『...Good girl, good girl... This'll be a secret
+　just between the two of us, okay?』
 
 暁 莉乃(CH02_0149)
-『Hahh… ah, ah… ah… aah… kh… ahh…』
+『Haah... ah, ah...--... aah... agh.... kuh...
+　ah...』
 
 
 主人公
-『If you don’t tell me, I’ll make you feel good… If
-　you tell anyone, it’ll hurt even more…』
+『If you don't tell anyone, I'll make you feel
+　amazing... and if you do, I'll make it hurt more,
+　you know...?』
 
 暁 莉乃(CH02_0150)
-『No… uuh… it’s gonna break, higuh, ah… ahhh…』
+『No--... uwagh--... I'll brea--, kkguh--, agh....
+　aaagh--...』
 
 
 主人公
-『Okay, okay, of course you’ll keep it a secret.
-　I’ll make sure you feel good right away…』
+『There there. You'll of course keep it a secret,
+　right? I'll make you feel amazing in no time, just
+　wait...』
 
 暁 莉乃(CH02_0151)
-『Ahhh, ah, ahhh…』
+『Agh--, agh--, aaagh--...』
 
 
 ***FadeIn_InSide_Black
@@ -166,7 +174,7 @@
 
 ―…
 
-A few days later…
+--A few days later--
 
 
 ***FadeOut_InSide_Black
@@ -174,86 +182,89 @@ A few days later…
 
 
 暁 莉乃(CH02_0152)
-『Huff… Huff… Ah, ah… Ah… Ahn.』
+『Haah... haah... ah, ah... ah... aahn』
 
 
 主人公
-『What do you think…? Rino-chan.』
+『How is it, Rino-chan...?』
 
 暁 莉乃(CH02_0153)
-『Hahh… Ah, Uncle, I’m getting weirder and weirder…
-　Ahh, ahh…』
+『Haah--... ah, uncle, I feel, weirder and
+　weirder... ah--, ah--...』
 
 
 主人公
-『You like having your upper side rubbed, don’t
-　you?』
+『You like it when I grind the upper side, huh?』
 
 暁 莉乃(CH02_0154)
-『Yeah, that’s where… I’m going crazy… Auh! Mnah…』
+『Nn, that spot's... making me feel all weird...
+　Aau! Nnah--...』
 
 
 主人公
-『It’s not weird, is it? Just tell me it feels
-　good.』
+『Now now, it's not "weird". Try saying that it
+　feels good.』
 
 ***Cinema_CI02-OP-0301_05
 
 
 暁 莉乃(CH02_0155)
-『Haa, ah, ah… It feels, good…』
+『Haah, ah--, ah--... it feels, good...』
 
 
 主人公
-『That’s right, Uncle, your pussy feels good too,
+『Good girl. Your pussy feels great to be in too,
 　Rino-chan.』
 
 主人公
-『I’m getting better at licking your cock, so let’s
-　practice a lot today, okay? Come on…』
+『You're starting to get great at licking it too,
+　so let's practice this lots today too, okay?
+　C'mon--...』
 
 暁 莉乃(CH02_0156)
-『Uncle… I-It’s embarrassing… Ah, nnh…』
+『Uncle... I-I'm so, embarrassed... ah--, nn--...』
 
 
 主人公
-『It’ll be fine. Come on, I told you what to say,
-　didn’t I? …Say it.』
+『It's alright. C'mon, I told you what to say at
+　times like this, right? ...Say it.』
 
 暁 莉乃(CH02_0157)
-『Ahn, ah, nnn… y-your dick feels good… nn… ahn.』
+『Ahn, ah--, nnn... y... your cock feels, great...
+　nn--... nnah--』
 
 
 主人公
-『That’s right. I want to hear more. Then I’ll let
-　you practice your favorite ‘cumming’ of
-　Rino-chan’s.』
+『Good girl. I want to hear that more~. I wouldn't
+　mind letting you practice the "cumming" you love
+　so much all day if you say it more, you know.』
 
 ***LoopCV_リノ_VC挿入系_リノ_通常_激しいピストン_喘ぎ_後期{20}
 ***Cinema_CI02-OP-0301_06
 
 暁 莉乃(CH02_0158)
-『I’ll say it… Your pussy feels good. Ah, ahhh… nn…
-　I want to, let me practice ‘cumming’…』
+『Okay... My pussy, feels great. Ah--, aaah--...
+　nn--... I want to, do it. Let me practice,
+　"cumming"--...』
 
 
 主人公
-『You really are a good girl. Ah, even if you use
-　Rino-chan’s pussy, it’s cramped and tight… Doesn’t
-　it hurt?』
+『You really are such a good girl. Aah, no matter
+　how much I use your pussy, it never gets any
+　looser... Does it hurt still?』
 
 暁 莉乃(CH02_0159)
-『Yeah, mmm, it feels good, it doesn’t hurt at all
-　anymore… Ahn.』
+『Nnn, nnn--, it feels great, it doesn't hurt at
+　all anymore.... Aahn』
 
 
 主人公
-『Hehe, it’s just like I said, isn’t it? Let’s do
-　more for her.』
+『Fufuh, see? I told you. Let's do it a lot more,
+　okay?』
 
 暁 莉乃(CH02_0160)
-『Ugh, ah!! …Uncle, that’s, amazing…! It’s so
-　tight, aah, aaah…!』
+『Uu, ah--!! ...Uncle, it feels great, there--...!
+　Kkyuuttyaahn, aah--, aah--...!』
 
 
 ***LoopCV_FadeOut
@@ -264,7 +275,7 @@ A few days later…
 
 ―…
 
-A few more days later…
+----A few days later still----
 
 ***FadeOut_InSide_Black
 ***Cinema_CI02-OP-0301_08
@@ -272,96 +283,99 @@ A few more days later…
 
 
 暁 莉乃(CH02_0161)
-『Hah, hah-hah, nn, ah-ah, Mister… nn… It’s really
-　good, my pussy feels good… hahii.』
+『Hah, hah--, haah, nn, ah--, ah--, uncle--...
+　nn--... it feels amazing--, my pussy feels
+　amazing--... hahiih--』
 
 
 主人公
-『Rino-chan, you’re so cute that you’ll become
-　Uncle’s favorite pussy the more you use it.』
+『It's adorable how your pussy turns more to my
+　liking the more I use it, Rino-chan.』
 
 暁 莉乃(CH02_0162)
-『Ah, ah, it’s making dirty sounds. I love this, do
-　it more. Nnah, aah, hafh, nn… aah.』
+『Ah--, ah--, the lewd sounds, I love them. Make
+　more of them--. Nnah, aah--, hafuh--, nn...
+　aaah--』
 
 
 ***Cinema_CI02-OP-0301_09
 
 主人公
-『Ahh…Rino-chan’s pussy is clinging to your uncle’s
-　cock.』
+『Aah... your pussy's really clinging to my cock,
+　Rino-chan.』
 
 暁 莉乃(CH02_0163)
-『Uncle, Uncle, your pussy is so good. I really
-　like it. Ah, ah, aaah… More, more…!』
+『Uncle--, uncle--, my pussy feels great--. I love
+　this. Ah--, ah--, aaah... more, more...!』
 
 
 主人公
-『That’s right, Uncle really likes having secret
-　sex with you, too, Rino-chan.』
+『Yeah, uncle loves having these secret sex
+　sessions with you lots too, Rino-chan.』
 
 暁 莉乃(CH02_0164)
-『I’ll do anything. I’ll… do lots of secret things…
-　Anything…』
+『I'll do anything--. Lots of, secret stuff...
+　anything you want so...』
 
 
 暁 莉乃(CH02_0165)
-『I want to cum, I want to make my pussy cum from
-　your cock!』
+『I want to cum--, I want to cum from your dick,
+　uncle--!』
 
 
 主人公
-『Ahh… I’m squeezing it out… It’s so hard to move!』
+『Aah... you're squeezing down so hard... it's
+　almost hard to move!』
 
 暁 莉乃(CH02_0166)
-『I’m sorry, you’re squeezing me on your own… Ugh…
-　Ah, ah, do it more…!』
+『I'm shorryy, I can't help it--...tt... Ah--,
+　aah--, do it more--...!』
 
 
 ***Cinema_CI02-OP-0301_10
 
 暁 莉乃(CH02_0167)
-『I love your dick. I love it when you rub it
-　against my pussy more. Make me have sex with
-　Rino.』
+『I love it when you, grind it against me--. Grind
+　it more, make me lewder--』
 
 
 主人公
-『You’ve gotten good at begging, haven’t you? Does
-　your uncle’s cock feel that good?』
+『You've really learned how to beg now. Does
+　uncle's cock really feel that good?』
 
 暁 莉乃(CH02_0168)
-『Yeah! …Hyah, it feels so good!』
+『Yeah! ...Hyah--, it feels amazhing--!』
 
 
 主人公
-『Haa, haa, you’ve become more of a slutty bitch
-　than you thought, Uncle.』
+『Haahaah, you've become a much sluttier bitch than
+　I ever thought you would, Rino-chan.』
 
 暁 莉乃(CH02_0169)
-『Ahh, ahh… It’s because you have sex every day.
-　Hah, hah, give me lots, I want you to look deep
-　inside me.』
+『Agh--, agh--... it's because you do it to me
+　everyday, uncle. Haah, haah, give me lots--, pump
+　me full of ittt--』
 
 
 主人公
-『Haha, if you move any more violently, you might
+『Ahahah, if I move any harder, you really might
 　break, you know?』
 
 暁 莉乃(CH02_0170)
-『It’s okay! Aaah, break it, Uncle… break it
-　however you want!』
+『I don't care! Aaah--, break me--, break me
+　however--... you want, uncle--!』
 
 
 主人公
-『Guess I have no choice… Here.』
+『So be it then... there--』
 
 
 ***Cinema_CI02-OP-0301_11
 
 暁 莉乃(CH02_0171)
-『Nnh, ah, ahh, I’m cumming… I’m cummiiing… It’s
-　amazing! Ah, ah! Aaaah… Aaahhh!!!』
+『Nn--, ah--, ah--, cumming--... cumming cumming...
+　a huge one--! Ah--, agh--, aaaah--...
+　aaaaaah--!!!!』
 
 
 ***LoopCV_FadeOut
@@ -369,7 +383,7 @@ A few more days later…
 ***Cinema_CI02-OP-0301_12
 
 暁 莉乃(CH02_0172)
-『I’m… cumminggggggg!!!!』
+『Cu--... minnnnngggg---!!!』
 
 
 ***BGround_BG99_00
@@ -388,75 +402,76 @@ A few more days later…
 
 ***BGround_BG14_00
 
-When I wake up, I feel like the room is just a
-little bright. …It must be before dawn.
+When I woke up, the room felt barely lit at all.
+...It was still that early, huh?
 
-For the first time in a really long time, I had
-this dream.
+It really had been a while since I last saw that
+dream.
 
-That was… after Otoha-chan moved to another town.
-Until then, we’d pretended to be skinship…
+That was... from after Otoha-chan had already
+moved away. Even before that, pretending that it
+was just 'skinship'...
 
-Putting it on something, I touched their bodies so
-they wouldn’t hate me, comforting the emptiness of
-never having a woman of my own.
+I found excuses to touch them, in ways that
+wouldn't bother them, in a bid to fill up the
+emptiness I felt at never having had a girl of my own.
 
-Even after Otoha-chan moved in, I’d interacted
-with Rino-chan, so I made a move on her for a
-little while.
+And even after Otoha-chan moved away, having kept
+in contact with Rino-chan, I ended up with an
+opportunity to push her down.
 
-It wasn’t because she was into that sort of thing.
+It wasn't that I was a rape fetishist or anything.
 
-It’s just that she’s a “woman” who doesn’t look
-down on me or treats me harshly, who approaches me
-from the other side without exchanging money.
+It was just that she wasn't someone who looked
+down on me or bitched at me, and not one of the
+random gold diggers off the street either.
 
-Using the fact that we were close friends, I
-somehow succeeded in sexually taming Rino-chan.
+Abusing our close relationship, I somehow managed
+to sexually tame her into being my girl.
 
-I didn’t like it at first, but… after that, things
-proceeded in secret, just like the dream I had
-earlier.
+She hated it at first, of course... but over time,
+just like in the dream, things progressed in
+secret between us.
 
-That said, that kind of relationship had only
-happened until I left this town for work.
+Of course, that only lasted up until I had to
+leave this town due to those jobs.
 
-And then, when Rino reunited with Otoha-chan at almost the
-same time… she was so distant, it felt like the time when
-she had melted away and become attached to her was a lie.
+And when I met her again around the same time as
+Otoha-chan... she was icy cold, to the point it
+was hard to believe she was ever putty in my hands.
 
 主人公
-『......』
+『...............』
 
 I let out a small sigh.
 
-For a short time before dawn, the room was cool
-and quiet.
+It was only during these hours before dawn, that
+the room was cool, and ever so quiet.
 
-I feel like that seductive, high-pitched voice is
-still echoing deep in my ears.
+So quiet that it felt like I could almost still
+her those seductive, high pitched moans of hers.
 
-I could tell that it was painfully erect for a
-morning stand.
+It was then I noticed that I had a painfully hard
+morning erection.
 
-I gradually wake up. All I remember is Rino-chan’s
-current attitude… and that shitty, boyfriend-like
-brat.
+Slowly, I woke up. What my mind went to now, was
+her current attitude towards me... and that
+dipshit of a boyfriend of hers.
 
-The fact that a virgin who didn’t know what kind
-of “woman” Rino was, who hadn’t even kissed her,
-was popping up pissed me off.
+I felt pissed that a virgin like him, who didn't
+even know what sort of a "woman" she was, hell,
+who hadn't even kissed her, dared to butt in.
 
-I reached for my dick, which was rock-hard from
-the afterglow of my reckless feelings and the
-excitement of my dream.
+I reached out for my rock hard member, which was
+erect from both my anger and the lingering arousal
+of the dream.
 
-Even more than I’d seen in my dream, it was to
-thoroughly defile Rino, who was gasping for air as
-my “woman”
+And so I started rubbing, with Rino-chan moaning
+harder than ever as "my woman" in my mind,
 
-I began to rub my lust against her, intending to
-expel everything that had built up inside her.
+and with me defiling her however my instincts
+dictated, releasing all my pent up desires into
+her.
 
 
 ***FadeInBlack

@@ -4,20 +4,21 @@
 ***BGround_BG99_00
 ***BGM_夏空、静寂、蝉しぐれ{90}
 
-Summer vacation is over, and I thought I was done
-with my work… but my predecessor, the old man, has
-retired without returning.
+Summer was over, and with it my job... or so I
+thought, but the old man went and retired without
+coming back to work.
 
-The position that was supposed to have been
-temporary was left open, and I ended up in charge
-of this job just like that.
+The temporary position ended up becoming properly
+vacant, and I ended up given the job on a
+permanent basis.
 
-With the start of the new semester, the school
-became lively. That meant more work and busy work
-than summer vacation.
+The new school term started, and the school became
+more lively too. What it really meant was that I
+had more work to do than ever.
 
-It didn’t change the fact that it was a pain, but
-as I did my job, I gradually got the gist of it.
+It was of course still a pain in the ass but,
+after doing it day in day out, I more or less got
+the hang of it.
 
 ***BGM_FadeOut
 
@@ -27,134 +28,137 @@ as I did my job, I gradually got the gist of it.
 
 ***BGround_BG07_01
 
-The days were slightly shorter than they had been
-during summer vacation, and this evening probably
-wasn’t as long as before.
+The days were shorter than during summer vacation,
+if only slightly, so this twilight probably won't
+last for as long either.
 
-Now then, cleaning this hallway is the end of
-today’s work. I guess I’ll go back to my room and
-relax…
+Now then, with the cleanup done, my work's over
+too. Guess I'll return to my room and laze
+around...
 
 
 ***SE_ヒール足音footstep_concrete_highheels{100}[0](1)
 
-Suddenly, my mind focused on the sound coming from
+Suddenly, my ears focused on a sound coming from
 up ahead.
 
 ？？？(CH03_0039)
-『Oh… I don’t want to.』
+『Oh... dearie me.』
 
 
 ***BGM_不穏な空気{100}
 
-Hearing a familiar thorny voice from the tip of my
-shoe, I looked up.
+As I heard a familiar, spikey voice from the owner
+of the footsteps, I looked up.
 
 
 ***ST_レイコ_A2_デフォ(着衣)_目困り_口への字_赤み03_中央
 
 主人公
-『Reiko… Nee-san. What are you doing at this hour?』
+『Reiko... nee-san. What are you doing here this
+　late?』
 
 ***Face_レイコ_目デフォ_口への字_赤み03
 
 小鳥遊 麗子(CH03_0040)
-『…She asked me to do some PTA work. She’s
-　entrusted me with a lot of things just because
-　she’s called Takanashi.』
+『...Some PTA work came in, so I had to as well. I
+　am a Takanashi, after all, so of course all of it
+　falls to me.』
 
 
 主人公
-『But it’s already evening, you know? What are you
-　doing in the PTA at this hour?』
+『But it's already evening, you know? What are you
+　even here to do this late into the day?』
 
 ***Face_レイコ_目焦り_口への字_赤み03
 
 小鳥遊 麗子(CH03_0041)
-『C-Chairman’s busy with a lot of things… There’s
-　so much to do. I’m sure you don’t understand,
-　though.』
+『A-A PTA chair like me has a lot to take care
+　of... there's a mountain of things to be done. Not
+　like you'd understand, though.』
 
 
 ***Face_レイコ_目困りCE_口への字_赤み03
 
 小鳥遊 麗子(CH03_0042)
-『So, as the eldest son of Takanashi, you’re still
-　wandering around, aren’t you?』
+『So, from the looks of it, the Takanashis' eldest
+　son is still wandering around, huh?』
 
 
 主人公
-『Wandering…? I’m doing my job like this, and it’s
-　not like I’ll get in your way… What’s going on?』
+『Wandering around...? I'm just doing my job, and
+　it's not like I'm getting in your way... so what's
+　with that tone?』
 
 ***Face_レイコ_目睨み_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0043)
-『No, you’ll get in the way enough. You’re just our
-　eldest son, you know? And the one entrusted with
-　that is the janitor… It’s embarrassing.』
+『No, I must say you're quite the eyesore. You are
+　the eldest son, do you not understand? And yet
+　you're a local school custodian... how mortifying.』
 
 
 主人公
-『Hah, another ‘Takanashi’, huh? I’m earning some
-　income from working. That’s enough, just leave me
-　alone.』
+『Haah, in the end it's "Takanashi" this and
+　"Takanashi" that with you again, huh? I'm earning
+　my keep here. Isn't that enough? Just leave me be.』
 
 ***Face_レイコ_目悲しい・テレ_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0044)
-『Honestly, that income isn’t anything good either,
-　is it? …I wonder if they’re choosing jobs for
-　their own amusement?』
+『And that "keep" that you earn isn't very good, is
+　it? ...I do wonder, are you doing this because you
+　enjoy it?』
 
 
 主人公
-『…I don’t want to hear that from you,
-　Reiko-nee-san.』
+『...I really don't need to hear that from you.』
 
 小鳥遊 麗子(CH03_0045)
-『It’s not a sparrow’s tear to have a mop and get
-　filthy and sweaty for a day, so there’s no need to
-　take care of it.』
+『If the best you can do is carry around a mop and
+　sweat all day for a few pennies then I really
+　don't know what to say.』
 
 
 主人公
-『I’m gonna get mad too, you know?』
+『Even I can get angry, you know? I'm not the
+　Buddha.』
 
 ***ST_レイコ_B2_デフォ(着衣)_目悲しい・テレCE_口無表情_赤み03_中央
 
 小鳥遊 麗子(CH03_0046)
-『Go ahead and get angry on your own. I have work
-　to do, so I’ll be going. The next time we see each
-　other…』
+『Nobody's stopping you. I've got work to do, so
+　I'm gonna go. If I ever have to see your face
+　again...』
 
 
 ***Face_レイコ_目悲しい・テレ_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0047)
-『I wish you’d be a little better than you are now
-　before then.』
+『I do hope you'll have fixed yourself up at least
+　a bit by then.』
 
 
 ***ST_レイコ_B2_デフォ(着衣)_目悲しい・テレCE_口無表情_赤み03_画面外
 
-Rather than showing her understanding of my anger,
-she told me what she wanted to talk about on her
-own, then walked right past me.
+Forget even remotely understanding why I was
+getting angry, she said whatever she wanted to say
+and walked right on by.
 
 
 ***SE_ヒール足音footstep_concrete_highheels{100}[0](1)
-I was so irritated and sick that I almost threw
-out my cleaning supplies on the spot.
+I was in such a terrible mood, I almost snapped
+the mop in half then and there.
 
-Now that I think about it, this is exactly what
-Nee-san wants me to do… I violently clean the rest
-of the room and start walking.
+But thinking that maybe that was exactly what she
+wanted... I roughly finished the leftover
+cleaning, and headed off.
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono{100}[0](1)
 
-I’m so unlucky to run into Reiko-nee-san at this
-hour. It’s irritating…
+To think my luck was so bad that I'd bump heads
+with her this late into the night. Fuck I was
+pissed...
 
 ***BGM_FadeOut
 ***SELoop_FadeOut
@@ -164,7 +168,7 @@ hour. It’s irritating…
 
 ――――
 
-―――
+――
 
 ***FadeOut_InSide_Black
 
@@ -172,19 +176,18 @@ hour. It’s irritating…
 
 ***BGround_BG07_01
 
-On my way back to my room after work… I saw the
-door to the principal’s office slightly open for
-once.
+As I was returning to my room after finishing up my
+work... I noticed that the door to the principal's
+office was slightly ajar, which was an unusual sight.
 
-The principal always leaves early, so she hardly
-ever stays here until this hour.
+Normally, he always went home early. You'd never
+catch him dead at this time.
 
-I’ve only met the principal once when I first
-started working for him. I wonder if someone’s
-here…?
+Even I had only ever seen him once, when I started
+working here. Is he meeting someone...?
 
-Driven by curiosity, I snuck up to the door and
-took a peek inside, trying not to stand out.
+Driven by curiosity, I tiptoed my way to the door
+and peered inside in an unnoticable way.
 
 
 ***Cinema_CI03-MS-0101_00
@@ -192,111 +195,119 @@ took a peek inside, trying not to stand out.
 
 
 小鳥遊 麗子(CH03_0048)
-『Slurp… Slurp, buboh, nbuh… Shluuurp… Shupah,
-　bpph, njururu… zuzu…』
+『*Shlopb*.... *shlub*, *bbpoh*, *nnbuh*...
+　*shlurrrp*... *shlap*, *bbpuh*, *shlurrp*...
+　*shlzzz*....』
 
 
 校長
-『Man, Reiko-san’s blowjob can be tasted at any
-　time~…』
+『Man, your blowjobs really never do get old,
+　Reiko-san~...』
 
 小鳥遊 麗子(CH03_0049)
-『Mm, thanks for the compliment, mmchu… It’s an
-　honor. I have to make you feel good, mm… lots,
-　Sensei…』
+『Nnn, I'm, *suck*... honoured. I must have you,
+　nnn--.... enjoy this thoroughly, after all...』
 
 
 ***Cinema_CI03-MS-0101_01
 
 小鳥遊 麗子(CH03_0050)
-『*kiss* *slurp*, *suck*, bupu… *smack* *lick*,
-　ero, *suuuurp*, nnn, *lick, smack, smooch*…』
+『*Suck*, *shlurrrp*, *shlub*, bbpuh*...
+　*shlaplickk*, *lick*, *shlurrp*, nnbuh, *shluck*,
+　*jhuck*....』
 
 
 校長
-『It’s like you’re licking the sweat off my meat
-　pole…gh… You’re using your sticky tongue like it’s
-　coiling around me…』
+『Such a sensual tongue technique... it's as if
+　you're licking off the sweat from my rod....』
 
 小鳥遊 麗子(CH03_0051)
-『Fuafh, mlh… Eroh… Jyuzuzu, jyuro… jyubo… chubo…
-　jyurururu…』
+『Ffuah, *lick*... *lick*... *shluzz*, *shlurp*...
+　*shlop*... *shlop*... *shlurrp*....』
 
 
 校長
-『From the base to the glans… it’s covered in
-　precum and saliva… Ohh… I can’t stop servicing you
-　after all…』
+『From the base to the tip... covered in my pre-cum
+　and... your drool... ooh... this really is too
+　good to give up on...』
 
 ***Cinema_CI03-MS-0101_02
 
 小鳥遊 麗子(CH03_0052)
-『Nnh, please make it easier… nnh… I’m fine… Then
-　I’ll… nmmh… *slurp slurp*』
+『Nn--, feel free to enjoy this... nn... even
+　more... well then, I shall... nnnmm...
+　*shlurrrrrp*--』
 
 
 校長
-『Oh… Ohhh… The tip of your tongue loves the base, but
-　at the same time, it feels like you’re stroking the
-　tip with the back of your throat… Oohh… It’s so deep…』
+『Ogh--... oooh--... caressing the base with your
+　tongue, while wringing out my tip with your
+　throat... oogh... so deep....』
 
 小鳥遊 麗子(CH03_0053)
-『Guh… chu, ogoh… nn… nboh… buboh… pff… jupu… ju…
-　pu, juru jubobobo… jupah…』
+『Guh--... *suck*, ogoh--... nnn... nnboh--...
+　*bhlop*... pph--.... *shlup*... *suck*... puh,
+　*shlurpshloppp*... *shlap*....』
 
 
 校長
-『Thanks to you, Reiko-san, my ejaculation just
-　scratching the space is getting boring. I’ll take
-　responsibility for this forever… Ooh, it’s sucking on me…!』
+『Because of you, just wanking it alone's gotten
+　boring now. I must have you take responsibility
+　for this, for a long ti... oogh--, the suction...!』
 
 ***Cinema_CI03-MS-0101_03
 ***LoopCV_レイコ_VCフェラ_レイコ_イラマ_後期{20}
 
 
 小鳥遊 麗子(CH03_0054)
-『Slurp, slurp… nn, nnn, chubo… slurrp… chuboh…
-　nfuah… chu, nn…』
+『*Shlup*, *shlurp*... nngh--, nnngggh--,
+　*shlop*... *shlurrp*... *shlop*... nnfuah...
+　*suck*, nn...』
 
 
 ***Cinema_CI03-MS-0101_04
 
 校長
-『Ah, this is really good…』
+『This really is fantastic...』
 
 小鳥遊 麗子(CH03_0055)
-『Slurp, slurp… fwah, it’s twitching… nbh… nnh… Are
-　you going to cum soon…? Chubo, shluuurp…』
+『*Shlup*, *shlurp*, fuah, twishin lih ris....
+　nnbuh--.... nnnggh... are you almoh hhere...?
+　*Shlop*, *shlurrp*...』
 
 
 校長
-『They already know all of my weak points… Let’s
-　see, make sure to clean that one more time…』
+『You do seem to have a firm grip on all my weak
+　spots, after all... come on, lick that one spot
+　cleaner...』
 
 小鳥遊 麗子(CH03_0056)
-『Mmph, leave it to me, fuai… Bubozu… jururu… nn,
-　zuzo… chupah… obo…』
+『Nnfuh, leave it to me.... *Bbhluzzz*...
+　*shlurrp*... nngh--, *shluzz*... *shlap*...
+　obbhoh...』
 
 
 ***Cinema_CI03-MS-0101_05
 ***LoopCV_FadeOut
 
 校長
-『Ooh, there, there… More… Harder…! Oh… Ooh…』
+『Ooh, right there.... more... harder...! Ogh--...
+　oooh...』
 
 小鳥遊 麗子(CH03_0057)
-『Bupoh… I’m thinking, nbuh… jububu… Ejaculate…
-　Please, zububo… buboh, nnh…』
+『Bbpoh--... cuhm ah, nnbuh--... *shlubb*... hahd
+　ah you can.... okhay? *Shlbbpp*... *bbhlop*,
+　nnngh--...』
 
 
 校長
-『I’m… going to ejaculate…!』
+『C... Cumming--...!』
 
 
 ***Cinema_CI03-MS-0101_06
 
 小鳥遊 麗子(CH03_0058)
-『Nbuuuhh…!!』
+『Nnbbuuh--....!!!』
 
 
 ***BGround_BG99_00
@@ -305,68 +316,67 @@ took a peek inside, trying not to stand out.
 
 
 小鳥遊 麗子(CH03_0059)
-『Hahh… hahh… nn, hah… fuu… haa, haa… h… haah… ha…』
+『Haah... haah.... nnn, haah... fuuh... haah,
+　haah... haah... haah...』
 
 
 校長
-『My, my, I think I’ll last a little longer every
-　time, but Reiko-san’s tongue technique completely
-　throws me off…』
+『Man, everyday I feel slightly more full of
+　stamina, yet in front of your skilled tongue, I
+　can never last...』
 
 小鳥遊 麗子(CH03_0060)
-『Huff, huff… Today’s, too, is thick… and
-　wonderful. Huff… Sensei, I’ll leave the matter of
-　my daughter’s college to you.』
+『Haah, haah.... it was very thick and... rich
+　today as well. Haafuh.... sensei, about my
+　daughter's college entrance...』
 
 
 校長
-『I know, I know. It’s still years away, but leave
-　it to me.』
+『I know, I know. It's still quite a few years
+　away, but I'll take care of it.』
 
 校長
-『The principal you want to go to is an old friend
-　who’s indebted to me, after all. So until then…
-　Gufufu…』
+『The Dean of the college that you want your
+　daughter to go to is an old friend of mine. So
+　until then... gufufuh~....』
 
 小鳥遊 麗子(CH03_0061)
-『Eheh… What are you saying…? I’ll do as much as it
-　takes to make that happen…』
+『Nnfuh... whatever you say, sensei... I'll do
+　anything for that...』
 
 
 校長
-『Hahaha, well, let’s have some fun with the lower
-　mouth next. Gufufufu…』
+『Hahahah, in that case, I suppose I'll savour your
+　lower mouth next. Gufufufuh~...』
 
 小鳥遊 麗子(CH03_0062)
-『Geez, Sensei…』
+『Jeez, oh you, sensei...』
 
 
 ***BGround_BG07_01
 
-Honestly, I’m at a loss for words at what I just
-saw. It’s just that my sister, who’s strict,
-arrogant, and sarcastic…
+Honestly, the sight I just witnessed left me
+speechless. My sister, who was endlessly harsh,
+arrogant and nasty...
 
-Her lewd voice, expression, and mannerisms turned
-into a woman’s face, closing in on a man. …My
-crotch was twitching without realizing it.
+was burying her face in a man's crotch, with such
+a lewd expression and voice. ...My own cock had
+started throbbing before I knew it.
 
-Then I suddenly came to my senses. What I learned
-there was anger. …Honestly!!! What the PTA?!
-Family lineage?!!
+It was then that I came to my senses. And all that
+was left was anger... Seriously?! PTA and pedigree
+my fucking ass!!
 
-After all the high-and-mighty talk you’ve given me,
-you’re going to sell your body to the principal of
-your daughter’s school to get into the back door??
+The same woman who talked down that much to me,
+was now selling her body to the principal of her
+daughter's school to buy her way into uni??
 
-You’re the one who’s doing the most inappropriate
-thing for a family you’re proud of!!
+And I'm the one who's a disgrace to the family??
 
-I angrily leave the front of the principal’s
-office, where I can hear her sweet, restrained
-voice leaking out.
+I left in a huff by the time I started hearing the
+sounds of them going at it.
 
-I can’t do this!
+Like hell I'll let this stand!
 
 
 ***FadeIn_InSide_Black
@@ -383,30 +393,32 @@ I can’t do this!
 
 ***BGround_BG13_00
 
-*sigh*… I was wandering around and lying down in
-my room for no reason.
+Haah... I was wasting time pacing around the room,
+or lying down on my bed.
 
-I was annoyed by the whole scene I just saw… but
-then I remembered how lustful I was.
+Even though I was ridiculously angry at what I was
+just witness to... I remembered just how aroused I
+was too.
 
-But… the more I think about it, the more
-Reiko-nee-san seems to think. I wonder how much of
-what the PTA said up until now was like that…
+Still... the more I thought about it, the more it seemed like
+exactly the sort of thing she'd come up with. I wondered just how
+much of the PTA nonsense she'd gushed about was along similar lines...
 
-In any case, it’s ridiculous. What the hell was I
-doing when she made fun of me…?
+Either way, it was ridiculous through and through.
+Just why did I have to suffer all that nastiness
+from a bitch like her...
 
 ***SE_引き戸_扉1_horror_game_door_sliding_wood_close_1_light_interior{100}[0](1)
 
-Who is it…? Without knocking…
+Who is it...? Waltzing in without even knocking...
 
 
 ***SE_ヒール足音footstep_concrete_highheels{100}[0](1)
 
-…No way. I look up at the ceiling in
-insensitivity.
+...No way. I looked up at the ceiling out of
+resignation.
 
-Give me a break…
+Spare me, for the love of god...
 
 
 ***BGM_夕日の深呼吸{100}
@@ -414,534 +426,549 @@ Give me a break…
 ***ST_レイコ_B1_デフォ(着衣)_目デフォ_口無表情_赤み03_中央
 
 小鳥遊 麗子(CH03_0063)
-『I’ll be leaving now.』
+『I'm coming in.』
 
 
-Before I could even get up, the source of my
-irritation showed itself.
+Without even giving me time to get up, the source
+of all my irritation stormed in.
 
-…She really came out on her own.
+...She really did come in, without even asking.
 
 主人公
-『What in the world…』
+『Just what do you...』
 
 ***Face_レイコ_目デフォCE_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0064)
-『It’s a proper errand. I need to talk to you about
+『It's not for nothing. I need to talk to you about
 　Otoha.』
 
 
 ***Face_レイコ_目デフォ_口無表情_赤み03
 
-Her interruption only made me more irritated.
+Being interrupted only added fuel to my fire, of
+course.
 
 ***Face_レイコ_目悲しい・テレ_口への字_赤み03
 
 小鳥遊 麗子(CH03_0065)
-『I don’t want to come to a place like this… But
-　it’s for Otoha’s sake. I can’t help it.』
+『Don't misunderstand, I don't like coming to a
+　rat's nest like this either... but it's for
+　Otoha's sake. So it can't be helped.』
 
 
 主人公
-『......』
+『..................』
 
-I shouldn’t carelessly say anything or say
-anything back. For now, I’ll just listen to what
-Reiko-nee-san has to say.
+It'd be best for me to not say or do anything yet,
+lest I give up my cards. For now, let's just hear
+her out.
 
 ***ST_レイコ_A2_デフォ(着衣)_目デフォ_口無表情_赤み03_中央
 
 小鳥遊 麗子(CH03_0066)
-『Sometimes, she comes to this room, doesn’t she?』
+『She comes over here sometimes, doesn't she?』
 
 
 主人公
-『Yeah… Well, we’re relatives. That said, it’s not
-　like I’m in and out. I show my face from time to
-　time…』
+『Yeah... I mean, she is my niece. That said, it's
+　not like she spends much time here, she just comes
+　to show her face every so...』
 
 ***Face_レイコ_目デフォ_口への字_赤み03
 
 小鳥遊 麗子(CH03_0067)
-『I don’t want you to do that at all in the
-　future.』
+『Well, I'd like you to put a stop to that.』
 
 
-Not only was I interrupted again, but I almost
-raised my voice in a shameless way. …Let’s calm
-down.
+Not only was I interrupted, but with words curt
+enough that I almost raised my voice. ...Let's
+calm down.
 
 主人公
-『What do you mean…?』
+『And by that you mean...?』
 
 ***Face_レイコ_目悲しい・テレ_口への字_赤み03
 
 小鳥遊 麗子(CH03_0068)
-『Isn’t it obvious? Unlike you, she has a future
-　and has a promising future, you know?』
+『Isn't it obvious? Unlike you, she's got a future,
+　and a promising one at that, you know?』
 
 
 ***Face_レイコ_目悲しい・テレNL_口への字_赤み03
 
 小鳥遊 麗子(CH03_0069)
-『And yet, I don’t have a moment’s time to waste
-　walking into my uncle’s room like this.』
+『A girl like her has no time to waste in the room
+　of an uncle as pathetic as you.』
 
 
 主人公
-『Gh…』
+『--!....』
 
-Even though she said it was for Otoha-chan’s sake,
-she continued to prattle on as if she was sneering
-at me as well.
+She was saying it all in Otoha-chan's name but,
+she kept going on and on, as if ridiculing me was
+but a side bonus.
 
 ***Face_レイコ_目デフォ_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0070)
-『She’s the one who’s fit to take charge of the
-　Takanashi family. Normally, if you’d been the eldest
-　son, you wouldn’t have had to go through all this trouble, but…』
+『Only she is worthy of carrying forward the Takanashi name.
+　If only you, the eldest son, had been a more responsible
+　person, she wouldn't even have to go through the trouble...』
 
 
 ***Face_レイコ_目デフォCE_口無表情_赤み03
 
-Once again, I’m talking about Takanashi… a frog in
-a well who’s slacking off in a small country
-world. Then I suddenly remember what I saw earlier.
+Takanashi again... All this talk about an
+insignificant countryside family. Truly a frog in a
+well. Suddenly, I remembered the scene I'd just witnessed.
 
 ***Face_レイコ_目デフォ_口無表情_赤み03
 
-Takanashi, Takanashi, I’m proud of what my mother
-is doing…
+The things this Takanashi Takanashi spouting bitch
+that acts like a mother when its convenient does
+behind not so closed doors...
 
-I’m at my limit.
+I really am at my limit.
 
 主人公
-『…Takanashi, huh?』
+『....Takanashi, huh?』
 
 ***Face_レイコ_目悲しい・テレ_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0071)
-『That’s right. You’re just barely in that last
-　seat, just in case. You don’t seem too self-aware.
-　Hah…』
+『That's right. The family that you're still just
+　barely part of. Seems like you have no awareness
+　of that though. Haah...』
 
 
 主人公
-『Is what you’ve been doing with the principal
-　really for Otoha-chan’s sake?』
+『And was what you were doing with the principal
+　just then for Otoha-chan's sake as well?』
 
 ***BGM_マーブルコーヒー{100}
 
 ***ST_レイコ_A3_デフォ(着衣)_目焦り_口無表情_赤み03_中央
 
 小鳥遊 麗子(CH03_0072)
-『Huh…?? …What are you talking about?』
+『Heh...?? ...What are you talking about?』
 
 
-So she’s just going to feign ignorance.
+Going to play the fool till the last, huh?
 
 主人公
-『Reiko-nee-san. I saw her in the principal’s
-　office, using her body to ingratiate herself with
-　the principal.』
+『You know, Reiko-nee-san, I saw it. The way you
+　were buttering up the principal with your body.』
 
 ***Face_レイコ_目怒り_口怒り_赤み03
 
 小鳥遊 麗子(CH03_0073)
-『Wha… Wh-What are you talking about? I didn’t come
-　here to listen to your stupid fantasies…!』
+『Wha--... W... What are you talking about? I
+　didn't come here to listen to your nonsensical
+　delusions, you know...!』
 
 
 主人公
-『I said I saw it with my own eyes! Admit it!!』
+『I'm only saying it because I saw it with my own
+　eyes! Just give up!!』
 
 ***Face_レイコ_目焦り_口怒り_赤み03
 
 小鳥遊 麗子(CH03_0074)
-『…!!』
+『--...!!』
 
 
-It’s been a while since I’ve seen Reiko-nee-san
-flinch. I’ll just say everything I want to say.
-
-主人公
-『Well, anyway… I’m talking about Reiko-nee-san,
-　who’s a hot-headed guy. She’s probably doing it
-　for herself while saying it’s for Otoha-chan’s sake.』
+It's been a while since I've seen her flinch like
+that. Let's just keep going with the momentum and
+get it all out.
 
 主人公
-『There’s nothing to say if you can satisfy your own
-　sexual desires, and on top of that, your daughter
-　can go to a good school. That’s the plan, isn’t it?』
+『Well, I mean... it's a man-starved whore like you
+　we're talking about. You're saying it's for her
+　sake but in the end, it's just for yourself, no?』
+
+主人公
+『Not only do you get to satisfy your lust, but
+　also send her to a good college. Two birds with
+　one stone, or am I wrong?』
 
 ***Face_レイコ_目睨み_口怒り_赤み03
 
 小鳥遊 麗子(CH03_0075)
-『I-I don’t have the right to say anything to
-　someone like you…!!』
+『I-I don't need to hear that from the likes
+　of--...!!』
 
 
-Now that I have a good look at Reiko-nee-san’s
-appearance… her bare chest, perfume, thick makeup,
-her well-groomed hair…
+Her exposed cleavage, perfume, heavy makeup, and
+properly done hair... now that I was calmer, I
+could see it all.
 
-She’s clearly going to invite a man… What’s she
-doing for her daughter? It’s… for Takanashi’s sake
-anyway.
+She was completely out to seduce a man...
+Otoha-chan my ass. In the end... it's all for the
+great "Takanashi".
 
 主人公
-『You’re not even half bad.』
+『I bet a whore like you loves every second of it
+　too.』
 
 ***Face_レイコ_目焦り_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0076)
-『Gh!!!』
+『--!!!!』
 
 
 主人公
-『I already know this, y’know? You can insult me
-　however you want. But what’ll happen if I let this
-　fact slip?』
+『I already know about all of it, you know? Feel free
+　to say whatever you want. But what do you think
+　would happen, if I were to just let this news spread?』
 
-I’d lose to young girls like Otoha-chan and
-Rino-chan, but the skin and hair that hide the
-luster are not much for inviting men.
+Though she might lose to girls in their prime like
+Otoha-chan or Rino-chan, the lustre her skin and
+hair still possessed was enough to seduce any man.
 
 主人公
-『One thing is clear: The way Reiko-nee-san is
-　aiming for Otoha-chan to go on to college is to
-　bubble up and disappear.』
+『One thing's clear for sure. Your efforts to get
+　her into that college in your head will fizzle out
+　like bubbles.』
 
 ***Face_レイコ_目怒り_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0077)
-『Dear, I didn’t think that would benefit you,
-　Takanashi…』
+『Do you think that'd be beneficial to the
+　Takana...』
 
 
-The makeup on her lips is so voluptuous that it’s
-almost deliberate. Every time she speaks, it moves
-seductively.
+The makeup on her lips made them look unnaturally
+plump and soft. With every word of hers, they
+moved seductively.
 
 主人公
-『Takanashi probably doesn’t matter anymore. What
-　I’m saying is that this incident isn’t just for
-　Reiko-nee-san and the principal anymore.』
+『Who gives a damn about Takanashi? What I'm saying
+　is that this little incident is no longer just
+　between you and the principal.』
 
 ***Face_レイコ_目焦り_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0078)
-『Don’t tell me…you’re…threatening me?』
+『Wait... are you... threatening me?』
 
 
 主人公
-『It means you can do it if you want.』
+『If I wanted to, I could.』
 
 ***ST_レイコ_B1_デフォ(着衣)_目焦り_口無表情_赤み03_中央
 
 The more I looked at her, the more sexually
-aroused I became, even though she was my own older
+aroused I felt, even though she was my blood
 sister.
 
-It was after I’d seen the foreplay just a little
-while ago.
+Part of it was also the fact that I'd just seen
+her "thorough foreplay" just then.
 
-…No matter what I say, Reiko-nee-san will probably
-try to persuade me or soothe me…
+...Of course, no matter what I said, it wasn't
+gonna stop her from trying to argue me down or
+cajole me...
 
-But that wasn’t what I was looking for right now.
+However, none of that was what I wanted right now.
 
 
 ***Face_レイコ_目睨み_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0079)
-『Stop thinking about stupid things! Uchiha…
-　Takanashi…』
+『Stop thinking about such nonsensical things! We
+　are... As Takanashis, we...』
 
 
 主人公
-『You really don’t have to call me Takanashi
-　anymore. The next time I say it… I might leak what
-　I’ve seen to someone, you know?』
+『Seriously, just drop it. Say the word "Takanashi"
+　again... and my lips will start talking to every
+　random person I see.』
 
 ***Face_レイコ_目困りCE_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0080)
-『Th-Then…gh… Just pretend you didn’t see it…
-　Forget it. I was thinking of Otoha…』
+『I-In that... case, pretend you didn't see
+　anything... and forget about it. That was all for
+　Otoha's...』
 
 
 ***Face_レイコ_目困り_口無表情_赤み03
 
 主人公
-『You’re so stubborn, Reiko-nee-san… Let’s see… A
-　price worth forgetting, huh…』
+『As bossy as always... let's see... what'd make it
+　worth forgetting...』
 
 ***Face_レイコ_目睨み_口無表情_赤み03
 
 小鳥遊 麗子(CH03_0081)
-『That said, I’ve learned my lesson from the lack
-　of money!!』
+『Just so you know, I'm not going to give you a
+　single penny!!』
 
 
-With those words, it suddenly ignites. Money…
-doesn’t matter right now.
+Just that one line was enough to light a fire in
+me. ...Who the fuck gives a damn about money?
 
-want to conquer thisfemale That’s the only thing
-occupying my heart.
+All I wanted was to conquer this 'bitch' in front
+of me. That was all that was in my mind right now.
 
 主人公
-『Even if it’s not an extra salary, I’m not that
-　strapped for money. …More importantly, this is all
-　up to you, Reiko-nee-san.』
+『My pay here might not be anything special, but
+　I'm really not strapped for cash. ...Really, the
+　rest is all up to you, sister dearest.』
 
 小鳥遊 麗子(CH03_0082)
-『Wh-What’s going on here…?』
+『W-What do you mean...?』
 
 
 主人公
-『It’s like this.』
+『This is what I mean.』
 
-I show her my already swollen dick through my
-pants.
+I showed her the tent I was pitching, my
+implicitly erect cock behind it.
 
 ***ST_レイコ_B2_デフォ(着衣)_目困り_口困り_赤み04_中央
 
 小鳥遊 麗子(CH03_0083)
-『Eek…』
+『Hih--....』
 
 
-I couldn’t help but grin at the sound of a voice
-I’d never heard before.
+I couldn't help but grin at the novel squeal I
+heard out of her mouth for the first time ever.
 
-She was the principal’s female slave until just a
-little while ago, but she’s so pure-hearted…
+Even though she was playing the part of the
+principal's slave until just a few minutes ago,
+suddenly she was acting all innocent...
 
 主人公
-『If you let me do the principal’s job too… I’ll
-　keep it all to myself.』
+『If you start doing for me what you do for the
+　principal... I wouldn't mind staying quiet.』
 
 ***Face_レイコ_目焦り_口無表情_赤み04
 
 小鳥遊 麗子(CH03_0084)
-『Y-You’re joking, aren’t you…? W-We’re real
-　siblings, you know? We’re insane!』
+『Y-You're joking, right...? W-We're siblings, you
+　know? You're insane!』
 
 
 主人公
-『I think it suits the unruly Reiko-nee-san,
-　though… Whether you say no or agree, it’s up to
-　you.』
+『Really? I think it'd be a perfect fit for an
+　unprincipled whore like you though~... Well, it's
+　your choice whether you accept it or not.』
 
 主人公
-『But think carefully about whether or not you
-　really have the right to refuse. You’ll ruin your
-　precious Otoha-chan’s education, too, you know?』
+『But you should give it a good, hard think whether you really
+　have the option to say no here. After all, your precious
+　Otoha-chan's academic future's hanging in the balance here, you know?』
 
 主人公
-『That’s not all. The name of the Takanashi you care about
-　the most will fall to the ground, too. You won’t be able
-　to keep your big face in this town like you used to.』
+『And it's not just that. The Takanashi name, which you oh
+　so love to use, will come crashing to the ground. You
+　won't be able to walk around like you own the place anymore.』
 
 ***Face_レイコ_目焦り_口困り_赤み04
 
 小鳥遊 麗子(CH03_0085)
-『…!!』
+『--....!!』
 
 
 ***Face_レイコ_目困りNL_口無表情_赤み04
 
 主人公
-『Or, regardless of that, it’s a different story if
-　you were having a good time with that principal…』
+『Or if it's none of that, and you were just doing
+　it with him because you just love sucking on his
+　cock, well that'd be a different story...』
 
 ***Face_レイコ_目困り_口への字_赤み04
 
 小鳥遊 麗子(CH03_0086)
-『Th-That’s not it…』
+『I-It's not...』
 
 
 主人公
-『In that case, there’s no way I wouldn’t respond,
-　right? Should I ruin the ‘snack’ I’ve been using
-　up until now, or should I obey me…?』
+『In that case, there's only one real option here,
+　no? Either to ruin all your "efforts" up until
+　now, or to obey me....』
 
 ***Face_レイコ_目睨み_口への字_赤み04
 
 小鳥遊 麗子(CH03_0087)
-『…Why would I… w-with someone like you…!?』
+『....Why do I... h-have to do it with a man like
+　you of all...!』
 
 
 主人公
-『…If you have a problem with that, then
-　Otoha-chan’s advance will disappear, and
-　Reiko-nee-san’s position will disappear. That’s all.』
+『...If you've got a problem with it, then I'm
+　afraid both your status and Otoha-chan's future
+　will fall to the ground. That's all.』
 
 主人公
-『Rumors spread quickly in the countryside like this, and Nee-san’s back
-　and forth. Even if she looks at you coldly, you won’t be able to go
-　anywhere, and you’ll end up living your life exposed to their gazes, y’know?』
+『Rumours spread quickly in small towns like these. And you just
+　ran back here after your divorce, too. You'll be stuck living
+　here forever under the contemptful gazes of others, you know.』
 
 ***Face_レイコ_目焦り_口無表情_赤み04
 
 小鳥遊 麗子(CH03_0088)
-『…You’re crazy… We’re siblings, not to mention… I
-　don’t want to be with someone like you!』
+『...You're insane... Doing it with a sibling...
+　you of all people at that... as if!』
 
 
 主人公
-『You don’t understand the position you’re in, do
-　you…? I’m saying you’ll keep quiet just by obeying
-　me and doing it.』
+『You really don't understand the position you're
+　in, huh... Even though it's as simple as obeying
+　me to keep my lips sealed.』
 
 ****Face_レイコ_目困り_口への字_赤み04
 
 小鳥遊 麗子(CH03_0089)
-『…I’m… ah… with someone as low-ranking as you…』
+『...There's no way I'd... d... do it with a person
+　as trash as...』
 
 
 主人公
-『Huh, so Reiko-nee-san, that’s the extent of your
-　daughter, Otoha-chan, and your position, in the
-　end, right?』
+『Hoh, so in the end, all that talk about
+　Otoha-chan and your own position only amounts to
+　that much, huh?』
 ***Face_レイコ_目睨み_口無表情_赤み04
 
 小鳥遊 麗子(CH03_0090)
-『Th-That’s not it…!』
+『T-That's not...!』
 
 
 主人公
-『In that case, there’s no need to hesitate, is
-　there? Come on, hurry up and kneel like you’ve
-　made the principal.』
+『If so, what's there to hesitate about? C'mon, get
+　on your knees already, like you did in front of
+　the principal.』
 
 ***Face_レイコ_目困りCE_口への字_赤み04
 
 小鳥遊 麗子(CH03_0091)
-『…!! …I-If you want to do it that badly…th-then
-　just do it…! Hurry up and get it over with…!』
+『--....!! ...If--... If you want to do it that
+　badly then... f-fine...! Just get it over
+　with...!』
 
 
 主人公
-『Wow, you’re done resisting, huh? Or do you
-　actually want your own brother’s cock?』
+『Hoh, done resisting, huh? Or do you actually want
+　your little brother's cock that badly?』
 
 主人公
-『It’s completely different from the principal’s, after
-　all… It’s the kind of cock you should bring when you’re
-　sexually frustrated. You really are a slut, Reiko-nee-san.』
+『I mean, it's quite the thing compared to the principal's
+　cock, after all... It's the perfect cock for sexually
+　frustrated whores like yourself. What a slut you are, sister dearest.』
 ***ST_レイコ_B3_デフォ(着衣)_目怒り_口への字_赤み04_中央
 
 小鳥遊 麗子(CH03_0092)
-『Wha… It’s because you’re coercing me!』
+『Wha--... you're the one coercing me into doing
+　this!』
 
 
 主人公
-『What did you say?』
+『What was that?』
 
 ***Face_レイコ_目焦り_口への字_赤み04
 
 小鳥遊 麗子(CH03_0093)
-『Gh…』
+『--!....』
 
 
 主人公
-『Well, it looks like you’ve already decided to be
-　my toy, so I guess the details don’t matter.』
+『Well, you've already made peace with becoming my
+　toy, so I won't sweat the details.』
 
 ***Face_レイコ_目困りCE_口への字_赤み05
 
 小鳥遊 麗子(CH03_0094)
-『Kh… Hurry up and finish this. …This is
-　repulsive…!!』
+『Kuh--... get this over with quickly... you
+　repulsive man...!!』
 
 
 ***Face_レイコ_目怒り_口への字_赤み05
 
-Guess I’ll start by breaking this stubborn side of
-her…
+For the time being, I suppose I'll start by
+pulverizing her stubborn side to dust...
 
-I took out my shaft, which had been sticking up
-the cloth as if it were about to break, and
-brought it close to Reiko-nee-san’s face.
+I took out my rod that was pushing on my trousers
+so hard it almost ripped through, and pointed it
+at her face.
 
 
 ***Cinema_CI03-MS-0101_10
 
 
 主人公
-『Hurry… Right?』
+『Quickly... alright?』
 
 
 小鳥遊 麗子(CH03_0095)
-『No… ah…』
+『Yah--... ah--....』
 
 
 主人公
-『Come on… It’s more worth sucking on something
-　young than an old man like that, isn’t it?』
+『C'mon... isn't a young, youthful cock better than
+　that old fart's?』
 
 小鳥遊 麗子(CH03_0096)
-『Kh… You don’t know what you’re doing…』
+『Kuh.... do you even understand what you're...』
 
 
 主人公
-『Do you want to be exposed that badly?』
+『Damn, you really want it to be made public that
+　bad, huh?』
 
 小鳥遊 麗子(CH03_0097)
-『Gh…』
+『--!....』
 
 
 ***Cinema_CI03-MS-0101_11
 
 主人公
-『Come on, lick it. You were glad to lick the
-　principal’s, weren’t you?』
+『C'mon, lick it. You were licking his so
+　deliciously, no?』
 
 小鳥遊 麗子(CH03_0098)
-『Mm, hah… Th-That’s for Otoha’s sake…』
+『Nn, hah... t-that was for Otoha's, sake...』
 
 
 主人公
-『I’m tired of hearing that, too. So this is all
-　for Otoha-chan’s sake, isn’t it?』
+『I'm seriously tired of hearing that. If that was
+　for Otoha-chan's sake then isn't this too? C'mon.』
 
 
 ***Cinema_CI03-MS-0101_12
 
 小鳥遊 麗子(CH03_0099)
-『Nbuh…!』
+『Nnbuh--...!』
 
 
 主人公
-『Come on, make me feel better than the principal.』
+『C'mon, make it feel better than you did for him.』
 
 ***Cinema_CI03-MS-0101_13
 
 小鳥遊 麗子(CH03_0100)
-『Ngh… No… ah…』
+『--!.... no... ah...』
 
 
 主人公
-『What do you mean, ‘no’ now? You’re so obvious.
-　Come on, hold it all the way in. Don’t grind your
-　teeth, okay?』
+『What's the point of going "no" now? What a hollow
+　bitch. C'mon, take it in deep. And I better not
+　feel any teeth, alright?』
 
 小鳥遊 麗子(CH03_0101)
-『Mm, uh… mmm… hyah…!』
+『Nn, uu... nnnnn... hyah--...!』
 
 
 主人公
-『Stop glaring at me. I don’t care what happens to
-　Otoha-chan, though.』
+『Keep that glare to yourself. I mean, unless you
+　don't give a shit about what happens to
+　Otoha-chan.』
 
 
 ***Cinema_CI03-MS-0101_14
 
 小鳥遊 麗子(CH03_0102)
-『Nn, bu… uu… ngoh…』
+『Nn, buh... nn... nngoh...--!....』
 
 
 ***Cinema_END

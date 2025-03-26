@@ -6,20 +6,20 @@
 ***BGround_BG13_00
 
 
-Ever since I learned that Rino was in the rhythmic
-gymnastics club, I’d added a student’s rhythmic
-gymnast club member to my favorite odds.
+Ever since I found out that Rino-chan was in the
+rhythmic gymnastics club, highschool gymnastics
+stuff has become my favourite fap material.
 
-I can’t stand the leotard sticking to me and
-digging into me. …That said, I’m still no match
-for a real schoolgirl.
+The way those leotards dig into their bodies is
+just too good. ...Still, in the end media can't
+compare to the real thing.
 
-I’d like to go take a peek at the club to see the
-real thing, but it’s already evening. I’ll give up
-on today and go on a random patrol.
+I'd love to go and take another peek at them doing
+their club activities, but it was already evening.
+Guess I'll just do a normal patrol for once.
 
-The sun’s setting. The heat’s probably subsided a
-little. Maybe I’ll head out to the field.
+The sun was setting too, so the heat should be
+dying down. I could go out to the ground.
 
 
 ***BGround_BG01_00
@@ -30,21 +30,23 @@ little. Maybe I’ll head out to the field.
 
 ***SE_footsteps_asphalt_trainers_walk_slow_x8_loop_mono
 
-There was a bit of wind, but the steamy heat still
-lingered, and sweat trickled down my back.
+There was a bit of a breeze but, the humid heat
+was still refusing to give it up, and I was
+already starting to sweat.
 
-As I gazed at the long shadow, I heard young men
-and women talking when I came near the clubroom
-building. They were probably students.
+As I watched the shadows get longer while walking
+around, I heard a young male and female pair talking
+from near the club building. Probably some students.
 
-If we’re a couple, I’ll take a peek.
+If they're a couple, even better. Guess I'll
+check.
 
-It pisses me off that she’s such a normie for a
-kid, but if I get to watch her breastfight, I
-might be able to turn the woman into an idiot.
+It pissed me off seeing kids having romances, but
+if I could catch them fondling each other, the
+girl would make for some good fap material.
 
-I gently look in the direction of the voice from
-behind the building.
+I quietly threw my glance at the voices from the
+shadow of the building.
 
 ***BGM_不穏な空気{100}
 
@@ -53,66 +55,65 @@ behind the building.
 ***ST_リノ_A2_デフォ(着衣)_目デフォ_口微笑_赤み03_右１
 ***PC_タカシ_A1_デフォ(着衣)_左１
 
-…Rino-chan and an unfamiliar male student were
-there.
+...But the ones I saw there? Rino-chan and an
+unknown student.
 
-Our shoulders are huddled together as if we’re
-close. Are we dating…?
+They were almost snuggling with how close they
+were. Are they dating...?
 
-I didn’t think Rino had a boyfriend… No, she was a
-good girl. It wouldn’t be strange for her to have
-a lover.
+To think Rino-chan had a boyfriend... No, she's a
+fine jewel, so that's not all that surprising.
 
-…Unsatisfied, I decided to take a peek.
+...But no matter how reasonable it was, it didn't
+sit right with me.
 
 ？？？
-『Sooo, his feints and stuff are so obvious that
-　he’s actually holding his own team back.』
+『So you know, his feints are super obvious, and if
+　anything, he's holding back the rest of the team.』
 
 ***ST_リノ_C2_デフォ(着衣)_目大笑い_口微笑_赤み03_右１
 暁 莉乃(CH02_0070)
-『Ahaha, what’s that supposed to mean?』
+『Ahahah, seriously?』
 
 
 ？？？
-『If you’re at that level, you’d be better off
-　going around to defense like normal.』
+『Honestly, he should just stick to playing defense
+　at his level.』
 
 暁 莉乃(CH02_0071)
-『Ahaha, Taka-kun, that’s a harsh way to put it,
-　geez. Come to think of it, didn’t you go all out
-　at the district tournament before the break?』
+『Ahahah, you're being too harsh, Taka-kun.
+　Thinking about it, at the regionals before summer,
+　you beat them all black and blue, didn't you?』
 
 
 たかし
-『Oh, that’s right. Yeah! You didn’t come, did you,
-　Rino? I could’ve definitely shown you my good
-　side.』
+『Ah~, that~? Yeah! You should have come, Rino. I'd
+　have showed you my cool side~.』
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03_右１
 
 暁 莉乃(CH02_0072)
-『Sorry. I just couldn’t go. I was busy with
-　rhythmic gymnastics, too.』
+『Sorry. I just couldn't go. I was busy with my own
+　club.』
 
 
-The way she talks cheerfully makes it seem like
-she’s dating her boyfriend and girlfriend.
+The way they were talking, they really did look
+like a couple.
 
-It really had been a long time since I’d seen Rino
-smile. My indescribable feelings were building up
-like sediment.
+It really had been a while since I'd seen her
+smile like that. Indescribable feelings built up
+within me like mud.
 
 ***ST_リノ_C2_デフォ(着衣)_目微笑_口微笑_赤み03_右１
 
 暁 莉乃(CH02_0073)
-『But I wanted to see you doing well, Taka-kun. I
-　also wanted to cheer you on.』
+『But I wish I could have seen you going at it. I
+　wish I could have cheered you on.』
 
 
 たかし
-『Thanks. When you’re able to see it, come take it
-　seriously.』
+『Thanks. Seriously, come when you can, I'll show
+　off a bit.』
 
 ***ST_リノ_C2_デフォ(着衣)_目大笑い_口微笑_赤み03_右１
 
@@ -120,271 +121,280 @@ like sediment.
 『Yeah.』
 
 
-She stuck close to the man… and Rino didn’t even
-let go. It was a far cry from her attitude toward
-me.
+She clung closely to him... and didn't even try to
+let go. It was a night and day difference from the
+way she was with me.
 
-She laughs like she’s having fun talking about
-stupid stuff like that… and sometimes looks at men
-like they’re playing dumb.
+Laughing at all that pointless drivel with so much
+joy... and even looking at him with dazed eyes
+sometimes.
 
-Damn it. What the hell… They’re flirting…
+Fuck. The hell... flirting with her like that...
 
 たかし
-『No matter what you say, if you look at the whole
-　team, they’re in top shape, so the next practice
-　match should be easy.』
+『Still, I said all that but, if you take the
+　entire team on average, we're in top form so we'll
+　probably get through the next practice game no sweat.』
 
 ***ST_リノ_D1_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_右１
 
 暁 莉乃(CH02_0075)
-『Geez, you’ll definitely let your guard down if
-　you do that, you know?』
+『Jeez. Now you're just getting cocky, you know?』
 
 
 たかし
-『But the opposing school is seriously weak.』
+『I'm telling you, the other team's pathetically
+　weak.』
 
 ***ST_リノ_B1_デフォ(着衣)_目大笑い_口微笑_赤み03_右１
 
 暁 莉乃(CH02_0076)
-『Yeah, yeah. But make sure you practice properly,
-　okay? It’d be really lame if you lost just because
-　you said that.』
+『Fine fine. But you gotta practice, okay? If you
+　lose after talking big game like that, it'll be
+　really lame, you know?』
 
 
 たかし
-『I know, I know. I’ll practice… and if Rino comes
-　to cheer me on because of that, I’m pretty sure
-　we’ll win.』
+『I know, I know. I'll practice, I'll practice...
+　but you know, if you come to cheer me on too,
+　that'll really give me a boost.』
 
-No matter how you looked at it, it wasn’t a good match
-for Rino-chan. The man she called “Taka-kun” seemed
-like a sports club, which only made me more irritated.
+He wasn't even remotely in her league, from any
+angle. I only felt more and more irritated at this
+sports club kid she called "Taka-kun".』
 
-Why would something like that and Rino-chan, of
-all people…? They were too blind to look at.
+Why a guy like him, of all people... She really
+has no eye for men at all.
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み03_右１
 
 暁 莉乃(CH02_0077)
-『Hmm… I’m sorry. I was wearing it again on the day
-　of club activities…』
+『Nnn... sorry. It's overlapping with my club's
+　stuff again...』
 
 
 たかし
-『It’s all right, Rino’s still busy. Right!』
+『It's fine, it's fine. I know you're busy, it's
+　fine!』
 
 ***ST_リノ_B3_デフォ(着衣)_目驚き_口困り_赤み05_右１
 
 暁 莉乃(CH02_0078)
-『Gh…』
+『--...』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口大笑い_赤み06_右１
 
 暁 莉乃(CH02_0079)
-『G-Geez! Don’t pat my head all of a sudden. I’m
-　not a kid…』
+『J... Jeez! Don't rub my head like that, I'm not a
+　kid...』
 
 
 たかし
-『Rino’s so cute when she’s blushing and turning
-　bright red.』
+『But you are super adorable when you go red like
+　that~』
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口大笑い_赤み04_右１
 
 暁 莉乃(CH02_0080)
-『Geez… I-I’d be in trouble if someone saw me…』
+『Jeez... What if someone s-sees me like this...』
 
 
 たかし
-『You already know who we’re dating, don’t you?』
+『What's it matter? Everyone more or less already
+　knows that we're going out, no?』
 
 ***ST_リノ_C2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み04_右１
 
 暁 莉乃(CH02_0081)
-『B-But…』
+『B-But...』
 
 
 たかし
-『If there’s someone you don’t know yet, let’s show
-　them.』
+『And if there's still people who don't, let's just
+　show it off to them.』
 
-The man’s hand descended, unable to move from the
-head he was stroking to the shoulder, and I could
-tell that he’d tightened his grip on Rino-chan.
+His hand went down from the head he was rubbing to her
+shoulders in a single motion without letting go, and it was
+easy to see that he put some power behind pulling her even closer.
 
 ***ST_リノ_C2_デフォ(着衣)_目驚き_口困り_赤み04_右１
 
 暁 莉乃(CH02_0082)
-『…Ah, wait.』
+『--... Ah, hey...』
 
 
-Rino twisted her body slightly, and I could see
-her gently trying to avoid it.
+She twisted her body slightly, and I could see her
+trying to avoid it.
 
-That man is closing the distance more and more, as
-if he doesn’t understand that at all.
+But the man kept pulling her closer anyway, as if
+not seeing that at all.
 
 たかし
-『Hey, let’s kiss.』
+『Hey, let's kiss.』
 
 ***ST_リノ_C1_デフォ(着衣)_目焦り_口無表情_赤み04_右１
 
 暁 莉乃(CH02_0083)
-『No, like I said, if someone sees us…』
+『Wh--, I told you, if someone sees us here...』
 
 
 たかし
-『…But we haven’t even kissed yet, y’know?』
+『...You say that, but we still ain't kissed even
+　once, you know?』
 
 ***ST_リノ_C2_デフォ(着衣)_目焦り_口無表情_赤み04_右１
 
 暁 莉乃(CH02_0084)
-『So… not yet, or rather, that’s, how should I put
-　it… umm, it’s not a place like this…』
+『I told you... not yet, or really, how do I...
+　erhm, I don't want it in a place like this...』
 
 
 たかし
-『Rino, you’re so serious about that… You really
-　are cute!!』
+『Rino, that serious side of you... it really is
+　just straight adorable!!』
 
 ***ST_リノ_C2_デフォ(着衣)_目焦り_口無表情_赤み04_右１
 
 暁 莉乃(CH02_0085)
-『Wah…』
+『Wah--...』
 
 
 ***PC_タカシ_A1_デフォ(着衣)_画面外
 
-The shitty brat hugged Rino as hard as he could.
-In that moment, his irritation turned black and
-insidious.
+The son of a bitch suddenly hugged her, with all
+his might. And at that moment, my irritation
+turned into a darker, more sinister feeling.
 
 ***BGM_マーブルコーヒー{100}
 
 ***ST_リノ_A2_デフォ(着衣)_目焦り_口無表情_赤み05_中央
 
 暁 莉乃(CH02_0086)
-『Mm, don’t hug me for a second. Of course… I
-　can’t… I told you…』
+『Nn, don't hug me like that. I... told you...
+　I...』
 
 
 たかし
-『Rino, after taking a shower? It smells really
-　good…』
+『Rino, did you just take a shower? You smell super
+　good...』
 
 ***ST_リノ_C2_デフォ(着衣)_目焦り_口焦り_赤み05_中央
 
 暁 莉乃(CH02_0087)
-『Gh…! …Geez… H-Hey… L-Let me go already, I really
-　can’t.』
+『--!... --!.... Jeez... H-Hey... l-let go already,
+　I really can't.』
 
 
 ***SE_movement_snow_rr1_mono
 
 たかし
-『Don’t be so frantic. You like me, don’t you?
-　Don’t run away.』
+『Don't make a fuss like that. You love me, no? So
+　don't try to run.』
 
 ***ST_リノ_C2_デフォ(着衣)_目悲しい・テレ_口つぐみ_赤み05_中央
 
 ***ST_リノ_C2_デフォ(着衣)_目悲しい・テレ_口つぐみ_赤み05_画面外
 
 暁 莉乃(CH02_0088)
-『Hah… yah… like I said, not yet…』
+『--Hah... no--... I told you--, not yet--...』
 
 
 ***SE_movement_snow_rr1_mono
 
 ***ST_リノ_E1_デフォ(着衣)_目困り_口つぐみ_赤み05汗05_中央
-The man’s hand firmly touched Rino’s chest, and
-she moved to massage it.
+His hands were now firmly on her chest, squeezing
+and rubbing it.
 
 ***Face_リノ_目悲しい・テレ_口焦り_赤み06
 
 暁 莉乃(CH02_0089)
-『Yah… nnh… hah… uh, nn…』
+『No... nn--... haah... uu, nnn....』
 
 
 たかし
-『You’re still breathing, aren’t you?』
+『You're saying all that, but your breathing's
+　getting hot too.』
 
 ***Face_リノ_目悲しい・テレ_口無表情_赤み06
 
 暁 莉乃(CH02_0090)
-『N-No… This, umm… Taka-kun, you’re really… wrong…』
+『N-No--... this is, uhm--... Taka-kun, I
+　seriously... can't...』
 
 
 たかし
-『You’re not wrong, I like Rino, too… Look…』
+『Nope, you can. I love you too, Rino... Look...』
 
-A man’s leg was between Rino’s legs, closing in on
-her.
+He was pushing up his own leg right between hers.
 
 ***Face_リノ_目悲しい・テレCE_口つぐみ_赤み05
 
 暁 莉乃(CH02_0091)
-『Huff, huff… Huff… That’s… no good…』
+『Haah--... haah--... I told you... stop...--』
 
 
 たかし
-『Rino, I really like you…』
+『Rino, I seriously love you...』
 
 ***Face_リノ_目悲しい・テレCE_口つぐみ_赤み06
 
 暁 莉乃(CH02_0092)
-『Please… hah… d-don’t move… Um, I-It’s Taka-kun’s…
-　ah… it’s hitting me… so I can’t… No…』
+『Please... hah... p-pull it back... Uhm, y-your
+　uhm... is... is poking into me... so I can't... I
+　don't...』
 
 
-I don’t know if she’s rejecting the man who’s
-still sitting still and saying something will hit
-her… but Rino-chan doesn’t move.
+He didn't move an inch, and Rino-chan kept saying
+things like "it's poking into me" without clearly
+telling him off... or pushing him away herself.
 
-Even though she doesn’t know I’m here, here…
+Even if they don't know I'm here, doing it in
+public like this is a bit...
 
 たかし
-『…Rino, I really can’t take it anymore. It’s not
-　here… I know a place where people won’t see me.』
+『...Rino, I really can't take it anymore. It
+　doesn't have to be here... I know a more hidden
+　away place.』
 
 ***Face_リノ_目悲しい・テレNL_口困り_赤み06
 
 暁 莉乃(CH02_0093)
-『No, nh, d-don’t…! That’s really… nah… ah, hah…』
+『No--... N-No... --! ...I really can't... nnah...
+　ah, hah....』
 
 
 たかし
-『You’re gasping too, Rino… Let me do a little
-　more… I’ll move after that…』
+『You're panting too, Rino... Let me do it here a
+　bit more... then we can move...』
 
 暁 莉乃(CH02_0094)
-『No… I’m not… gasping… Um… I can’t yet… Taka-kun,
-　please really, stop.』
+『No--... I'm not... panting... Erhm... I really
+　can't yet... so please, Taka-kun, stop it.』
 
 
 ***Face_リノ_目困りCE_口困り_赤み06
 
 たかし
-『I’ll make you feel good, and it won’t hurt…』
+『I'll make sure it doesn't hurt, I'll make you
+　feel really good too...』
 
-Beneath Rino’s cowering skirt… I reached for her
-crotch.
+As she quivered, paralyzed, he reached into her
+skirt and... went for her crotch.
 
 ***Face_リノ_目悲しい・テレ_口無表情_赤み06
 
 暁 莉乃(CH02_0095)
-『No…! Geez…! …Stop, really…no…』
+『No--... stop... seriously, I mean it... no...』
 
 
 たかし
-『I’ll be fine…』
+『It's fine...』
 
 ***Face_リノ_目怒りCE_口怒り_赤み06
 
 暁 莉乃(CH02_0096)
-『I’m telling you to stop!!!』
+『STOP IT ALREADY!!』
 
 
 ***PC_タカシ_A1_デフォ(着衣)_画面外
@@ -397,13 +407,12 @@ crotch.
 
 ***FadeIn_InSide_Black
 
-Just as I was about to jump out, Rino shoved her
-opponent away with both hands as she tried to
-attack.
+Just as I thought he was going to pull his own
+out, Rino-chan pushed away the man inches away
+from assaulting her.
 
-His opponent staggered, and though he hadn’t
-fallen on his butt, his face twisted in
-discomfort.
+He stumbled, and though he didn't fall on his ass,
+his expression looked like he did.
 
 ***FadeOut_InSide_Black
 
@@ -411,83 +420,84 @@ discomfort.
 ***ST_リノ_A2_デフォ(着衣)_目睨み_口無表情_赤み06_右１
 
 たかし
-『Gh… What… hurts…? …You don’t have to shove me
-　away!』
+『...The hell... that hurts... what are you pushing
+　me away for!?』
 
 ***ST_リノ_A2_デフォ(着衣)_目睨み_口怒り_赤み06_右１
 
 暁 莉乃(CH02_0097)
-『Hah hah… I’ve been telling you to stop… hahh… all
-　this time!』
+『Haah--, haah... I kept... haah... I kept telling
+　you, to stop for so long!』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目睨み_口無表情_赤み06_右１
 
 暁 莉乃(CH02_0098)
-『I-I… I like you, Taka-kun, but… haaa haa… I don’t
-　want to do that yet…!』
+『I-I... I love you, I do but, haah, haah... I
+　still don't... want to, do that yet!』
 
 
 たかし
-『Seriously, you… You’ve been, still, still…』
+『You know, you... you always keep saying "not
+　yet", "not yet", not fucking yet...』
 
-The atmosphere was so grim that it was hard to
-believe they’d been laughing together just a
-moment ago.
+The mood was so tense, it was hard to believe that
+they were just laughing and giggling snuggled up
+to each other until moments ago.』
 
 たかし
-『Hgh… Hahh… That’s enough. Seriously. …I’m going
-　home.』
+『... haah--... I can't anymore. Seriously, it's
+　too much. ...I'm going home.』
 
 ***ST_リノ_B2_デフォ(着衣)_目怒り_口への字_赤み06_右１
 
 暁 莉乃(CH02_0099)
-『Huh?! H-Hey! Isn’t it awful to go home because of
-　that?』
+『Haah?! H-Hey! Isn't that just mean?! Are you
+　really just walking away like that?』
 
 
-Rino-chan’s face is bright red, either from anger
-or shock.
+Her face was read, though I couldn't tell whether
+it was from anger or shock.
 
 ***PC_タカシ_A1_デフォ(着衣)_画面外
 
-Even so, the other shitty brat silently glanced at
-Rino, walking off in the direction I was hiding.
+But still, the dipshit brat only glared back at
+her, before walking away straight where I was
+hiding.
 
 暁 莉乃(CH02_0100)
-『……You’re the lowest!』
+『....So awful!』
 
 
 ***ST_リノ_B2_デフォ(着衣)_目悲しい・テレ_口への字_赤み06_中央
 
-…Even as I watched her spit it out in secret, I
-could clearly tell that Rino had melted into a
-man.
+...Even as I watched her spit those words out, I
+could tell that her heart had already melted for
+that kid long ago.
 
-Up until now, I’ve only been able to watch my body
-through a feast for the eyes, but…
+Until now, I made do with only leering at her for
+my own viewing pleasure but...
 
-Faced with this sight, the dark desire to
-monopolize Rino hardened my crotch.
+Seeing a scene like this only made my cock rock
+hard, with a desire to monopolize her.
 
-I won’t give Rino-chan…that body to that shitty
-brat.
+Like hell I'd give her up... her body up, to that
+dipshit.
 
 ***BGM_FadeOut
 
-It’s mine.
+It's mine. She's mine.
 
-I’ll never give it to a kid like that.
+Like hell I'd let him have her.
 
-Carrying the swirling emotions, I gently walked
-away from the scene as well.
+With swirling emotions, I left the place too.
 
 
 ***FadeIn_InSide_Black
 
 ―――――
 
-―――
+――
 
 
 ***BGM_異次元のセピア{100}
@@ -500,215 +510,215 @@ away from the scene as well.
 ***ST_リノ_A1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03汗00_中央
 
 暁 莉乃(CH02_0101)
-『…Hahh…』
+『...Haah...』
 
 
 暁 莉乃(CH02_0102)
-『…Geez, this really sucks… You’re the worst…』
+『... Seriously, just the... worst...』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み03_中央
 
 暁 莉乃（独白）(CH02_0103)
-『I really am the worst and the worst………me.』
+『I seriously am... the worst.』
 
 
 暁 莉乃(CH02_0104)
-『Hahh…』
+『Haah...』
 
 
 暁 莉乃（独白）(CH02_0105)
-『…When you hugged me, Taka-kun… my heart was
-pounding so hard… It wasn’t just that. I was
-lusting.』
+『...When he hugged me, my heart... really
+pounded... no, I was aroused.』
 
 
 暁 莉乃（独白）(CH02_0106)
-『It’s not like you’re… cute or anything. I’ve been
-expecting it… ever since I was next to you.』
+『And not from when he... called me cute and stuff.
+No, I'd been wanting it... since he got near me.』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 暁 莉乃（独白）(CH02_0107)
-『When I smelled Taka-kun’s… manly scent, I got
-horny…』
+『When I smelled his scent... his manly scent, it
+made me horny...』
 
 
 暁 莉乃（独白）(CH02_0108)
-『And when I looked back into her eyes, the eyes
-that were smiling innocently were really
-gleaming…』
+『And when I looked at him, his smiling, innocent
+eyes were glittering so bright...』
 
 
 ***ST_リノ_A3_デフォ(着衣)_目困り_口無表情_赤み04_中央
 
 暁 莉乃（独白）(CH02_0109)
-『And then I suddenly remembered the gaze of that
-creepy janitor who’d just arrived…and I got
-chills…』
+『And that made me remember that disgusting new
+custodian's, that uncle's gaze... and it made my
+body throb...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目微笑_口困り_赤み06_中央
 
 暁 莉乃（独白）(CH02_0110)
-『Just like that… when you pat me on the head, it
-tickles… It feels so good… I feel like I’m going
-to feel good…』
+『And then he... stroked my head, it tickled so
+much... it felt so good... it felt like I was
+going to org...』
 
 
 暁 莉乃（独白）(CH02_0111)
-『Ever since you asked me to kiss you… and what’s
-more… when our bodies were pressed together,
-Taka-kun’s thing… was touching my thighs, through my pants…』
+『And then he said he wanted to kiss me... and he
+even... squeezed me tight and, rubbed his thing...
+against me...』
 
 
 ***ST_リノ_C2_デフォ(着衣)_目微笑_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0112)
-『……I thought I wanted it.』
+『...and I wanted it so bad.』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 暁 莉乃（独白）(CH02_0113)
-『I was trying to feign composure by pretending to
-be joking, but my breath caught in my throat.』
+『I tried to play it off by acting silly and stuff
+but, I really was out of breath.』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み04_中央
 
 暁 莉乃（独白）(CH02_0114)
-『She knew… I was gasping for air, too… Geez… This
-sucks…』
+『And he could... tell so easily... I'm... just the
+worst...』
 
 
 暁 莉乃（独白）(CH02_0115)
-『And yet you pushed me away with all your might…』
+『And yet I pushed him away like that at the
+end...』
 
 
 暁 莉乃
-『......』
+『..................』
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み06_中央
 
 暁 莉乃（独白）(CH02_0116)
-『The truth is, I didn’t think it was a good idea
-to do it in that place, let alone in public… And
-then…』
+『Honestly, I really didn't care if he just did me
+right then and there... and when I thought about
+that...』
 
 
 ***ST_リノ_C2_デフォ(着衣)_目微笑_口無表情_赤み06_中央
 
 暁 莉乃（独白）(CH02_0117)
-『I know I’m getting more and more wet… It would’ve
-definitely been bad if I’d gotten my hands on it
-like that…』
+『I could tell I was getting really wet... if I let
+him put his hand in there, he would have
+definitely...』
 
 
 ***ST_リノ_C2_デフォ(着衣)_目悲しい・テレ_口への字_赤み05_中央
 
 暁 莉乃（独白）(CH02_0118)
-『That’s why I had no choice…』
+『So I didn't have a choice at all....』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口驚き_赤み07_中央
 
 暁 莉乃(CH02_0119)
-『…Huff… Huff… huff…』
+『... Haah... Haah... Haah...』
 
 
 暁 莉乃（独白）(CH02_0120)
-『But I wanted it… Even now that I’m remembering
-it…I’m shivering. I wanted you to do it… It hurts,
-it hurts…』
+『But, I really wanted it... Even just thinking
+about it... is making me throb. I wanted him to do
+me... I want to, I wanted to do it so bad...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目困り_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0121)
-『I can’t even cover up that much, so there’s no
-way Taka-kun wouldn’t find out I’m a dirty woman
-if he did anything more than that.』
+『I couldn't hide even that much from him, so if he
+went any further, he would have figured out just
+what sort of a whore I am.』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目困り_口つぐみ_赤み07_中央
 
 暁 莉乃（独白）(CH02_0122)
-『I… want to do it too. It’s not just kissing… I
-want to.』
+『It's not like I... don't want it. Screw
+kissing... I want to do it.』
 
 
 ***ST_リノ_B3_デフォ(着衣)_目トロ_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0123)
-『A lot more extreme things than kissing, with my
-beloved Taka-kun…』
+『Something way more extreme than kissing, with my
+Taka-kun...』
 
 
 暁 莉乃（独白）(CH02_0124)
-『I want… to do it lots…』
+『I want to... do it so bad, do it so much...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 暁 莉乃(CH02_0125)
-『Mm… haa haa… Calm down, calm down, I…』
+『Nn... haahaah... calm down, calm down,
+　Rino...--!』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目困り_口への字_赤み07_中央
 
 暁 莉乃（独白）(CH02_0126)
-『I’m even more excited. So… That’s why I can’t.
-Absolutely not.』
+『I'm way too aroused. That's why... that's why I
+can't. I definitely can't.』
 
 
 暁 莉乃（独白）(CH02_0127)
-『It’s because it’s me that I can’t do it…』
+『"I" can't....』
 
 
 ***ST_リノ_A2_デフォ(着衣)_目悲しい・テレ_口困り_赤み07_中央
 
 暁 莉乃（独白）(CH02_0128)
-『The fact that I… have this body… It’s not cute at
-all. I’m just lewd, greedy…』
+『Because my... body's like this... I'm not cute at
+all. I'm just a, slutty, whore...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目困り_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0129)
-『‘I don’t want her to know…that I’ve already had
-that body since before we started dating Taka-kun…
-…I absolutely do not want anyone to know.’』
+『I don't... want him to know that my body's been
+like this... from even before we started dating.』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0130)
-『‘I still want people to think I’m the kind of girl
-Taka-kun thinks I am…’』
+『For now, for just a bit longer... I want him to
+keep thinking of me, as the pure girl he thinks I
+am...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目微笑_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0131)
-『Like not hurting… or feeling good… …It doesn’t
-hurt, and it feels good… I know that…』
+『"I'll make sure it doesn't hurt"?... "I'll make
+you feel really good"?... It won't hurt, and I
+already know... that it feels really good...』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 暁 莉乃（独白）(CH02_0132)
-『I know everything. Everything, even things that
-Taka-kun can’t even imagine… I’ve experienced, and
-I know.』
+『I know it all. I've experienced way more insane
+stuff... than he could ever think of.』
 
 
 ***ST_リノ_C1_デフォ(着衣)_目悲しい・テレ_口つぐみ_赤み07_中央
 
 暁 莉乃（独白）(CH02_0133)
-『That’s why I absolutely don’t want them to know
-that I’m not the kind of girl you think I am,
-Taka-kun.』
+『So no matter what happens, I don't want him to
+find out, that I'm not the sort of girl he thinks
+I am.』
 
 

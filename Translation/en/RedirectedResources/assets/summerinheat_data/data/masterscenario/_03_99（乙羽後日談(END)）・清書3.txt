@@ -5,16 +5,17 @@
 
 ―――――
 
-―――
+――
 
 ―
 
 小鳥遊 乙羽（独白）(CH01_1539)
-『Time passed in the blink of an eye after that…』
+『After that, time passed by in the blink of an
+eye...』
 
 小鳥遊 乙羽（独白）(CH01_1540)
-『Summer vacation’s over, and the new semester’s
-starting… I…』
+『Summer vacation ended, the new school term
+started... and I...』
 
 
 ***SELoop_夕方のヒグラシ_ライセンス確認済み{45}
@@ -27,99 +28,98 @@ starting… I…』
 ***ST_オトハ_A1_デフォ(着衣)_目デフォ_口微笑_赤み03_中央
 
 友人Ａ
-『Otoha-chan! Thanks for lending me your notebook
-　today.』
+『Otoha-chan! Thanks for letting me borrow your
+　notes again.』
 
 友人Ｂ
-『Geez, did you borrow it from Otoha again?』
+『Jeez, you borrowed them from her again?』
 
 友人Ａ
-『Ehehe…』
+『Eheheh...』
 
 ***Face_オトハ_目微笑_口微笑_赤み03
 
 小鳥遊 乙羽(CH01_1541)
-『It’s okay, it’s fine. I might have to borrow it
-　too.』
+『It's fine, it's fine. I might need to borrow them
+　someday myself too, so.』
 
 
 小鳥遊 乙羽（独白）(CH01_1542)
-『I was nervous at first… but now I’ve gotten used
-to the class and made some close friends, even
-when I’m withdrawn.』
+『I was nervous at first but... I've gotten used to
+class now, and even a shy girl like me has managed
+to get herself some close friends.』
 
 
 ***Face_オトハ_目大笑い_口微笑_赤み03
 
 友人Ｂ
-『Oh, that’s right. Otoha, why don’t we go home
-　together today?』
+『Ah, right. Otoha, wanna walk home together
+　today?』
 
 ***Face_オトハ_目驚き_口困り_赤み03
 
 小鳥遊 乙羽(CH01_1543)
-『Huh…?』
+『Eh...?』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み03
 
 友人Ａ
-『Yeah, that’s right! Let’s go home together once
-　in a while!』
+『Yeah, good idea! Let's walk home together
+　sometime, c'mon!』
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03
 
 小鳥遊 乙羽(CH01_1544)
-『Ah… S-Sorry. Um, I’ve got some business to attend
-　to today…』
+『Ah... s-sorry. I actually have to stop by
+　somewhere... for some stuff...』
 
 
 友人Ａ
-『Whaaat? Again?!』
+『Eh, again~?!』
 
 友人Ｂ
-『Hey… Look, that’s not it. It’s that thing, that
-　thing.』
+『Hey now... it's, you know. That kind of a deal.』
 
 友人Ａ
-『Huh? That thing…? Oh, don’t tell me…』
+『Eh? You mean... ah, no way...』
 
 友人Ａ
-『You have a boyfriend, don’t you?!』
+『You've got a boyfriend, don't you!』
 
 ***Face_オトハ_目焦りCE_口微笑_赤み04
 
 小鳥遊 乙羽(CH01_1545)
-『N-No …It’s not like that. I really have something
-　to do…』
+『N-No~... it's nothing like that. I really do have
+　something to take care of~....』
 
 
 友人Ａ
-『Ahh, but maybe. Otoha, your grades are really
-　good… It wouldn’t be strange for you to be
-　studying in secret right now.』
+『Ah, but I guess it makes sense. You've got some
+　insane grades, Otoha... I wouldn't be surprised if
+　you were trying to go and sneak in some extra studies.』
 
 ***Face_オトハ_目驚き_口無表情_赤み05
 
 小鳥遊 乙羽(CH01_1546)
-『Huh… I-I didn’t do anything that special…』
+『Eh... I-It's nothing that insane, okay...?』
 
 
 友人Ｂ
-『Ahaha, that’s possible. If it’s about studying,
-　I’m already full from class. I have homework to
-　do…』
+『Ahahah, I wouldn't be surprised either. I'm
+　already in over my head with the classwork and
+　assignments...』
 
 友人Ａ
-『Then we won’t be able to keep up with that
-　errand. Oh, but. Whether you’re my boyfriend or
-　someone I like, tell us if you can.』
+『If it's something like that, we really can't come
+　along with you~. Ah but, if you get a boyfriend or
+　get a crush on someone, let us know, okay?』
 
 ***Face_オトハ_目焦りCE_口微笑_赤み04
 
 小鳥遊 乙羽(CH01_1547)
-『Y-Yeah. Of course. …Okay, I’ll hurry, so this is
-　it. …See you later.』
+『Y-Yeah. Of course. ...Then, I'm gonna go, I gotta
+　hurry. ...See you later.』
 
 
 ***FadeIn_InSide_Black
@@ -128,12 +128,12 @@ when I’m withdrawn.』
 
 
 小鳥遊 乙羽（独白）(CH01_1548)
-『It’s completely different from my previous school,
-and everyone’s so carefree… I’m living a life where I
-feel like it’s the first time I’ve had fun at school.』
+『Unlike my old school, everyone's really easygoing
+here... for the first time, it feels like school
+is fun.』
 
 小鳥遊 乙羽（独白）(CH01_1549)
-『But that’s not the only reason I think it’s fun…』
+『But, it's not just because of that...』
 
 ***BGM_FadeOut
 
@@ -151,7 +151,7 @@ feel like it’s the first time I’ve had fun at school.』
 ***BGM_雲わすれの夏{100}
 
 小鳥遊 乙羽(CH01_1550)
-『I’m here, Uncle.』
+『I'm here, uncle.』
 
 
 ***SELoop_FadeOut
@@ -161,37 +161,39 @@ feel like it’s the first time I’ve had fun at school.』
 ***ST_オトハ_A2_デフォ(着衣)_目微笑_口微笑_赤み05_画面外
 
 小鳥遊 乙羽（独白）(CH01_1551)
-『My uncle still lives and works at this school as
-a janitor even after the new term starts.』
+『Uncle's still working here, as the live-in
+custodian, despite the new term.』
 
 
 小鳥遊 乙羽（独白）(CH01_1552)
-『That’s because the previous janitor is still sick
-and doesn’t seem to be doing well…』
+『Because, well, the previous one didn't seem to be
+getting any better and...』
 
 
 小鳥遊 乙羽（独白）(CH01_1553)
-『I was told that he retired due to his age. That’s
-why the old man was hired as an official janitor.』
+『Apparently, since he was already pretty old, he
+decided to just retire. So uncle was hired as the
+official school custodian.』
 
 
 小鳥遊 乙羽（独白）(CH01_1554)
-『I thought it might only be during summer
-vacation… in the height of summer, but… my
-expectations were betrayed in a good way.』
+『I really thought that... our relationship would
+only last as long as the summer did but... my
+expectations were pleasantly betrayed.』
 
 
 小鳥遊 乙羽（独白）(CH01_1555)
-『Secretly… our relationship continues without
-anyone noticing. So…』
+『And so we continued our relationship... in
+secret, without letting anyone know. So...』
 
 
 小鳥遊 乙羽（独白）(CH01_1556)
-『I’m going to spend the next summer, and the next…
-and the whole time… with the man I love.』
+『Next summer, and the one after that... and all
+the time in between too... I'll be spending all of
+it, with my beloved uncle.』
 
 
-End
+END
 
 ***BGM_FadeOut
 ***SELoop_FadeOut

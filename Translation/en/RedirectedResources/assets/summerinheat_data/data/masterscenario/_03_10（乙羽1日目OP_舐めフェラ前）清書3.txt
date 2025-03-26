@@ -8,56 +8,57 @@
 ***BGM_時の流れは味わうもの的なbgm{100}
 
 小鳥遊 乙羽（独白）(CH01_0577)
-『A cute, loose-looking lamune candy with a
-yogurt-flavored cream in a small container.』
+『Cute ramune candy, with a cute mascot character
+on it. A small cup of yoghurt cream.』
 
 
 小鳥遊 乙羽（独白）(CH01_0578)
-『Fugashi made from a variety of flavors that I
-often bought. And… ice candy made from tubes that
-can be folded in two.』
+『Stick of fugashi, of the flavour we always
+picked. And... a tube of sherbet, that can be
+split in half and shared.』
 
 
 小鳥遊 乙羽(CH01_0579)
-『I bought quite a bit… Maybe I bought too much.
-　But it’s okay, right?』
+『I bought a whole lot, now that I thought about
+　it... but it should be fine, right?』
 
 
 小鳥遊 乙羽（独白）(CH01_0580)
-『When I think about meeting my uncle with the
-candy we ate together a lot in the past…』
+『I mean, when I think about how I'm going to see
+uncle, with all these snacks we used to share
+together...』
 
 
 小鳥遊 乙羽（独白）(CH01_0581)
-『I feel like I can remember the past like it was
-just a little while ago, and honestly relax.』
+『It makes the old days feel like they were less
+long ago, and I think it'll really help me relax.』
 
 
 小鳥遊 乙羽（独白）(CH01_0582)
-『…But I’m… with Uncle…』
+『...But, just the other day... we...』
 
 
 小鳥遊 乙羽(CH01_0583)
-『No! I’m here to have fun talking to you like I
-　used to.』
+『No! I came here to just chat and spend time with
+　him, like I used to, not that!』
 
 
 小鳥遊 乙羽（独白）(CH01_0584)
-『Yeah, okay, I’m fine! Let’s go! …Uncle said he’d
-be in his room at this hour.』
+『Alright, okay, I'm fine! Let's go! ...He did say
+that he's usually in his room around this time.』
 
 
 ***SE_door_09_knock{80}
 
-This is the first time I’ve been here to play
-properly. My throat tightens.
+It was the first time I was actually going to see
+him just to hang out. My throat felt a bit tight.
 
 小鳥遊 乙羽(CH01_0585)
-『Uncle, it’s… Otoha.』
+『Uncle, it's me... Otoha.』
 
 
 主人公
-『Yeah. Come in.』
+『Yeah, come on in.』
 
 
 ***FadeIn_InSide_Black
@@ -66,7 +67,7 @@ properly. My throat tightens.
 
 ***BGM_FadeOut
 
-―――
+――
 
 
 ***FadeOut_InSide_Black
@@ -80,29 +81,29 @@ properly. My throat tightens.
 ***ST_オトハ_A1_デフォ(着衣)_目大笑い_口微笑_赤み03_中央
 
 小鳥遊 乙羽（独白）(CH01_0586)
-『Ever since then… I’ve been talking to my uncle so
-much that it’s like my nervousness just now was a
-lie.』
+『After that... we'd been talking for so long, that
+it was hard to believe that I'd been so nervous
+earlier.』
 
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み03
 
 小鳥遊 乙羽(CH01_0587)
-『That’s why Mom got so angry…』
+『And then mom got so mad...』
 
 
 主人公
-『You’re right. That was another hot summer day,
-　wasn’t it?』
+『She sure did. Come to think of it, that was a hot
+　summer day too, wasn't it?』
 
 小鳥遊 乙羽(CH01_0588)
-『Yeah. That’s why I forgot the sweets I was eating
-　outside…』
+『Yeah. And because of that, I forgot the snacks we
+　were eating outside and...』
 
 
 主人公
-『Yeah, yeah, that’s right. …Man, this takes me
-　back.』
+『Oh yeah, you did. ...Man, that really brings back
+　the memories.』
 
 ***Face_オトハ_目大笑い_口微笑_赤み03
 
@@ -111,146 +112,148 @@ lie.』
 
 
 主人公
-『Speaking of nostalgia, here.』
+『You know what else I just got reminded of?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口無表情_赤み05_中央
 
 小鳥遊 乙羽（独白）(CH01_0590)
-『Ah… Uncle patted his own knees… and this…』
+『Ah... he's patting his lap... that's...』
 
 
 小鳥遊 乙羽（独白）(CH01_0591)
-『I recognize this gesture and the signal.』
+『I think I remember what that's for.』
 
 
 主人公
-『Otoha-chan, come here.』
+『Come on over, Otoha-chan.』
 
 ***ST_オトハ_C1_デフォ(着衣)_目驚き_口焦り_赤み06_中央
 
 小鳥遊 乙羽(CH01_0592)
-『Huh?!』
+『Eh!?』
 
 ***SE_heart beating_mix{100}
 
 ***Face_オトハ_目驚き_口無表情_赤み07
 
 小鳥遊 乙羽（独白）(CH01_0593)
-『It’s… familiar, but… …Unlike in the past, my
-heart beats faster.』
+『I do... remember, but... unlike back then, my
+heart's pounding.』
 
 
 小鳥遊 乙羽
-『......』
+『..................』
 
 
 主人公
-『Otoha-chan, what’s wrong?』
+『What's wrong, Otoha-chan?』
 
 小鳥遊 乙羽（独白）(CH01_0594)
-『Oji-san’s staring at me… My heart’s beating so
-fast just from being called…』
+『Uncle's looking right at me... even though my
+heart's already beating so fast, just from him
+calling me over...』
 
 
 主人公
-『Come on, I’m sure you used to sit on my lap a
-　lot. Remember when we were talking about nostalgic
-　things.』
+『You remember how you used to sit on my lap a lot,
+　no? I just got reminded of it.』
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0595)
-『It’s true, that’s how it used to be… In the past,
-we’d sit and talk casually and happily…』
+『I did used to, a lot... I would just sit on his
+lap, and just chat all day...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口困り_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0596)
-『But now… I’m so conscious of it. …If I sit there,
-my heart’s beating so fast, my body’s…c-clinging
-to it…!』
+『But now... I'm so conscious of it. ...If I sit on
+his lap, we'll be super close and, he'll... f-feel
+my heartbeat...!』
 
 
 ***ST_オトハ_A2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み07_中央
 
 小鳥遊 乙羽(CH01_0597)
-『Ah, y-yeah. …Yeah, you’re right.』
+『Ah, y-yeah. ...I, do.』
 
 
 小鳥遊 乙羽（独白）(CH01_0598)
-『I want to… touch you, Uncle, but… that just
-happened…』
+『I want to... touch him... But 'that' literally
+just happened...』
 
 
 主人公
-『......』
+『...............』
 
 小鳥遊 乙羽
-『......』
+『...............』
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレNL_口困り_赤み07_中央
 
 ***SE_Heart beating_Mix
 
 小鳥遊 乙羽（独白）(CH01_0599)
-『Sit down… If by any chance… my uncle… hits me
-again… what should I do?』
+『If I sit down... and his thing... starts
+poking... into me again... what do I do?』
 
 
 主人公
-『Otoha-chan? You don’t like it…?』
+『Otoha-chan? I guess you're not that young
+　anymore...』
 
 ***ST_オトハ_D1_デフォ(着衣)_目驚き_口困り_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0600)
-『Huh…? I feel like… maybe I’m the only one…
-thinking about this…?』
+『Huh... by any chance... am I the only one...
+thinking stuff like that...?』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目驚き_口無表情_赤み08_中央
 
 小鳥遊 乙羽（独白）(CH01_0601)
-『N-No… I’m actually getting embarrassed.』
+『G-Gosh... that's so embarrassing. Why am I like
+this?』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0602)
-『The reason I came here today… is because of our
-original relationship…』
+『I came here today to... be like we used to be...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0603)
-『I came because I wanted to talk to you like I
-used to. …Okay!!』
+『I came here because I wanted to hang out with
+him, like we used to. ...Alright, I'll do it!!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_中央
 
 小鳥遊 乙羽(CH01_0604)
-『Th-Then… It’s been a really long time, so it
-　might be heavy, but…』
+『T-Then... it's been a, l-long time so I might be
+　a bit heavier but...』
 
 
 主人公
-『Hahaha. You don’t have to worry about that.』
+『Hahahah. You don't need to worry about that.』
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0605)
-『I’ll, do it…』
+『Here, we go...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_アップ
 
 小鳥遊 乙羽（独白）(CH01_0606)
-『I-It’s on my uncle’s lap… I can feel his scent
-and body heat… I’m getting nervous after all…!』
+『I-I'm on his lap... I can feel his warmth, and
+his scent too... This really is making me
+nervous...!』
 
 
 主人公
@@ -259,47 +262,47 @@ and body heat… I’m getting nervous after all…!』
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口焦り_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0607)
-『Y-Yeah?!!』
+『Y-Yeah--!??』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口困り_赤み06_アップ
 
 小鳥遊 乙羽（独白）(CH01_0608)
-『No, my voice got a little high-pitched… What’s
-going on… all of a sudden?』
+『Gosh, that came out so weird... just what's...
+gotten into me?』
 
 
 主人公
-『I’m pretty sure you bought that bag of sweets,
-　right? I wonder what kind?』
+『That bag's full of sweets and candy that you
+　brought, right? What sort of sweets are they?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0609)
-『Oh, yeah.』
+『Ah, yeah.』
 
 
 小鳥遊 乙羽（独白）(CH01_0610)
-『Haaah, you scared me… Wait, ah!!』
+『Haah, that surprised me... ah, wait!!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口困り_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0611)
-『Uncle, there’s a chupit inside there! I
-　completely forgot. It’s melting!』
+『Uncle, there's freeze pops in there! I completely
+　forgot about them, they'll melt!』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口微笑_赤み05_アップ
 
 主人公
-『Oh, I see. Chewpit, huh? This takes me back
-　again. So, shall we eat together now?』
+『Oh, really? Freeze pops, huh? Now that's
+　nostalgic too. Want to have them now then?』
 
 ***ST_オトハ_B3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0612)
-『Yeah! Ahh… I wonder if it’s all gooey…』
+『Yeah! Aah... I hope they haven't melted...』
 
 
 ***SE_Plastic Grocery Bag 2 Unpack{100}[0](1)
@@ -307,8 +310,9 @@ going on… all of a sudden?』
 ***ST_オトハ_C1_デフォ(着衣)_目大笑い_口微笑_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0613)
-『Ah, it looks like it’s pretty good. I thought I’d
-　share half of this with you…』
+『Ah, seems like they're still fine. You see, I
+　bought them so that we could split them and
+　share...』
 
 
 ***SE_click 07{100}
@@ -316,177 +320,181 @@ going on… all of a sudden?』
 ***ST_オトハ_B3_デフォ(着衣)_目微笑_口微笑_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0614)
-『Nnh…』
+『Nn--...』
 
 
 ***ST_オトハ_C2_デフォ(着衣)_目微笑_口微笑_赤み04_アップ
 
 小鳥遊 乙羽(CH01_0615)
-『Yes, Uncle.』
+『Here, uncle.』
 
 
 主人公
-『Oh, thank you.』
+『Oh, thanks.』
 
 ***ST_オトハ_D1_デフォ(着衣)_目微笑_口微笑_赤み04_アップ
 
 小鳥遊 乙羽(CH01_0616)
-『Heh heh. Ah… um, it’s still a little melted after
-　all… Let’s dig in.』
+『Fufuh. Ah... it really is starting to melt...
+　Well, it's still good though.』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目微笑_口微笑_赤み06_アップ
 
 小鳥遊 乙羽（独白）(CH01_0617)
-『…Mm, my face is getting hot again, so these
-snacks might be just right for the cold…』
+『....Nn, my face is starting to burn up again, so
+this might just be perfect right now...』
 
 
 ***ST_オトハ_B1_デフォ(着衣)_目微笑_口困り_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0618)
-『Ah, it’s dripping… Nnh, chu… uuh… chu… nnh… Chu…
-　rero…』
+『Ah, it's oozing out... nnn, *suck*... uu...
+　*suck*... nn--... *lick*... *suck*...』
 
 
 ***ST_オトハ_B1_デフォ(着衣)_目微笑_口微笑_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0619)
-『Nnh, it’s so good… It’s melting like this… Nnah…
-　Hmph, chu… *lick*…』
+『Nn--, so good... honestly, it's perfect like
+　this, just as it's starting to... nnah...
+　*suck*... *lick*...』
 
 
 主人公
-『......』
+『...............』
 
 ***ST_オトハ_C1_デフォ(着衣)_目微笑_口トロ笑い_赤み05_アップ
 
 小鳥遊 乙羽(CH01_0620)
-『Chu… chuph… mmchu… rero… chu… hamh…』
+『*suck*... *shlurp*... *shluck*... *lick*...
+　*suck*... haahm...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目デフォ_口困り_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0621)
-『Uncle, what’s wrong? Don’t eat, just stare… …I
-　wonder if it’s stuck to somewhere that’s melted?』
+『What's wrong, uncle? You're staring at me instead
+　of eating it... did some drip onto my face?』
 
 
 主人公
-『Y-Yeah… No, it’s just that Otoha-chan’s licking
-　was… umm, stimulating.』
+『N-No... it's just, the way you're licking it
+　is... erhm, it's a bit stimulating.』
 
 小鳥遊 乙羽
-『…??』
+『...??』
 
 
 主人公
-『Now, now. You’ll eat too, Uncle.』
+『Well, it doesn't matter. I'll eat mine too.』
 
 ***ST_オトハ_C1_デフォ(着衣)_目大笑い_口困り_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0622)
-『Yeah. …Chu…fh…』
+『Okay. ...*suck*... fuuh...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目デフォ_口困り_赤み05_アップ
 
 小鳥遊 乙羽（独白）(CH01_0623)
-『…Stimulation…? It’s a normal orange flavor, but…
-I don’t think that’s what you meant by taste… I
-wonder what it is…?』
+『...Stimulating...? It's just orange flavoured
+though... he didn't mean the flavour, did he? ...I
+wonder what he meant...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目微笑_口困り_赤み06_アップ
 
 小鳥遊 乙羽(CH01_0624)
-『…Slurp… lick… nn, nnn… lick, hafh…』
+『...*shlurp*... *lick*... nn, nnnn... *lick*,
+　*pant*....』
 
 
 小鳥遊 乙羽(CH01_0625)
-『Kiss… h… hm?』
+『*suck*... nnn?』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目微笑_口困り_赤み06_アップ
 
 小鳥遊 乙羽（独白）(CH01_0626)
-『H-Huh…? It’s kind of… hitting my butt…』
+『H... Huh? ...I can feel... something poking into
+my butt...』
 
 
 小鳥遊 乙羽(CH01_0627)
-『Hamh…gh… hafh… lick…』
+『Aahm... *pant*... *lick*...』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目微笑_口困り_赤み07_アップ
 
 小鳥遊 乙羽（独白）(CH01_0628)
-『I-I’m just imagining things…right? …It’s not just
-my imagination…?? Wh-What should I do…? Right
-now…you’re hitting my butt…』
+『I-It's just my imagination... right? ...It's
+not...?? W-What do I do... the thing... that's
+poking into my butt right now--....』
 
 
 ***ST_オトハ_A3_デフォ(着衣)_目驚き_口困り_赤み07_アップ
 
 小鳥遊 乙羽(CH01_0629)
-『Gh…』
+『--!....』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目驚き_口困り_赤み07_アップ
 
 小鳥遊 乙羽（独白）(CH01_0630)
-『I knew it… Your… dick… is… hitting me… right…?!』
+『It... must be... h-his dick... right...?!』
 
 
 ***ST_オトハ_D1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み08_アップ
 
 小鳥遊 乙羽(CH01_0631)
-『Mmmm…』
+『Nnn....』
 
 
 小鳥遊 乙羽（独白）(CH01_0632)
-『I wonder if I should stand up… What should I do…?
-I definitely can’t find out for sure…』
+『Maybe I should get up... what do I do... I
+definitely can't ask him, I just can't...』
 
 
 小鳥遊 乙羽（独白）(CH01_0633)
-『We were finally able to talk like we used to…
-…But it’s not your fault, Uncle…』
+『Even though things were getting to the way they
+used to be... But, it's not his fault either...』
 
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレNL_口無表情_赤み08_アップ
 
 小鳥遊 乙羽
-『......』
+『..................』
 
 ***ST_オトハ_D2_デフォ(着衣)_目悲しい・テレ_口無表情_赤み08_アップ
 
 小鳥遊 乙羽（独白）(CH01_0634)
-『If I think about something else, I might stop
-worrying about it… …Ah, that’s…』
+『If I, focus on something else, I might be able to
+ignore it... T-That, over there...』
 
 
 ***ST_オトハ_C1_デフォ(着衣)_目悲しい・テレ_口無表情_赤み08_アップ
 
 小鳥遊 乙羽(CH01_0635)
-『M-Mister. Is that… a lost item box over there?』
+『U-Uncle. Is that... a lost and found box?』
 
 
 主人公
-『Yeah, that’s right. I lost quite a few things.
-　There’s something else in this room besides
-　managing it in the staff room.』
+『Aah, yeah. I find a lot of lost and found stuff.
+　So I keep a box here too, separate from the one in
+　the staff room.』
 
 ***ST_オトハ_A3_デフォ(着衣)_目悲しい・テレ_口微笑_赤み08_アップ
 
 小鳥遊 乙羽(CH01_0636)
-『I-I see. Can I take a look inside?』
+『I-I see. Could I have a look inside?』
 
 
 主人公
-『Yeah, I don’t mind.』
+『Sure, I don't mind.』
 
 小鳥遊 乙羽(CH01_0637)
-『Th-Thank you…』
+『T-Thanks...--』
 
 
 ***SE_movement_snow_rr1_mono{100}[0](1)
@@ -494,144 +502,148 @@ worrying about it… …Ah, that’s…』
 ***ST_オトハ_B2_デフォ(着衣)_目悲しい・テレ_口微笑_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0638)
-『Phew… We’re finally separated. Maybe I’m
-mistaken, but… I can’t just sit there like that.』
+『Fuuh... I managed to get away. It could also just
+be a misunderstanding on my part but... I really
+couldn't just keep sitting on his lap like that.』
 
 
 小鳥遊 乙羽（独白）(CH01_0639)
-『But even though we were finally able to be
-together… it’s a bit of a shame… that we’ll be
-separated.』
+『But, we finally got to be that close together
+too... so having to get up... feels really
+disappointing too.』
 
 
 小鳥遊 乙羽（独白）(CH01_0640)
-『Hmm… But…』
+『Nnnn... but...』
 
 
 主人公
-『There’s a lot of lost items in the box even
-　before you started working.』
+『Actually, this box was already here when I
+　started this job, and even back then there were a
+　lot of things in it.』
 
 小鳥遊 乙羽(CH01_0641)
-『…I see.』
+『...Huh.』
 
 
 小鳥遊 乙羽（独白）(CH01_0642)
-『…I wonder what I should do at times like that…
-Hmm, I don’t know.』
+『...What do I even say... Nnn, I really can't
+think of anything.』
 
 
 小鳥遊 乙羽（独白）(CH01_0643)
-『Anyway, it’s good that we got separated. I’m
-really conscious of it too…』
+『Either way, it's a good thing I got up. I'm
+getting so conscious...』
 
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み05
 
 小鳥遊 乙羽（独白）(CH01_0644)
-『Sigh… Even though it was normal when we were
-smiling and talking… Wow, there’s a lot of stuff
-in there…』
+『Haah... even though it was going so normally,
+with us laughing and chatting... Uwah, there's a
+whole lot of stuff in here...』
 
 
 ***Face_オトハ_目デフォ_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0645)
-『…Pen, eraser… There’s a lot more than I thought.
-And there’s something bigger underneath…』
+『...A few pens and pencils, erasers... a whole lot
+more than I thought. And there's some even bigger
+things at the bottom...』
 
 
 ***SE_Dry_Food_In_Box_Movement_7{100}[0](1)
 
 主人公
-『Hey, there’s a lot going on, isn’t there?』
+『There's a lot of things in there, aren't there?』
 
 小鳥遊 乙羽(CH01_0646)
-『Yeah. And… Hm…? …What’s this?』
+『Yeah. And... nn...? ...What's this?』
 
 
 ***ST_オトハ_B3_デフォ(着衣)_目デフォ_口無表情_赤み04_中央
 
 小鳥遊 乙羽（独白）(CH01_0647)
-『What’s with this stick…? A relay baton for
-physical education?? …But that’s not something an
-individual lost…』
+『A rod of some kind...? Is it a relay baton??
+...But that's not something that'd end up in a
+lost and found box...』
 
 
 ***Face_オトハ_目デフォ_口つぐみ_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0648)
-『The color’s weird… and the shape’s kinda…
-curved…? This is… what, where you put the
-batteries…?』
+『It's a weird color too... and the shape's a
+bit... curved...? And this is... a slot for
+batteries...?』
 
 
 ***Face_オトハ_目驚き_口無表情_赤み04
 
 小鳥遊 乙羽（独白）(CH01_0649)
-『Hm…? I’ve seen this somewhere before… …Huh…?
-Wait, no way…』
+『Nn...? I feel like I've seen it before somewhere
+too... wait... eh, no way...』
 
 
 小鳥遊 乙羽(CH01_0650)
-『?!!』
+『--?!!』
 
 
 ***Face_オトハ_目驚き_口焦り_赤み06
 
 小鳥遊 乙羽（独白）(CH01_0651)
-『H-Huh…? This is… M-Maybe… something dirty?! …It
-appeared in… Uncle’s books and videos…』
+『H-Huh... is this... b-by any chance... something
+lewd?! ...I saw it in... one of uncle's books...』
 
 
 ***Face_オトハ_目驚き_口つぐみ_赤み06
 ***SE_heart beating_mix{100}[0](2)
 
 小鳥遊 乙羽（独白）(CH01_0652)
-『No, there’s no way something like that exists at
-school… But this really does look like what I saw
-back then…』
+『No, there's no way something like that'd be at
+school... but it looks so similar to that...』
 
 
 ***Face_オトハ_目悲しい・テレ_口困り_赤み07
 
 小鳥遊 乙羽（独白）(CH01_0653)
-『I-I’m really… getting excited…』
+『N-Now my... heart's pounding...』
 
 
 主人公
-『Otoha-chan, which lost item are you looking at?』
+『Otoha-chan, what are you looking at there?』
 
 ***Face_オトハ_目驚き_口無表情_赤み07
 
 小鳥遊 乙羽(CH01_0654)
-『Ngh!! …Eh… Um…gh, a clear file…』
+『--!!! ...Eh--... erhm.... a-a plastic document
+　sleeve....』
 
 
 主人公
-『Maybe it was something weird?』
+『Did you find something weird in there?』
 
 ***Face_オトハ_目悲しい・テレ_口微笑_赤み06
 
 小鳥遊 乙羽(CH01_0655)
-『N-No… It’s… a clear file, but… umm… what was…
-　below… was…』
+『N-No... uhm... there's a document sleeve, but...
+　uhm... below... that... I...』
 
 
 主人公
-『…What’s going on?』
+『...What did you find?』
 
 ***ST_オトハ_A1_デフォ(着衣)_目困り_口微笑_赤み06_中央
 ***BGM_FadeOut
 
 小鳥遊 乙羽(CH01_0656)
-『Um… well… I-I don’t know your name, so…』
+『Erhm... uhm... I-I don't know what it's called
+　so...』
 
 
 ***Face_オトハ_目驚き_口焦り_赤み06
 
 小鳥遊 乙羽(CH01_0657)
-『Hyah.』
+『Hyah--』
 
 
 ***BGM_夕日の深呼吸{100}
@@ -639,140 +651,139 @@ back then…』
 ***ST_オトハ_B3_デフォ(着衣)_目驚き_口無表情_赤み07_中央
 
 小鳥遊 乙羽（独白）(CH01_0658)
-『Uncle, when did you get behind me…? You startled
-me… I… I have this…』
+『When did he get behind me... that surprised me...
+I've got... something like this in my hand
+though...』
 
 
 主人公
-『Otoha-chan, do you know what this is?』
+『Otoha-chan, do you understand what this is?』
 
 ***Face_オトハ_目困りNL_口無表情_赤み07
 
 小鳥遊 乙羽(CH01_0659)
-『Eh, n-no! I don’t… know…』
+『Eh, n... no! I... don't....』
 
 
 主人公
-『I wonder if this is the first time I’ve seen it,
-　too?』
+『Is it your first time seeing it too?』
 
 ***Face_オトハ_目困りNL_口無表情_赤み08
 
 小鳥遊 乙羽
-『......』
+『............』
 
 主人公
-『Mm, looks like you’ve seen this before. Uncle,
-　you’re so surprised…』
+『Hmm, seems like you've seen it before then. I'm
+　actually surprised...』
 
 小鳥遊 乙羽(CH01_0660)
-『Eh, ah… well… I-I’ve never… seen the real thing…
-　th-this is the first time I’ve seen it today… um…』
+『Eh, ah... uhm... i-it's my... first time...
+　s-seeing the real thing... uhm...』
 
 
 主人公
-『But you’ve seen this yourself before, haven’t
-　you?』
+『But you've seen this thing before for sure,
+　right?』
 
 ***ST_オトハ_D1_デフォ(着衣)_目困りNL_口無表情_赤み08_中央
 
 小鳥遊 乙羽
-『......』
+『..................』
 
 ***Face_オトハ_目悲しい・テレCE_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0661)
-『Ugh… I don’t know what to say… If they find out
-I’ve seen it before…』
+『Uuu... what should I even say... If he finds out
+that I have...』
 
 
 ***Face_オトハ_目悲しい・テレNL_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0662)
-『I don’t want to say it… People will think I’m a
-vulgar girl…』
+『I don't want to say it... he'll think of me as a
+dirty girl...』
 
 
 小鳥遊 乙羽
-『......』
+『...............』
 
 主人公
-『Don’t worry. Just say it. If it’s a lost item,
-　that means someone was using it at this school.』
+『It's alright. Try telling me. It was in the box,
+　so it was something a student brought in anyway.』
 
 ***Face_オトハ_目悲しい・テレ_口無表情_赤み08
 
 小鳥遊 乙羽（独白）(CH01_0663)
-『…Geez, even if I say it’s a lie now, they’ll find
-out, won’t they…?』
+『...At this point, if I just lie to him, he'll
+notice, won't he...』
 
 
 小鳥遊 乙羽(CH01_0664)
-『I-I’ve… seen it before. …Before… I-I was in my
-　uncle’s room… in… a-a book… just a little…』
+『I-I've... seen it. ...In one... of those books...
+　i-in your... room... j-just a... bit...』
 
 
 主人公
-『I wonder what kind of book it is…?』
+『What sort of book was it....?』
 
 ***Face_オトハ_目困り_口無表情_赤み08
 
 小鳥遊 乙羽
-『......』
+『..................』
 
 ***Face_オトハ_目困りNL_口無表情_赤み08
 
 小鳥遊 乙羽(CH01_0665)
-『Um… well… umm…』
+『Erhm... that's--... uhm...』
 
 
 主人公
-『You can’t say it because you know what kind of
-　book it is. Otoha-chan really is a dirty girl.』
+『You can't say it because you know, can you? You
+　really are such a naughty girl, Otoha-chan.』
 
 ***Face_オトハ_目焦りCE_口つぐみ_赤み08
 
 小鳥遊 乙羽(CH01_0666)
-『I-I’m sorry!! That’s not what I meant… I just
-　happened to see it…』
+『I-I'm sorry!! I didn't mean to go through it...
+　it was just a coincidence...』
 
 
 ***Face_オトハ_目悲しい・テレ_口つぐみ_赤み08
 
 小鳥遊 乙羽(CH01_0667)
-『I-I didn’t… um… have any intention of… l-letting
-　you do… weird things… again… at all…!』
+『I-I don't... uhm... mean to... m-make you do...
+　something weird again... believe me...!』
 
 
 主人公
-『You think so? Maybe the reason you bought a
-　similar-looking chupit was because you were
-　actually trying to seduce your uncle?』
+『Really now? Didn't you buy those freeze pops,
+　which almost look similar, just to seduce your
+　uncle?』
 
 ***Face_オトハ_目焦り_口無表情_赤み08
 
 小鳥遊 乙羽(CH01_0668)
-『Th-That’s not it! Those really are sweets I ate
-　in the past… And…wh-what do you mean by
-　temptation…?』
+『I-I didn't! We really did, eat those together
+　back in the day--... and... s-seduce...?』
 
 
 主人公
-『You were licking my cock in a very lewd way,
-　weren’t you?』
+『But you were sucking on it very obscenely, like
+　how someone would suck on a cock.』
 
 ***Face_オトハ_目困り_口焦り_赤み08
 
 小鳥遊 乙羽(CH01_0669)
-『…Ching…! L-Licking… your dick…! I-I didn’t mean
-　to…!』
+『...Co--... s-suck on... a dick...! I-I wasn't
+　trying to...--』
 
 
 ***Face_オトハ_目困り_口無表情_赤み08
 
 主人公
-『When I saw Otoha-chan licking so hard, my uncle,
-　Coco, ended up like this.』
+『Seeing you do it so passionately made me like
+　this down here, see?』
 
 
 ***SE_ファイル名{100}[0](1)
@@ -781,226 +792,229 @@ out, won’t they…?』
 ***Face_オトハ_目驚き_口焦り_赤み08
 
 小鳥遊 乙羽(CH01_0670)
-『Kyah…!!』
+『Kyah--...!!』
 
 
 ***Cinema_CI01-MS-0102_00
 
 小鳥遊 乙羽（独白）(CH01_0671)
-『M-Mister’s… C-Cock, dick…!!』
+『U-Uncle's... d-di, ck...!!』
 
 
 主人公
-『Come on… It’s so hard it’s almost painful.』
+『Look... it's so rock hard, it almost hurts.』
 
 小鳥遊 乙羽（独白）(CH01_0672)
-『I-It’s the first time… I’ve seen… a man’s… penis…
-My beloved uncle…』
+『I-I'm looking... at a man's dick... for the first
+time... in my, life... and it's, my beloved,
+uncle's....』
 
 
 小鳥遊 乙羽(CH01_0673)
-『E-Eh…』
+『Eh, eh--....』
 
 
 小鳥遊 乙羽（独白）(CH01_0674)
-『It’s gotten really big… and it’s bending back…
-It’s bigger… than a lost toy… and amazing…』
+『It's so big... and arching back... it's bigger
+than that... toy in the box... wow...』
 
 
 ***Cinema_CI01-MS-0102_01
 
 小鳥遊 乙羽（独白）(CH01_0675)
-『Wait, no! Don’t look! …It’s something I shouldn’t
-be looking at… but my eyes… can’t turn away.』
+『Wait, no! I shouldn't look! ...Even though, I
+shouldn't... I can't... take my eyes off it.』
 
 
 ***Cinema_CI01-MS-0102_02
 
 小鳥遊 乙羽(CH01_0676)
-『Hahh… hahh… ah…gh…』
+『Haah... haah.... ah...』
 
 
 主人公
-『Your breathing’s getting rough.』
+『Your breathing's getting really rough there.』
 
 小鳥遊 乙羽(CH01_0677)
-『U-Um… well, this is different…』
+『E-Erhm... uhm, it's not like that, I...--』
 
 
 主人公
-『What’s the difference…?』
+『What is it like then...?』
 
 小鳥遊 乙羽（独白）(CH01_0678)
-『It’s embarrassing… The more I think about it, the
-more I’ll look at it…』
+『So embarrassing... the more I think I shouldn't,
+the harder it is for me to look away...』
 
 
 ***Cinema_CI01-MS-0102_03
 
 主人公
-『You can look if you want, you know? Come on, try
-　holding it with that cute hand of yours.』
+『If you want to look, you can, you know? C'mon,
+　try holding it with your cute hands.』
 
 
 ***Cinema_CI01-MS-0102_04
 
 小鳥遊 乙羽(CH01_0679)
-『H-Hold…it…wait…!』
+『H... hold--... i...t....!』
 
 
 ***Cinema_CI01-MS-0102_05
 
 主人公
-『You’re twitching because you want me to touch
-　your cock too, aren’t you? Come on, don’t be shy…』
+『Can't you see how much it wants to be touched
+　too? C'mon, don't be shy...』
 
 小鳥遊 乙羽(CH01_0680)
-『Mm…』
+『Nn--...』
 
 
 ***Cinema_CI01-MS-0102_06
 
 主人公
-『Oh… Ohhh…』
+『Oh... oooh...』
 
 ***Cinema_CI01-MS-0102_07
 
 小鳥遊 乙羽（独白）(CH01_0681)
-『Whoa… That’s…amazing… I’m…touching your penis,
-O-Oji-san… It’s so…throbbing…so hard…it feels like
-it’s going to burn me…Hot…』
+『Uwah... ama... zing... I'm...t... touching a...
+dick, uncle's dick... it's throbbing... so much...
+it's so hard... hot enough to... burn....』
 
 
 小鳥遊 乙羽(CH01_0682)
-『Huff… Huff…』
+『Haah.... haaah....』
 
 
 小鳥遊 乙羽（独白）(CH01_0683)
-『It’s all sticky…and a little…disgusting…and the
-smell…is amazing… But…this is…uncle’s…』
+『It's slimey and... a bit... gross too.... it
+smells... so much too.... but... this is...
+uncle's....』
 
 
 ***Cinema_CI01-MS-0102_08
 
 主人公
-『That’s a nice, innocent reaction… But just
-　touching it will leave the old man in pain.』
+『What a cute and innocent reaction... But, just
+　touching's not going to make it hurt any less, you
+　know.』
 
 
 ***Cinema_CI01-MS-0102_09
 
 小鳥遊 乙羽(CH01_0684)
-『Wh… What should I do…?』
+『Wh--... what do I, do then....?』
 
 
 主人公
-『Well, let’s see… The other day, I licked
-　Otoha-chan’s pussy, didn’t I?』
+『Well, let's see... I licked your pussy the other
+　day, right?』
 
 ***Cinema_CI01-MS-0102_10
 
 小鳥遊 乙羽(CH01_0685)
-『!! …Th-That time, umm… hah, hah…』
+『--!! ...T-That time, I uhm--... haah, haah...』
 
 
 小鳥遊 乙羽（独白）(CH01_0686)
-『I-I have to calm down…! If they think I’m any
-more perverted than this… I-It’s embarrassing…!!』
+『I-I need to calm down...! If he starts thinking
+of me as any more of a dirty girl... I-I'll die
+from shame...!!』
 
 
 主人公
-『So, will you switch places this time, and
-　Otoha-chan will lick your uncle’s cock?』
+『So how about we swap places this time, and you
+　lick my cock? Can you do it, Otoha-chan?』
 
 ***Cinema_CI01-MS-0102_11
 
 小鳥遊 乙羽(CH01_0687)
-『Huh? Y-You’re… going to do that…?!』
+『Eh--, I-I have to... lick it...!?』
 
 
 ***Cinema_CI01-MS-0102_12
 
 主人公
-『That’s right. It’s all Otoha-chan’s fault we
-　ended up like this, and the truth is, we’re both
-　supposed to lick each other.』
+『That's right. Not only did I end up like this
+　because of you, but normally both men and women do
+　this to each other.』
 
 小鳥遊 乙羽(CH01_0688)
-『R-Really…?』
+『R-Rea... lly....?』
 
 
 主人公
-『That’s right. The truth is, the two of us are
-　supposed to lick each other’s pussy and cock and
-　feel good together.』
+『That's right. You actually even do it at the same
+　time, and feel good together.』
 
 小鳥遊 乙羽(CH01_0689)
-『B-But… Doing that would be…』
+『B-But... doing that...』
 
 
 主人公
-『Oh, I wonder if Otoha-chan doesn’t like licking
-　her uncle’s cock?』
+『Oh, do you hate the idea of licking your uncle's
+　cock, Otoha-chan?』
 
 ***Cinema_CI01-MS-0102_13
 
 小鳥遊 乙羽(CH01_0690)
-『I-It’s not that… I don’t want to… But, umm…
-　I-I’ve never done it before…』
+『I-It's not... like that... but, uhm... I-I've
+　never done it before...』
 
 
 主人公
-『I’ll teach you that slowly from now on.』
+『Leave it to me, I'll slowly teach you how.』
 
 小鳥遊 乙羽(CH01_0691)
-『…Um, but… um… I-I said I wouldn’t do that
-　anymore… It’s because of the relationship between
-　my niece and my uncle…』
+『...Uhm--, but... erhm... w-we already said we
+　wouldn't anymore... since we're related...』
 
 
 主人公
-『But you’re like this because Otoha-chan turned
-　you on, you know?』
+『But you're the one who made your uncle all
+　aroused and hard like this, you know?』
 
 小鳥遊 乙羽
-『...』
+『............』
 
 ***Cinema_CI01-MS-0102_14
 
 小鳥遊 乙羽（独白）(CH01_0692)
-『I didn’t think I’d excite you this much, Uncle…
-And… you’re excited about me.』
+『I'm the one who made him like this... and he's...
+really aroused, over me.』
 
 
 主人公
-『…Do you really not want to?』
+『...Or is the idea of it too much?』
 
 小鳥遊 乙羽(CH01_0693)
-『…Th-That’s…』
+『...T-That's....』
 
 
 小鳥遊 乙羽（独白）(CH01_0694)
-『The truth is… we’re going to lick each other…
-right? …Maybe it’s cheating… that I’m the only one
-who felt good…』
+『He said you... do it together normally... didn't
+he? ...So it might be unfair, that only I... got
+to feel good...』
 
 
 小鳥遊 乙羽（独白）(CH01_0695)
-『And…as long as the man I love…feels good…』
+『And really... if it'll make the uncle I love...
+feel good, and make him happy...』
 
 
 ***Cinema_CI01-MS-0102_15
 
 小鳥遊 乙羽(CH01_0696)
-『…You… can… do it.』
+『...I... I don't... mind.』
 
 
 主人公
-『I see, I see. I’m so happy.』
+『That so? I'm so happy.』
 
 主人公
-『Uncle’s gonna lie down so Otoha-chan’s mouth is
-　easy to see. Come on, come here…』
+『I'll go and lie down so that I can get a good
+　look at your mouth. C'mon, over here...』
 
 
 ***FadeIn_InSide_Black
@@ -1016,7 +1030,7 @@ who felt good…』
 ***Cinema_CI01-MS-0102_16
 
 主人公
-『Okay, let’s get right to it.』
+『Well then, let's get to it, alright?』
 
 
 ***Cinema_END

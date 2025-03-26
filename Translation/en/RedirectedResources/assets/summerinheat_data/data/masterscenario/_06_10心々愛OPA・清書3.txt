@@ -7,28 +7,27 @@
 ***ST_ココア_B1_デフォ(着衣)_目睨み_口への字_赤み03_中央
 
 田中 心々愛(CH04_0093)
-『Gh, geez… Nothing at all… Yoshiki, seriously, cut
-　it out already…!!』
+『--! Jeez... what the heck... Yoshiki you bastard,
+　stop cancelling at the last minute...!!』
 
 
 田中 心々愛（独白）(CH04_0094)
-『Seriously, that’s annoying. If I sent you LIME,
-you’d reply with a read in seconds when you wanted
-to do it…』
+『What a bastard. Even though he reads and replies
+in an instant whenever he's down to fuck...』
 
 
 ***Face_ココア_目睨みCE_口への字_赤み03
 
 田中 心々愛(CH04_0095)
-『You think you ran away because you haven’t read
-　LIME? I’m not making fun of you.』
+『He thinks he can dodge by just leaving me on
+　unread? Treating me like dirt, I'm so over him.』
 
 
 ***Face_ココア_目睨みNL_口への字_赤み03
 
 田中 心々愛（独白）(CH04_0096)
-『Ahhh, you’re pissing me off, ignoring my
-convenience… Hm…? …Someone’s here?』
+『Aah, I'm so pissed, does he think I'm free all...
+nn..? ...Who's that?』
 
 
 田中 心々愛(CH04_0097)
@@ -38,41 +37,42 @@ convenience… Hm…? …Someone’s here?』
 ***Face_ココア_目デフォ_口無表情_赤み03
 
 田中 心々愛（独白）(CH04_0098)
-『When I look up, there’s a figure staring at me.
-…But it’s neither Yoshiki nor the teacher…』
+『When I looked up, I saw a figure staring at me.
+...But it wasn't Yoshiki, nor was it a teacher...』
 
 
 ***Face_ココア_目怒り_口無表情_赤み03
 
 田中 心々愛(CH04_0099)
-『What are you looking at… Ah…』
+『The heck are you lookin... ah...』
 
 ***Face_ココア_目デフォ_口微笑_赤み03
 
 田中 心々愛（独白）(CH04_0100)
-『You’re a janitor who’s always looking at me and
-raping me! Gross!!』
+『It's that custodian that's always ogglin' at us!
+Creep!!』
 
 
 ***Face_ココア_目驚き_口困り_赤み03
 
 田中 心々愛(CH04_0101)
-『Hm…?』
+『Nn...?』
 
 
 ***Face_ココア_目デフォ_口微笑_赤み03
 
 田中 心々愛（独白）(CH04_0102)
-『Huh… You’re right… That’s right. Okay, I won’t
-get a LIME reply anyway.』
+『Huh... let's see... yeah, not a bad idea.
+Alright, since he's not replying to my texts
+either~』
 
 
 ***Face_ココア_目微笑_口大笑い_赤み03
 
 田中 心々愛（独白）(CH04_0103)
-『If it’s a dead end, then I’m fine with this guy
-already! I’ll take my mind off things by seeing some
-creepy middle-aged virgin struggling with my technique!』
+『If he's gonna ditch me last minute like this, then
+I'll just make do with this guy! Time to make this
+creepy old virgin writhe under me and freshen up!』
 
 
 ***BGM_matane{100}
@@ -80,117 +80,119 @@ creepy middle-aged virgin struggling with my technique!』
 ***ST_ココア_A2_デフォ(着衣)_目微笑_口大笑い_赤み03汗00_中央
 
 田中 心々愛(CH04_0104)
-『Ahh… Hey, Mister. Hey, I’m on top of this right
-　now. I’ll be going to the changing room, so could
-　you come with me?』
+『Ah... hey, mister. Got a sec? I'm heading up to
+　club room upstairs, won'tcha come with me?』
 
 
 主人公
-『Huh, yeah. Maybe the lock broke? Or maybe the
-　fluorescent lights aren’t working?』
+『Eh? Aah, sure. Got a broken lock or something? Or
+　do you need a light replaced?』
 
 ***Face_ココア_目微笑_口微笑_赤み03汗00
 
 田中 心々愛(CH04_0105)
-『You’re a virgin anyway, aren’t you, Uncle? I’m
-　going to let you graduate from being that creepy
-　virgin in Sokko right now…』
+『Say, mister, I bet you're a virgin. Am I wrong?
+　I'll help you graduate from the status of a creepy
+　old virgin so...』
 
 
 主人公
-『Huh…? Y-You, what are you saying…?』
+『Eh--...? Y-You, what are you even...』
 
 ***ST_ココア_A3_デフォ(着衣)_目微笑_口微笑_赤み03汗00_中央
 
 田中 心々愛(CH04_0106)
-『Ah, could it be that Uncle, you’re the type who’s
-　bad at gals?』
+『Ah~, mister, by any chance, are you not good with
+　gals like me?』
 
 
 主人公
-『Gh…!』
+『--...!』
 
 ***Face_ココア_目大笑い_口微笑_赤み03汗00
 
 田中 心々愛(CH04_0107)
-『Aha, lol, I hit the nail on the head! There are old men like
-　that every once in a while, aren’t there? But if we do it,
-　everyone’s gonna turn their palms back and go crazy about us!』
+『Ahah--, bullseye, huh! I feel you, there's still some
+　old men out there like that. But don't worry, all
+　it'll take is the one time to make you go crazy for me!』
 
 
 ***Face_ココア_目微笑_口微笑_赤み03汗00
 
 主人公
-『Y-Yes…』
+『E-Eeh...』
 
 ***ST_ココア_B2_デフォ(着衣)_目デフォ_口微笑_赤み03汗00_中央
 
 田中 心々愛(CH04_0108)
-『Come on, you’re worried about my body after all,
-　aren’t you?! I was staring at you. You’re really
-　looking forward to it!』
+『C'mon, aren't you curious about what my body's
+　like~?! Always staring so hard~. I know how much
+　you want it!』
 
 
 ***Face_ココア_目微笑_口微笑_赤み03汗00
 
 田中 心々愛(CH04_0109)
-『Oh yeah, I’ll give you a freebie for the first
-　time, so you don’t need money or anything like
-　that, okay?』
+『Ah right, I'll let you do it for free this time,
+　so you don't need to fork over cash or anything,
+　alright?』
 
 
 主人公
-『No, Uncle, that’s not…』
+『No, I'm really not...』
 
 ***Face_ココア_目デフォ_口困り_赤み03汗00
 
 田中 心々愛(CH04_0110)
-『Ah, but… if you can make me cum, I can make you
-　my special sex friend, you know?』
+『Ah, but... if you can make me cum, and that's a
+　big if, I won't mind being fuck buddies with you,
+　you know?』
 
 
 ***Face_ココア_目微笑_口大笑い_赤み03汗00
 
 田中 心々愛（独白）(CH04_0111)
-『Well, it’s definitely not possible for a
-middle-aged virgin, but if I say it like this,
-I’ll do my best to Paco, just in case.』
+『Well, not that a middle aged virgin like him
+would ever manage that, but this way he might
+actually get serious.』
 
 
 主人公
-『No, Uncle, there’s still some work left to do…』
+『No, I still have lots of work to take care of for
+　today, so...』
 
 ***ST_ココア_A3_デフォ(着衣)_目睨み_口微笑_赤み03汗00_中央
 
 田中 心々愛(CH04_0112)
-『Ah, you’re still calling me that? Even though I’m
-　the one who invited you? In that case, let’s just
-　say you were attacked here…』
+『Ah~, still going on about that? Even though I'm
+　going out of my way to seduce you? I could always
+　claim that you were trying to push me down, you know...』
 
 
 ***Face_ココア_目微笑_口微笑_赤み03汗00
 
 田中 心々愛(CH04_0113)
-『Uncle’s position is really easy to do, but…? Of
-　course, the higher-ups are coming, aren’t they?』
+『Do you know how easy it'd be for me to ruin your
+　life, mister...? So, you'll come with me, right?』
 
 
 主人公
-『Whoa… F-Fine.』
+『Uwa--... f-fine.』
 
 ***ST_ココア_B3_デフォ(着衣)_目大笑い_口大笑い_赤み03汗00_中央
 
 田中 心々愛(CH04_0114)
-『Lucky! Well, I’m sure it’d be impossible for an
-　old man like you to make me cum with a virgin
-　gross dick! Kyahaha.』
+『Yay~! Well, not that you'd ever make me cum with
+　your pathetic virgin little cock though!
+　Kyahahah~』
 
 
 ***Face_ココア_目微笑_口微笑_赤み03汗00
 
 田中 心々愛(CH04_0115)
-『Anyway, good luck, be my toy to take care of my
-　worries, ahaha.』
+『Anyways, do yer best to help me relieve some of
+　my frustration by being my plaything for a bit,
+　ahahah.』
 
 
 ***FadeIn_InSide_Black
@@ -206,213 +208,217 @@ I’ll do my best to Paco, just in case.』
 ***Cinema_CI04-MS-0101_00
 
 田中 心々愛(CH04_0116)
-『Oji-san, when I told you to take it off, you really
-　took it off so quickly that it was seriously funny,
-　lol, but you were so reluctant to invite me lol.』
+『You know mister, for a guy that resisted so much
+　you sure took off your clothes quick when I told
+　you to~ lol.』
 
 
 田中 心々愛(CH04_0117)
-『Uncle’s the only one who’s naked and surreal,
-　lol. I won’t take it off unless it feels good for
-　me, you know?』
+『It's kinda surreal how you're the only one
+　undressed lol, well, I'll start takin' off layers
+　too if you make me feel good?』
 
 
 ***Cinema_CI04-MS-0101_01
 
 田中 心々愛(CH04_0118)
-『Actually, this thing’s already bursting with
-　enthusiasm! What’s this? It’s huge, lol.』
+『Like, look at this thing, it's raring to go! What
+　is this, it's so big lol』
 
 
 田中 心々愛(CH04_0119)
-『C’mon, c’mon… Wow! I thought it was 100 genuine
-　phimotic pork. This is totally different… What’s
-　this? lol.』
+『Let's see~... wow! I was completely expecting
+　some pathetic phimosis shit~. Mind blown right
+　now, honest. ...Seriously what even lol.』
 
 
 主人公
-『…Ugh… H-Hey… ah…』
+『...Uu--... h-hey now... ah...』
 
 ***Cinema_CI04-MS-0101_02
 
 田中 心々愛(CH04_0120)
-『Ah, Uncle, does this feel good? I’m just touching
-　it a little, you know? A real virgin, lol.』
+『Ah, is this making you feel good, mister? I'm
+　only touching it a lil bit, you know? Such a
+　virgin lol.』
 
 
 田中 心々愛(CH04_0121)
-『Well, I thought it wouldn’t be that strange if
-　you could peel a dog, but I didn’t expect it to be
-　this big and thick, lol.』
+『Well~, not that I was expecting you to be a
+　complete turbovirgin but~, I never thought it'd be
+　this big and fat lol.』
 
 
 主人公
-『Y-You’re…Tanaka Cocoa-chan, aren’t you? I know
-　your uncle.』
+『Y-You... you're Tanaka Cocoa-chan, right? I know
+　you.』
 
 ***Cinema_CI04-MS-0101_03
 
 田中 心々愛(CH04_0122)
-『Whoa!! I just got super goosebumps! Isn’t that
-　too gross? Why do you know my name?』
+『Uwa--!! I just got goosebumps all over! Aren't
+　you like too creepy? How'd you know my name?』
 
 
 ***Cinema_CI04-MS-0101_04
 
 主人公
-『Rino-chan, the president of the rhythmic
-　gymnastics club, called your name a long time ago…
-　And I see you outside all the time.』
+『A long while ago, your club president Rino-chan
+　called you by your name, and I was there... and I
+　do see you around, sometimes.』
 
 主人公
-『Huff, huff… You’re ‘doing a lot’ here and there,
-　aren’t you?』
+『Haahaah... you do a lot of "stuff" here and
+　there, don't you?』
 
 田中 心々愛(CH04_0123)
-『It’s seriously creepy that you’ve grasped that
-　much more than just rape…』
+『So you're not just an oggler but a proper
+　stalker, huh? I'm actually getting creeped
+　out~...』
 
 
 主人公
-『It’s not like I’m only looking at you. My uncle’s
-　a janitor here, so he’s got his eye on you.』
+『It's not I go out of my way to look at you, you
+　know? I'm the custodian here, so of course I'd see
+　around.』
 
 ***Cinema_CI04-MS-0101_05
 
 田中 心々愛(CH04_0124)
-『“You’re really gross… Eh, wah, Xasa… You’re already
-　dripping pre-cum! The juices are turning into balls,
-　and it’s so sticky, lol, your breathing is ragged,” I said』
+『Seriously creepy... eh, wa--, so stinky... you're
+　already dripping pre-cum! It's bunching up into
+　little balls too, so sticky lol, and look at your breath~』
 
 
 主人公
-『Haa haa, haa…』
+『Haahaah, haah...』
 
 ***Cinema_CI04-MS-0101_06
 
 田中 心々愛(CH04_1001)
-『Mm… ah…』
+『Nn... ah...』
 
 田中 心々愛(CH04_0125)
-『It’s puffed up, and the head’s expensive… It’s
-　muscular and rugged. The feeling I get from seeing
-　it is really, really funny, lol.』
+『It's grown so fat, and the tip's standing tall
+　too... and it's all rough with all those thick
+　veins~. It looks so insane lol.』
 
 
 田中 心々愛(CH04_0126)
-『You’ve never used it before, but you’ve got a huge,
-　middle-aged, Yarichin-style virgin cock, and it’s got
-　such a rotten feeling about treasure. It’s meaningless, lol.』
+『What a waste, such a godly cock on a virgin like
+　you, it's like pearls on a pig lol. So pointless~』
 
 
 田中 心々愛(CH04_0127)
-『But, well, if it’s just big and thick, the
-　vibrators and dildos will be better than us―so
-　we’ll have to have the technique after all.』
+『But well, if it's just big and fat then it's no
+　better than a dildo or a vibe~. Can't survive
+　without technique in this world~』
 
 
 ***Cinema_CI04-MS-0101_07
 
 田中 心々愛(CH04_0128)
-『Uncle, you’re a virgin, aren’t you? I’ll let you
-　graduate from this meaningless giant dick virgin
-　on a whim and out of pity.』
+『You're a virgin, aren't you, mister? I don't mind
+　taking pity on you and helping you graduate from
+　your turbovirgin status on a whim, you know~』
 
 
 主人公
-『Huh… Y-You’re really going to do it…?』
+『Eh... a-are we really...?』
 
 ***Cinema_CI04-MS-0101_08
 
 田中 心々愛(CH04_0129)
-『Of course! Oh, are you freaking out because
-　you’re expecting too much, lol?』
+『'Course! Ah, are you like scared cuz you're
+　looking so forward to it or something? Lol.』
 
 
 主人公
-『No, it’s not like I’m scared or anything… If I
-　framed your dick, Cocoa-chan might end up in more
-　trouble and regret it…』
+『No, not exactly... If we actually get down to it,
+　you might end up falling and regretting it,
+　Cocoa-chan...』
 
 ***Cinema_CI04-MS-0101_09
 
 田中 心々愛(CH04_0130)
-『Huh?! What are you misunderstanding, Uncle?
-　Uncle’s my toy now! There’s no way I’d regret it.』
+『Haah!? Mister, are you misunderstanding this?
+　You're my plaything right now! No way you can make
+　me regret this.』
 
 
 ***Cinema_CI04-MS-0101_10
 
 田中 心々愛(CH04_0131)
-『Don’t you think you’re reading too many erotic
-　manga where a virgin makes a woman fall instantly?
-　It’s not like real life, lol.』
+『Read too many doujinshi where the virgin takes
+　down the woman instantly, or something? Reality's
+　not like that, you know lol』
 
 
 ***Cinema_CI04-MS-0101_11
 
 田中 心々愛(CH04_0132)
-『Well, if you memorize the taste of my pussy, which is
-　tight even with my cock in your mouth, you might not
-　even be able to use that to masturbate miserably, lol.』
+『Well, once you get a taste of my thoroughly
+　battle-tested yet still tight pussy, you might not
+　be able to go back to jerking off to those, lol』
 
 
 ***Cinema_CI04-MS-0101_12
 
 田中 心々愛(CH04_0133)
-『Isn’t that why you’ll regret it more, Uncle?
-　Kyahahaha, lol, I’m going to give you this
-　middle-aged man’s virginity, so be grateful, okay?』
+『So don'tcha think you'll be the one who's gonna
+　regret it? Kyahaha, I'm helping you lose your
+　virginity, so be grateful, aight~?』
 
 
 田中 心々愛(CH04_0134)
-『Wait, it’s just a distraction, so I don’t really
-　care! Now, let’s get started.』
+『Well, it's just some timepass for me, so I don't
+　really care either way! C'mon, let's get on with
+　it.』
 
 
 主人公
-『L-Let’s start…?』
+『O-On with it...?』
 
 
 ***Cinema_CI04-MS-0101_13
 
 田中 心々愛(CH04_0135)
-『I’ll start by stroking you. It’s JK’s barehanded
-　handjob, you know? Super valuable, right? Come on,
-　come on.』
+『I'll wring you off, first~. It's a schoolgirl's
+　raw handjob, you know? A once in a lifetime
+　experience, c'mon, c'mon~』
 
 
 主人公
-『U-Ugh… It’s too intense all of a sudden…』
+『U-Uu... that's way too fast all at once...』
 
 田中 心々愛(CH04_0136)
-『If you pant like this, you won’t even be able to
-　hold a bareback. Just get a little tighter, old
-　man. Don’t disappoint me, okay?』
+『How're you gonna last until the main show if
+　you're already moaning like this? Get a grip,
+　mister. Don't let me down, okay?』
 
 
 主人公
-『I-I’ll do my best…! Haah…! Khhh…』
+『I-I'll do my best...! Haah--...! Kuh...』
 
 ***Cinema_CI04-MS-0101_14
 
 田中 心々愛(CH04_0137)
-『Hey, you’re too desperate, lol. Do you really
-　want to fuck my pussy that badly? lol But I like
-　that attitude of yours~』
+『Wuh, so desperate lol. Do you wanna put it in my
+　pussy that badly? But I can respect that
+　attitude~』
 
 
 田中 心々愛(CH04_0138)
-『I’m looking forward to this huge dick setup too,
-　so do your best, lol… Oh, but I’m not going to
-　hold back.』
+『I'm looking forward to taking this huge cock of
+　yours in too so do your best.... ah, but I'm not
+　gonna go easy on you, so you know.』
 
 
 ***Cinema_CI04-MS-0101_15
 
 田中 心々愛(CH04_0139)
-『You’re my toy, old man, so make sure you have fun
-　like a toy lol.』
+『You're my toy now, so show me a good time like a
+　good toy~』
 
 
 ***Cinema_END
