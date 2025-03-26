@@ -221,7 +221,7 @@ namespace TranslateRedirectedResources
                                     translatedLine = translatedLine.TrimEnd(' ') + "\n";
                                     // Original scripts have IDSP(wide space) at start of new line if it's a part of quoted text.
                                     // Monologue and recollection lines have their quotes stripped by the game so no spaces there.
-                                    if (key.Contains("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）"))
+                                    if (key.StartsWith("『") && !lastUnusedLine.Contains("（独白）") && !lastUnusedLine.Contains("（回想）"))
                                         translatedLine += "\u3000";
                                     currentLenght = 0;
                                     currentLine++;
@@ -312,7 +312,7 @@ namespace TranslateRedirectedResources
             translation = translation.TrimEnd(' ');
 
 
-            if (dump.Contains("『"))
+            if (dump.StartsWith("『"))
             {
                 translation = translation.Trim(' ');
                 // remove excess quoting ONLY if it quotes the whole string
