@@ -263,6 +263,7 @@ PC服=Clothes
 小刻み=Rapid
 こきざみ=Rapid
 激しく=Violent
+脱力Y=Relaxed Y
 体勢A=Position A
 体勢B=Position B
 体勢C=Position C
