@@ -46,3 +46,5 @@ r:キャラクターセレクト([♡♥]+)=Character Select $1
 
 // For some reason these will be sent for translation, this stops that.
 r:^(『…+』)$=$1
+
+r:^投稿数:(\d+)$=$1 posts

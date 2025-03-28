@@ -15,7 +15,7 @@
 -----------[　コピー　]-----------=-----------[Copy]-----------
 -----------[　回　転　]-----------=-----------[Rotation]-----------
 -----------[　拡　縮　]-----------=-----------[Scale]-----------
--ネットワーク接続に失敗しました-\n\n投稿サイトが現在利用できない、又は\nご利用のネットワーク状況を確認してください。\n\n詳細は投稿サイトをご確認ください=-Network connection failed-\n\nThe posting site is currently unavailable, or\nPlease check your network status.\n\nPlease check the posting site for details.
+-ネットワーク接続に失敗しました-\n\n投稿サイトが現在利用できない、又は\nご利用のネットワーク状況を確認してください。\n\n詳細は投稿サイトをご確認ください=-Network connection failed-\n\nThe posting site is currently unavailable\nor may have been closed.\n\nTry again later in case it is a temporary issue.\n\nIf the issue persists, check your network and firewall settings.\nTry opening the website in your browser.
 -ネットワーク接続に成功しました-=-Network connection successful-
 -投稿サイトが現在利用できません、又は閉鎖した可能性があります-=-The posting site is currently unavailable or may have been closed.-
 CT,CB,CF非表示=Hide CT,CB,CF
