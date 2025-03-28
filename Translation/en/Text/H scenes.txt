@@ -264,6 +264,7 @@ PC服=Clothes
 こきざみ=Rapid
 激しく=Violent
 脱力Y=Relaxed Y
+脱力X=Relaxed X
 体勢A=Position A
 体勢B=Position B
 体勢C=Position C
