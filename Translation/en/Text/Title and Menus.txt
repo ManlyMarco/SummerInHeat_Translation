@@ -197,7 +197,7 @@ IFストーリー=If Story
 麗子 if ＯＰ=Reiko If Opening
 麗子-if EP=Reiko If EP
 麗子-if OP=Reiko If OP
-麗子のifストーリーを楽しむことができます。=You can enjoy Reiko’s If story.
+麗子のifストーリーを楽しむことができます。=You can enjoy a what-if story about Reiko.
 麗子 役=Role: Reiko
 麗子IFルートをクリアすることで解放されます=Complete Reiko’s If route to unlock
 
@@ -212,7 +212,7 @@ IFストーリー=If Story
 ココア if ＯＰ=Cocoa If Opening
 ココア-if EP=Cocoa If EP
 ココア-if OP=Cocoa If OP
-ココアのifストーリーを楽しむことができます。=You can enjoy Cocoa’s If story.
+ココアのifストーリーを楽しむことができます。=You can enjoy a what-if story about Cocoa.
 ココア会話=Cocoa conversation
 ココア 役=Role: Cocoa
 ココアIFルートをクリアすることで解放されます=Complete Cocoa’s If route to unlock
