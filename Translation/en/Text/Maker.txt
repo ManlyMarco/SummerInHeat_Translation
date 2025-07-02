@@ -7,6 +7,23 @@
 適用して終了=Apply and exit
 適用しないで終了=Don't apply and exit
 
+
+// Online card browser
+オンライン=Online
+・カラーはプリセット、自作パレットカラーから選定されます。=・Colors are selected from presets and custom palette colors.
+・投稿前に利用規約を必ずお読みください\n・削除には削除コードが必要です\n・削除は投稿サイトにて行う必要があります\n・利用者に予告なく投稿サイトの変更・終了できるものとします\n・既存の版権に抵触する恐れのある投稿について、他の方が権利を有する投稿は禁止とさせて頂きます\n　『みこにそみ』が不適切と判断した場合、データが破損していた場合削除させて頂きます\n・利用状況により本編からアップローダー機能が削除される可能性もあります=- Please read the terms of service before posting (button on the right).\n\n- A deletion code is required to delete posts. Deletions must be done on the uploader website.\n\n- The online service may be changed or terminated without notice. Uploader may be removed in a future update.\n\n- Posts that may infringe on existing copyrights are prohibited. Inappropriate or corrupted will be deleted.
+検索=Search
+検索･絞込=Search･Refine
+名前(完全一致)=Name (exact)
+名前(一部一致)=Name (partial)
+ＩＤ検索=ID search
+ID･ユーザー名で\n検索・絞り込みすることができます=Find cards by their ID or name
+-条件に一致するデータが見つかりませんでした-=-No cards matched the search criteria-
+-ネットワーク接続に失敗しました-\n\n投稿サイトが現在利用できない、又は\nご利用のネットワーク状況を確認してください。\n\n詳細は投稿サイトをご確認ください=-Network connection failed-\n\nThe posting site is currently unavailable\nor may have been closed.\n\nTry again later in case it is a temporary issue.\n\nIf the issue persists, check your network and firewall settings.\nTry opening the website in your browser.
+-ネットワーク接続に成功しました-=-Network connection successful-
+-投稿サイトが現在利用できません、又は閉鎖した可能性があります-=-The posting site is currently unavailable or may have been closed.-
+
+
 // Unsorted
 メインフォルダ=Main Folder
 #嗜好タグ=#Preferences
@@ -15,9 +32,6 @@
 -----------[　コピー　]-----------=-----------[Copy]-----------
 -----------[　回　転　]-----------=-----------[Rotation]-----------
 -----------[　拡　縮　]-----------=-----------[Scale]-----------
--ネットワーク接続に失敗しました-\n\n投稿サイトが現在利用できない、又は\nご利用のネットワーク状況を確認してください。\n\n詳細は投稿サイトをご確認ください=-Network connection failed-\n\nThe posting site is currently unavailable\nor may have been closed.\n\nTry again later in case it is a temporary issue.\n\nIf the issue persists, check your network and firewall settings.\nTry opening the website in your browser.
--ネットワーク接続に成功しました-=-Network connection successful-
--投稿サイトが現在利用できません、又は閉鎖した可能性があります-=-The posting site is currently unavailable or may have been closed.-
 CT,CB,CF非表示=Hide CT,CB,CF
 [カメラ位置]=[Camera position]
 [キャラクター移動]=[Character Movement]
@@ -72,7 +86,6 @@ CT,CB,CF非表示=Hide CT,CB,CF
 オッドアイ(有)=Different eyes
 オッドアイ=Per-eye
 オホ=Weary
-オンライン=Online
 カスタムに戻る=Go Back to Maker
 カスタムアップローダー=Custom character uploader
 カスタムキャラクター\nデータアップローダー=Custom Character Uploader
@@ -173,8 +186,6 @@ CT,CB,CF非表示=Hide CT,CB,CF
 ロングショット =Long shot
 ローカルフォルダ=Local folder
 ワンピース=One-Piece
-・カラーはプリセット、自作パレットカラーから選定されます。=・Colors are selected from presets and custom palette colors.
-・投稿前に利用規約を必ずお読みください\n・削除には削除コードが必要です\n・削除は投稿サイトにて行う必要があります\n・利用者に予告なく投稿サイトの変更・終了できるものとします\n・既存の版権に抵触する恐れのある投稿について、他の方が権利を有する投稿は禁止とさせて頂きます\n　『みこにそみ』が不適切と判断した場合、データが破損していた場合削除させて頂きます\n・利用状況により本編からアップローダー機能が削除される可能性もあります=- Please read the terms of service before posting (button on the right).\n\n- A deletion code is required to delete posts. Deletions must be done on the uploader website.\n\n- The online service may be changed or terminated without notice. Uploader may be removed in a future update.\n\n- Posts that may infringe on existing copyrights are prohibited. Inappropriate or corrupted will be deleted.
 一括=All
 一括自動生成=Generate all
 上下の下着色を統一=Unify top/bottom underwear colors
