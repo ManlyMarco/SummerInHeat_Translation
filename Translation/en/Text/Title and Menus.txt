@@ -142,6 +142,7 @@ IFストーリー=If Story
 乙羽ルート⑥ＯＰ=Event 6 Opening
 乙羽ルートＥＮＤ=Otoha Route END
 乙羽ルートをクリアすることで解放されます=Complete Otoha’s route to unlock
+（乙羽ルートをクリアすることで解放されます）=(Complete Otoha’s route to unlock)
 （乙羽ルートADVを最後まで見ると解放されます）=(Complete Otoha’s route to unlock)
 乙羽本編ルートのつづきから開始します。=Continuation of the main Otoha route.
 乙羽 役=Role: Otoha
@@ -219,9 +220,12 @@ IFストーリー=If Story
 
 
 // Debug menu
-// BUG: newlines get eaten somewhere along the way when applying these translations
+// WARNING: If newlines get eaten when applying these translations it means original jp text is not exactly original 
+//          and is missing some spaces, so the output has spaces ignored too
 共通OPクリア=Opening Cleared
 ★危険日指定（指定日から6日間が対象）=★Days with risk of impregnation\n(lasts for six days starting at selection)
+常に全員危険日にする=Everyone is always on a risky day
+
 反映はリロードしてください=Reload the game to apply changes
 
 ★乙羽　進行度表\n\n00     \r\n01 乙羽-分岐①\r\n02 乙羽-分岐②\r\n03 乙羽-分岐③\r\n04 乙羽-分岐④\r\n05 乙羽ルート①ＯＰ\r\n06 舐めフェラ\r\n07 乙羽ルート①中間\r\n08 正常位\r\n09 乙羽ルート①ＥＰ\r\n10 乙羽ルート②ＯＰ\r\n11 手コキ\r\n12 乙羽ルート②中間\r\n13 後背位\r\n14 乙羽ルート②ＥＰ\r\n15 乙羽ルート③ＯＰ\r\n16 シャワー会話\r\n17 乙羽ルート③中間\r\n18 側位\r\n19 乙羽ルート③ＥＰ\r\n20 乙羽ルート④ＯＰ\r\n21 フェラ\r\n22 乙羽ルート④中間\r\n23 アナル\r\n24 乙羽ルート④ＥＰ\r\n25 乙羽ルート⑤ＯＰ\r\n26 保健室会話\r\n27 乙羽ルート⑤中間\r\n28 騎乗位\r\n29 乙羽ルート⑤ＥＰ\r\n30 乙羽ルート⑥ＯＰ\r\n31 女攻め\r\n32 乙羽ルート⑥中間\r\n33 孕らませ正常位\r\n34 乙羽ルート⑥ＥＰ\r\n35 乙羽ルートＥＮＤ=★Otoha Progress Chart\n\n00 \n01 Otoha Branch ①\n02 Otoha Branch ②\n03 Otoha Branch ③\n04 Otoha Branch ④\n05 Otoha Route ① OP\n06 Licking blowjob\n07 Otoha Route ① Middle\n08 Missionary position\n09 Otoha Route ① ED\n10 Otoha Route ② OP\n11 Handjob\n12 Otoha Route ② Middle\n13 Doggy style\n14 Otoha Route ② ED\n15 Otoha Route ③ OP\n16 Shower conversation\n17 Otoha Route ③ Middle\n18 Side position\n19 Otoha Route ③ ED\n20 Otoha Route ④ OP\n21 Blowjob\n22 Otoha Route ④ Middle\n23 Anal\n24 Otoha Route ④ ED\n25 Otoha Route ⑤ OP\n26 Nurse’s office\n27 Otoha Route ⑤ Middle\n28 Cowgirl\n29 Otoha Route ⑤ ED\n30 Otoha Route ⑥ OP\n31 Female attack\n32 Otoha Route ⑥ Middle\n33 Impregnating missionary\n34 Otoha Route ⑥ ED\n35 Otoha Route END
